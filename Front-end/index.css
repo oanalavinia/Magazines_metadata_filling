@@ -22,7 +22,6 @@ header{
     border-bottom: 20px  #D988E2;
 }
 
-
 .upload-btn-wrapper {
     position: relative;
     width: 100%;
@@ -52,10 +51,75 @@ header{
 .upload-btn-wrapper .btn-class:hover {
     background-color: black;
 }
+
 .upload-btn-wrapper input[type="file"] {
   font-size: 100px;
   position: absolute;
   left: 0;
   top: 0;
   opacity: 0;
+}
+
+.modal {
+    text-align: center;
+    padding: 0!important;
+}
+  
+.modal:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+  
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#uploadPopup .modal-body {
+    text-align: center;
+}
+
+#uploadPopup .modal-body >button {
+    background-color: #8B63AA;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.modal-body {
+    border-style: dashed;
+    margin: 10px;
+    border-width: 5px;
+    border-color: pink;
+    color:  #8B63AA;
+}
+
+.upload-box-wrapper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.upload-box-wrapper .drop-text {
+    text-align: center;
+    font-size: 25px;
+    /* color:  */
+}
+
+.upload-box-wrapper .drop-image {
+    margin-top: 50px;
+}
+
+.just-text {
+    margin:5px;
 }
