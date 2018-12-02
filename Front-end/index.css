@@ -77,13 +77,18 @@ header{
     display: inline-block;
     text-align: left;
     vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    display: flex;
+
 }
 
 #uploadPopup .modal-body {
     text-align: center;
 }
 
-#uploadPopup .modal-body >button {
+.modal-body .upload-files .modal-body-tochange .upload-box-wrapper  >button {
     background-color: #8B63AA;
     color: white;
     font-size: 16px;
@@ -100,6 +105,28 @@ header{
     border-width: 5px;
     border-color: pink;
     color:  #8B63AA;
+    position: relative;
+    min-height: 600px;
+    padding-bottom: 20px;
+    background: #fff;
+    opacity: 0;
+   -webkit-animation: fadeup 0.5s 0.5s ease both;
+            animation: fadeup 0.5s 0.5s ease both;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+}
+
+.modal-body .upload-files .modal-body-tochange {
+    text-align: center;
+    padding: 50px 0;
+    padding-bottom: 30px;
+}
+
+.modal-body .upload-files .modal-body-tochange.hidden {
+    display: none;
+}
+  .modal-body .upload-files .modal-body-tochange input {
+    visibility: hidden;
 }
 
 .upload-box-wrapper {
@@ -123,3 +150,335 @@ header{
 .just-text {
     margin:5px;
 }
+
+.modal-body .upload-files .modal-body-tochange.active {
+    border: dashed 2px #4db6ac;
+  }
+  @-webkit-keyframes file {
+    50% {
+      box-shadow: -8px 8px 0 -3px #fff, -8px 8px 0 lightgray, -8px 8px 0 -3px #fff, -8px 8px 0 lightgray;
+    }
+    75%,
+                      100% {
+      box-shadow: -8px 8px 0 -3px #fff, -8px 8px 0 lightgray, -16px 16px 0 -3px #fff, -16px 16px 0 lightgray;
+    }
+  }
+  @keyframes file {
+    50% {
+      box-shadow: -8px 8px 0 -3px #fff, -8px 8px 0 lightgray, -8px 8px 0 -3px #fff, -8px 8px 0 lightgray;
+    }
+    75%,
+                      100% {
+      box-shadow: -8px 8px 0 -3px #fff, -8px 8px 0 lightgray, -16px 16px 0 -3px #fff, -16px 16px 0 lightgray;
+    }
+}
+  .modal-body .upload-files .modal-body-tochange.active .pointer-none {
+    pointer-events: none;
+  }
+
+  .modal-body .upload-files footer {
+    width: 100%;
+    margin: 0 auto;
+    height: 0;
+  }
+  .modal-body .upload-files footer .divider {
+    text-align: center;
+    overflow: hidden;
+    transition: width 0.5s ease;
+  }
+  .modal-body .upload-files footer .divider img {
+    display: none;
+    margin-top: 40px;
+    -webkit-transform: translateY(-25px);
+            transform: translateY(-25px);
+    transform: translateY(-25px);
+    size: 80px;
+    opacity: 0.3;
+  }
+  .modal-body .upload-files footer .divider .drop-text {
+    display: none;
+    -webkit-transform: translateY(-25px);
+            transform: translateY(-25px);
+    size: 80px;
+    padding-top: 8px;
+    opacity: 0.4;
+  }
+  .modal-body .upload-files footer.hasFiles {
+    height: auto;
+  }
+  .modal-body .upload-files footer.hasFiles .divider {
+    width: 100%;
+  }
+  .modal-body .upload-files footer.hasFiles .divider img {
+    display: inline-block;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    transition: -webkit-transform 0.1s 0.1s ease;
+    transition: transform 0.1s 0.1s ease;
+    transition: transform 0.1s 0.1s ease, -webkit-transform 0.1s 0.1s ease;
+  }
+  .modal-body .upload-files footer.hasFiles .divider .drop-text {
+    display: inline-block;
+    font-size:20px;
+    transform: translateY(0);
+    transition: transform 0.1s 0.1s ease;
+    
+  }
+  .modal-body .upload-files footer .list-files {
+    width: 320px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-left: 5px;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 210px;
+  }
+
+  .modal-body .upload-files footer .list-files .file {
+    width: 300px;
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 0;
+    -webkit-animation: fade 0.35s ease both;
+            animation: fade 0.35s ease both;
+  }
+  .modal-body .upload-files footer .list-files .file .name {
+    font-size: 12px;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    text-align: left;
+  }
+  .modal-body .upload-files footer .list-files .file .progress {
+    margin-top:17px;
+    width: 175px;
+    height: 5px;
+    border: solid 1px lightgray;
+    border-radius: 2px;
+    background: linear-gradient(to left, #E2F2E6, #74CC8A) no-repeat;
+    background-size: 100% 100%;
+  }
+  .modal-body .upload-files footer .list-files .file .progress.active {
+    -webkit-animation: progress 30s linear;
+            animation: progress 30s linear;
+  }
+  @-webkit-keyframes progress {
+    from {
+      background-size: 0 100%;
+    }
+    to {
+      background-size: 100% 100%;
+    }
+  }
+  @keyframes progress {
+    from {
+      background-size: 0 100%;
+    }
+    to {
+      background-size: 100% 100%;
+    }
+  }
+  .modal-body .upload-files footer .list-files .file .done {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    background: #4db6ac;
+    border-radius: 50%;
+    margin-left: -10px;
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    position: relative;
+  }
+  .modal-body .upload-files footer .list-files .file .done:before {
+    /* content: "View"; */
+    position: absolute;
+    top: 0;
+    left: -5px;
+    font-size: 24px;
+    opacity: 0;
+  }
+  .modal-body .upload-files footer .list-files .file .done:hover:before {
+    transition: all 0.25s ease;
+    top: -30px;
+    opacity: 1;
+  }
+  .modal-body .upload-files footer .list-files .file .done.anim {
+    -webkit-animation: done1 0.5s ease forwards;
+            animation: done1 0.5s ease forwards;
+  }
+  .modal-body .upload-files footer .list-files .file .done.anim #path {
+    -webkit-animation: done2 2.5s 0.5s ease forwards;
+            animation: done2 2.5s 0.5s ease forwards;
+  }
+  .modal-body .upload-files footer .list-files .file .done #path {
+    stroke-dashoffset: 7387.59423828125;
+    stroke-dasharray: 7387.59423828125 7387.59423828125;
+    stroke: #fff;
+    fill: transparent;
+    stroke-width: 50px;
+  }
+  @-webkit-keyframes done2 {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes done2 {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes done1 {
+    50% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+      opacity: 1;
+    }
+    80% {
+      -webkit-transform: scale(0.25);
+              transform: scale(0.25);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+      opacity: 1;
+    }
+  }
+  @keyframes done1 {
+    50% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+      opacity: 1;
+    }
+    80% {
+      -webkit-transform: scale(0.25);
+              transform: scale(0.25);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+      opacity: 1;
+    }
+  }
+  .modal-body .upload-files footer .importar {
+    background-color: #8b63aa;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+    outline: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 60px;
+    margin: auto;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-transform: translateY(15px);
+            transform: translateY(15px);
+    opacity: 0;
+    visibility: hidden;
+    margin-left: calc(50% - 110px);
+  }
+  .modal-body .upload-files footer .importar.active {
+    transition: opacity 0.5s 1.5s ease, background, -webkit-transform 0.5s 1.5s ease;
+    transition: transform 0.5s 1.5s ease, opacity 0.5s 1.5s ease, background;
+    transition: transform 0.5s 1.5s ease, opacity 0.5s 1.5s ease, background, -webkit-transform 0.5s 1.5s ease;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+  .modal-body .upload-files footer .importar:hover {
+    background: #4db6ac;
+    color: #fff;
+  }
+  .modal-body .upload-files footer .importar2 {
+    background-color: #74CC8A;
+    color: white;
+    font-size: 16px;
+    padding: 10px 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+    outline: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    margin: auto;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-transform: translateY(15px);
+            transform: translateY(15px);
+    opacity: 0;
+    visibility: hidden;
+    margin-left: calc(50% - 110px);
+  }
+  .modal-body .upload-files footer .importar2.active {
+    transition: opacity 0.5s 1.5s ease, background, -webkit-transform 0.5s 1.5s ease;
+    transition: transform 0.5s 1.5s ease, opacity 0.5s 1.5s ease, background;
+    transition: transform 0.5s 1.5s ease, opacity 0.5s 1.5s ease, background, -webkit-transform 0.5s 1.5s ease;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+  .modal-body .upload-files footer .importar2:hover {
+    background: #4db6ac;
+    color: #fff;
+  }
+  @-webkit-keyframes fadeup {
+    to {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  @keyframes fadeup {
+    to {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  @-webkit-keyframes faderight {
+    to {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  @keyframes faderight {
+    to {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  @-webkit-keyframes fade {
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes fade {
+    to {
+      opacity: 1;
+    }
+  }
+  @media (max-width: 400px) {
+    .modal-body {
+      width: auto;
+      height: auto;
+    }
+  }
+  
