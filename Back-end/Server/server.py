@@ -1,6 +1,7 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer  
 from io import BytesIO
 import os,re,time
+from pymongo import MongoClient
 
 class MagazineServ(BaseHTTPRequestHandler):
   def do_GET(self):
@@ -24,7 +25,8 @@ class MagazineServ(BaseHTTPRequestHandler):
       out, info, file_name = self.deal_post_data()
       self.send_response(200)
     self.end_headers()
-    file_name = file_name.split("-")[-1]
+    if file_name is not None:
+        file_name = file_name.split("-")[-1]
     self.wfile.write(bytes("""
     <!DOCTYPE html>
     <html>
@@ -52,7 +54,7 @@ class MagazineServ(BaseHTTPRequestHandler):
     if not fn:
         return (False, "Can't find out file name...", None)
     path = os.path.join(os.getcwd(), "files")
-    fn = os.path.join(path, str(time.time()) + "-" + fn[0])
+    fn = os.path.join(path, time.strftime("%y-%m-%d-%H-%M-%S",time.localtime()) + "-" + fn[0])
     line = self.rfile.readline()
     remainbytes -= len(line)
     line = self.rfile.readline()
@@ -83,5 +85,7 @@ class MagazineServ(BaseHTTPRequestHandler):
 httpd = HTTPServer(('localhost', 8081), MagazineServ)
 print("Server is running...")
 httpd.serve_forever()
+
+
 
 
