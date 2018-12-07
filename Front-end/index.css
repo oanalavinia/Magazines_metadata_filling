@@ -23,6 +23,7 @@ header{
 }
 
 .upload-btn-wrapper {
+    background-image: url("background.png");
     position: relative;
     width: 100%;
 }
