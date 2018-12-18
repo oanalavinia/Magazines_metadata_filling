@@ -29,7 +29,7 @@ def normalized_page_coverage(page_height, page_width, section_height, section_wi
 
 
 def no_of_words(section_text):
-    sep = ' ,!?.'
+    sep = ' ,!?.\n'
     default_sep = ' '
     for sep in sep[1:]:
         section_text = section_text.replace(sep, default_sep)
