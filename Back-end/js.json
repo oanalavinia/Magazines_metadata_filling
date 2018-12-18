@@ -1,0 +1,450 @@
+{
+    "img_02": {
+        "page": "1",
+        "pageWidth": "1000",
+        "pageHeight": "1000",
+        "sections": {
+            "1": {
+                "x": 0,
+                "y": 0,
+                "height": 500,
+                "width": 500,
+                "leftCorner": [
+                    54,
+                    797
+                ],
+                "rightCorner": [
+                    196,
+                    819
+                ],
+                "text": "ARCADIA,\n NRA,\n MAL\n\n\n\n\n 2011"
+            },
+            "2": {
+                "x": 540,
+                "y": 365,
+                "height": 118,
+                "width": 30,
+                "leftCorner": [
+                    540,
+                    365
+                ],
+                "rightCorner": [
+                    570,
+                    483
+                ],
+                "text": ""
+            },
+            "3": {
+                "x": 70,
+                "y": 365,
+                "height": 118,
+                "width": 461,
+                "leftCorner": [
+                    70,
+                    365
+                ],
+                "rightCorner": [
+                    531,
+                    483
+                ],
+                "text": "stacojie ..\nFabula .\n\nStiagi\n\nMon ami imaginaire .....\n\nAccente .."
+            },
+            "4": {
+                "x": 542,
+                "y": 188,
+                "height": 149,
+                "width": 28,
+                "leftCorner": [
+                    542,
+                    188
+                ],
+                "rightCorner": [
+                    570,
+                    337
+                ],
+                "text": "14\n\n16"
+            },
+            "5": {
+                "x": 71,
+                "y": 188,
+                "height": 177,
+                "width": 460,
+                "leftCorner": [
+                    71,
+                    188
+                ],
+                "rightCorner": [
+                    531,
+                    365
+                ],
+                "text": "Argument\nNegresti-scurt istoric ..\n\nMaresalul Constantin Prezan si Schinetea ...\nBaschetul\u2014marea mea dragoste\n\nCupa liceelor\u201d la Negresti ...\n\nRezultate foarte bune pentru baschetbalistele liceului nostru\n\n \n\nHester Prynne \u2014 imaginea rusinii, Nathaniel Hawthorne ~ Litera"
+            },
+            "6": {
+                "x": 250,
+                "y": 115,
+                "height": 28,
+                "width": 84,
+                "leftCorner": [
+                    250,
+                    115
+                ],
+                "rightCorner": [
+                    334,
+                    143
+                ],
+                "text": "SUMAR"
+            }
+        }
+    },
+    "img_03": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "7": {
+                "x": 48,
+                "y": 786,
+                "height": 35,
+                "width": 518,
+                "leftCorner": [
+                    48,
+                    786
+                ],
+                "rightCorner": [
+                    566,
+                    821
+                ],
+                "text": "MAL 2011.3"
+            },
+            "8": {
+                "x": 435,
+                "y": 722,
+                "height": 28,
+                "width": 124,
+                "leftCorner": [
+                    435,
+                    722
+                ],
+                "rightCorner": [
+                    559,
+                    750
+                ],
+                "text": ""
+            },
+            "9": {
+                "x": 103,
+                "y": 419,
+                "height": 27,
+                "width": 58,
+                "leftCorner": [
+                    103,
+                    419
+                ],
+                "rightCorner": [
+                    161,
+                    446
+                ],
+                "text": "Traim"
+            },
+            "10": {
+                "x": 51,
+                "y": 418,
+                "height": 278,
+                "width": 508,
+                "leftCorner": [
+                    51,
+                    418
+                ],
+                "rightCorner": [
+                    559,
+                    696
+                ],
+                "text": "intr-o autor societate in care valorile morale sunt\ndistruse treptat, in care oamenii isi uita propria origine, isi\nam fi, nu\n\n   \n\npierd felurile existentiale insd, oricat de nenoroci\nuitdm, nu ne permitem, deci sperdim la mai bine, la mai mult, la\no lume ideald, utopica, valoroasa. Fiecare are lumea sa,\n, Arcadia\u201d sa, un t\u00e9rdm al ideilor pure, un t\u00e9r\u00e9m al inocenjei si\nal speranjei.\n\nArcadia este revista oricarui tanar care isi doreste sa-si\ndepiseasc\u00e9 limitele, sa descopere noi valori, s\u00e9-si scoat\u00e9 la\n\nlumind talentul, sub indrumarea cadrelor didactice."
+            },
+            "11": {
+                "x": 299,
+                "y": 418,
+                "height": 28,
+                "width": 27,
+                "leftCorner": [
+                    299,
+                    418
+                ],
+                "rightCorner": [
+                    326,
+                    446
+                ],
+                "text": ""
+            },
+            "12": {
+                "x": 169,
+                "y": 226,
+                "height": 31,
+                "width": 138,
+                "leftCorner": [
+                    169,
+                    226
+                ],
+                "rightCorner": [
+                    307,
+                    257
+                ],
+                "text": "concretizata pe"
+            },
+            "13": {
+                "x": 458,
+                "y": 171,
+                "height": 26,
+                "width": 64,
+                "leftCorner": [
+                    458,
+                    171
+                ],
+                "rightCorner": [
+                    522,
+                    197
+                ],
+                "text": "nevoia"
+            },
+            "14": {
+                "x": 527,
+                "y": 170,
+                "height": 27,
+                "width": 31,
+                "leftCorner": [
+                    527,
+                    170
+                ],
+                "rightCorner": [
+                    558,
+                    197
+                ],
+                "text": ""
+            },
+            "15": {
+                "x": 52,
+                "y": 170,
+                "height": 276,
+                "width": 507,
+                "leftCorner": [
+                    52,
+                    170
+                ],
+                "rightCorner": [
+                    559,
+                    446
+                ],
+                "text": "Trdind intr-o societate informationala, | nevoia\n\ncunoastere este acerbda, atat la nivelul educatului, cat si al\neducatorului, [concretizatii pe] toate planurile viefii social-\nculturale.\n\n, Nasterea\u201d revistei este rezultatul nevoii de cunoastere,\n\n     \n\ndar si al necesitatii de a populariza, de a scoate dintr-un con\nde umbri: activitajile care se desfagoara, an de an, in cadrul\n\nliceului nostru.\n\n  \n   \n\nDe ce acest tithi?!\n\n| [Traim| intr-o societate | in| care valorile morale sunt}"
+            },
+            "16": {
+                "x": 172,
+                "y": 170,
+                "height": 27,
+                "width": 56,
+                "leftCorner": [
+                    172,
+                    170
+                ],
+                "rightCorner": [
+                    228,
+                    197
+                ],
+                "text": "intr-o"
+            },
+            "17": {
+                "x": 104,
+                "y": 170,
+                "height": 27,
+                "width": 64,
+                "leftCorner": [
+                    104,
+                    170
+                ],
+                "rightCorner": [
+                    168,
+                    197
+                ],
+                "text": "Traind"
+            },
+            "18": {
+                "x": 48,
+                "y": 44,
+                "height": 48,
+                "width": 516,
+                "leftCorner": [
+                    48,
+                    44
+                ],
+                "rightCorner": [
+                    564,
+                    92
+                ],
+                "text": "Argument"
+            }
+        }
+    },
+    "img_04": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "19": {
+                "x": 54,
+                "y": 797,
+                "height": 22,
+                "width": 142,
+                "leftCorner": [
+                    54,
+                    797
+                ],
+                "rightCorner": [
+                    196,
+                    819
+                ],
+                "text": "ARCADIA, NRA, MAL 2011"
+            },
+            "20": {
+                "x": 24,
+                "y": 312,
+                "height": 458,
+                "width": 225,
+                "leftCorner": [
+                    24,
+                    312
+                ],
+                "rightCorner": [
+                    249,
+                    770
+                ],
+                "text": ""
+            },
+            "21": {
+                "x": 165,
+                "y": 154,
+                "height": 41,
+                "width": 32,
+                "leftCorner": [
+                    165,
+                    154
+                ],
+                "rightCorner": [
+                    197,
+                    195
+                ],
+                "text": ""
+            },
+            "22": {
+                "x": 20,
+                "y": 132,
+                "height": 41,
+                "width": 52,
+                "leftCorner": [
+                    20,
+                    132
+                ],
+                "rightCorner": [
+                    72,
+                    173
+                ],
+                "text": ""
+            },
+            "23": {
+                "x": 70,
+                "y": 105,
+                "height": 123,
+                "width": 117,
+                "leftCorner": [
+                    70,
+                    105
+                ],
+                "rightCorner": [
+                    187,
+                    228
+                ],
+                "text": ""
+            },
+            "24": {
+                "x": 21,
+                "y": 87,
+                "height": 47,
+                "width": 70,
+                "leftCorner": [
+                    21,
+                    87
+                ],
+                "rightCorner": [
+                    91,
+                    134
+                ],
+                "text": ""
+            },
+            "25": {
+                "x": 251,
+                "y": 70,
+                "height": 692,
+                "width": 307,
+                "leftCorner": [
+                    251,
+                    70
+                ],
+                "rightCorner": [
+                    558,
+                    762
+                ],
+                "text": "Aflat la distanta de circa 50 de\n\nkilometri de municipiile Roman\nsi lasi si la circa 35 de kilometri de munici-\npiul Vaslui, orasul Negresti reprezinta 0 lo-\ncalitate bogata in vestigii arheologice. Ast-\nfel, zona Negresti este atestatii arheologic\ndin timpuri vechi, fapt demonstrat de s\nturile ficute inainte de anul 1955 de catre\ncercetitorii_Institutului de Arheologie si\nIstorie A. D. Xenopol\u201d din Iasi, Cercet\nrile au scos la iveal o asezare, in zona Ne-\ngresti \u2014cimitirul evreiesc, care prezinti 0\nindelungati perioada de  locuire, din\nHallstattul timpuriu pani in perioada feuda-\nlismului dezvoltat.\n\nStatiunea arheologicd ce data din\nanul 1955 continea sdpaturi de suprafata.\nDupa aceasti data, profesorul Ghenuta\nComan semnaleazi o bogati asezare\nprefeudali si feudal\u2019. Datoriti construirii\ncomplexului zootehnic in. stinga soselei\nBuhdiesti \u2014 Negresti, la intrarea in orasul\nNegresti, stafiunea arheologicd a fost\nderanjat partial. In anul 1978, Directia\nApelor Prut a  inceput lucririle de\nregularizare a raului Barlad in sectorul\nNegresti-Drigesti_ ce au distrus in mare\nparte zona ocupati de statiunea arheologica.\nAstizi nu se mai vad urme arheologice, ci\ndoar constructiile parisite ale  fostului\ncomplex zootehnic.\n\nAsezarea si numele localitatii Negresti\ndateaza de mai bine de 500 de ani, aga cum\nprecizeazi profesorul universitar Mircea\nCiubotaru in articolul __,,Negrestii\nrecuperiiri ale memoriei istorice\u201d."
+            },
+            "26": {
+                "x": 74,
+                "y": 31,
+                "height": 36,
+                "width": 234,
+                "leftCorner": [
+                    74,
+                    31
+                ],
+                "rightCorner": [
+                    308,
+                    67
+                ],
+                "text": "Negresti-scurt istoric"
+            }
+        }
+    },
+    "img_05": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "27": {
+                "x": 412,
+                "y": 797,
+                "height": 22,
+                "width": 155,
+                "leftCorner": [
+                    412,
+                    797
+                ],
+                "rightCorner": [
+                    567,
+                    819
+                ],
+                "text": "ARCADIA, NRA, MAL 2011."
+            },
+            "28": {
+                "x": 48,
+                "y": 66,
+                "height": 578,
+                "width": 504,
+                "leftCorner": [
+                    48,
+                    66
+                ],
+                "rightCorner": [
+                    552,
+                    644
+                ],
+                "text": "Denumirea localitatii Negresti vine de la numele unui boier din\nMoldova \u2014Negrea, din timpul domniei lui Alexandru cel Bun, vornicul\nNegrea (cel mai influent dregator din 1401-1429). Astfel, un jude, lacus\nMihu, era fruntas al satului cand Alexandru cel Bun da satul in s\nvornicului Negrea (cel mai influent dregator din 1401-1429) .\n\nNumele localititii apare consemnat in mai multe documente ale\ncancelariilor domnesti din Moldova, cum ar fi documentul din 1502\n(Stefan cel Mare) prin care o parte a satului Negresti era vanduta si, tot\natunci, se stabilea hotarul partii respective care este usor de gsit astazi i\npartea de nord-vest a localititii. Era un document de proprietate al unor\nboieri cu funefii in sfatul domnesc.\n\nNegrestiul este mentionat in diferite procese intre proprietarii de\nmosii sau intre boieri proprietari si farani, Demn de semnalat este\nprocesul intre marele cim\u00e9ras, Matei Sturdza, care avea pimanturi in\nNegresti, un vad de moar pe Barlazel ficut de unchiul sau, Ilie Sturdza,\nsi rizesii din acest loc care reclamau, in anul 1631, c& le-au fost Iuate\npamanturile.\n\nDintr-un document din anul 1699, dat de Antioh Constantin, aflam\nca acest intareste uric lui Manolache Hrisoverghi care era ginerele lui\nChiriac Sturdza, peste jumitate din satul Negresti, parte de sus cu vaduri\nde moara in apa Barladului, precum gi alte sate invecinate cu Negresti,\nLinesti, cu vadul de moar pe Vilna.\n\nTimp de cinci secole, Negrestii au fost mosia unor boieri\nimportanti ai Moldovei: vornicul Negrea si descendentii sai, Toader, apoi\nHuhulestii, Sturdzestii, cAtiva Hrisoverghi, Paladestii, Rosettestii, un\nMavrocordat si Petru Stoicescu, fost minstru.\n\nin anul 1752, curtea boiereascd revine marelui spatar Dumitrascu\nPalade. Pretiluirea din 10 septembrie 1752 s-a facut in vederea\nrascumpararii mosiei de catre satrarul Constantin Hrisoverghi, care o\nstipanise intre anii 1737-1742."
+            }
+        }
+    }
+}

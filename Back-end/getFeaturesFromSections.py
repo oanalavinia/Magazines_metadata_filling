@@ -1,5 +1,14 @@
 import xml.etree.ElementTree as ET
 import features
+import json
+from pprint import pprint
+
+MAX_PAGES = 5
+
+with open('js.json') as f:
+    data = json.load(f)
+
+pprint(data)
 
 delim = "  "
 
@@ -8,33 +17,27 @@ root = tree.getroot()
 
 file = open("output.txt", "w")
 
-for page in root.iter('page'):
+for page in data:
 
-    page_id = page.find('pageId').text
-    page_height = int(page.find('pageHeight').text)
-    page_width = int(page.find('pageWidth').text)
-    """"
-    page_id = 1
-    page_height = 1024
-    page_width = 512
-    section_id = 2
-    section_label = "Text"
-    section_coord = (10, 20)
-    section_height = 12
-    section_width = 43
-    section_text = "Thisa, is.eitura s\nome! r\nandom.issbn..                  cosmin"
-    """
+    page_id = int(data[page]['page'])
+    print("pageID ", page_id)
+    page_height = int(data[page]['pageHeight'])
+    page_width = int(data[page]['pageWidth'])
 
-    for section in page.iter('section'):
-        section_id = section.find('id').text,
-        section_label = section.find('class').text,
-        section_coord = (int(section.find('x').text), int(section.find('y').text))
-        section_height = int(section.find('height').text)
-        section_width = int(section.find('width').text)
+    for section in data[page]['sections']:
+        # print(data[page]['sections'][section])
 
-        file.write(page_id)
+        section_id = str(section)
+        print(section_id)
+        section_label = data[page]['sections'][section]['text'],
+        section_coord = (data[page]['sections'][section]['x'], data[page]['sections'][section]['y'])
+        section_height = data[page]['sections'][section]['height']
+        section_width = data[page]['sections'][section]['width']
+        section_text = data[page]['sections'][section]['text']
+
+        file.write(str(page_id))
         file.write(delim)
-        file.write(section.find('id').text)
+        file.write(section_id)
         file.write(delim)
         file.write(str(features.upLeft_corner(section_coord[0])))
         file.write(delim)
@@ -45,4 +48,13 @@ for page in root.iter('page'):
         file.write(str(features.normalized_page_width(section_width, page_width)))
         file.write(delim)
         file.write(str(features.normalized_page_coverage(page_height, page_width, section_height, section_width)))
+        file.write(delim)
+        file.write(str(features.no_of_rows(section_text)))
+        file.write(delim)
+        file.write(str(features.no_of_words(section_text)))
+        file.write(delim)
+        file.write(str(features.has_substring(section_text, page_id, MAX_PAGES, 'isbn')))
+        file.write(delim)
+        file.write(str(features.has_substring(section_text, page_id, MAX_PAGES, 'autor')))
+
         file.write("\n")
