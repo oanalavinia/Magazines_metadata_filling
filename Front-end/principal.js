@@ -19,15 +19,6 @@ function readURL(input) {
   }
 }
 
-// // working with jQuery and Bootstrap modal
-// window.onload = function(){ 
-//   $('#uploadPopup').modal('show');
-
-//   $('#uploadPopup').on('hidden.bs.modal', function (e) {
-//     $('#presentation')[0].click();
-//   })
-// }
-
 //DOM
 const $ = document.querySelector.bind(document);
 
