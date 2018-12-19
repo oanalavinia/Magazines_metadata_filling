@@ -1,0 +1,883 @@
+{
+    "numberOfPages": 80,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 287,
+                "y": 610,
+                "height": 81,
+                "width": 211,
+                "leftCorner": [
+                    287,
+                    610
+                ],
+                "rightCorner": [
+                    498,
+                    691
+                ],
+                "text": "Liceul Teoretic\n\u00bbMiron Costin\u201d Pascani\n\n \n\nwww.|mcpascani.ro"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 146,
+                "y": 388,
+                "height": 56,
+                "width": 359,
+                "leftCorner": [
+                    146,
+                    388
+                ],
+                "rightCorner": [
+                    505,
+                    444
+                ],
+                "text": "Revista elevilor"
+            },
+            "4": {}
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 303,
+                "y": 376,
+                "height": 389,
+                "width": 207,
+                "leftCorner": [
+                    303,
+                    376
+                ],
+                "rightCorner": [
+                    510,
+                    765
+                ],
+                "text": "- Cosmina Marcu, IX G\n- Eliza Caraiman, VC\n\n- Andrei Acostachioaie, X B\n- Andrei Anusea, II C\n\n- $tefana Ungureanu, XI A\n- Alexandra Ailenei, XI A\n\n- Elena Olaru, XIE\n\n- Diana Patrascu, XI A\n\n- Andreea Zabulic, X E\n\n- Ioana Hogea, III B\n\n- Virgil Rosu, III B\n\n= Tonica Rosca, III A\n\n- Miriam Hobinea, VII C\n\n- Oana Rotariu, XIA\n\n- Ionut Ivanov, X D\n\n- Claudia Tiba, X B\n\n- Bogdan Ungureanu, IX D"
+            },
+            "6": {
+                "class": "text",
+                "x": 76,
+                "y": 376,
+                "height": 388,
+                "width": 200,
+                "leftCorner": [
+                    76,
+                    376
+                ],
+                "rightCorner": [
+                    276,
+                    764
+                ],
+                "text": "- Cristian Adochitei, XII D\n- Larisa Pristavu, XI G\n\n- Camelia Ceocoiu, XI G\n\n- Andreea Anghelus, XI G\n- Ionela Buta, X1G\n\n- Matei Pasat, VII C\n\n- Cristina Isticioaia, IX E\n\n- Ioana Mihaila, IX E\n\n- Emanuel Chita, XI A\n\n- Alexandra Boghean, XI A\n- Cosmin Lucaci, XI B\n\n- Emanuel Baiceanu, VI B\n- Andreea Rosu, XII. C\n\n- Vasile Gheorghiu, VII C\n- Malina Tudosea, X C\n\n- Stefania Ursuleasa, X C\n\n- Maria Paulet, IV A"
+            },
+            "7": {
+                "class": "text",
+                "x": 76,
+                "y": 338,
+                "height": 29,
+                "width": 198,
+                "leftCorner": [
+                    76,
+                    338
+                ],
+                "rightCorner": [
+                    274,
+                    367
+                ],
+                "text": "Redactori si colaboratori:"
+            },
+            "8": {
+                "class": "text",
+                "x": 76,
+                "y": 127,
+                "height": 184,
+                "width": 177,
+                "leftCorner": [
+                    76,
+                    127
+                ],
+                "rightCorner": [
+                    253,
+                    311
+                ],
+                "text": "- Ton Cazacu-Davidescu\n- Irina Pasat\n\n- Gicuta Agheorghiesei\n- Gabriela Hrijeu\n\n- Adriana Apostol\n- Elena Dasealiga\n- Cristina Paval\n\n \n\n-Tonela Luca"
+            },
+            "9": {
+                "class": "text",
+                "x": 310,
+                "y": 124,
+                "height": 186,
+                "width": 198,
+                "leftCorner": [
+                    310,
+                    124
+                ],
+                "rightCorner": [
+                    508,
+                    310
+                ],
+                "text": "- Ramona Elena Marinescu\n~ Carmen Pasat\n\n- Gabriela Tonita\n\n- Simona Baciu\n\n~ Maria Ungureanu\n- Carmen Elena Apostol\n- Marlena Sorohan\n\n- Mihaela Anusca"
+            },
+            "10": {
+                "class": "text",
+                "x": 77,
+                "y": 89,
+                "height": 26,
+                "width": 187,
+                "leftCorner": [
+                    77,
+                    89
+                ],
+                "rightCorner": [
+                    264,
+                    115
+                ],
+                "text": "Profesori coordonatori :"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 382,
+                "y": 740,
+                "height": 71,
+                "width": 177,
+                "leftCorner": [
+                    382,
+                    740
+                ],
+                "rightCorner": [
+                    559,
+                    811
+                ],
+                "text": "Sra | Amal AY Ne | Hebraic 2014| 3"
+            },
+            "12": {
+                "class": "text",
+                "x": 203,
+                "y": 633,
+                "height": 44,
+                "width": 307,
+                "leftCorner": [
+                    203,
+                    633
+                ],
+                "rightCorner": [
+                    510,
+                    677
+                ],
+                "text": "\u2018Be toate ferieli si deruri de la Dumngzeu voitoriit\nMiron Costin, earg am fost logofit marg in Moldova"
+            },
+            "13": {
+                "class": "text",
+                "x": 114,
+                "y": 184,
+                "height": 447,
+                "width": 396,
+                "leftCorner": [
+                    114,
+                    184
+                ],
+                "rightCorner": [
+                    510,
+                    631
+                ],
+                "text": "4, iubite egtitoriulg, niedirga n-am aflatit nici un istorie, niel\nlatin, nici Igah, niei ungur, si viiata mea, Bumnezeu stig, eu ee\ndragostg purarga le istoril, iat si pani la acgasta v\u00e9rsta, acum si\nslibiti. Dg ac\u00e9ste basne si dea szama \u00a2i si de aczasti ocari. Nici\nigste saga a serig ocari v\u00e9cinied unui neam, e& serisoarga ieste un\nii, Candi ociirise intr-o zi pre eingva, igste greu a\nv\u00e9ei? Cu voi da seama de ale m\u00e9le, e&te seria.\nFaeutu-t-am izvod dinttiasi dati de mari si veatii istoriet martar\n8 cirora triigsei si aeum serisorile in lume si vor trai in v\u00e9ei. Si\nfase am nevoit, si nu-mi fig grija, de-ar elidea aegasta carte ori pre\n8 cui mand si din streini, earii de-emiruntal egared zmint\u00e9lile\nistorieilor. Pre d\u00e9nsii am urmat, earg vezi in izvod, ei pavite, ei\nsunti povata mga, gi rispundi si pizmasilor neemalui acestor tari\nsi zavistnicilor. Put\u00e9rnieul Damnezea, einstite, iubite egtitoriulg,\n8i-ti diruiased dupi ae\u00e9ste eumplite vremi anilor nostri, e&nduva,\nsi mai slobode veaeuri, intra care, pe l\u00e9ngi alte trebi, si aibi vr\u00e9me\nsi cu ectitul eiitilor a face iscusita zibavi, e& nu igste alta si mai\nframoass si mai de folos in toat vieta omalai zabava deestit\neetitul edrtilor. Ca eetital eXrtilor eunoastem pe ziditorial nostra,\n\u2018Pumngzeu, cu eptital laudi fi facem pentru toate alg lui citr noi\nbundtiti, eu eetital pentru gresalele noastre milostiv tl aflaim. in\nScriptura intel\u00e9gem minunate si v\u00e9einieg fepte paterii lui, faceem\nJericita viiete, agonisim nemuritorid numg. S8ngur M\u00e9ntaitoral\nnostra, domnal si Dumnezeu tristos, ne invata, zie\u00e9ndit:\nCaargirdal eaFtie, deed: Cereati seripturile. Scripture departe\nluerari de oehii nostri ng invati, eu ae\u00e9le treeutz vr\u00e9mi sa\npric\u00e9pem e\u00e9le viitoare. Cit\u00e9ste cu sinitele aczasti a noastrit cu\ndragoste ostengala.\u201d"
+            },
+            "14": {},
+            "15": {}
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "16": {
+                "class": "text",
+                "x": 52,
+                "y": 105,
+                "height": 706,
+                "width": 496,
+                "leftCorner": [
+                    52,
+                    105
+                ],
+                "rightCorner": [
+                    548,
+                    811
+                ],
+                "text": "\u201cIsticioaia Cristina ( Miss Boboc):\nSeara balului a fost una special, atit pentru noi boboci, edt si pentru onganizatorit care a\nrmuneit din grew alaturi de noi,\n\nDincolo de zimbetele de pe fejele noastre,s\nascundeau emotii pe care doar noi le simgeary ct\nadevarat, Asta pind la proba de aptitudini care a\nridicatintregul concurs la rang de spectacol. Dest am\nvat momente separate de partenerul meu, Lucian\nrob, ne-am distrat nemaipomenit la repetii, dar si\nin seara ball.\n\n \n\nPunctul culminant al sexi a fost, evident,\nanunjarea cistigatorlor, care ma surprins int-un\nsod plicutatat pe mine et si pe Ungureanu Bogdan,\n{In urmatoarele 5 secunde nu stiam cum s3 reactione7,\nru stiam daca este adevarat sau nu. Pentru toate\nacestea fin si le mulfumese doamnelor profesoare\nDDascalija Elena si Marinescu Ramona, care au avut \u00a9\nrabdare iesitt din comun si Laviniei Burlean,\nRoxane Mitrea, Stefaniei Rosca, Loredanei Mihai\nprecum si lui Midalin Serban, Andrei Teodoritu si\nRadu Manalachiose, pentru efortul depus. A fost 0\nexpetientl extraordinara, pe care ag vtea si 0 repet\noricind\n\n  \n\n*Ungureanu Bogdan (Mister Bobac):\n\n\u2018Total sa petrecut foarte frumos. Din punctul\nmeu de vedere, a fst cel mai reusit bal, unde cu tof\nnesam simit minunat,alaturi de prezentatori\n\n\u2018A fost 0 seardminunatd, in care am fost\naprecayi, eu si partenera mea, Andra Morosanu,\npentru piesa noastr de teatru, care se pare ch mi-a\ndus succesul. M-am simit extraordinar, alaturi de\ncolegit mei, care a Iuat putin foc in momenta in care\nprezentatorit se progitea si anunfe cistigatort\ntitlului de Miss gi Mister Boboc, ai ediiei 2013. Cu\ntofi eram cu sufletele la gur8 si nerdbdatori st aflim\ncistigitorl A fost o surpriza atat pentru mine eit si\npentru cistigatoarea titului de Miss, acordat Cristinei\nIstcioaia, tit pe care La meritat din plin datoits\nvocii sale extraordinare si timbrului vocal\nrnemaipoment\n4 | Amal 6 | bra 2014 | fer"
+            },
+            "17": {
+                "class": "text",
+                "x": 47,
+                "y": 43,
+                "height": 57,
+                "width": 506,
+                "leftCorner": [
+                    47,
+                    43
+                ],
+                "rightCorner": [
+                    553,
+                    100
+                ],
+                "text": "~ Balul Bobocilor - primele impresii~"
+            }
+        }
+    },
+    "img_75": {
+        "page": "75",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 365,
+                "y": 787,
+                "height": 24,
+                "width": 182,
+                "leftCorner": [
+                    365,
+                    787
+                ],
+                "rightCorner": [
+                    547,
+                    811
+                ],
+                "text": "Ser | Anal XT Nit | Febru 2014 | 75."
+            },
+            "19": {
+                "class": "text",
+                "x": 355,
+                "y": 729,
+                "height": 25,
+                "width": 95,
+                "leftCorner": [
+                    355,
+                    729
+                ],
+                "rightCorner": [
+                    450,
+                    754
+                ],
+                "text": "Lupu Paula - VIB"
+            },
+            "20": {
+                "class": "text",
+                "x": 118,
+                "y": 729,
+                "height": 22,
+                "width": 135,
+                "leftCorner": [
+                    118,
+                    729
+                ],
+                "rightCorner": [
+                    253,
+                    751
+                ],
+                "text": "Rosu Marta Andreea - VA"
+            },
+            "21": {},
+            "22": {},
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 98,
+                "y": 585,
+                "height": 134,
+                "width": 178,
+                "leftCorner": [
+                    98,
+                    585
+                ],
+                "rightCorner": [
+                    276,
+                    719
+                ],
+                "text": "R a\naD vo\n\nOs\n\nCe\n<@"
+            },
+            "25": {
+                "class": "text",
+                "x": 243,
+                "y": 517,
+                "height": 25,
+                "width": 114,
+                "leftCorner": [
+                    243,
+                    517
+                ],
+                "rightCorner": [
+                    357,
+                    542
+                ],
+                "text": "~ Expedifie la Pol ~"
+            },
+            "26": {
+                "class": "text",
+                "x": 171,
+                "y": 460,
+                "height": 21,
+                "width": 130,
+                "leftCorner": [
+                    171,
+                    460
+                ],
+                "rightCorner": [
+                    301,
+                    481
+                ],
+                "text": "\u2018Ghioe Diana Elena - VIA"
+            },
+            "27": {
+                "class": "text",
+                "x": 351,
+                "y": 459,
+                "height": 22,
+                "width": 128,
+                "leftCorner": [
+                    351,
+                    459
+                ],
+                "rightCorner": [
+                    479,
+                    481
+                ],
+                "text": "\u2018Albu Miruna Ioana -V A"
+            },
+            "28": {},
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 237,
+                "y": 274,
+                "height": 23,
+                "width": 126,
+                "leftCorner": [
+                    237,
+                    274
+                ],
+                "rightCorner": [
+                    363,
+                    297
+                ],
+                "text": "~ Obiceiuri de iarna ~"
+            },
+            "31": {}
+        }
+    },
+    "img_76": {
+        "page": "76",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "32": {},
+            "33": {
+                "class": "text",
+                "x": 140,
+                "y": 737,
+                "height": 22,
+                "width": 152,
+                "leftCorner": [
+                    140,
+                    737
+                ],
+                "rightCorner": [
+                    292,
+                    759
+                ],
+                "text": "\u2018Marian Adriana Midilina - XI"
+            },
+            "34": {
+                "class": "text",
+                "x": 345,
+                "y": 735,
+                "height": 22,
+                "width": 100,
+                "leftCorner": [
+                    345,
+                    735
+                ],
+                "rightCorner": [
+                    445,
+                    757
+                ],
+                "text": "Sofia Lavinia - VA"
+            },
+            "35": {},
+            "36": {},
+            "37": {
+                "class": "text",
+                "x": 374,
+                "y": 510,
+                "height": 21,
+                "width": 92,
+                "leftCorner": [
+                    374,
+                    510
+                ],
+                "rightCorner": [
+                    466,
+                    531
+                ],
+                "text": "Puiu Toana- VIA"
+            },
+            "38": {
+                "class": "text",
+                "x": 140,
+                "y": 510,
+                "height": 21,
+                "width": 108,
+                "leftCorner": [
+                    140,
+                    510
+                ],
+                "rightCorner": [
+                    248,
+                    531
+                ],
+                "text": "Hulub Ian Catalin 1X"
+            },
+            "39": {},
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 365,
+                "y": 312,
+                "height": 22,
+                "width": 100,
+                "leftCorner": [
+                    365,
+                    312
+                ],
+                "rightCorner": [
+                    465,
+                    334
+                ],
+                "text": "\u2018Casian Delia - VIB"
+            },
+            "42": {
+                "class": "text",
+                "x": 133,
+                "y": 312,
+                "height": 24,
+                "width": 117,
+                "leftCorner": [
+                    133,
+                    312
+                ],
+                "rightCorner": [
+                    250,
+                    336
+                ],
+                "text": "Babata Stefania - VILA"
+            },
+            "43": {},
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 260,
+                "y": 102,
+                "height": 25,
+                "width": 80,
+                "leftCorner": [
+                    260,
+                    102
+                ],
+                "rightCorner": [
+                    340,
+                    127
+                ],
+                "text": "~ Copilaria ~"
+            },
+            "46": {}
+        }
+    },
+    "img_77": {
+        "page": "77",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "47": {
+                "class": "text",
+                "x": 365,
+                "y": 787,
+                "height": 24,
+                "width": 183,
+                "leftCorner": [
+                    365,
+                    787
+                ],
+                "rightCorner": [
+                    548,
+                    811
+                ],
+                "text": "Ser | Anu XT Nit | Febru 2014 | 77"
+            },
+            "48": {
+                "class": "text",
+                "x": 256,
+                "y": 735,
+                "height": 22,
+                "width": 90,
+                "leftCorner": [
+                    256,
+                    735
+                ],
+                "rightCorner": [
+                    346,
+                    757
+                ],
+                "text": "Jon Nela - VIIA,"
+            },
+            "49": {
+                "class": "text",
+                "x": 105,
+                "y": 734,
+                "height": 22,
+                "width": 110,
+                "leftCorner": [
+                    105,
+                    734
+                ],
+                "rightCorner": [
+                    215,
+                    756
+                ],
+                "text": "Nistor Mihaela -IX F"
+            },
+            "50": {
+                "class": "text",
+                "x": 387,
+                "y": 733,
+                "height": 22,
+                "width": 110,
+                "leftCorner": [
+                    387,
+                    733
+                ],
+                "rightCorner": [
+                    497,
+                    755
+                ],
+                "text": "\u2018Costea Denis - VITA"
+            },
+            "51": {},
+            "52": {},
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 373,
+                "y": 510,
+                "height": 24,
+                "width": 95,
+                "leftCorner": [
+                    373,
+                    510
+                ],
+                "rightCorner": [
+                    468,
+                    534
+                ],
+                "text": "\u2018Negru losif - IXD_"
+            },
+            "55": {
+                "class": "text",
+                "x": 130,
+                "y": 510,
+                "height": 21,
+                "width": 128,
+                "leftCorner": [
+                    130,
+                    510
+                ],
+                "rightCorner": [
+                    258,
+                    531
+                ],
+                "text": "Handra Madalina - VIIC"
+            },
+            "56": {},
+            "57": {},
+            "58": {},
+            "59": {},
+            "60": {
+                "class": "text",
+                "x": 117,
+                "y": 313,
+                "height": 21,
+                "width": 149,
+                "leftCorner": [
+                    117,
+                    313
+                ],
+                "rightCorner": [
+                    266,
+                    334
+                ],
+                "text": "Nistor Bianca Petronela"
+            },
+            "61": {
+                "class": "text",
+                "x": 333,
+                "y": 312,
+                "height": 22,
+                "width": 162,
+                "leftCorner": [
+                    333,
+                    312
+                ],
+                "rightCorner": [
+                    495,
+                    334
+                ],
+                "text": "Panciuc Cosmina Gabriela - IX E"
+            },
+            "62": {},
+            "63": {},
+            "64": {
+                "class": "text",
+                "x": 266,
+                "y": 102,
+                "height": 22,
+                "width": 68,
+                "leftCorner": [
+                    266,
+                    102
+                ],
+                "rightCorner": [
+                    334,
+                    124
+                ],
+                "text": "~ Natura ~"
+            },
+            "65": {}
+        }
+    },
+    "img_78": {
+        "page": "78",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_79": {
+        "page": "79",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "66": {
+                "class": "text",
+                "x": 44,
+                "y": 691,
+                "height": 54,
+                "width": 202,
+                "leftCorner": [
+                    44,
+                    691
+                ],
+                "rightCorner": [
+                    246,
+                    745
+                ],
+                "text": "* Printre cifre si litere *\n~ Cine sic, stie MATE! ~ pag.46\n\n \n\n~ Cine stie,stie ROMANESTE! ~ pag"
+            },
+            "67": {
+                "class": "text",
+                "x": 44,
+                "y": 636,
+                "height": 53,
+                "width": 214,
+                "leftCorner": [
+                    44,
+                    636
+                ],
+                "rightCorner": [
+                    258,
+                    689
+                ],
+                "text": "* Jurnal de cailattorie*\n\n~ Experienfe de grup - excursia ~ pag.43\n~ Irlanda ~ pags"
+            },
+            "68": {
+                "class": "text",
+                "x": 304,
+                "y": 586,
+                "height": 120,
+                "width": 198,
+                "leftCorner": [
+                    304,
+                    586
+                ],
+                "rightCorner": [
+                    502,
+                    706
+                ],
+                "text": "* Culorile si titcerea cuvintelor *\n~ Gurcubeul ~ pag.73\n\n~ Lumea acvatied~ pag.74\n\n~ Halloween ~ pag74\n\n~ Obiceiuri de iarna ~ pag.75\n~ Expediie la Pol ~ pag.75\n\n~ Copilaria ~ pag.76\n\n~ Natura ~ pag.77"
+            },
+            "69": {
+                "class": "text",
+                "x": 44,
+                "y": 541,
+                "height": 80,
+                "width": 221,
+                "leftCorner": [
+                    44,
+                    541
+                ],
+                "rightCorner": [
+                    265,
+                    621
+                ],
+                "text": "* Din culise *\n~ Fenomenalii Juniori ~ pag.35\n\n~ Personajul in teatrul de papusi~ pag.38\n~ Intre no, gitele!~ pagt0\n~Impresii \u00ab. ,Gaitele~ paga2"
+            },
+            "70": {
+                "class": "text",
+                "x": 304,
+                "y": 491,
+                "height": 79,
+                "width": 226,
+                "leftCorner": [
+                    304,
+                    491
+                ],
+                "rightCorner": [
+                    530,
+                    570
+                ],
+                "text": "* Calea spre noi ingine *\n~Zilele Scolii Speciale Pageani ~ pag.63\n\n~ Oamenii de lings noi ~ pag.69\n~ La Flori ~ pag.70\n~ AfLA mai multe despre religia ta~ pag.71"
+            },
+            "71": {
+                "class": "text",
+                "x": 304,
+                "y": 408,
+                "height": 67,
+                "width": 141,
+                "leftCorner": [
+                    304,
+                    408
+                ],
+                "rightCorner": [
+                    445,
+                    475
+                ],
+                "text": "* Media *\n~ Pe contrasens ~ pag.61\n\n1.2.3. Actiune ~ pag.63\n~ ,Divergent\u201d ~ pag.66"
+            },
+            "72": {
+                "class": "text",
+                "x": 44,
+                "y": 392,
+                "height": 134,
+                "width": 213,
+                "leftCorner": [
+                    44,
+                    392
+                ],
+                "rightCorner": [
+                    257,
+                    526
+                ],
+                "text": "* Creanga de aur *\n~ Debut ~ pag.22\n\n~ Start de toamna ~ pag.23\n\n~ Poems ~ Cosmin Lucaci ~ pag.23\n\n~ Din creatile Flizei Caraiman ~ pag.25\n\n~ Versuri - Cristian Adochitei ~ pag26\n~ Muguri la_,Creanga de aur\u201d ~ pag27\n~ Cr\u00e9ations literaires ~ pag.29\n\n~ Ziua Europeans a Limbilor ~ pag.32"
+            },
+            "73": {
+                "class": "text",
+                "x": 304,
+                "y": 260,
+                "height": 133,
+                "width": 241,
+                "leftCorner": [
+                    304,
+                    260
+                ],
+                "rightCorner": [
+                    545,
+                    393
+                ],
+                "text": "* G\u00e9nduri sub lupa *\n~Concursurile ~ pag.54\n\n~ Viafa de licean sau calea spre ideal ~ pag.55\n Lumea basmelor si umea vituala ~ pag, 56\n\n~ Imprest de Ia olimpiade ~ pag.56\n\n~ Fit increzstor! ~ pag.57\n~ Muzica este totul ~ pag.58\n\n~ Sportul de exceptie ~ pag.59\n\n~ Eminescu Veronica Micle ~ pag,60"
+            },
+            "74": {
+                "class": "text",
+                "x": 44,
+                "y": 217,
+                "height": 160,
+                "width": 240,
+                "leftCorner": [
+                    44,
+                    217
+                ],
+                "rightCorner": [
+                    284,
+                    377
+                ],
+                "text": "*De-ale scolii *\n~ Interviu cu vicepresedintele C$.E ~ pag-tt\nMic artist ~ pag:12\nZiua Cantului Coral International ~ pag-13,\nPentru o lecturd activa! ~ pagel4\n\nCopilul eu voce de aur ~ pagl5\nVersuri - Andrei Anusca ~ pag.16\nnvatim despre tradigi!~ pag.17\nEveniment ~ pag.l7\n\n\u2018Suntem creativi ~ pag.19\n\nMAINI DIBACE!~ pag,20"
+            },
+            "75": {
+                "class": "text",
+                "x": 304,
+                "y": 152,
+                "height": 93,
+                "width": 168,
+                "leftCorner": [
+                    304,
+                    152
+                ],
+                "rightCorner": [
+                    472,
+                    245
+                ],
+                "text": "* Povestiri pentru cei mici*\n~ Dihorul ~ pag.50\n~ Catujul ~ pag0\n\n~ SANE AMUZAM! ~ pag\n~ Creat - IIL B~ pags?\n= TITA! ~ pags3"
+            },
+            "76": {
+                "class": "text",
+                "x": 44,
+                "y": 149,
+                "height": 53,
+                "width": 235,
+                "leftCorner": [
+                    44,
+                    149
+                ],
+                "rightCorner": [
+                    279,
+                    202
+                ],
+                "text": "* Eveniment *\n~ Balul Bobocilor - primele impresi\n\n \n\n~ Targul de Criciun ~ pag. 8"
+            },
+            "77": {
+                "class": "text",
+                "x": 244,
+                "y": 92,
+                "height": 28,
+                "width": 64,
+                "leftCorner": [
+                    244,
+                    92
+                ],
+                "rightCorner": [
+                    308,
+                    120
+                ],
+                "text": "Cuprins"
+            }
+        }
+    },
+    "img_80": {
+        "page": "80",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    }
+}

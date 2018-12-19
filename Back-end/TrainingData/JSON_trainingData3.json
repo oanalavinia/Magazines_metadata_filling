@@ -1,0 +1,1542 @@
+{
+    "numberOfPages": 273,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 263,
+                "y": 593,
+                "height": 37,
+                "width": 74,
+                "leftCorner": [
+                    263,
+                    593
+                ],
+                "rightCorner": [
+                    337,
+                    630
+                ],
+                "text": "Editura PIM\nlagi -2011"
+            },
+            "2": {
+                "class": "text",
+                "x": 135,
+                "y": 258,
+                "height": 67,
+                "width": 329,
+                "leftCorner": [
+                    135,
+                    258
+                ],
+                "rightCorner": [
+                    464,
+                    325
+                ],
+                "text": "EXERCITII DE MEMORIE:\nSHOAH HOLOCAUST"
+            },
+            "3": {
+                "class": "text",
+                "x": 137,
+                "y": 96,
+                "height": 27,
+                "width": 146,
+                "leftCorner": [
+                    137,
+                    96
+                ],
+                "rightCorner": [
+                    283,
+                    123
+                ],
+                "text": "Corina ANDRIESANU"
+            },
+            "4": {
+                "class": "text",
+                "x": 381,
+                "y": 94,
+                "height": 28,
+                "width": 81,
+                "leftCorner": [
+                    381,
+                    94
+                ],
+                "rightCorner": [
+                    462,
+                    122
+                ],
+                "text": "Anca JiJiE"
+            },
+            "5": {
+                "class": "text",
+                "x": 252,
+                "y": 51,
+                "height": 42,
+                "width": 96,
+                "leftCorner": [
+                    252,
+                    51
+                ],
+                "rightCorner": [
+                    348,
+                    93
+                ],
+                "text": "Tonela ZMAU\n\n(coordonator)"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 108,
+                "y": 539,
+                "height": 22,
+                "width": 43,
+                "leftCorner": [
+                    108,
+                    539
+                ],
+                "rightCorner": [
+                    151,
+                    561
+                ],
+                "text": "ISBN:"
+            },
+            "8": {
+                "class": "text",
+                "x": 107,
+                "y": 414,
+                "height": 80,
+                "width": 332,
+                "leftCorner": [
+                    107,
+                    414
+                ],
+                "rightCorner": [
+                    439,
+                    494
+                ],
+                "text": "\u2018Sponsori:\n\nConsilier local Costin Comelia- Consiliul local, Oras Podu Hloaiei\nIng. Marcel Jijiie - SC Rom Trading SRL, Pod Hloaici\n\nMihai Tibureanu- agent economic\nConsilier local Gabriel Istate- Consiliul local, Oras Podu Hloaici"
+            },
+            "9": {
+                "class": "text",
+                "x": 107,
+                "y": 330,
+                "height": 65,
+                "width": 175,
+                "leftCorner": [
+                    107,
+                    330
+                ],
+                "rightCorner": [
+                    282,
+                    395
+                ],
+                "text": "Corectori\nProf, Corina Stefania Andriesana\n\nProf. Anca lonela Jjie\nProf. Simona Petruc-Crihan"
+            },
+            "10": {
+                "class": "text",
+                "x": 107,
+                "y": 261,
+                "height": 50,
+                "width": 230,
+                "leftCorner": [
+                    107,
+                    261
+                ],
+                "rightCorner": [
+                    337,
+                    311
+                ],
+                "text": "\u2018Tehnoredactare computerizata si coper'\n\nProf. Corina Stefania Andriesanu\nDir. Prof. lonela Zmau"
+            },
+            "11": {},
+            "12": {
+                "class": "text",
+                "x": 108,
+                "y": 150,
+                "height": 52,
+                "width": 367,
+                "leftCorner": [
+                    108,
+                    150
+                ],
+                "rightCorner": [
+                    475,
+                    202
+                ],
+                "text": "Inspector de specialitat\n\n \n\nDr. in sociologie Dragos Alexandru Radio lasi"
+            },
+            "13": {
+                "class": "text",
+                "x": 132,
+                "y": 66,
+                "height": 66,
+                "width": 336,
+                "leftCorner": [
+                    132,
+                    66
+                ],
+                "rightCorner": [
+                    468,
+                    132
+                ],
+                "text": "Podu Hoaiel, Jud. tasi\nEdiia a~ 1 \u2014 a, 11 Octombrie- 1 lunie 2011"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "14": {
+                "class": "text",
+                "x": 501,
+                "y": 748,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    748
+                ],
+                "rightCorner": [
+                    526,
+                    770
+                ],
+                "text": "70"
+            },
+            "15": {
+                "class": "text",
+                "x": 61,
+                "y": 748,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    748
+                ],
+                "rightCorner": [
+                    86,
+                    770
+                ],
+                "text": "20"
+            },
+            "16": {
+                "class": "text",
+                "x": 501,
+                "y": 720,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    720
+                ],
+                "rightCorner": [
+                    526,
+                    743
+                ],
+                "text": "65"
+            },
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 501,
+                "y": 693,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    501,
+                    693
+                ],
+                "rightCorner": [
+                    524,
+                    715
+                ],
+                "text": "61"
+            },
+            "19": {
+                "class": "text",
+                "x": 63,
+                "y": 693,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    63,
+                    693
+                ],
+                "rightCorner": [
+                    86,
+                    715
+                ],
+                "text": "18"
+            },
+            "20": {
+                "class": "text",
+                "x": 501,
+                "y": 664,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    664
+                ],
+                "rightCorner": [
+                    526,
+                    687
+                ],
+                "text": "59)"
+            },
+            "21": {
+                "class": "text",
+                "x": 63,
+                "y": 664,
+                "height": 23,
+                "width": 23,
+                "leftCorner": [
+                    63,
+                    664
+                ],
+                "rightCorner": [
+                    86,
+                    687
+                ],
+                "text": "7"
+            },
+            "22": {
+                "class": "text",
+                "x": 501,
+                "y": 637,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    637
+                ],
+                "rightCorner": [
+                    526,
+                    659
+                ],
+                "text": "37"
+            },
+            "23": {
+                "class": "text",
+                "x": 63,
+                "y": 637,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    63,
+                    637
+                ],
+                "rightCorner": [
+                    86,
+                    659
+                ],
+                "text": "16"
+            },
+            "24": {
+                "class": "text",
+                "x": 501,
+                "y": 595,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    595
+                ],
+                "rightCorner": [
+                    526,
+                    617
+                ],
+                "text": "55"
+            },
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 501,
+                "y": 567,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    567
+                ],
+                "rightCorner": [
+                    526,
+                    590
+                ],
+                "text": "52"
+            },
+            "27": {},
+            "28": {
+                "class": "text",
+                "x": 501,
+                "y": 526,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    526
+                ],
+                "rightCorner": [
+                    526,
+                    548
+                ],
+                "text": "48"
+            },
+            "29": {
+                "class": "text",
+                "x": 63,
+                "y": 526,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    63,
+                    526
+                ],
+                "rightCorner": [
+                    86,
+                    548
+                ],
+                "text": "13"
+            },
+            "30": {},
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 501,
+                "y": 442,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    442
+                ],
+                "rightCorner": [
+                    526,
+                    465
+                ],
+                "text": "43"
+            },
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 501,
+                "y": 415,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    415
+                ],
+                "rightCorner": [
+                    526,
+                    437
+                ],
+                "text": "40"
+            },
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 501,
+                "y": 387,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    387
+                ],
+                "rightCorner": [
+                    526,
+                    409
+                ],
+                "text": "36"
+            },
+            "37": {
+                "class": "text",
+                "x": 501,
+                "y": 345,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    501,
+                    345
+                ],
+                "rightCorner": [
+                    524,
+                    367
+                ],
+                "text": "31"
+            },
+            "38": {
+                "class": "text",
+                "x": 501,
+                "y": 303,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    303
+                ],
+                "rightCorner": [
+                    526,
+                    325
+                ],
+                "text": "28"
+            },
+            "39": {
+                "class": "text",
+                "x": 501,
+                "y": 275,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    275
+                ],
+                "rightCorner": [
+                    526,
+                    298
+                ],
+                "text": "25"
+            },
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 501,
+                "y": 206,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    206
+                ],
+                "rightCorner": [
+                    526,
+                    228
+                ],
+                "text": "2"
+            },
+            "42": {
+                "class": "text",
+                "x": 501,
+                "y": 178,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    178
+                ],
+                "rightCorner": [
+                    526,
+                    200
+                ],
+                "text": "20"
+            },
+            "43": {
+                "class": "text",
+                "x": 92,
+                "y": 134,
+                "height": 664,
+                "width": 350,
+                "leftCorner": [
+                    92,
+                    134
+                ],
+                "rightCorner": [
+                    442,
+                    798
+                ],
+                "text": "sociologie Aciobanijei Alex- CUVANT INAINTE\nir. Zmiu lonela, prof. jie Anca- ABORDAREA\nDIDACTICA A PROBLEMATICII HOLOCAUSTULUI\n\nPrimar al orasului Podu Hloaici Baciu Petrica- CONVIETUIREA\nPOPULATIEI EVREIESTI IN TARGUSORUL PODU ILOAIEL\nProf, Anoca Adelita, Scoala eu cls, -VIIT ,Romnul Ladea\u201d, Oravita-\nHOLOCAUST\n\nProf, Birla Hleana Lucica, Scoala eu els. 1-VIII Breb, Maramures ~\nISTORIA SI CIVILIZATIA EVREILOR IN SAT-SUGATAG,\nMARAMURES-\n\nProf. Borosteanu Corina-Mariana, Scoala general Borascu, Gorj-\nISTORIA EVREILOR- HOLOCAUSTUL\n\nProf dr. Calistru Doina, Coleg Naioal \u201cMika imines si\n\u201cSOLUTIA FINALA\u201d - IDEOLOGIE POLITICA $I \u201cPUNERE IN\nSCENA\u2019\n\nProf, Cirstea Mirela, Grupul Scolar Industrial ,Nicolae Ciorinescu\"\u2122\nTirgoviste- CONSIDERATH ASUPRA ORIGINILOR\nHOLOCAUSTULUT\n\nProf. Chili Andreea, Gridinija nr. 11, Botosani-ISTORIA,\nCULTURA $I CIVILIZATIA EVREILOR\n\nfv. Ciobanu Daniela, Scoala cu clasele -VII ar. 1, Tg.Ocna,\nBaciu- AMINTIRI- COSMAR\n\nProf. Cirjan Ileana, Scoala n. 37M. Emineseu\", Craiovac\nSITUATIA EVREILOR DIN ROMANIA IN TIMPUL CELUI\nDE-AL DOILEA RAZBO! MONDIAL\n\nProf, Ciubotari Gabriela, prof. Apostal Ramona Denisa,\nS.A.M.Vinatori- Neam|- HOLOCAUSTUL - 0 ISTORIE A\nEVREILOR\n\nProf. Constandoiu Liliana, Scoala cu clasele I-VIII Bogdiinesti ~\nBacdu- VREAU SA CONTINUI SA TRAIESC CHIAR $I DUPA.\nMOARTEA MEA\n\nProf. Costescu Lucian Mihai ~ Scoala eu els. I-VIII Calopr, Dol\nHOLOCAUSTUL -O REALITATE CRUDA\n\nProf, Dancu Dragomir, Scoala cu clasele I-VII Pia:\nFORMELE DE REZISTENTA iN PERIOADA\nHOLOCAUSTULUT\n\nProf, Diaconescu Aurica, Scoala \u201cSf. Mina\u201d, Craiova, Dol\nUNICITATEA ANTLSEMITISMULUI NAZIST\n\nProf, Dumitrache Elena, Scoala cu clasee IVIL nr. 8, Bucurest-\nISTORIA HOLOCAUSTULUI\n\nProf, Floricel Cosmin, Scoala cu clasele I-VI Sadova, Dolj-\nDEPORTAREA RROMILOR IN TRANSNISTRIA\n\nProf. Floricel Georgiana Roxana, Scoala cu clasele I-VIII Sadova,\nDolj- DE CE NORNBERG?\n\nProf, Franz Irina, Scoala lon Neculce\u201d, lagi, maior ing. Cojocara\nCristian- DEPORTAREA EVREILOR SI TIGANILOR IN\nTRANSNISTRIA\n\n   \n\n \n\n \n\n \n\n \n\n \n\nibiue"
+            },
+            "44": {
+                "class": "text",
+                "x": 133,
+                "y": 53,
+                "height": 79,
+                "width": 310,
+                "leftCorner": [
+                    133,
+                    53
+                ],
+                "rightCorner": [
+                    443,
+                    132
+                ],
+                "text": "CUPRINS\nSIMPOZION INTERNATIONAL\n\u00bbEXERCITI DE MEMORIE: SHOAH- HOLOCAUST\u201d\n\nEDITIA a I-a\n1 TUNIE 2011, PODU ILOAIEL, JUD. LAST"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "45": {
+                "class": "text",
+                "x": 500,
+                "y": 748,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    748
+                ],
+                "rightCorner": [
+                    529,
+                    770
+                ],
+                "text": "1s8"
+            },
+            "46": {
+                "class": "text",
+                "x": 61,
+                "y": 748,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    748
+                ],
+                "rightCorner": [
+                    86,
+                    770
+                ],
+                "text": "40"
+            },
+            "47": {
+                "class": "text",
+                "x": 500,
+                "y": 720,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    720
+                ],
+                "rightCorner": [
+                    529,
+                    743
+                ],
+                "text": "155"
+            },
+            "48": {
+                "class": "text",
+                "x": 61,
+                "y": 720,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    720
+                ],
+                "rightCorner": [
+                    86,
+                    743
+                ],
+                "text": "39"
+            },
+            "49": {
+                "class": "text",
+                "x": 500,
+                "y": 693,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    693
+                ],
+                "rightCorner": [
+                    529,
+                    715
+                ],
+                "text": "152"
+            },
+            "50": {
+                "class": "text",
+                "x": 61,
+                "y": 693,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    693
+                ],
+                "rightCorner": [
+                    86,
+                    715
+                ],
+                "text": "38"
+            },
+            "51": {
+                "class": "text",
+                "x": 500,
+                "y": 664,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    664
+                ],
+                "rightCorner": [
+                    529,
+                    687
+                ],
+                "text": "149"
+            },
+            "52": {
+                "class": "text",
+                "x": 61,
+                "y": 664,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    664
+                ],
+                "rightCorner": [
+                    86,
+                    687
+                ],
+                "text": "37"
+            },
+            "53": {
+                "class": "text",
+                "x": 500,
+                "y": 623,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    623
+                ],
+                "rightCorner": [
+                    529,
+                    645
+                ],
+                "text": "146"
+            },
+            "54": {
+                "class": "text",
+                "x": 61,
+                "y": 623,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    623
+                ],
+                "rightCorner": [
+                    86,
+                    645
+                ],
+                "text": "36"
+            },
+            "55": {
+                "class": "text",
+                "x": 500,
+                "y": 595,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    595
+                ],
+                "rightCorner": [
+                    529,
+                    617
+                ],
+                "text": "140"
+            },
+            "56": {
+                "class": "text",
+                "x": 61,
+                "y": 595,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    595
+                ],
+                "rightCorner": [
+                    86,
+                    617
+                ],
+                "text": "35"
+            },
+            "57": {
+                "class": "text",
+                "x": 500,
+                "y": 553,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    553
+                ],
+                "rightCorner": [
+                    529,
+                    576
+                ],
+                "text": "137"
+            },
+            "58": {
+                "class": "text",
+                "x": 61,
+                "y": 553,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    553
+                ],
+                "rightCorner": [
+                    86,
+                    576
+                ],
+                "text": "Ey"
+            },
+            "59": {
+                "class": "text",
+                "x": 500,
+                "y": 512,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    512
+                ],
+                "rightCorner": [
+                    529,
+                    534
+                ],
+                "text": "134"
+            },
+            "60": {
+                "class": "text",
+                "x": 61,
+                "y": 512,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    512
+                ],
+                "rightCorner": [
+                    86,
+                    534
+                ],
+                "text": "33"
+            },
+            "61": {
+                "class": "text",
+                "x": 500,
+                "y": 470,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    470
+                ],
+                "rightCorner": [
+                    529,
+                    492
+                ],
+                "text": "130"
+            },
+            "62": {
+                "class": "text",
+                "x": 61,
+                "y": 470,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    470
+                ],
+                "rightCorner": [
+                    86,
+                    492
+                ],
+                "text": "32"
+            },
+            "63": {
+                "class": "text",
+                "x": 500,
+                "y": 415,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    415
+                ],
+                "rightCorner": [
+                    529,
+                    437
+                ],
+                "text": "124"
+            },
+            "64": {
+                "class": "text",
+                "x": 61,
+                "y": 415,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    61,
+                    415
+                ],
+                "rightCorner": [
+                    84,
+                    437
+                ],
+                "text": "Ey"
+            },
+            "65": {
+                "class": "text",
+                "x": 500,
+                "y": 387,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    500,
+                    387
+                ],
+                "rightCorner": [
+                    528,
+                    409
+                ],
+                "text": "121"
+            },
+            "66": {
+                "class": "text",
+                "x": 61,
+                "y": 387,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    387
+                ],
+                "rightCorner": [
+                    86,
+                    409
+                ],
+                "text": "30"
+            },
+            "67": {
+                "class": "text",
+                "x": 500,
+                "y": 331,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    331
+                ],
+                "rightCorner": [
+                    529,
+                    353
+                ],
+                "text": "119"
+            },
+            "68": {
+                "class": "text",
+                "x": 61,
+                "y": 331,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    331
+                ],
+                "rightCorner": [
+                    86,
+                    353
+                ],
+                "text": "29"
+            },
+            "69": {
+                "class": "text",
+                "x": 500,
+                "y": 275,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    275
+                ],
+                "rightCorner": [
+                    529,
+                    298
+                ],
+                "text": "13"
+            },
+            "70": {
+                "class": "text",
+                "x": 61,
+                "y": 275,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    275
+                ],
+                "rightCorner": [
+                    86,
+                    298
+                ],
+                "text": "28"
+            },
+            "71": {
+                "class": "text",
+                "x": 500,
+                "y": 234,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    234
+                ],
+                "rightCorner": [
+                    529,
+                    256
+                ],
+                "text": "107"
+            },
+            "72": {
+                "class": "text",
+                "x": 61,
+                "y": 234,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    234
+                ],
+                "rightCorner": [
+                    86,
+                    256
+                ],
+                "text": "27"
+            },
+            "73": {
+                "class": "text",
+                "x": 500,
+                "y": 206,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    206
+                ],
+                "rightCorner": [
+                    529,
+                    228
+                ],
+                "text": "103"
+            },
+            "74": {
+                "class": "text",
+                "x": 61,
+                "y": 206,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    206
+                ],
+                "rightCorner": [
+                    86,
+                    228
+                ],
+                "text": "26"
+            },
+            "75": {
+                "class": "text",
+                "x": 500,
+                "y": 178,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    500,
+                    178
+                ],
+                "rightCorner": [
+                    529,
+                    200
+                ],
+                "text": "100"
+            },
+            "76": {
+                "class": "text",
+                "x": 61,
+                "y": 178,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    178
+                ],
+                "rightCorner": [
+                    86,
+                    201
+                ],
+                "text": "25"
+            },
+            "77": {
+                "class": "text",
+                "x": 501,
+                "y": 137,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    137
+                ],
+                "rightCorner": [
+                    526,
+                    159
+                ],
+                "text": "93"
+            },
+            "78": {},
+            "79": {
+                "class": "text",
+                "x": 501,
+                "y": 95,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    95
+                ],
+                "rightCorner": [
+                    526,
+                    117
+                ],
+                "text": "90"
+            },
+            "80": {
+                "class": "text",
+                "x": 61,
+                "y": 95,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    95
+                ],
+                "rightCorner": [
+                    86,
+                    117
+                ],
+                "text": "23"
+            },
+            "81": {
+                "class": "text",
+                "x": 501,
+                "y": 67,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    67
+                ],
+                "rightCorner": [
+                    526,
+                    89
+                ],
+                "text": "86"
+            },
+            "82": {
+                "class": "text",
+                "x": 61,
+                "y": 67,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    61,
+                    67
+                ],
+                "rightCorner": [
+                    86,
+                    89
+                ],
+                "text": "2"
+            },
+            "83": {
+                "class": "text",
+                "x": 501,
+                "y": 39,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    39
+                ],
+                "rightCorner": [
+                    526,
+                    62
+                ],
+                "text": "82"
+            },
+            "84": {
+                "class": "text",
+                "x": 92,
+                "y": 39,
+                "height": 759,
+                "width": 356,
+                "leftCorner": [
+                    92,
+                    39
+                ],
+                "rightCorner": [
+                    448,
+                    798
+                ],
+                "text": "Prof. Giuran Daniela, Scoala ,.Tudor Viadimirescu\u201d, Drigisani,\nValeea-IS THE JEWISH HOLOCAUST \u201cUNIQUELY UNIQUE\u201d?\nInv. Gogja Lucia-Maria, Gropul Scolar Oens-Sugatg, Siructura Breb,\nMaramurey- TESTAMENTUL DURERIT\n\nProf, Grect Cristian Gheorghe, Scoala cu clasele I VIII Rott,\nCom. N. Bileescu, Vloea- CULTURA $I CIVILIZATIA\nEVREILOR. RELIGIA\n\nProf. Grecu Maria, Gropul Scolar Matei Basarab, Craiova, Doj-\nDIDACTICA HOLOCAUSTULUL, PROIECTAREA $I\nEVALUAREA A UNEI UNITATI DE INVATARE\n\nProf. Grigore Mioara, Scoala cu claseleI-VIII Bogdinest, Bacau-\nTEROARE SI SUSPIN\n\nProf, Grindei Mioara\u2014 loana, $.A.M. Corbit Mari ~ Dmbovita-\nISTORIA EVREILOR DIN ROMANIA\n\nProf, Mihaela Hende, Colegiul National \u201cEmil Racovifa lagi\nFOLOSIREA INTERNETULUL IN PREDAREA\nHOLOCAUSTULUI- 0 SCURTA TRECERE IN REVISTA\n\nProf, Hera Elena Violeta, Scoala cu clasle I-VIlI nr. 92, Bucuresti,\nprof Hera Dan Nicole, Gr. $. Ind. Sf, Pantelimon\u201d, Bucuresti\nDISTRICTUL GOLTA IN MEMORIA EVREILOR\nSUPRAVIETUITORI AI LAGARELOR TRANSNISTRENE\n\nProf. lleos Gheorghe - Colegiul Tehnie de Comunicait,N.V. Karpen\u201d\nBaciu,\n\nProf. ileos Georgeta- Scoala cu Clase I-VI, Octavian Voicu\u2122\nBaciu- ASPECTE ALE HOLOCAUSTULUI IN ROMANIA,\n\nProf. loneseu T.Simona-Mihaela, Scoala eu cls. I-VI Sinesti,\nValeea- INTRODUCTION TO THE HOLOCAUST\n\nProf. Argentina Pinzariu ~ Liceul Teoretic ,Miron Costin\u201d las, prof.\nValericaIriiue ~ Scoala Alexandru cel Bun\" lagi- STUDIU DE\nCAZ: TRAGEDIA EVREILOR $I RROMILOR IN PERIOADA\n1938-1944\n\nInstt spi uliana-Florentna, ed, Pucaru Alexandra-Anamari,\nGrid eu PP. Sud, Rm. Vilees- POPORUL EVREU ~ CIVILIZATIE,\nRELIGIE, DREPTURI SI LIBERTATI - HOLOCAUST\n\nProf, Jroveanu Elisaveta Veronica, prof. Pascu Eugenia, Scoala\nSpeciala Sfintul Mina Craiova, Dolj- ANTISEMITISMUL.\nIDEOLOGIA NAZISTA\n\nProf, Komlosi uliana, Scoala eu clasele EVI Nr, 13, Timigoara-\nCONSIDERATII ASUPRA INVATAMANTULUI EVREIESC DIN\nTIMISOARA\n\nProf. Leibu Angela, Scoala Alexandra cel Bun\u201d, Baciu- ISTORIA\nPOPORULUL EVREU\n\nLembke Doreen, Nelson Mail, Noua Zeclanda, prof. Orzetic Parmena,\n$e. Al I. Cuza\", Podu loaei- THE HOLOCAUST AS PART OF\nSCHOOL EDUCATION IN NEW ZEALAND,\n\nProf. Lup Elena, Scoala cu clasele I-VIII Biuja- MOMENTE\nISTORICE ALE HOLOCAUSTULUI IN EUROPA,\n\nProf. Minda lleana, Grupul Scolar Ocna Sugatag -Structura Breb,\nMaramures- SA NE AMINTIM MEREU DE HOLOCAUST\n\nInv. Mirunjelu Silvia, Scoala cu clasele VIII Calop, Dolj- BAILE\nTEREZIN- GHETOUL FANTOMA\n\nMatei Sorina-Carmen, Colegiul Tehnic ,D-l Tudor\", Dr. Tr. Severin,\nMehedint- EVREUL - RATACITOR INTRE LEGENDA St\nREALITATE"
+            },
+            "85": {}
+        }
+    },
+    "img_268": {
+        "page": "268",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "86": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "262"
+            },
+            "87": {
+                "class": "text",
+                "x": 50,
+                "y": 123,
+                "height": 622,
+                "width": 509,
+                "leftCorner": [
+                    50,
+                    123
+                ],
+                "rightCorner": [
+                    559,
+                    745
+                ],
+                "text": "Holocaustul reprezinti un urias masacru-6 milioane de victime dintre care 1,5 mil copii.\nTermenul \"holocaust\" nu e de origine ebraica si inseamna la origine sacrificare ritual justificath\nteologic. in ebraici termenul folosit e \"shoa\", avand sensul de eatastrof% totala, Holocaustul a fost 0\ndecizie care a privit un popor oriunde s-au aflat membri sii; a fi nascut evreu echivala cu 0\n\u2018condamnare la moarte, Actiunea de exterminare a evreilor a fost sisitematicd i pe edt posibil deplind;\nau fost \"doar\" 6 milioane de vietime pentru ci germanii nu au mai avut timp. Ideologia nazisti s-a\nbbazat pe argumentul superioritiii de ras\u2019 si a fost transformata in politicd de stat pe termen lung.\nInainte de 1933 \u201cexterminare\" era un termen care desemna lichidarea insectelor. Utilizarea lui\nreferitor la evtei promova dezumanizarea in repte a rasclor. in virful piramidei se gisea rasa german\u2019\niar la baza ei, evreii, considerati o rasa \"subumand\" care trebuia eliminata. $i alte rase, considerate\ninferioare erau tratate discriminatoriu. (Ex. slavi erau pusi la 0 munca de sclavi). Ideologia nazista s-a\nbazat pe mitur irafionale promoviind perspectiva pericolului mondial pe care il reprezentau evrei\n\nNazistii plinuiau 0 noua organizare a lumii in functie de eyalonarea rasiali. Dezumanizarea evreilor\nse realiza pe mai multe edi: prin legi si prin inchiderea lor in lagire de concentrare, de munca sau de\ncexterminare.\n\nLagirele de exterminare au fost invengia lui Hitler si au culminat eu folosirea tehnicii moderne\npentru lichidarea pe cale fizied si chimica a prizonierilor. De-a lungul razboiului s-a intirziat putin\naplicarea exterminarii evreilor din motive tehnice si pentru securitatea celor care aplicau ordinele. (ex.\n{In Rusia prizonieri\u00e9 erau pusi si sape gropi la marginea pidurilor $i apoi impugeati. Ingroparea miilor\nde cadavre a ridicat probleme tehnice apirind pericolul de epidemii si atunci s-a gisit solujia tehnicd\n\u2018cu gazarea si arderea lor.\n\nLa sfsitul primului razbot mondial germanii fi condamnau pe evrei pentru infrangerea lor, i\nastfel a pomit totul. German fi considerau de atunci pe evrei cei mai aprigi dusmani ai lor. Partidul\nnazist sia claborat un program la 24 februarie 1920 in care se spunea ec cetifenii negermani nu\npputeau locui in Germania decit ca oaspefi, nu aveau drepturi politice, nu puteau fi considerati ca\n\nai far, Ei sustineau ed \"rasa\" este determinati de \"singe\". \"Rasa germani este o rasi de\n\nEa trebuie pistrata in stare purd, neamestecatd cu rasele \"inferioare\u201d. Poporul german este\npoporul superior. Considerau ci ei sunt singurii care aveau dreptul de a cuceri eit mai multe tertorii\npe care si le \"purifice. Cele mai mari vise ale nazistilor erau si domine toatl lumea, elimingind rasele\ninferioare. De indata ce nazistii ajung la putere, un potop de excluderi si de interdict se abate asupra\npopulatici evreiesti, Acestea sunt: excluderea din serviciul public, interdictia de a practica 0\n\n \n\n \n\n \n\n \n\n \n\n   \n\n \n\nprofesiune artstca, interdict de a exercita profesia de redactor-sef in pres, evreii mu puteau efectua\n\n \n\nserviciul militar activ, sunt interzise cAsdtorile gi relaile sexuale intre evrei si germani, excluderea\ncevreilor din sistemul de asiguriri sociale, medicilor evrei li se interzice si profeseze, iar putinii\ndoctori si avocati care au fost acceptati nu au dreptul si trateze cetijeni decat evrei. Evrefi sunt\n\u2018obligatisi-si adauge prenumele de Sara sau Israel, lise interzice accesul la asistentl social, yomerii\nsunt obligafi si presteze mune& forfat, evreii eu venit lunar de peste 39 mirci sunt supusi unui\nimpozit suplimentar de 15%, evreii nu mai pot refuza s& presteze munca forjati chiar dacd au o slujbi.\nSunt pliigi in acord si nu au dreptul la concediu sau la beneficit sociale: se desivarseste astfel\nreducerea lor la sclavie. Epuizarea prin infometare. Limitarea orelor de acces ale evreilo\n\n \n\n \n\nmagazine, pentru ci ei nu puteau cumpira decat dupa ce-si terminau germanii cumparaturile. Sunt\nconfiscate numeroase pachete din striinatate. O conferinga din 1942 hotardste reducerea alimentelor\nPe care evreii le pot achizitiona: evreii nu mai pot cumpara prajturi, paine alba, suplimente pentru\ncopii, lapte integral (ci numai degresat,"
+            },
+            "88": {
+                "class": "text",
+                "x": 261,
+                "y": 81,
+                "height": 39,
+                "width": 298,
+                "leftCorner": [
+                    261,
+                    81
+                ],
+                "rightCorner": [
+                    559,
+                    120
+                ],
+                "text": "Colegiul National"
+            },
+            "89": {
+                "class": "text",
+                "x": 179,
+                "y": 39,
+                "height": 39,
+                "width": 252,
+                "leftCorner": [
+                    179,
+                    39
+                ],
+                "rightCorner": [
+                    431,
+                    78
+                ],
+                "text": "HOLOCAUSTUL,\nPOLITICA NAZISTA $I SOLUTIA FINAL:"
+            }
+        }
+    },
+    "img_269": {
+        "page": "269",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "90": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "263"
+            },
+            "91": {
+                "class": "text",
+                "x": 50,
+                "y": 39,
+                "height": 748,
+                "width": 509,
+                "leftCorner": [
+                    50,
+                    39
+                ],
+                "rightCorner": [
+                    559,
+                    787
+                ],
+                "text": "La 30 ianuarie 1939, Hitler a lansat o ameninjare infioritoare intr-un discurs adresat\nParlamentului: \"In viata mea am fost deseori prof si. atizi voi fi inc o data profet: daca cercurile\nfinanciare intemationale ale evreilor din Europa si din afara ei vor implica din now nafiunite int-un\nrizboi mondial, rezultatul nu va fi bolsevizarea lumi si, prin aceasta, vitoria evreimii, ci anihilarea\nrasei evreilo din Europa.\u201d\n\nup izbuenirea celui de-al doilea rizboi mondial, in septembrie 1939, nazisti au edutat 0\nsolute final pentru problema evreiasca. Cei mai inal lider se gindeau la\u2018 solufie teritorial\u00e9 pentru\ncevreii curopeni. Conducitorii SS-ului, 0 sectie de eliti a Partdului Nazist, au fost insireinati cu\nrezolvarea problemei evreiesti. Ei au propus dowd variante: prima era crearea unei rezervati in sud-\ncstul Polonici unde urmau s% fie deportatievrei; cea de-2 doua solute a fost propusi pe fondul\nantiipiritvietoriei Germaniei impotriva Anglici, ca o urmarefireasci a infringerii rants in julie\n1940, si consta in deportarea pe Insula Madagascar a tuturor eclor 4 milioane de evrei din\n\u2018ocupate sau controlateatunei de Germania, Pe atunei Madagascarul, situa in apropierea coastei de\nsud-est a Afci, era colonie francezi. Nici una dintre propuneri nua fost adoptad. La sfrsitul anului\n1940 nazis: au inceput s& planifice invadarea si cucerirea Uniunii Republicilor Sovietice Socialste\n(URSS). Acest plan i-a ficut si abandoneze ideea unei rezervati in Polonia, pentru ca 0 asemenca\nrezervajie s-ar fi aflat in centrul si nu la periferia unui imperiu german lirgit. La ideea\nMadagascarului s-a renunjat pentru ci englezii nu s-au predat si controll britanie permanent asupra\n\u2018Canalului Suez inchidea ruta spre Madagascar a navelor germane. Totui,innte ea acest ide si fie\nabandonate, germanii au ficut un pas preliminar vitoarelor deportri in lagine de concentrare sau\nrezervati evreiesti Evreii din Polonia au fost obligati si se mute in ghetouri, unde Ti -a ondonat si\n\u2018organizeze consi eae si adued la indeplinie ordinele germanilor. De asemenea, a fost obliga sk\nPoarte pe haine o stea galbena, simbolizand originea lor evreiascd, si sa execute munca fort\nConditile de locuit absolut ingrozitoare, suprapopularea, lipsa conditilor sanitare, a serviciilor de\nSindtate si agile de hrand insuficiente au determinat o rati a mortalitii\u00e9 foarte ridicaa in randurile\nlocuitorilor din ghetouri, De exemplu, in 1941 2 murit 20% din populaia din ghetoul Vargovia fn\ntimp ce evreii polonezi erauinchisi in ghetour, eveii din firle vest europene ocupate sau contolate\nde nazisti suportau aspre masuri ant-semite. Din Norvegia pain in Africa de Nord toi evreii si-au\nPierdut drepturile si propretaile si au fost fortati si trdiasca in anumite cartiere sau au fost inchist in\ntaberepizite\n\nIn primavara anului 1941, in timp ce se ficeau pregitiile pentru invadarea URSS, Hitler @\nnunfatc& un rizboi al distrugeri este pe cale si inceapi, El a cerut anihilarea conduceri bolyevice\nPunsind astfl bazele pentru exterminarea a ceea ce Hitler considera sursa biologica a bolsevismul\ncevreii din URSS. Executile urmau si fie aduse la indeplinre de patru unitati SS mobile numite\n\u2018echipe de actiune (in german: Einsatzeruppen), format fiecare din aproximativ 1000 de oameni. Pe\nHingd acesteechipe erau si alte unitiji de polite i SS ce urmau si impuste eveii adunat in dreptul\nsropilor comune pe care trebuiau si le sape inainte de afi omoriti. Dupa inceperea campaniei miltare\niunie 1941, armata germana a fost chemata in numeroase rinduri i acorde sprijinunitilor de\npoliti si SS, aifelinc\u00e9t numarul total al grmanilor implica in uciderea in masi a evrilor se ridica\nIa aproximativ 30.000, La data de 2 julie 1941, Reinhard Tristan Eugen Heydrich, jet al\nServiciului de Securitate al Germaniei si figur\u00e9 importantt in organizarea extermindrii evreilo, a\nemis Ordinul Comisarului conform ciruia toi evreit care ocupau posturi ofiiale in administratia\nsovieticd urmau si fie executa. Ordinal a fost interpreta in sens foarte larg de cdtre comandanti\nechipelor de actiune ea vizind toi adult evrei de sex barbatese. Un mare numar dint acesta a fost\nimpuscati pe loc, indiferent c& ocupau sau nu postu oficiale. In august 1941, sfera de aplicare a\n\u2018ordinului s-a extins si asupra femeilor si copiilor evrei. La L august 1941, Heinrich Himmler, se al\nunititilor din Belarus: \"Toti barbati evrei trebuie impuscati. Femeile i copii vor fi\nddusi in milastin.\u201d Ofiferul SS insircinat cu indeplinirea acestui ordin a comunicat superiorilor sdi ci\n\"deplasarea femeilor si copiilor in milastini nu a avut suecesul scontatintruc\u00e9t mlastnile nu erau\ndestul de adinci pentru ca acestia si se inece.\u201d Incepand din septembrie 1941, forfele germane au\ndesfisurat actiuni pe scari largi in care intregi comunititi evreietti au fost sterse de pe fia\npimantului, Aste, 33.000 de evrei din Kiew, Ueraina, au fost omoriti pe 29 si 30 septembrie 1941 i\n\u2018lea Babi Var din apropierea Kievului"
+            }
+        }
+    },
+    "img_270": {
+        "page": "270",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "92": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "264"
+            },
+            "93": {
+                "class": "text",
+                "x": 51,
+                "y": 720,
+                "height": 95,
+                "width": 508,
+                "leftCorner": [
+                    51,
+                    720
+                ],
+                "rightCorner": [
+                    559,
+                    815
+                ],
+                "text": "Bibliografie:\nRenasterea sperantei, Editura Hasefer Bucuresti, 1998,\nLya Benjamin, Prigoana si rezistenta evreilor in Rom\u00e9nia,1940-1944, Editura Hasefer,\nBucuresti, 2001\nMarius Mircu, Oameni de omenie in vremuri de neomenie, Editura Hasefer, Bucuresti, 1996,\nRadu loanid, Evreii sub regimul Antonescu, Editura Hasefer, Bucuresti, 1997, p 420."
+            },
+            "94": {
+                "class": "text",
+                "x": 50,
+                "y": 37,
+                "height": 680,
+                "width": 509,
+                "leftCorner": [
+                    50,
+                    37
+                ],
+                "rightCorner": [
+                    559,
+                    717
+                ],
+                "text": "{In toamna anului 1941 s-a trecut la o noua faza. Daca pin acum finta o reprezentau evreii\nrusi, acum urmau si fie ucisi evreii din Polonia si Serbia. Pentru aceasta, germanii au folosit dube de\n_gazare, masini special sigilate in care gazul de exapament era introdus in compartimentul unde se\naflau vietimele pentru ale asfixia. in iarna 1941 ~ 1942, executile prin impuscare au incetat, in parte\ndin cauza faptului ci pimantul inghetat nu permitea siparea gropilor pentru evreii uciyi. in plus,\n\u2018germanii tebuiau si timiti multi evrei in Germania pentru a munci ca sclavi in vederea sustineri\ncefortului de rizboi. Cu toate acestea, in primivara lui 1942, campania intensivi de omoruri a fost\nreluatd, de data aceasta fiind ucisi chiar si evreii ce munceau ca sclavi. Grupele de actiune fi furnizau\nlui Hitler rapoarte privind numarul evreilor si al altor persoane indezirabile ucise, Aceste documente\nreprezintlsursa primara de cunoastere a dimensiunii crimelor in masa sAvargite in estul Europei pind\nin primavara lui 1942. Se estimeaza ca din vara lui 1941. pana in vara lui 1942 nazistit au impuseat\n\u2018mai mult de un milion de evrei pe marginea gropilor comune sipate de ei ings\n\nPe 12 decembrie 1941, Joseph Goebbels, ministrul lui Hitler pentru propaganda si iluminare\nnational, nota in jurnalul siu: \"In eeea ce priveste problema evreiasc\u2019, [Hitler] este hotirat si 0\nrezolve pe deplin. A prezis evteilor c& dacd vor incepe din now un rizboi mondial vor ajunge la\npropria exterminare. Aceasta nu a fost 0 frazi goal\u2019. Rizboiul mondial a inceput, exterminarea\n\u2018evreilor este consecinja necesar.\u201d\n\n{In toamna anului 1941 nazigtii au inceput deportarea tuturor evreilor din Europa ocupat\u00e9 citre\nest Polonia si vestul URSS-ului) pentru a-i extermina, Inte timp, in Germania fusese deja adus la\nindeplinire programul de exterminare a persoanclor cu handicap mental sau cu handicap fizic sever.\nIn asa-numitul program de eutanasiere, care a inceput in toamna anului 1939, doctori naziti au ucis,\n\u2018germani cu handicap mental sau fizie. Zeci de mii au fost omoriji, majoritatea prin administrarea\nmonoxidului de carbon. Multi alti au fost ucisi in dube de gazare. in august 1941, Hitler a ordonat\nincetarea programului de eutanasiere intruc\u00e9t producea neliniste in rindul opiniei publice germane.\nExperienfa acumulati a fost folositi pentru solusia finali, numele sub care a rimas cunoscut\nprogramul de ucidere a evreilor din Europa ocupati de nazisti. Dubele de gazare si personalul care\n\u2018activa in programul de eutanasiere au fost mutate in estul Europei si use la dispoziia lui Odilo\nGlobocnik, ofierul SS care rispundea de zona Lublin - in Polonia ocupata\n\nCand echipele de cutanasiere au ajuns in est, la sfarsitul anului 1941, au inceput planificarea\ncconstruirii unor adevarateinstalafii de ucis. Din septembrie pana in decembrie 1941 au fost testate\ndiferte tipuri de gaz otravitor. in septembrie 1941 au desfisurat experimente de gazare la Auschwit\nucigind 600 de prizonieri de rizboi rusi prin folosirea cianidei, un gaz obyinut din Cyclon-B, numele\n\u2018comercial al unui pesticid pe baza de acid hidrocianic. In noiembrie 1941, 30 de prizonieri au fost\nucisi intr-o masina de gazare in lagirul de eoncentrare de la Sachsenhausen, in nordul Berlinulu\nlagirul de concentrare de la Chelmno, nu departe de de Lodz, locul pe care se afla un mare ghetou\nfevreiese in vestul Poloniei, gazarea a inceput si fie folositi la $ decembrie 1941, Odata ce si-au\nimbundtajit tehnicile de gazare, nazistit au decis deportarea tuturor evreilor din Europa ocupata pentru\nfi uci in est. Tarile din care evreii erau deportaji includeau fari sub ocupatie germana: Norvegia,\nFranja, Olanda, Belgia, Luxemburg, Cehoslovacia, Polonia, Iugoslavia, Grecia, ca si fri aliate\nGermaniei: Italia si Ungaria. La 2 1942, o intrunire a ofiialilor cu rang inalt prezidati de\nHeydrich s-a desfiguratintr-o locuintd apartinind SS-ului, n cartierul berlinez Wannsee. intalnirea a\nFimas cunoscuti sub denumirea Conferinta Wannsee. Atasat instintirit de a participa la conferint\n\u2018aparea un ordin din partea liderului nazist Hermann Goring adresat lui Heydrich de a pregati la nivel\n\u2018european solusia final pentru problema evreiascd. Heydrich le-a comunicat patticipantilor la\ncconferinga ca evreii care nu puteau munci trebuiau sa fie omoriti, iar cei care supraviefuiau muneii\nfortate datoit\u00e9rezistenfei lor fizice tocmai pentru acest motiv urmau 84 fie si ei omoriti. Conferinta\nWannsee a fost un moment important in evolutia politicii de exterminare pentru ci, cu aceasti ocazie,\nparticipangi au fost instruti si-si coordoneze eforturle pentru exterminarea evrcilor."
+            }
+        }
+    },
+    "img_271": {
+        "page": "271",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "95": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "265"
+            },
+            "96": {
+                "class": "text",
+                "x": 50,
+                "y": 123,
+                "height": 677,
+                "width": 507,
+                "leftCorner": [
+                    50,
+                    123
+                ],
+                "rightCorner": [
+                    557,
+                    800
+                ],
+                "text": "Timp de secole, crestinii din Europa au avut o atitudine discriminatorie fafi de evrei. Pentru\nrnulji dine ei prejudecata impotriva evreilor imbrica forma antsemitismului. Unit cercetitori\nprivese anti-semitismal ea pe o prejudecata religioasi. Ali il vad ea pe o varietate anti-eveiasca a\ntin sentiment de uri general indreptatt impotriva minoritiilor etnice. In concepia anti-semit,\nevrei rerezint forte misterioase, mitice si diabolic, sunt atotputemei i joaed un rol sinistry in\nistoria omeniny, In Eval Medio, erestinis anti-semiti predicau interzicerea contacts cu evrei\nthuli eredeau cd eveit sunt alii Diavolului, Mulfi cedeau ca de faptevreit nici nu sunt oamen 31\n4 folosese magia pentru a crea aparenja cf sunt ca celal, Toate acest eredinfe s-au amesteca cu\nsuperstiile privind puterea magici a singelui uman, vrjitoria si perversiunea, ajungandu-se la\nlicheta de singe\u201d, alsa acuzaie cd evel folosese singel copilo eesti in rtualurte lor\n\nAsemeneaideistereotpe despre evrei au inteacjionat in mintea multor europeni cu teama de\norice era strain cunoasteri lor, dar si eu tensinile economice si sociale, Ca relat, volenjanti-\nSemiti sa manifestat in repotte rindur. Bisericaerestina gi diverse guveme au adoptat lei care\nintericcau eveilor si desfigoare anumite ativiti, x8 aiba anumite ocupai, ji oblgau si Tocuiased\nttumai in anumite zone, fi impiedicau si urmeze studi universitare sau chiar i indepariau de pe\nteritoriul anumitor state, Secole la rind, Biserica Romano-Catolicd a incuajat credinfle yi atitudinile\nant-semite. Desi invijituile Bisericii nu au susfinut si nici nu au justfiat uciderea evreilor,\npropagarea uri, insultelor, degradirit si deseori demonizarea evteilor a ficut ca mulficatlici si\nfcceple misurile anti-semite inroduse de nazi si colaboratoritacestora in secolul XX. Aceesi\nsiuafie este valabila si pentru bisercile protestant. Pamfetl intulat Despre evrei si minciunile lor,\nseri in 1542 de reformatoulreligios german Matin Luther, conjnea un limbaj extrem de violent.\n\u2018cesta ti instiga pe erestnis4incendieze sinagopile s distrugh casele evelor si si pund pe evrei\nin grajduri git sftuia pe oamenii de stat sii alunge pe evrei din trite lo. Serieile hi Luther au\navut o influenfi semniticativi asupra telogilor germani protestant sia contribuit la erearea unui\n<limat de opnie care cerea sau aproba persecutarea evil.\n\nTn secolul al XIX-lea, evreii din majoritatea tarilor europene au fost emancipati \u2014adica li sau\nfgarantat drepturi egale cu cele ale cetifeniloretesin\u2019 si ceorlali cetifeni ai statelor respective\nRevolusia industiala era in desfigurare si evreli au inceput si joace un rol important ca\ninweprinzitor in noile industii si afaceri. Mobilitatea socald si economicd precum si avansul\ncultural al evteilor europeni in aceasts perioada au ficut din ei unul din cele mai vizbile simbolur\nfale modemiziri, Indivzi care s-au opus moderizii din secolul XIX ~ de la aristocrat la yrani~ i\npereepeat pe evrei ca pe o forta distrutivi, Atitudinea tradiionall, are a persistat gi dup\u2019\n\u2018emaneipareaevrelor, si noua imagine a eveilor s-au combinat eu frutrrle eontemporane si mania\nreaultatelor din schimbatile sociale aduse de capitalism. fn a doua jumitate a seeolului XIX, anti\nSemitismal modem a penetrat cercurle police ealoice gi partdele.Ziarul iezuit Chia Cattolica,\nPublicat la Roma, rispindea permanent prejudecdjian-semite a ciror influenga se resimyea eu mult\nAincolo de granfele Mali. fn Austria, Partdul Social Cretn, care se bucura de spijinul Bsericit\nCCatolice,cuprindea puternice elemente ant-semite si areinvat eticheta de singe. in Frana, presa\ncatoliclrispindea si ca ii anisemite, mai ales in timpul afaceri Dreyfus (0 controversata\npropagands de presi ce implica un fier evreu din armatafranceza care fusese condamnat pe nedrep\npentru tidare, in 1894), Pe la jumtatea secolului al XIX in Europa a aprut \u00a9 nous teore: cea a\ntase. Porivitacesteiteorii, umanitatea era impli fn rase \"superiare\u201d si ase inferioare\u2122. Dupa\nParerea adeptilor acestei teorii, evreii erau o rasi sub-umana si o amenintare mortala la adresa\n\u201cpurititii\" raselor \"superioare\u201d.\n\n\u2018Aparitia partidelor si orgenizaiiloranti-semite,indiferent ese bazau pe principii economiee,\nreligioase sau de fasi, sau pe 0 combinajie a tuturor acestora, constiuie earacterstied cea mai\nimportants a. ant-semitsmului politic modern, Asemenea paride s-au manifestat mai ales Tn\nGermania in ani 1880,"
+            },
+            "97": {},
+            "98": {
+                "class": "text",
+                "x": 162,
+                "y": 39,
+                "height": 39,
+                "width": 284,
+                "leftCorner": [
+                    162,
+                    39
+                ],
+                "rightCorner": [
+                    446,
+                    78
+                ],
+                "text": "CONDITHLE ISTORICEALE HOLOCAUSTULUL\nSLASCENSIUNEA NAZISTILOR LA PUTERE."
+            }
+        }
+    },
+    "img_272": {
+        "page": "272",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "99": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "266"
+            },
+            "100": {
+                "class": "text",
+                "x": 50,
+                "y": 37,
+                "height": 764,
+                "width": 507,
+                "leftCorner": [
+                    50,
+                    37
+                ],
+                "rightCorner": [
+                    557,
+                    801
+                ],
+                "text": "{In Imperiul Rus anti-semitismul a devenit politica oficial a guvernului care, in 1881 si 1882,\n\u20182 Incurajat violente atacuri armate impotriva evreilor, cunoscute ea pogromur. La ineeputul secolului\nXX existau mulfi anti-semiti convingi pe tot teritoriul Europei, dar mai ales in Franta, Germania,\n\u2018Austro-Ungaria, Rusia si Rominia. Desi partidele anti-semite nu au primit prea mare susjinere din\nPartea electoratului, ant-semitismul nu era doar foarte rdspindit, ci si acceptat din punct de vedere\nsocial. Apariia najiunilor-state in estul Europei dupa pribusirea imperiilor Rus, Imperiul German i\nAustro-Ungar la sfargitul primului rizboi mondial (1914 ~ 1918) a adus un val de anti-semitism fir\nprecedent. Atit indivizi, ct si guverne au sivargit ace ostie evreilor. Multi dine liderii Revolutiet\nBolsevice din 1917 din Rusia comunist\u00e9 erau evrei, ceea ce a alimentat ideile antisemite ale\ncconservatorilor anti-comunisti din multe fri. In perioada cuprins\u00e9 intre sfarsitul primului rizboi\nmongial si inceputul celui de- mondial in unele tari masurile anti-semite au devenit\n\n \n\n  \n\n  \n \n\npolitica o baltice Lituania,\nideile traditionale anti-semite s-au 1 noua imagine a evreilor ea promotor a\nMulti germani i-au invinovatit pe evrei pentru infrdngerea Germaniei in primul_rizboi\n\n \n\nmondial, uni susfinind chiar ef acestia au trida naiunea germand tn timpul acest rizboi. Mai\nmul a sfirialrabovulu un grup eu orietare comunist a incercat s organizeze o revolute de tip\nbolsevi in staal german Bavaria, Majritatca lderiloracesci tentative esuateerau evr. Ca urmare,\nuni germani i asoeiaw pe evre cu boleviei i priveau ambele grupar ea pe inamict peicuosi a\nGermanici. Dupi rizboi, in Germania s-a instaurat Republica de la Weimar. Poliicinit i\ninflectualit eve a jueat un rol important in viata Germanic in impul acest republic si multi ne-\nvrei a fost nemaltumiti de influent lor. Pin in 1928, Partial Nationalist Soctais Muncitoresc\n\u2018in Germania, aa cum se numea oficial Partdul Nazist, era un arid politic mie. poi in alegeile\nparlamentare din 1930 paral a obfinat mai mult de\u2019 18 procente din numirl total de vot,\nompartiv cu 2.5 procente in 1928. Majoritatea votuilor in favoareanazisilor veneau din paren\n\u2018lassi de mijlc ga eelor eu siiate cconomick bund gi nu a muncitorlor sau gomerilor.\n\nFactori principal in succesul electoral al nazitilor a fost: fra latent provocat de colapsul\nmilitar a pre sfiyiul primuluirizboi mondial resentimentul fxd de Trattul dea\nVersailles care a pus capat rizboiului si a impus condijit foarte aspre Germanic depresiunea\neconomic\u2019 mondiala din anii 1930; teama de raspindirea comunismului; personalitatea carismatica a\nlui Hitler. Pana in 1930, Germania nu a fost capabila si ajunga la un consens politic. Faptul c& nici un\nparid ni a ptt const un guver majorite ereat un vacuum de ptere io instablitate politica\nin Reichstag, parlamentul german, Majorittea germanilor doreau si inlocuiases republic, 3i\nrulitinea ef de partideaflate in compete, ev un sistem autritar ce promiteastabiitate gi Locuri\nde munca. Ca urmare, nani au estigatpopulariate in alegre din 1930 In alegerile parlamentare\ndin septembrie 1932, au obginut un rezulat ind gi mai bun, cu aproximativ 38 procene din votur\nNa au objinut majortatea in Reichstag, dar sprijinul primit\u2019 de Hitler din partes Partiduui\nConservator a oferitbaza necesar\u00e9 pena o coaliie de givernamnt, Asfl, la 30 ianuaric 1953,\nprevedintle Paul von Hindenburg l-t num pe Hitler in funcia de cancelar (primis)\n\nDe indati ce av preluatputrea,nazistit au Fcut din rasism si anti-semitism componente\ncontale ale fegimului lr. In primele nila ptere, Partial Nazis instigat la revolt antivsemite\nfamponii ale terort ce. au eulminat la 1 aprile 1933 cu un boicot la nivel national impotriva\ncomerciantilor si iberprofsionstilr evrei ~ doctor, avocai, 5.8. In plus, noul guvem a emis,\nregulamente si ordonane pin care it ipsea pe eve de drepurie civile 31 mijloaele economice de\nsubsteni. Pe 7 aprile 1933, Parlamentul a adoptato lege prin care guvemul era abiltat si\ninlture pe eve\u2019 din servicile administrative germane. Mai trziu, au fost adoptate act aiionale\nprin care se limita numiul studenjilr eve. Cu toate acestea, Hitler sali ide nazis considerau\nfceste reglementrinsuffiene gi au decis si implementeze un cadru legal complet penta politicile\nlor an-semite. Unul din primele decretedefineau termenul evrev. Crucial in aceasta determinare\n\u00a2rareligia bunicilor, Oricne avea tei sau pas parini evr ea considerat automat ca find eve,\nindiferent daca porsoana respctva fica sat nu parte dn comumtate eveiascd\n\nei care aveau doar doi bunici eve, cunoscuti ca jumitate-evrei, erau considerati eve\nruin dack aparinens rcligic\u2019iudaice sau eras cdstorfi eu un evrew, Toft celal jumtate-erei\nprecuin si persoancle care aveau numa un bunic evreu era casifcai ea Mischlinge (met). Evrei\n$i Mischlnge eau \"non-arian\u201d in contrat eu germanii \"pri cae ea \u201carian"
+            }
+        }
+    },
+    "img_273": {
+        "page": "273",
+        "pageWidth": "600",
+        "pageHeight": "864",
+        "sections": {
+            "101": {
+                "class": "text",
+                "x": 288,
+                "y": 817,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    288,
+                    817
+                ],
+                "rightCorner": [
+                    319,
+                    840
+                ],
+                "text": "267"
+            },
+            "102": {
+                "class": "text",
+                "x": 87,
+                "y": 636,
+                "height": 68,
+                "width": 459,
+                "leftCorner": [
+                    87,
+                    636
+                ],
+                "rightCorner": [
+                    546,
+                    704
+                ],
+                "text": "Evreii din Romania intre anii 1940-1944, vol.IV, 1943-1944, Bilantul tragediei\nRenasterea speranfei, Editura Hasefer, Bucuresti, 1998, p.512\n\nMichael Saphir, Negarea Holocaustului in fare postcomuniste in Europa Central side Est,\nEditura Polirom, las, 2002, p.163."
+            },
+            "103": {
+                "class": "text",
+                "x": 88,
+                "y": 609,
+                "height": 25,
+                "width": 77,
+                "leftCorner": [
+                    88,
+                    609
+                ],
+                "rightCorner": [
+                    165,
+                    634
+                ],
+                "text": "yerafie:"
+            },
+            "104": {
+                "class": "text",
+                "x": 50,
+                "y": 37,
+                "height": 569,
+                "width": 507,
+                "leftCorner": [
+                    50,
+                    37
+                ],
+                "rightCorner": [
+                    557,
+                    606
+                ],
+                "text": "{In doctrina nazistd sublinierea descendenfei era privita cao afirmare a rasei, dar scopul\nprincipal al acestor clasificiri era delimitarea clari a celor impotriva cirora actionau legile si\n\u2018irectivele diseriminatori, Pe 15 septembrie 1935, Reichstagul s-a intrunit la Nuremberg si a adoptat\n\n \n\n   \n\noui legi, cunoscute ca \"Legile de la Nuremberg\". Prima, Legea Cetifeniei Statului, declara c& numa\npersoanele \"cu singe german\u201d pot fi cetajeni ai Reich-ului (statului) german, lipsindu-i astfel de\n\n \n\nelfen pe evreit germani. Cea de-a doua, Legea pentru Protejarea Singelui gi Onoaei German,\nformaliza barierele inte evrei si german interzicind eisitria si rele sexuale inte evrei i\narian\". Astfl,nazigi isa lipst pe evrei germani de drepurile lor eivie sau excus efestiv din\nviata social gi cultural, Politica lors ineptat apoi spre expropriera proprisjilor evrciesti cu\nintentia de ai Fria pe evel si emigreze din Germania.\n\nTn 1938, evrilr i sa interzis 88 profeseze oa mei a fost obliga sisi\ninregistreze propriettil, ca 0 misurhprliminarh a confiseai $i\" \"lor sau vin orate\ncite german. fn fapt, guvernul i fora pe eve si accepte dela cumparitri \u201carian prefur care\nreprezentau doar 0 Tractune din valoarea real proprietor. Cind nazistt au peluat puterea in\nGermania epscopi catoici germani au crezt cb Hitler va proteja eivilizatia erestind a Furope de\npericoulbolgevie si, de acea, au acceptat regimulnazist au sprint politica extema nationalist a\nfcestuia, In ciuda opoziti fa de doctina rasist a lui Hitler lidert Biserci Catlice sa altor\nbisericierestine mu au adoptat \u00a9 port oficial impotriva politicitantisemite. Marie biserci\nrestine ofeean spin duhovniceseevreilor convent la crestnism care erau persccutai de nazis,\ndar nu aw reacfionat ind nazis au introdus legisla resist, cdnd ay insiga atacur fice\nimpotrva evreilor si niet cind a ineeput deportatea si exterminareaevrcilor, Attudinea calor mai\n\nii prelai ai Bisericit Romano-Catolice sub Papa Pius al Xl-lea a fost aseminitoare cele a\nepscopilor catolie germani. Papa na critica niciodath persecatateaevrilr, nici nu a amenitat ct\nexcominicara lui Hitler (care era catolic) sau ator eatolck implica in Holocaust. Mai mul, des\nPapa gi conslieri li era foarte bine informati cu prvie la exterminareaeveilor in timpul celui de-\n1. doilesrizboi mondial, au refuzat si condamne aceasthcrimd pe motivul ed Cetatea Vatican.\nmicul stat independent aflat sub autortatea Papi, tebua si plstezeo neutalitae trict i rele\nintemationae.\n\nDupi ancxaren Aust\u2019 de itre Germania, in marie 1938, aceleasi masur ant-semite au fost\nimplementae i aici. Peste un an, aceste misuri era aplicate in Boemia si Moravia teritorit pe care\nGermania le ocupat dupa dezmembrarce Cohoslovaciei, Pini in 1938, dou trimi din evel\n\u2018german priser fara st 60% din cei care au rims isi pierdusertproprittile, Activitaile anti-\nSemite ale naziglor au culinat eu pogromal din Nogpte de erisal (in german: Krisallnacht, care\nsa desfiurat pe integ teritoriol Germanic si Austriei in noaptea de 9 noiembrie 1938, In acca\nnoapt, band de nazis au ueis 90 de eve, au but alte cteva sute au demolat 76 de sinagost sau\nincendiat alte 191 51 au dist si vandalizat mii de magazine si birouri de afceri dinate de vrei\nAurore au aresta 30,00 de evei pe care ia timis in lare de concentrare unde av fst supusi\nunui tratamentinuman, Pogroml Nop de Cristal a marcat un panct de riscruce pent acinile\nnaziste impotriva evteilor, pena ca fost prima situate din istria moderna in care violenta a fost\nndreptats pe scar arg in mod deliberat fmporiva eveilor into tard vest european"
+            }
+        }
+    }
+}

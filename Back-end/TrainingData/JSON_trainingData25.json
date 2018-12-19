@@ -1,0 +1,830 @@
+{
+    "numberOfPages": 128,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 236,
+                "y": 762,
+                "height": 32,
+                "width": 106,
+                "leftCorner": [
+                    236,
+                    762
+                ],
+                "rightCorner": [
+                    342,
+                    794
+                ],
+                "text": "Editura Pm"
+            },
+            "2": {
+                "class": "text",
+                "x": 274,
+                "y": 698,
+                "height": 24,
+                "width": 69,
+                "leftCorner": [
+                    274,
+                    698
+                ],
+                "rightCorner": [
+                    343,
+                    722
+                ],
+                "text": "\u2018MAI 2007"
+            },
+            "3": {
+                "class": "text",
+                "x": 235,
+                "y": 698,
+                "height": 26,
+                "width": 38,
+                "leftCorner": [
+                    235,
+                    698
+                ],
+                "rightCorner": [
+                    273,
+                    724
+                ],
+                "text": "IASI"
+            },
+            "4": {
+                "class": "text",
+                "x": 247,
+                "y": 532,
+                "height": 26,
+                "width": 83,
+                "leftCorner": [
+                    247,
+                    532
+                ],
+                "rightCorner": [
+                    330,
+                    558
+                ],
+                "text": "SINTEZE"
+            },
+            "5": {
+                "class": "text",
+                "x": 235,
+                "y": 478,
+                "height": 27,
+                "width": 107,
+                "leftCorner": [
+                    235,
+                    478
+                ],
+                "rightCorner": [
+                    342,
+                    505
+                ],
+                "text": "EDITIA a Ill-a"
+            },
+            "6": {
+                "class": "text",
+                "x": 149,
+                "y": 367,
+                "height": 44,
+                "width": 282,
+                "leftCorner": [
+                    149,
+                    367
+                ],
+                "rightCorner": [
+                    431,
+                    411
+                ],
+                "text": "REPERE IN ISTORJE"
+            },
+            "7": {
+                "class": "text",
+                "x": 99,
+                "y": 303,
+                "height": 41,
+                "width": 382,
+                "leftCorner": [
+                    99,
+                    303
+                ],
+                "rightCorner": [
+                    481,
+                    344
+                ],
+                "text": "SIMPOZIONUL JUDETEAN"
+            },
+            "8": {
+                "class": "text",
+                "x": 76,
+                "y": 95,
+                "height": 52,
+                "width": 425,
+                "leftCorner": [
+                    76,
+                    95
+                ],
+                "rightCorner": [
+                    501,
+                    147
+                ],
+                "text": "INSPECTORATUL $COLAR AL JUDETULUI IASI\nSCOALA ,,ION GHICA\u201d IAS!"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "9": {},
+            "10": {
+                "class": "text",
+                "x": 57,
+                "y": 639,
+                "height": 22,
+                "width": 139,
+                "leftCorner": [
+                    57,
+                    639
+                ],
+                "rightCorner": [
+                    196,
+                    661
+                ],
+                "text": "ISBN: 978-973-716-660-9"
+            },
+            "11": {
+                "class": "text",
+                "x": 57,
+                "y": 501,
+                "height": 117,
+                "width": 228,
+                "leftCorner": [
+                    57,
+                    501
+                ],
+                "rightCorner": [
+                    285,
+                    618
+                ],
+                "text": "\u2018Tipar digital realizat I\n\neprruraPM\n\nSoseaua Stefan col Mare nr, 11 asi -700898\n\u2018To. fax 0232-212740,\n\ne-maiLediturapim@pimeopy.r0\nsw pimecopy 70\n\nEDITURA ACREDITATA CNCSIS BUCURESTI\n66/01.05.2006"
+            },
+            "12": {
+                "class": "text",
+                "x": 62,
+                "y": 436,
+                "height": 55,
+                "width": 289,
+                "leftCorner": [
+                    62,
+                    436
+                ],
+                "rightCorner": [
+                    351,
+                    491
+                ],
+                "text": "Inst, Raluca larovoi {nv. Vasilica Hoaia\ninv. foana Chichiriu Inv. Ana Radu\n\n \n\nInv. Vasile Bizdags"
+            },
+            "13": {
+                "class": "text",
+                "x": 92,
+                "y": 411,
+                "height": 23,
+                "width": 204,
+                "leftCorner": [
+                    92,
+                    411
+                ],
+                "rightCorner": [
+                    296,
+                    434
+                ],
+                "text": "COORDONATORI VOLUMUL"
+            },
+            "14": {
+                "class": "text",
+                "x": 62,
+                "y": 271,
+                "height": 134,
+                "width": 180,
+                "leftCorner": [
+                    62,
+                    271
+                ],
+                "rightCorner": [
+                    242,
+                    405
+                ],
+                "text": "Prof. Drd. Elvira Rotundu\nProf. Dr. Licrimioara lordicheseu\nInst. Genoveva Farcas\n\nInst. Tulian Cristea\n\nInst, Comeliu Constantin lie\n\nProf. Carmen Tomescu\nProf. Mihaela Ionescu\nInst. Raluca larovoi\ninv. Vasilica Hoaia"
+            },
+            "15": {
+                "class": "text",
+                "x": 92,
+                "y": 244,
+                "height": 22,
+                "width": 228,
+                "leftCorner": [
+                    92,
+                    244
+                ],
+                "rightCorner": [
+                    320,
+                    266
+                ],
+                "text": "COORDONATORIIS\n\n  \n\nIMPOZIONULUI:"
+            },
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 190,
+                "y": 138,
+                "height": 45,
+                "width": 198,
+                "leftCorner": [
+                    190,
+                    138
+                ],
+                "rightCorner": [
+                    388,
+                    183
+                ],
+                "text": "SIMPOZIONUL JUDETEAN\nREPERE IN [STORIE"
+            },
+            "18": {
+                "class": "text",
+                "x": 151,
+                "y": 93,
+                "height": 38,
+                "width": 275,
+                "leftCorner": [
+                    151,
+                    93
+                ],
+                "rightCorner": [
+                    426,
+                    131
+                ],
+                "text": "INSPECTORATUL $COLAR AL JUDETULULIASI\nSCOALA JON GHICA\u201d IASI"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 52,
+                "y": 679,
+                "height": 57,
+                "width": 493,
+                "leftCorner": [
+                    52,
+                    679
+                ],
+                "rightCorner": [
+                    545,
+                    736
+                ],
+                "text": "\" Niew Adriana, Stategi de formare a gindiri erice Bucuresti, Editura Didactied i Pedagogic3, 2007, p38\n\n2 Dulam Eliza Maria, Model strategit si thnicididaticesctivizante cu apliati in geograte, Eitura\n\u2018Clusium, Cluj-Napoca, 2002, p.16t"
+            },
+            "21": {
+                "class": "text",
+                "x": 53,
+                "y": 235,
+                "height": 440,
+                "width": 497,
+                "leftCorner": [
+                    53,
+                    235
+                ],
+                "rightCorner": [
+                    550,
+                    675
+                ],
+                "text": "Printre strategiile de formare a gindirii critice bazate pe modelul de proiectare didactic\u2019\nEvocare/Realizarea sensului/Reflectie, se numara si reprezentirile sau organizatorii grafic.\nReprezentirile sau organizatori grafic ii ajuth pe elevi si lege simbolurile de imagini si si\nle raporteze la materialul de invafat, Cercetirile de psihologie cognitiva demonstreaz ci\nproducerea de reprezentiri sporeste eficacitatea asimilari $i infelegeri, in condijile in care se\nsusfine c& formele grafice imita modul in care unitatile de informatie sunt structurate in\nmemorie, Cu cat este mai adined procesarea unui stimul, cu atat este mai bine reinut in\nmemoria de lung\u2019 durati. Tehnicile de organizare grafick a informaiilor faciliteazi\nprocesarea adinci a informatiilor de catre elevi. 'Prin folosirea tehnicilor de organizare\ngrafici a informafiilor, clevii invafi si extragi informatiile esenjiale dintr-un confinut,\natribuie informatiilor anumite semnificatii, identified unele conexiuni existente intre diferite\n\naspecte din realitate, exerseazi principalele operatii ale gindirii, stabilese ierarhii si\n\u2018cronologii, stabilesc conexiuni logice intre vechile cunostinte si noile informatii, Organizarea\ngraficd a informatiilor poate fi folosita de la nivelul claselor primare pnd la nivel universitar.\nMetoda se bazeazii pe scriere si poate fi folositi in activitijile individuale sau de grup, in\n\nelapele de evocare, realizare a sensului sau in etapa de reflecfie. Sunt considerate tehnici de\n\u2018organizare grafici a informatiilor: tabelul incomplet, tabelul consecinjelor, tabelul\n\u2018comparativ, tabelul conceptelor, organizatorul grafic comparativ, diagrama Venn, bula dubli,\norganizatorul grafic al caracteristicilor, soarele caracteristicilor, organizatorul grafic\nceronologic, friza cronologici, organizatorul grafic al etapelor,. stabilirea succesiunii\nevenimentelor, organizatorul grafic de tip cauzi-efect, otganizatorul grafic de tip situatie \u2014\nproblema - explicatie, expunerea pe tabli, hexagonul, jumalul grafic, cadranele, analiza\nSWOT, ciorchinele, harta cu figuri, ehnica blazonului, suporturi metaforice, posterul.?\n\nNe-am oprit in demersul nostru didactic asupra unora dintre tchnicile amintte,\nexemplificind cu sareini de lucru din lecfit prevazute in programa la clasele a V a sia VI a,\nHexagonul este un organizator grafic utilizabil in situatiile de invijare care implick sase\naspecte diferite ale unei probleme, Etapele acestei tehnici:\n\n*Comunicarea sarcinii de lucru: Cititi textul urmator care se refer la aparitia statului, apoi\nispundeti la intrebarile din hexagonul de mai jos."
+            },
+            "22": {
+                "class": "text",
+                "x": 220,
+                "y": 206,
+                "height": 25,
+                "width": 330,
+                "leftCorner": [
+                    220,
+                    206
+                ],
+                "rightCorner": [
+                    550,
+                    231
+                ],
+                "text": "Prof. Marcela Tugulea, Scoala cu clasele I-VIII nr. 4, Radauti"
+            },
+            "23": {
+                "class": "text",
+                "x": 136,
+                "y": 147,
+                "height": 52,
+                "width": 314,
+                "leftCorner": [
+                    136,
+                    147
+                ],
+                "rightCorner": [
+                    450,
+                    199
+                ],
+                "text": "ORGANIZATORUL GRAFIC ~\nDE FORMARE A GANDIRII CRITICE\n\n \n\nIN ORELE DE ISTORIE"
+            },
+            "24": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 25,
+                "width": 497,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    549,
+                    112
+                ],
+                "text": "ines\n\nnt"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 60,
+                "y": 484,
+                "height": 238,
+                "width": 357,
+                "leftCorner": [
+                    60,
+                    484
+                ],
+                "rightCorner": [
+                    417,
+                    722
+                ],
+                "text": "\u2018CAUZE\n\n \n\nRAZBOATE\n\n \n\n \n\n \n\n \n\n \n\nREZOLVAREA\nSITUATIEL"
+            },
+            "27": {
+                "class": "text",
+                "x": 45,
+                "y": 324,
+                "height": 171,
+                "width": 506,
+                "leftCorner": [
+                    45,
+                    324
+                ],
+                "rightCorner": [
+                    551,
+                    495
+                ],
+                "text": "* Activitate in perechi: Discutafi cu colegul de banc\u2019 cum anume a completat fiecare\ntriunghi, solictasi-va colegul si rispunda la eventualele intrebaci, timp de lueru $ minute,\n* Activitate frontal: pe baza rispunsurilor formulate de fiecare pereche, profesorul\n\n \n\n\u2018completeazi hexagonul pe tabli si discuti cu elevii daca sunt de acord cu rispunsul. Se oferi\ninformariile si explicatile necesare despre aparifia statului\n\n\\Organizatorul grafic de tip cauza-efect se utilizeaz\u2019 pentru evidenfierea cauzelor si\nefectelor unor evenimente, procese, fenomene. Pentru realizarea unui astfel de organizator se\nparcurg mai multe etape:\n\n*Citisi textul din manual( sau de pe fisa de lucru ) si organizati grafic efectele rizboaiclor\nreligioase din Fran{a dupa modelul oferit,"
+            },
+            "28": {
+                "class": "text",
+                "x": 183,
+                "y": 294,
+                "height": 26,
+                "width": 193,
+                "leftCorner": [
+                    183,
+                    294
+                ],
+                "rightCorner": [
+                    376,
+                    320
+                ],
+                "text": "6. Cum s-au format primele state?"
+            },
+            "29": {
+                "class": "text",
+                "x": 387,
+                "y": 220,
+                "height": 38,
+                "width": 157,
+                "leftCorner": [
+                    387,
+                    220
+                ],
+                "rightCorner": [
+                    544,
+                    258
+                ],
+                "text": "wu format primele\nstate?"
+            },
+            "30": {
+                "class": "text",
+                "x": 60,
+                "y": 220,
+                "height": 23,
+                "width": 124,
+                "leftCorner": [
+                    60,
+                    220
+                ],
+                "rightCorner": [
+                    184,
+                    243
+                ],
+                "text": "4. Cfind s-au format?"
+            },
+            "31": {
+                "class": "text",
+                "x": 57,
+                "y": 176,
+                "height": 25,
+                "width": 124,
+                "leftCorner": [
+                    57,
+                    176
+                ],
+                "rightCorner": [
+                    181,
+                    201
+                ],
+                "text": "2.De ce apare statul ?"
+            },
+            "32": {},
+            "33": {
+                "class": "text",
+                "x": 180,
+                "y": 132,
+                "height": 153,
+                "width": 245,
+                "leftCorner": [
+                    180,
+                    132
+                ],
+                "rightCorner": [
+                    425,
+                    285
+                ],
+                "text": "1, Care sunt elementele care definese statul ?"
+            },
+            "34": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 40,
+                "width": 497,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    549,
+                    127
+                ],
+                "text": "sTvoI"
+            }
+        }
+    },
+    "img_123": {
+        "page": "123",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "35": {
+                "class": "text",
+                "x": 284,
+                "y": 770,
+                "height": 25,
+                "width": 33,
+                "leftCorner": [
+                    284,
+                    770
+                ],
+                "rightCorner": [
+                    317,
+                    795
+                ],
+                "text": "123"
+            },
+            "36": {
+                "class": "text",
+                "x": 361,
+                "y": 220,
+                "height": 26,
+                "width": 189,
+                "leftCorner": [
+                    361,
+                    220
+                ],
+                "rightCorner": [
+                    550,
+                    246
+                ],
+                "text": "1475), presupunand c& domnitorul"
+            },
+            "37": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 617,
+                "width": 498,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    550,
+                    704
+                ],
+                "text": "REVERE IN ISTORIE sTUoI\nActivitatea in echipi se poate organiza in cadrul orieirei lect sau activitii didactice.\nAstfel, elevii pot primi sarcini de tipul:\n\n*Realizati un dialog imaginar despre ceea ce credeti cd puteau discuta oamenii care ficeau\nparte dintr-o \u201cobste sdteasci\u201d gi populatile migratoare care ii atacau (fiecare elev din echipa\neste obligat si intervini in discutie de 2-3 ori);\n\n*Gisiti cel putin $ calitaqi ale imparatului Traian si aledtuiti-i portretul\n\nPe parcurs, sarcinile se diversified si se complied de la o siptimand la alta, Astfel, elevii\npot realiza sarcini ca:\n\n*Gasiti un alt sfaryit bataliei de la Podul Inalt (Vaslui\n\u2018Stefan cel Mare nu s-ar i aflat in fruntea ostasilor si\n\n*Gisiti in legenda \u201cStejarul din Borzesti\", de E.Camilar, intimplarea care a declangat\n\n \n    \n\n   \n\n \n\n   \n\nactiunea;\n\n\u2018Trebuie si recunoastem ci activitatea in echip nu-i usor de organizat. Ea presupune 0\npregitire anterioari serioasi, stabilirea performanjelor, fixarea sarcinilor didactice in functie\nde acestea, precizarea responsabilitiyilor in cadrul echipei, a timpului optim de rezolvare a\nccerintelor ete\n\nActivitatea in echip& organizati la intimplare, poate crea 0 serie de probleme,\nconflicte in cadrul grupului, vedetisme, izolarea celor cu ritm mai lent, acceptarea ideilor unui\nsingur membru al grupului, divizarea grupului in membri activi si membri formali ete. Aceste\nprobleme, nedescoperite la timp, pot influenta negativ formarea si educarea elevilor.\n\n\u2018Activitatea clevilor in echipe are avantaje si dezavantaje, Important este si le\n\u2018cunoastem si si tinem seama de ele.\n\nAvantajele lucrului in echipa sunt clare: elevii isi formeaz anumite deprinderi de\n\u2018comportament; se formeaza pentru viafi, pentru ci nu pot tri izolaji isi consolideaz\u2019\n\u2018cunostingele si le aplica pentru rezolvarea ceringelor.\n\nAparent, existi dezavantaje in legitur\u2019d cu notarea, Considerim ei aga-risele\ndezavantaje apar din cauza necunoasterii evaluatii in aceasti situatie, De aceea, se cuvine si\nprecizim ci nu se dau calificative membrilor echipei. Se apreciaz produsul acestora gi\nintreaga activitate, Nu se dau calificative echipei, care si fie trecute in catalog fiecirui\n\u2018membru, pentru cd nu a fost o contributie egal la efectuarea temei respective.\n\nPe lang\u2019 acest aspect, pentru unii activitatea in echipa creeaz 0 oarecare dezordine in\nclas, pentru cd elevii trebuie si comunice intre ei, si se contrazied daca este cazul, si aducd\nargumente etc, Daci asa-zisa dezordine contribuie Ia formarea deprinderilor de Tueru in\nechipa, ea este benefica. in lectii trebuie si existe $i asemenea momente in care elevii si fie\nelemente active ale procesului de predare \u2014invajare.\n\nOrganizarea activititi in echipe de elevi a constituit un sueces deoarece am reusit si\ninfluengim pozitiv nivelul de dezvoltare intelectuali al elevilor; relatiile dintre ei s-au\nimbundtajit, stabilindu-se prietenii; am reusit si le trezim interesul si curiozitatea pentru\ninvestigare; le-am dezvoltat spiritul competitiv, dar in acelasi timp si pe cel de cooperare si\najutor reciproe."
+            }
+        }
+    },
+    "img_124": {
+        "page": "124",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "38": {
+                "class": "text",
+                "x": 284,
+                "y": 770,
+                "height": 25,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    770
+                ],
+                "rightCorner": [
+                    318,
+                    795
+                ],
+                "text": "124"
+            },
+            "39": {
+                "class": "text",
+                "x": 53,
+                "y": 284,
+                "height": 454,
+                "width": 497,
+                "leftCorner": [
+                    53,
+                    284
+                ],
+                "rightCorner": [
+                    550,
+                    738
+                ],
+                "text": "Pentru a serie despre relatiile economice dintre Romania si Germania in timpul celui\nde-al doilea rizboi mondial trebuie avut in vedere gi contextul international de In sfarsitul\nperioadei interbelic, cit si desfisurarea rizboiui\n\nSe sti cd economia are un rl determinant in declangarea si susfinerea unui rizboi, mai\nales a unuia care se contura cao vitoare conflagrajie mondiala, idee subliniatd si de\nsociologul Dimitrie Gust, care afirma ci mai mult decat o simpli chestiune de stratezie,\naprovizionari si armament [n.n. - rizboiul], rezum& o intreagi epoc\u2019, toatd sina, toatd\neconomia, tata cultura, toa tehnica unui timp\u201d.\n\nGermania, una dintre cele rei mari puter revizionist, care Ricea pregitiri susfinute in\nvederea declansitii rizboiului, dispunind de pujine matetii prime, siendeosebi de petrol,\nprodus existent in cantitifi cu totul insuficiente, a actionat_pentru semnarea unor tratate\neconomice $i politice eu iri din zona sud-est european. In acest demers al Reichului,\nRomania a ocupat un loc de prim plan, ea dispunand de bogafiivitale necesare armatei\ngermane \u2014 petrol si cereale -, oferindu-i, astel, posibilitatea si-si acopere, cel putin la\nInceputul rizboiului, in bund masura, nevoie frontului si ale consumului intern,\n\nProfitind si de slibirea aliyilor traditionali ai Romaniei (Franfa si Anglia) ea urmare a\npoliticii concilitorstefat\u00e9 de Germania, aceasta din urm\u00e9 va semna eu Rominia, in perioada\ninterbelicd, dou\u2019 tratate economice, in 1938 si in. 1939. Prin incheietea acestor tratate\nGermania introduce Rom\u00e9nia intr-un spatiu economic format din state orientate spre ea si\n\u2018dependente de aceasta in politica economicd.\n\nTratatul economic din 4 decembrie 1940 este o prelungire a celorlalte dou tratate,\nRominia incercind pe cat posibil si-si organizeze economia cu sprijin german, dar inevitabil\n\ncepti tacit o accentuare tot mai mare a influenfei germane in economie, economic care pind\natunci era mult influentati de capitalurile francez, englez si american. Capitalul german in\nRomania interbelicd era destul de prezent, dar nu int-atit de capabil si influenteze decisiv\neconomia romiineased. Trebuie luate in calcul si vietorile rapide ale armatei germane de la\ninceputul rizboiului si mai ales capitularea Franjeiiniunie 1940, evenimente care au grabit si\naccentuat influenja Germaniei asupra economiei rominesti\n\nLa 26 iulie 1940 Germania propunea Rominiei .ratate economice pe 10-15 ani\nreusindu-se astel so fixare pe termen lung a pretuilr, tarifelor vamal"
+            },
+            "40": {
+                "class": "text",
+                "x": 219,
+                "y": 239,
+                "height": 40,
+                "width": 331,
+                "leftCorner": [
+                    219,
+                    239
+                ],
+                "rightCorner": [
+                    550,
+                    279
+                ],
+                "text": "Prof. Drd, Spiridon Lucian,\nni, Comuna Sipote, Jud."
+            },
+            "41": {
+                "class": "text",
+                "x": 137,
+                "y": 180,
+                "height": 55,
+                "width": 329,
+                "leftCorner": [
+                    137,
+                    180
+                ],
+                "rightCorner": [
+                    466,
+                    235
+                ],
+                "text": "RELATIHLE ECONOMICE ROMANO-GERMANE\nLA INCEPUTURILE GUVERNARII ANTONESCIE\n\n \n\nTRATATUL ECONOMIC DIN 4 DECEMBRIE 1940"
+            },
+            "42": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 77,
+                "width": 498,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    550,
+                    164
+                ],
+                "text": "REVERE IN ISTORIE sTvoI\n\nibliograie\n1. *Evaluatea fnvagimantului primar ~ Deseripori de performanti, Ministeral Educate! Nationale,\n\nServiciul National de Evaluare si Examinare, Bucuresti, 1998\n2. \u201clucu,R, B, Insruireascolard. Perspective toretice si aplicative, Editua Polirom, Bucuresti, 2001"
+            }
+        }
+    },
+    "img_125": {
+        "page": "125",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "43": {
+                "class": "text",
+                "x": 284,
+                "y": 770,
+                "height": 25,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    770
+                ],
+                "rightCorner": [
+                    318,
+                    795
+                ],
+                "text": "125"
+            },
+            "44": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 661,
+                "width": 499,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    551,
+                    748
+                ],
+                "text": "REVERE IN ISTORIE sTvoI\n\nDupa abdicarea regelui Carol al IT-lea, la 6 septembrie 1940, relajiile economice\nromino-germane vor continua, ele impletindu-se cu cele din plan militar. ined de la venirea la\ncconducerea firii, generalul Antonescu promoveazi o politic\u2019 economic de colaborare cu\nGermania, politica ce implicd capitalul german, si in acelagi timp creste influenta Germaniei\nin economia romineasci. Astfel, in cadrul primei vizite ficuti lui Hitler, la 23 noiembrie\n1940, generalul Antonescu cerea pentru dezvoliarea economiei romanesti ,credite pe termene\nlungi cu doband\u2019 mica\u201d, ceea ce era si in interesul Germanici de a avea la dispozitie\nindustria Romaniei, in eventualitatea interventiei Americii in rizboi, In aceasti intrevedere\npartea germani reitereazi dorinta de a avea ,tratate economice pe 10-20 ani, iar surplusul\nglobal al productici din Romania si fie preluat la un pre} fix pentru anii urmitor\u2019\n\nin urma acestei vizite, generalul 1. Antonescu va prezenta Consiliului de Ministri, la 26\nnoiembrie, rezultatele vizitei in Germania, afirmand cd partea germani a acceptat dobinda de\n4% pentru creditele acordate, credite care vor fi folosite pentru dezvoltarea agriculturi, a\ncailor de comunicafie, pentru indiguir, irigafii, industrie alimentara\u2122. Dupai alte negocieri,\ndobanda final va fi de 3%.\n\nVizita din 23 noiembrie 1940 a generalului Antonescu in Germania trebuie corelatd si\n\u2018cu negocierile economice dintre cele doua parti din perionda 28 octombrie ~ 4 decembrie\n1940, negocieri prilejuite de desfigurarea la Berlin a celei de-a IX-a Sesiuni a Comisiunilor\nGuvernamentale din cele doud fari. Discutiile purtate s-au finalizat prin semnarea, in 4\ndecembrie 1940, a primului tratat economic din timpul guvernarii Antonescu, Acest tratat\npurta titlul de Protocol asupra colaboriirii romano-germane la realizarea unui plan pe 10 ani\n\u2018pentru refacerea economiei romanesti $i cuprindea opt puncte,\n\n\u2018Acordul de credit romino-german prevedea ca partea german\u2019 si cea romind si\nIntocmeasc\u2019 programe de ,reconstructic a economic! romanesti\". El mai prevedea, printre\naltele, ca Rominia si beneficieze din partea Germaniei de livrlri de masini si unelte agricole,\nde material pentru ciile ferate si de conducte, pompe si instalatii Diesel pentru conducta\npetroliferd Ploiesti-Giurgiu (Iucrarea incepe in decembrie 1940, conducta find proiectata\npentru transportul lunar a 130 ~ 180 000 de tone), cit si de masini pentru constructia\ndrumurilor.\n\nPunctul unu al acordului prevedea dobinda fixati pentru creditele acordate pe durata\ncelor 10 ani, eredite necesare pentru executarea planului stabilit, Privitor la acest punct din\ntratat, I, Antonescu rispunde criticilor lui I. Maniu printr-o scrisoare in care motiveazi\nrafiunea tratatului, afirmand ci ,Romania a obfinut credite cu dobanda mica, plus un alt credit\nalcituit din livriri de produse industriale\", Romania fiind in acel moment singurul stat care\n\u2018objinea o dobanda de doar 3 % la creditele contractate.\n\nCel de-al doilea punct al tratatului se referea la agriculturd, stipuland ci acea\n~colaborare deja existentd pe teren agricol gi silvie pentru intensificarea gi ridicarea productiei\nva fi continuata\u201d. Fiind interesata de sporitea productiei agricole romanesti, deoarece o mare\nparte din ea a Tuat drumul Reichului, Germania va livra Rom\u00e9nici unelte si masini pentru\ndesecarea mlastinilor si irigarea terenului, edt i ingragiminte artficiale. in acord nu se ficea\nnici o mentiune privitoare Ia intentia de dezvoltarea a industriei agroalimentare in fara\nnoastrd. Despre acest al doilea punct al tratatului, I. Antonescu va marturisi, in cadrul\nprocesului siu din 1946, c& pe baza lui s-au importat din Germania 8 500 tractoare, 14 200"
+            }
+        }
+    },
+    "img_126": {
+        "page": "126",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "45": {
+                "class": "text",
+                "x": 284,
+                "y": 770,
+                "height": 25,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    770
+                ],
+                "rightCorner": [
+                    318,
+                    795
+                ],
+                "text": "126"
+            },
+            "46": {
+                "class": "text",
+                "x": 51,
+                "y": 87,
+                "height": 661,
+                "width": 500,
+                "leftCorner": [
+                    51,
+                    87
+                ],
+                "rightCorner": [
+                    551,
+                    748
+                ],
+                "text": "REVERE IN ISTORIE sTUoI\ngrape, 5 600 semanitori, 70 852 pluguri de cai, 3 890 pluguri tractoare, 680 batoze gi alte 11\n300 tone magini si unelte\u2122,\n\nAL treilea punct din tratat aborda productia industrial a Romianiei, El prevedea ca\n\u00bbproductia industriali a Romaniei in cadrul noii ordini economice\u2122 si fie racordati ta\ninteresele Germaniei, Punctul trei specifica faptul c& ,Germania in colaborare cu industria\nromneased si in conformitate cu planul pe 10 ani va pune la dispozitie sprijinul ei tehnie gi\nfinanciar\u2122\u201d, Aceasti prevedere trebuie priviti, otusi, cu multi atentie,findnd cont \u00a2& Berlinul\nnu avea interes atit de mare pentru dezvoltarea industriei romanesti decat in acele sectoare in\n\u2018care materia prima se importa din Germania. Unul dintre aceste sectoare a fost siderurgia,\ncare, conform une alte declaratii a lui I. Antonescu din cadrul procesului sau, a avut ,cresteri\nde 65% folosindu-se 300 040 tone ofel in economia general\u00e9\u2122'. Marea majoritate a\n\u2018minereurilor si in principal coes era importat din Germania sau din {iri care erau sub influenta\nei, Referitor la aceste importuri, ministrul Economiei Nationale, Gheorghe Potopeanu, afirma\nci Romaniei, prin tratatul din 4 decembrie 1940, i s-au acordat ,100 000 tone coes, 100 000\ntone semifabricate, precum si zine si aluminiu\u2122, Din aceste cantitiqi Romania a primit doar\n10 000 tone coes, 3 900 tone semifabricate, 195 tone zine nelucrat din 4 000 tone. Referitor la\ndezvoltatea industriei rominesti, Hitler afirma ci Romania ar trebui si devind o ard\nagricol, Romania ar trebui si facd bine si renunfe la ideea ei de a avea o industrie proprie\u2122,\ncea ce dovedeste faptul cd Germania dorea ca Romania si facd parte dint-un sistem\neconomic coordonat de Reich aportul ei fiind in primul rind unul agricol.\n\nPunctul patru din tratat se referea la cdile de comunicatie si transport. Acest punet\nstipula ci ,Rom\u00e9nia va dezvolta edile ei de comunicatie si anume atat reteaua ei de edi ferate\nsi de drumuri cit si conductele ei de petrol potrivit debuseelor naturale ale economic\nuropene in cadrul noii ordini economice a Europei\". Astfel Rom\u00e9nia prin ctile ei de\ncomunicatie si mai ales prin conductele petroliere trebuia si ajute Germania la purtarea\nizboiuli.\n\nPotrivit Protocolului confidential asupra rezultatelor Sesiunii a IX-a a Comisiunilor\nGuvernamentale Romana si Germand, Romania exporta pe anul calendaristic 1 octombrie\n1940 \u2014 30 septembrie 1941 circa 60% din petrolul ei in valoare de 240 000 000 mirc\ngermane, 28% din productia de cereale gi 12% din productia de mast lemnoasi respectiv din\nproductia animaliera, exportul insemnand in total 400 000 000 marci germane. Mai bine de\nJjumatate din aceasti sum provenea din exportul de petrol, ceea ce demonstreaza importanta\nRominiei in cadrul strategiilor economico-militare, mai ales prin petrolul ei, combustibil vital\npentru Hitler gi armata sa.\n\nCel de-al cincilea punct din tratat stipula acordarea de fonduri pentru sistemul bancar\nrominese in idea ,noii ordini europene\u201d vizuti de Reich controlind si astfel economia\nrominease\u2019,\n\nPrevederile articolelor sase si sapte au avut consecinge foarte grave asupra viitorului\neconomici rom\u00e9nesti, Sub pretextul sustinerii industriei si agriculturii cu specialist,\nGermania dorea ca prin acestia si aiba la dispozitie cel dowd ramuri ale economiei romaine.\n\nConform articolului sapte din protocol care continea clauzele de ordin general pe baza\narora se reglementau raporturile comerciale dintre Romania si Germania in perioada celor\n10 ani trebuia sa se find seama ,la formarea raporturilor de politics comerciala dintre cele oud"
+            }
+        }
+    },
+    "img_127": {
+        "page": "127",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "47": {
+                "class": "text",
+                "x": 284,
+                "y": 770,
+                "height": 25,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    770
+                ],
+                "rightCorner": [
+                    318,
+                    795
+                ],
+                "text": "127"
+            },
+            "48": {
+                "class": "text",
+                "x": 53,
+                "y": 516,
+                "height": 226,
+                "width": 498,
+                "leftCorner": [
+                    53,
+                    516
+                ],
+                "rightCorner": [
+                    551,
+                    742
+                ],
+                "text": "Note\n* Gavail Preda, mportana strategie\u2019 a petroluluiromnese (1939-1947), Editura Print Euro, Ploiesti, 2001,\n28.\n\u2018Ton Calafeteanu, Romcn\u2019 la Hier, Editura Univers Enciclopdic, Bucuresti, 1999, p42.\n> tbidem, p. 60.\n\"Vasile Arimia, Antonescu-Hitler. Corespondent i iui\u2019 inedite (1940-1944), Edie aleatuith de V.\nArimia, 1 Andeleany, Stefan Lache. Coonlonator sinc Florin Constantiniu, vol. , Editura Cozi,\nBucuresti, 1991, documeatul 4 p. 42.\n5 Stenogramele Consilaui de Minit: Guvernarea 1. Antonescu, vol. ~ septembrie 1940-decembrie 1940\n(volum coordonat de Marcel D. Ciuc, Aurcian Teodoresu, Maria Ignat, Florin Popovici), Bucuresti, 1998,\n1-495 Gncontinare se va cia Stenogramele Consul de Minit.\n\u2018Vasile Avimia, $a, lai Manivlon Antonescu. Opinii confruntiripoltce (1940-1944), Edie, Cuvint\ninainte, Note, Comentarit de Yon Calatetean, Editura Dacia, Chy-Napoca, 1994, p. 54\nAurich Simion, Regina politic din Rom\u00e9nia in perioada septembrie 1940 ~ ianuarie 1941, Editura Daca,\n(Cluj-Napoca, 1976, p. 157\n* Procesul Maregatlu\u2019 Antonescu ~ Document, Edie pref si ingrid de Marcel D. Ciuc. Cuvint\ninaine de lsifC. Dragan, Eatura Saceulum 1. O.,Editura Europa Nova, vol. Bucuresti, 1995, p. 18"
+            },
+            "49": {
+                "class": "text",
+                "x": 52,
+                "y": 87,
+                "height": 425,
+                "width": 499,
+                "leftCorner": [
+                    52,
+                    87
+                ],
+                "rightCorner": [
+                    551,
+                    512
+                ],
+                "text": "REPERE IN ISTORE stub\nfri de faptul cf piaja germand sf rimind asigaratl cu un debugeu sigur, cu preur adeovate gi\nAependente de erizele economic gi cd importanta piefei Rominiei in schimbul eu Germania\n\u2018si meargi mereu rescind\u201d,\n\nPlecind de la aceasta prevedere apar firme specalizate in actvitatea de import-export\nine cele dou fri. Prin aceste fme Germania dorea si abi produse la prefuri fixe\nconform artical spte din protocol, ar piaja german si mab de sferit chiar fn urma\napatite vreunci erize economic. Prin aceasta prevedere Germania dorea si limiteze exportl\nrominese de produse doar la piata ei, astfel Romania fiind nevoit si renunte la unele din\npietle ei de destacere din peioada inerbelic dstoritl situa intemafionale. Prin aceasta\nTimitare doar la piaja german produsele romanesti au fost in unele momente subevaluate ca\npret, Romana pierzind sume importante de bani din exportaile etre Germania\n\nArticolul opt din Protocolul de colaborare romino-german cuprinde generalitati cu\nprivire la colaborarea dintre cele dou\u2019 parti in spiritul protocolului, colaborare inceputi\nterior datei de 4 decembrie 1940.\n\nPe baza acest trata in economia Romaniei au pltrns, dup cum am aritat mai us,\nfirme germane care au monopolizat sectoare primordiale Germaniei pentru ducerea\nrizboiului. Unul dintre aceste sectoare a fost cel legat de industria petrolifer\u2019 din Romania\ncare, pe baza acestui tratat si a celorlalte care vor urma, a suferit 0 subordonare a intereselor\nReichl.\n\nin mai 1941 compania Kontinentale Ol A. G, prin sucusala din Rominia,\nKontinentale Ol. A. G. M. b. H., va achizitiona de la societatea Astra Romana 50% din\ncapitalul acesteia.\n\nOfensiva de preluae a pachetelor majortare de actiuni de cite firme germane la\nsocictti romney a manifestt gi in alte soctoare cconomice, Penns f salvate setoare\neeonomice precum metaluria, unl din setoarelepreiecte care se dor si fie contolat de\ngermani, guvernal romin a hotieitsporiea participated statului romin la capital\nintreprindeilor respective sau chiar trecerea lor in proprietaten deplind a statu"
+            }
+        }
+    },
+    "img_128": {
+        "page": "128",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "50": {
+                "class": "text",
+                "x": 154,
+                "y": 645,
+                "height": 133,
+                "width": 276,
+                "leftCorner": [
+                    154,
+                    645
+                ],
+                "rightCorner": [
+                    430,
+                    778
+                ],
+                "text": "Tipar Digital realizat la Tipografia (11)\nSoseaua Stefan cel Mare nr. 11\nIasi - 700498\n\nTel. / fax: 0232-212740\ne-mail:editurapim@ pimeopy.r0\nwww.pimcopy.ro"
+            },
+            "51": {
+                "class": "text",
+                "x": 498,
+                "y": 88,
+                "height": 21,
+                "width": 49,
+                "leftCorner": [
+                    498,
+                    88
+                ],
+                "rightCorner": [
+                    547,
+                    109
+                ],
+                "text": "STUDIT"
+            },
+            "52": {
+                "class": "text",
+                "x": 52,
+                "y": 86,
+                "height": 145,
+                "width": 496,
+                "leftCorner": [
+                    52,
+                    86
+                ],
+                "rightCorner": [
+                    548,
+                    231
+                ],
+                "text": "\u2018Auricd Simion, op. cit, p. 158\n\" Dbidem:\n\n\" Mateet D. Ciuc op cit p. 188\n\n\" Sienogramele Consiliului de Ministri, vol 1 ~ apritie-iunie 1941, 1999, p. $27. A se vedea si Traian I\n\nMetin, Romina plana! deena, in, Romsniapeuolifrs\" nul XXI, nr. 377, vines, 28 februari 1941,\nIs\n\u2018Aue Simion, op. cit. 158.\n\n* tbidem.\n\n'thidem, pp. 159-160,"
+            }
+        }
+    }
+}

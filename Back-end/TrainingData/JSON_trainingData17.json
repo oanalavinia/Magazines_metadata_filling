@@ -1,0 +1,1610 @@
+{
+    "numberOfPages": 104,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 45,
+                "y": 767,
+                "height": 47,
+                "width": 516,
+                "leftCorner": [
+                    45,
+                    767
+                ],
+                "rightCorner": [
+                    561,
+                    814
+                ],
+                "text": "Edtua cm."
+            },
+            "2": {
+                "class": "text",
+                "x": 161,
+                "y": 675,
+                "height": 90,
+                "width": 278,
+                "leftCorner": [
+                    161,
+                    675
+                ],
+                "rightCorner": [
+                    439,
+                    765
+                ],
+                "text": "SCOALA GIMNAZIALA\n\n\u00bbSTEFAN CEL MARE\u201d\nVASLUI"
+            },
+            "3": {},
+            "4": {
+                "class": "text",
+                "x": 120,
+                "y": 270,
+                "height": 182,
+                "width": 359,
+                "leftCorner": [
+                    120,
+                    270
+                ],
+                "rightCorner": [
+                    479,
+                    452
+                ],
+                "text": "CARLSEL"
+            },
+            "5": {},
+            "6": {
+                "class": "text",
+                "x": 284,
+                "y": 88,
+                "height": 36,
+                "width": 226,
+                "leftCorner": [
+                    284,
+                    88
+                ],
+                "rightCorner": [
+                    510,
+                    124
+                ],
+                "text": "NR.15,ANUL 2014"
+            },
+            "7": {}
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 311,
+                "y": 741,
+                "height": 50,
+                "width": 153,
+                "leftCorner": [
+                    311,
+                    741
+                ],
+                "rightCorner": [
+                    464,
+                    791
+                ],
+                "text": "ISSN 2360 - 3542\nISSN-L 2360 - 3542"
+            },
+            "9": {
+                "class": "text",
+                "x": 311,
+                "y": 386,
+                "height": 329,
+                "width": 213,
+                "leftCorner": [
+                    311,
+                    386
+                ],
+                "rightCorner": [
+                    524,
+                    715
+                ],
+                "text": "prof. Constantin Focsa\nprof. Daniela Tanasa\n\nprof. Flavia Anton\n\nprof. Mirela Obreja\n\nprof. Elena Badardiu\n\nprof. Carmen Pavel\n\nprof. Ecaterina Bucattaru\nprof. Cerasela Darie\n\nprof. Olguta Frentescu\nprof. Mitica Mindinica\nprof. Mihaela Lefter\n\nprof. Luminita Virlan\n\nprof. Eduard Ursu\n\nprof. Monica Vasile\nsecretar sef Viorica Movilat\nsecretar Tatiana Blinaru\nbibliotecar Cecilia Vasilescu"
+            },
+            "10": {
+                "class": "text",
+                "x": 58,
+                "y": 386,
+                "height": 409,
+                "width": 252,
+                "leftCorner": [
+                    58,
+                    386
+                ],
+                "rightCorner": [
+                    310,
+                    795
+                ],
+                "text": "pip. Gabriela Lolica Antipa\npip. Diana ElenaDorobat\npip. Elena Malanca\n\npip. Simona Munteanu\npip. luliana Gifei\n\npip. Iulia Adriana Cirlescu\npip. Alina Nadia Raizu\npip. Carmen Gabriela Andrunache\npip. Diana Elena Barbu\npip. Adriana Stefanita\ninst. Loredana Juverdeanu\ninv, Manuela Butnaru\n\ninv. Mihaela Rica Cernat\ninv, Litcritmioara Borcan\ninv, Luminita Maftei\n\ninv. Gherase Carmen\n\ninv, Velea Rica\n\ninv, Buraga Vasile\n\nprof. Daniela Filipescu\nprof. Daniela Oatu\n\nprof. Anca Bortes"
+            },
+            "11": {
+                "class": "text",
+                "x": 201,
+                "y": 339,
+                "height": 33,
+                "width": 198,
+                "leftCorner": [
+                    201,
+                    339
+                ],
+                "rightCorner": [
+                    399,
+                    372
+                ],
+                "text": "Colectiv de redactie:"
+            },
+            "12": {
+                "class": "text",
+                "x": 202,
+                "y": 255,
+                "height": 69,
+                "width": 196,
+                "leftCorner": [
+                    202,
+                    255
+                ],
+                "rightCorner": [
+                    398,
+                    324
+                ],
+                "text": "Design computerizat:\nprof. Carmen Pavel\n\n \n\ninst. Loredana Juverdeanu"
+            },
+            "13": {
+                "class": "text",
+                "x": 115,
+                "y": 206,
+                "height": 48,
+                "width": 369,
+                "leftCorner": [
+                    115,
+                    206
+                ],
+                "rightCorner": [
+                    484,
+                    254
+                ],
+                "text": "Coperta I - Grafica: prof. Marian Antoniu\n\n \n\nLucian Ragcanu"
+            },
+            "14": {
+                "class": "text",
+                "x": 160,
+                "y": 78,
+                "height": 116,
+                "width": 279,
+                "leftCorner": [
+                    160,
+                    78
+                ],
+                "rightCorner": [
+                    439,
+                    194
+                ],
+                "text": "Coordonatori:\nprof. Sorin Popoiu\n\nprof. Greta Doina Ciubotaru\nprof. Carmen Pavel\nprof inv. primar Simona Munteanu"
+            },
+            "15": {
+                "class": "text",
+                "x": 290,
+                "y": 42,
+                "height": 33,
+                "width": 169,
+                "leftCorner": [
+                    290,
+                    42
+                ],
+                "rightCorner": [
+                    459,
+                    75
+                ],
+                "text": "REDACTIONAL"
+            },
+            "16": {
+                "class": "text",
+                "x": 141,
+                "y": 42,
+                "height": 29,
+                "width": 147,
+                "leftCorner": [
+                    141,
+                    42
+                ],
+                "rightCorner": [
+                    288,
+                    71
+                ],
+                "text": "COLECTIVUL"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 143,
+                "y": 670,
+                "height": 50,
+                "width": 398,
+                "leftCorner": [
+                    143,
+                    670
+                ],
+                "rightCorner": [
+                    541,
+                    720
+                ],
+                "text": "DIRECTOR, prof. Sorin Popoiu"
+            },
+            "18": {
+                "class": "text",
+                "x": 59,
+                "y": 520,
+                "height": 32,
+                "width": 306,
+                "leftCorner": [
+                    59,
+                    520
+                ],
+                "rightCorner": [
+                    365,
+                    552
+                ],
+                "text": "patronul spiritual al scolii noastre."
+            },
+            "19": {
+                "class": "text",
+                "x": 383,
+                "y": 489,
+                "height": 32,
+                "width": 159,
+                "leftCorner": [
+                    383,
+                    489
+                ],
+                "rightCorner": [
+                    542,
+                    521
+                ],
+                "text": "marelui Stefan -"
+            },
+            "20": {},
+            "21": {
+                "class": "text",
+                "x": 195,
+                "y": 460,
+                "height": 27,
+                "width": 71,
+                "leftCorner": [
+                    195,
+                    460
+                ],
+                "rightCorner": [
+                    266,
+                    487
+                ],
+                "text": "aceasta"
+            },
+            "22": {
+                "class": "text",
+                "x": 426,
+                "y": 459,
+                "height": 28,
+                "width": 91,
+                "leftCorner": [
+                    426,
+                    459
+                ],
+                "rightCorner": [
+                    517,
+                    487
+                ],
+                "text": "aniversari"
+            },
+            "23": {
+                "class": "text",
+                "x": 375,
+                "y": 459,
+                "height": 28,
+                "width": 49,
+                "leftCorner": [
+                    375,
+                    459
+                ],
+                "rightCorner": [
+                    424,
+                    487
+                ],
+                "text": "mari"
+            },
+            "24": {
+                "class": "text",
+                "x": 326,
+                "y": 459,
+                "height": 28,
+                "width": 47,
+                "leftCorner": [
+                    326,
+                    459
+                ],
+                "rightCorner": [
+                    373,
+                    487
+                ],
+                "text": "unei"
+            },
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 109,
+                "y": 459,
+                "height": 28,
+                "width": 85,
+                "leftCorner": [
+                    109,
+                    459
+                ],
+                "rightCorner": [
+                    194,
+                    487
+                ],
+                "text": "Dedicam"
+            },
+            "27": {
+                "class": "text",
+                "x": 58,
+                "y": 369,
+                "height": 92,
+                "width": 483,
+                "leftCorner": [
+                    58,
+                    369
+                ],
+                "rightCorner": [
+                    541,
+                    461
+                ],
+                "text": "implini imaginea unei scoli ce-si urmeazi imperturbabil\n\ndestinul, destin zimislit cu truda si dragoste, de-a lungul\n\n \n\nanilor, de catre cei care au ,,sfintit\u201d acest licas."
+            },
+            "28": {
+                "class": "text",
+                "x": 58,
+                "y": 250,
+                "height": 122,
+                "width": 483,
+                "leftCorner": [
+                    58,
+                    250
+                ],
+                "rightCorner": [
+                    541,
+                    372
+                ],
+                "text": "Caruselul isi face din nou aparitia primavaratica\nprin efortul, bucuria, stradania si satisfactia copiilor si\ndascalilor din aceasta scoala. Noile reviste se doresc, cu\n\n \n\nsiguran{a, un semn al traditiei respectate, un fel de a"
+            },
+            "29": {
+                "class": "text",
+                "x": 114,
+                "y": 250,
+                "height": 28,
+                "width": 96,
+                "leftCorner": [
+                    114,
+                    250
+                ],
+                "rightCorner": [
+                    210,
+                    278
+                ],
+                "text": "Caruselul"
+            },
+            "30": {
+                "class": "text",
+                "x": 197,
+                "y": 145,
+                "height": 34,
+                "width": 207,
+                "leftCorner": [
+                    197,
+                    145
+                ],
+                "rightCorner": [
+                    404,
+                    179
+                ],
+                "text": "CUVANT iNAINTE"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 83,
+                "y": 662,
+                "height": 37,
+                "width": 135,
+                "leftCorner": [
+                    83,
+                    662
+                ],
+                "rightCorner": [
+                    218,
+                    699
+                ],
+                "text": "Ciulei Alisia Alexandra\nKalman Samuel"
+            },
+            "33": {
+                "class": "text",
+                "x": 83,
+                "y": 617,
+                "height": 38,
+                "width": 112,
+                "leftCorner": [
+                    83,
+                    617
+                ],
+                "rightCorner": [
+                    195,
+                    655
+                ],
+                "text": "Serban Melina\nDascalu Ana Maria"
+            },
+            "34": {
+                "class": "text",
+                "x": 83,
+                "y": 588,
+                "height": 25,
+                "width": 111,
+                "leftCorner": [
+                    83,
+                    588
+                ],
+                "rightCorner": [
+                    194,
+                    613
+                ],
+                "text": "Tataru David Ionut"
+            },
+            "35": {
+                "class": "text",
+                "x": 83,
+                "y": 573,
+                "height": 171,
+                "width": 340,
+                "leftCorner": [
+                    83,
+                    573
+                ],
+                "rightCorner": [
+                    423,
+                    744
+                ],
+                "text": "Fm\n\nCiulei Alisia Alexandra Premiul 1\nKalman Samuel Premiul |\n\n> Foleranta in trafic \u2014 0 sansis ta viata\u201d\nDumitru Alexandru Marian Premiul 1\n\n\u2018Trufia Denis Gabriel\n\n \n\nPremiul I"
+            },
+            "36": {
+                "class": "text",
+                "x": 83,
+                "y": 529,
+                "height": 40,
+                "width": 390,
+                "leftCorner": [
+                    83,
+                    529
+                ],
+                "rightCorner": [
+                    473,
+                    569
+                ],
+                "text": "Concursuri interjudefene ,ABC-ul comportarii ci\n\n \n\nPaduraru Rares Stefan Luci Premiul 1"
+            },
+            "37": {
+                "class": "text",
+                "x": 141,
+                "y": 499,
+                "height": 26,
+                "width": 343,
+                "leftCorner": [
+                    141,
+                    499
+                ],
+                "rightCorner": [
+                    484,
+                    525
+                ],
+                "text": "Clasa Pregit B. ANTIPA GABRIELA-LOLI"
+            },
+            "38": {
+                "class": "text",
+                "x": 81,
+                "y": 438,
+                "height": 57,
+                "width": 455,
+                "leftCorner": [
+                    81,
+                    438
+                ],
+                "rightCorner": [
+                    536,
+                    495
+                ],
+                "text": "\u2018Concursul interjudefean VREAU SA FIU $1 EU CA MOSUL din cadrul\nproiectului TOLERANTA- UN PAS SPRE PRIETENIE\n\n \n\nRusu George Premiul 1"
+            },
+            "39": {
+                "class": "text",
+                "x": 81,
+                "y": 363,
+                "height": 72,
+                "width": 460,
+                "leftCorner": [
+                    81,
+                    363
+                ],
+                "rightCorner": [
+                    541,
+                    435
+                ],
+                "text": "Concursul interjudetean ROMANI CU CARE NE MANDRIM din cadrul\nproiectului TOLERANTA- UN PAS SPRE PRIETENIE\n\nTancu Nicola Premiul |\nLeustian Amalia Premiul 1"
+            },
+            "40": {
+                "class": "text",
+                "x": 362,
+                "y": 321,
+                "height": 38,
+                "width": 61,
+                "leftCorner": [
+                    362,
+                    321
+                ],
+                "rightCorner": [
+                    423,
+                    359
+                ],
+                "text": "Premiul 1\nPremiul I"
+            },
+            "41": {
+                "class": "text",
+                "x": 83,
+                "y": 275,
+                "height": 87,
+                "width": 452,
+                "leftCorner": [
+                    83,
+                    275
+                ],
+                "rightCorner": [
+                    535,
+                    362
+                ],
+                "text": "Concursul interjudetean de educatie rutieri TOLERANTA IN TRAFIC-\nOSANSALAVIATA din cadrul proiectulul TOLERANTA- UN PAS SPRE\nPRIETENIE\n\n \n\nButnaru lonut Premiul 1\nSpinu Lavinia Premiul I"
+            },
+            "42": {
+                "class": "text",
+                "x": 82,
+                "y": 186,
+                "height": 87,
+                "width": 446,
+                "leftCorner": [
+                    82,
+                    186
+                ],
+                "rightCorner": [
+                    528,
+                    273
+                ],
+                "text": "Concursul de creatie plastica SUFLET IN SARBATOARE din cadrul Proiectului\nceducayional interjudetean OBICEIURI $1 TRADITU LA ROMANI\n\nRusu George Premiul 1\nLeustian Amalia Premiul It\nBulgariu Mihai Premiul IL"
+            },
+            "43": {
+                "class": "text",
+                "x": 363,
+                "y": 159,
+                "height": 23,
+                "width": 68,
+                "leftCorner": [
+                    363,
+                    159
+                ],
+                "rightCorner": [
+                    431,
+                    182
+                ],
+                "text": "Premiul [1]"
+            },
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 83,
+                "y": 115,
+                "height": 25,
+                "width": 276,
+                "leftCorner": [
+                    83,
+                    115
+                ],
+                "rightCorner": [
+                    359,
+                    140
+                ],
+                "text": "Clasa Pregititoare A- Prof. TEODORU ALIN"
+            },
+            "46": {
+                "class": "text",
+                "x": 59,
+                "y": 62,
+                "height": 45,
+                "width": 453,
+                "leftCorner": [
+                    59,
+                    62
+                ],
+                "rightCorner": [
+                    512,
+                    107
+                ],
+                "text": "REZULTATE LA CONCURSURI SI OLIMPIADE SCOLARE\nAN SCOLAR 2013-2014"
+            }
+        }
+    },
+    "img_099": {
+        "page": "99",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "47": {},
+            "48": {},
+            "49": {
+                "class": "text",
+                "x": 58,
+                "y": 641,
+                "height": 65,
+                "width": 118,
+                "leftCorner": [
+                    58,
+                    641
+                ],
+                "rightCorner": [
+                    176,
+                    706
+                ],
+                "text": "Ce trece pe apa\n\nSi nu se uda?\n(umbra)"
+            },
+            "50": {
+                "class": "text",
+                "x": 319,
+                "y": 575,
+                "height": 150,
+                "width": 222,
+                "leftCorner": [
+                    319,
+                    575
+                ],
+                "rightCorner": [
+                    541,
+                    725
+                ],
+                "text": "Doud fete-mi poarti salba\nUna-i neagra, alta-i alba.\nNe-ncetat se tot alunga\n\nSi mu pot sa se ajunga.\n\n( Ziua si noaptea )\nPilici Robert,\n\nLucaRaluca,B\u00e9ldceanu Dana\nclasa a Ill-a D"
+            },
+            "51": {
+                "class": "text",
+                "x": 58,
+                "y": 565,
+                "height": 66,
+                "width": 165,
+                "leftCorner": [
+                    58,
+                    565
+                ],
+                "rightCorner": [
+                    223,
+                    631
+                ],
+                "text": "Ce faci\n\n$i nu vezi ce-ai facut?\n(zgomotul)"
+            },
+            "52": {
+                "class": "text",
+                "x": 319,
+                "y": 501,
+                "height": 65,
+                "width": 189,
+                "leftCorner": [
+                    319,
+                    501
+                ],
+                "rightCorner": [
+                    508,
+                    566
+                ],
+                "text": "Uriag cu nasul mare\n\nPoarta oameni pe spinare.\n(Elefantul)"
+            },
+            "53": {
+                "class": "text",
+                "x": 58,
+                "y": 470,
+                "height": 86,
+                "width": 134,
+                "leftCorner": [
+                    58,
+                    470
+                ],
+                "rightCorner": [
+                    192,
+                    556
+                ],
+                "text": "Malul verde,\nGirla rosie,\n\nPietrele negre.\n(pepenele)"
+            },
+            "54": {},
+            "55": {
+                "class": "text",
+                "x": 319,
+                "y": 426,
+                "height": 65,
+                "width": 229,
+                "leftCorner": [
+                    319,
+                    426
+                ],
+                "rightCorner": [
+                    548,
+                    491
+                ],
+                "text": "Coada ci este stufoasi gee\n\nSide gaini nu se lasa. \u00a9 45\n(Vulpea)"
+            },
+            "56": {
+                "class": "text",
+                "x": 73,
+                "y": 402,
+                "height": 60,
+                "width": 148,
+                "leftCorner": [
+                    73,
+                    402
+                ],
+                "rightCorner": [
+                    221,
+                    462
+                ],
+                "text": "Alexa Sinziana Marina\nKalman Samuel\n\n \n\nClasa pregatitoare B"
+            },
+            "57": {
+                "class": "text",
+                "x": 390,
+                "y": 372,
+                "height": 41,
+                "width": 152,
+                "leftCorner": [
+                    390,
+                    372
+                ],
+                "rightCorner": [
+                    542,
+                    413
+                ],
+                "text": "Miron Roxana ~ Iuliana\nClasa a IV-a B"
+            },
+            "58": {
+                "class": "text",
+                "x": 58,
+                "y": 284,
+                "height": 107,
+                "width": 202,
+                "leftCorner": [
+                    58,
+                    284
+                ],
+                "rightCorner": [
+                    260,
+                    391
+                ],
+                "text": "Hai copii cu mic cu mare\nSA ciocnim cu fiecare\n\nUn ou rosu-neondeiat\nC&ci Domnul lisus a inviat!\nCe sa fie oare? (Pastele)"
+            },
+            "59": {
+                "class": "text",
+                "x": 319,
+                "y": 214,
+                "height": 151,
+                "width": 183,
+                "leftCorner": [
+                    319,
+                    214
+                ],
+                "rightCorner": [
+                    502,
+                    365
+                ],
+                "text": "Sa va spun o ghicitoare\nDespre ceva de mancare:\nCrude sau puse la fiert\nSe consuma ca desert,\n\nRecunoaste ori$icine\nCi-s pline de vitamine!\n(fructele)"
+            },
+            "60": {
+                "class": "text",
+                "x": 58,
+                "y": 192,
+                "height": 82,
+                "width": 222,
+                "leftCorner": [
+                    58,
+                    192
+                ],
+                "rightCorner": [
+                    280,
+                    274
+                ],
+                "text": "Ce risare din zipada\nPrimavara prima dat\n\n$i ne anuntd cd a venit\nSoarele cel mult iubit? (ghiocetul)"
+            },
+            "61": {
+                "class": "text",
+                "x": 399,
+                "y": 182,
+                "height": 27,
+                "width": 67,
+                "leftCorner": [
+                    399,
+                    182
+                ],
+                "rightCorner": [
+                    466,
+                    209
+                ],
+                "text": "(piersica)"
+            },
+            "62": {
+                "class": "text",
+                "x": 319,
+                "y": 57,
+                "height": 127,
+                "width": 190,
+                "leftCorner": [
+                    319,
+                    57
+                ],
+                "rightCorner": [
+                    509,
+                    184
+                ],
+                "text": "|\nE zemoasa partum\u201d\n\nSi mereu e\nO culegem vara toati\nCu o hainuta plus"
+            },
+            "63": {
+                "class": "text",
+                "x": 237,
+                "y": 57,
+                "height": 46,
+                "width": 79,
+                "leftCorner": [
+                    237,
+                    57
+                ],
+                "rightCorner": [
+                    316,
+                    103
+                ],
+                "text": "GHICI"
+            },
+            "64": {
+                "class": "text",
+                "x": 58,
+                "y": 57,
+                "height": 124,
+                "width": 135,
+                "leftCorner": [
+                    58,
+                    57
+                ],
+                "rightCorner": [
+                    193,
+                    181
+                ],
+                "text": "\u00aba>\n\nSoarele dogoreste,\n\nTeiul infloreste,\nGr\u00e9ul este aurit.\nCine a sosit? (vara)"
+            }
+        }
+    },
+    "img_100": {
+        "page": "100",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "65": {},
+            "66": {
+                "class": "text",
+                "x": 46,
+                "y": 665,
+                "height": 92,
+                "width": 496,
+                "leftCorner": [
+                    46,
+                    665
+                ],
+                "rightCorner": [
+                    542,
+                    757
+                ],
+                "text": "\u00ae @nuca de cocos este sam\u00e9nta unui palmier?\n\n@Cea_mai_mare floare din lume apartine plantei Rafflesia\n\narnoldi, are 1 m in diametru, 7 kg in greutate, iar petalele"
+            },
+            "67": {
+                "class": "text",
+                "x": 284,
+                "y": 649,
+                "height": 29,
+                "width": 259,
+                "leftCorner": [
+                    284,
+                    649
+                ],
+                "rightCorner": [
+                    543,
+                    678
+                ],
+                "text": "Afviisinei AndraMaria, clasaa Ung C"
+            },
+            "68": {
+                "class": "text",
+                "x": 58,
+                "y": 528,
+                "height": 128,
+                "width": 483,
+                "leftCorner": [
+                    58,
+                    528
+                ],
+                "rightCorner": [
+                    541,
+                    656
+                ],
+                "text": "in Africa de Nord creste un copac care contine foarte mult fosfor,\nceea ce-| face si lumineze, noaptea se poate citi sub el ?\nStejarul nu produce ghinde pani la varsta de cincizeci (50) de ani\n\nsau chiar mai mult ?\nin padurile tropicale, unde nu se schimbi anotimpurile, copacii\n\n\u2018nu au inele anuale ?"
+            },
+            "69": {
+                "class": "text",
+                "x": 370,
+                "y": 475,
+                "height": 43,
+                "width": 172,
+                "leftCorner": [
+                    370,
+                    475
+                ],
+                "rightCorner": [
+                    542,
+                    518
+                ],
+                "text": "Elisei Rebeca Georgiana\nClasa a I-A D"
+            },
+            "70": {
+                "class": "text",
+                "x": 46,
+                "y": 356,
+                "height": 130,
+                "width": 495,
+                "leftCorner": [
+                    46,
+                    356
+                ],
+                "rightCorner": [
+                    541,
+                    486
+                ],
+                "text": "Clasa a Il-a A\n@numele cangur inseamni (in limba bastinasilor din\nAustralia) ,,nu stiu \u201d ?\n\nPpasiirea colibri-albina este o pasiire foarte micii-ea c\u00e9ntiireste I-\n2 grame, iar cuibul ei nu depaseste marimea unei nuci. Penele ei\nsunt viu colorate. Zboara foarte repede ."
+            },
+            "71": {
+                "class": "text",
+                "x": 46,
+                "y": 96,
+                "height": 267,
+                "width": 495,
+                "leftCorner": [
+                    46,
+                    96
+                ],
+                "rightCorner": [
+                    541,
+                    363
+                ],
+                "text": "@Crocodilul de mare este cea mai mare reptili, avand o\nlungime de 8,5 metri\n@Ursul polar este cel mai mare camivor terestru, ajung\u00e9nd la\ngreutatea de 1000 kg (0 tona)\nSimpaticul urs Koala din Australia este unul dintre cele mai lenese\nanimale. Din 24 de ore, el sti treaz numai 2 ore, restul si le petrece\ndormind.\n@Balena albastri cAntireste 130 000-140 000 kg. Jumatate din\ngreutate o reprezint carnea, cam 8.000 kg sangele, 3.000 kg limba,\n\niar inima, lunga de | metru, cAntareste aproape 700 kg.\n@Testoasa elefant este cea mai grea broasca festoasi de pe uscat,\natingand greutatea de 300 k;"
+            },
+            "72": {
+                "class": "text",
+                "x": 166,
+                "y": 57,
+                "height": 39,
+                "width": 279,
+                "leftCorner": [
+                    166,
+                    57
+                ],
+                "rightCorner": [
+                    445,
+                    96
+                ],
+                "text": "Curiozitati"
+            }
+        }
+    },
+    "img_101": {
+        "page": "101",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "73": {},
+            "74": {
+                "class": "text",
+                "x": 269,
+                "y": 667,
+                "height": 27,
+                "width": 271,
+                "leftCorner": [
+                    269,
+                    667
+                ],
+                "rightCorner": [
+                    540,
+                    694
+                ],
+                "text": "Jovu Rebeca Mihaela- clasa a III-a A"
+            },
+            "75": {
+                "class": "text",
+                "x": 59,
+                "y": 547,
+                "height": 111,
+                "width": 429,
+                "leftCorner": [
+                    59,
+                    547
+                ],
+                "rightCorner": [
+                    488,
+                    658
+                ],
+                "text": "\u00a9 Sarpele este surd ...\n@Delfinii intotdeauna dorm cu ochii deschisi ...\n Elefantii plang ..\n\n@Gazelele nu beau apa\nColibri este singura pasdre care poate zbura cu spatele .."
+            },
+            "76": {
+                "class": "text",
+                "x": 161,
+                "y": 508,
+                "height": 28,
+                "width": 381,
+                "leftCorner": [
+                    161,
+                    508
+                ],
+                "rightCorner": [
+                    542,
+                    536
+                ],
+                "text": "\u2018ozma Dragos - clasa IB"
+            },
+            "77": {
+                "class": "text",
+                "x": 58,
+                "y": 427,
+                "height": 72,
+                "width": 484,
+                "leftCorner": [
+                    58,
+                    427
+                ],
+                "rightCorner": [
+                    542,
+                    499
+                ],
+                "text": "@CUPA MONDIALA se organizeazd o datd la 4 ani si este cel mai\n\nravnit trofeu din lumea sportului ?\n-existdi aproximativ 305 000 de cluburi ale fotbalului ?"
+            },
+            "78": {},
+            "79": {
+                "class": "text",
+                "x": 320,
+                "y": 198,
+                "height": 221,
+                "width": 180,
+                "leftCorner": [
+                    320,
+                    198
+                ],
+                "rightCorner": [
+                    500,
+                    419
+                ],
+                "text": "baie det\n\n \n\nBaobabu"
+            },
+            "80": {
+                "class": "text",
+                "x": 58,
+                "y": 42,
+                "height": 149,
+                "width": 484,
+                "leftCorner": [
+                    58,
+                    42
+                ],
+                "rightCorner": [
+                    542,
+                    191
+                ],
+                "text": "sale crese pana la I m in lungime $i 2.5 cm in grosime. Floarea are\nmiros de cadavru.\n\n Baobabul poate trai pind la 5000 de ani? Urmeaz\u00e9: m\u00e9aslinul-\n2000, stejarul1600,teiul-1150,cedrul-800,parul-400, chiparosul-\n\n350, ulmul-335.\n@Cainii si pisicile sunt st\u00e9ngaci sau dreptaci, la fel ca oamenii. In\nschimb tof ursii polari sunt st\u00e9ngaci."
+            }
+        }
+    },
+    "img_102": {
+        "page": "102",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "81": {
+                "class": "text",
+                "x": 61,
+                "y": 777,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    61,
+                    777
+                ],
+                "rightCorner": [
+                    97,
+                    803
+                ],
+                "text": "100"
+            },
+            "82": {
+                "class": "text",
+                "x": 375,
+                "y": 713,
+                "height": 43,
+                "width": 166,
+                "leftCorner": [
+                    375,
+                    713
+                ],
+                "rightCorner": [
+                    541,
+                    756
+                ],
+                "text": "Sabadac Darius Marian\nCi"
+            },
+            "83": {
+                "class": "text",
+                "x": 58,
+                "y": 595,
+                "height": 128,
+                "width": 202,
+                "leftCorner": [
+                    58,
+                    595
+                ],
+                "rightCorner": [
+                    260,
+                    723
+                ],
+                "text": "E trimis de Dumnezeu,\nE ocrotitorul tau.\nTe va apira mereu\n\nSi la bine sila greu\nTotdeauna ti-e aproape\n$i ziua si-n miez de noapte."
+            },
+            "84": {
+                "class": "text",
+                "x": 311,
+                "y": 592,
+                "height": 89,
+                "width": 181,
+                "leftCorner": [
+                    311,
+                    592
+                ],
+                "rightCorner": [
+                    492,
+                    681
+                ],
+                "text": "in biserica, in casi\nPe perete sau pe masa,\n\nNe rugim privind la ele\nCaci ne ocrotesc de rele."
+            },
+            "85": {
+                "class": "text",
+                "x": 312,
+                "y": 497,
+                "height": 88,
+                "width": 187,
+                "leftCorner": [
+                    312,
+                    497
+                ],
+                "rightCorner": [
+                    499,
+                    585
+                ],
+                "text": "E din lemn sau din metal,\nSt pe masa in altar\n\nSau la gat la fiecare\nlar puterea ei \u00a2 mare."
+            },
+            "86": {
+                "class": "text",
+                "x": 59,
+                "y": 497,
+                "height": 88,
+                "width": 195,
+                "leftCorner": [
+                    59,
+                    497
+                ],
+                "rightCorner": [
+                    254,
+                    585
+                ],
+                "text": "Face slujbe pentru toti\nPomenind pe vii, pe morti,\n\ninvatandu-ne prin toate\nlubirea pentru aproape."
+            },
+            "87": {
+                "class": "text",
+                "x": 216,
+                "y": 437,
+                "height": 49,
+                "width": 202,
+                "leftCorner": [
+                    216,
+                    437
+                ],
+                "rightCorner": [
+                    418,
+                    486
+                ],
+                "text": "Ghicitori crestine"
+            },
+            "88": {
+                "class": "text",
+                "x": 356,
+                "y": 405,
+                "height": 25,
+                "width": 185,
+                "leftCorner": [
+                    356,
+                    405
+                ],
+                "rightCorner": [
+                    541,
+                    430
+                ],
+                "text": "Dibu Diana, clasa a 1V-a A"
+            },
+            "89": {
+                "class": "text",
+                "x": 85,
+                "y": 226,
+                "height": 186,
+                "width": 421,
+                "leftCorner": [
+                    85,
+                    226
+                ],
+                "rightCorner": [
+                    506,
+                    412
+                ],
+                "text": "Crezul este simbolul credintei\n\nSufletul omului are viata vesnica\n\nSarbatorim Invierea Domnului in zi de Duminica\nPocainta sincera aduce iertarea pacatelor\n\n+ Mandria ii indeparteazi pe oameni de Dumnezeu, iar\nsmerenia fi apropie de Dumnezeu\nBiblia este cea mai cumparata si cea mai citita carte din toate"
+            },
+            "90": {
+                "class": "text",
+                "x": 323,
+                "y": 188,
+                "height": 26,
+                "width": 220,
+                "leftCorner": [
+                    323,
+                    188
+                ],
+                "rightCorner": [
+                    543,
+                    214
+                ],
+                "text": "Nedelcu Patrisia, clasa a Il-a C"
+            },
+            "91": {
+                "class": "text",
+                "x": 84,
+                "y": 89,
+                "height": 89,
+                "width": 442,
+                "leftCorner": [
+                    84,
+                    89
+                ],
+                "rightCorner": [
+                    526,
+                    178
+                ],
+                "text": "Moise cere eliberarea poporului evreu din robia egipteand?\nDavid a scris 151 pslami?\n\nregele Solomon a fost un rege intelept?\nMoise a svarsit minunea la Marea Rosie?"
+            },
+            "92": {
+                "class": "text",
+                "x": 208,
+                "y": 38,
+                "height": 50,
+                "width": 184,
+                "leftCorner": [
+                    208,
+                    38
+                ],
+                "rightCorner": [
+                    392,
+                    88
+                ],
+                "text": "Stiati ca....9"
+            }
+        }
+    },
+    "img_103": {
+        "page": "103",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "93": {
+                "class": "text",
+                "x": 505,
+                "y": 777,
+                "height": 26,
+                "width": 34,
+                "leftCorner": [
+                    505,
+                    777
+                ],
+                "rightCorner": [
+                    539,
+                    803
+                ],
+                "text": "101"
+            },
+            "94": {
+                "class": "text",
+                "x": 346,
+                "y": 635,
+                "height": 62,
+                "width": 196,
+                "leftCorner": [
+                    346,
+                    635
+                ],
+                "rightCorner": [
+                    542,
+                    697
+                ],
+                "text": "Lupu Denisa ~ Maria\n\nAlexandru Carina \u2014 Mihaela\nClasa a IV-a B"
+            },
+            "95": {
+                "class": "text",
+                "x": 123,
+                "y": 576,
+                "height": 49,
+                "width": 257,
+                "leftCorner": [
+                    123,
+                    576
+                ],
+                "rightCorner": [
+                    380,
+                    625
+                ],
+                "text": "O fetita intreaba un politi"
+            },
+            "96": {
+                "class": "text",
+                "x": 77,
+                "y": 570,
+                "height": 41,
+                "width": 40,
+                "leftCorner": [
+                    77,
+                    570
+                ],
+                "rightCorner": [
+                    117,
+                    611
+                ],
+                "text": "y"
+            },
+            "97": {
+                "class": "text",
+                "x": 58,
+                "y": 518,
+                "height": 25,
+                "width": 60,
+                "leftCorner": [
+                    58,
+                    518
+                ],
+                "rightCorner": [
+                    118,
+                    543
+                ],
+                "text": "tema!?"
+            },
+            "98": {
+                "class": "text",
+                "x": 118,
+                "y": 437,
+                "height": 90,
+                "width": 423,
+                "leftCorner": [
+                    118,
+                    437
+                ],
+                "rightCorner": [
+                    541,
+                    527
+                ],
+                "text": "\u2014 Doamna invatitoare, poate fi cineva pedepsit pentru un\nlucru pe care nu I-a facut?\n\n\u2014Nu.\nAtunci nu o si ma pedepsiti pentru cA nu mi-am ficut"
+            },
+            "99": {},
+            "100": {
+                "class": "text",
+                "x": 122,
+                "y": 337,
+                "height": 69,
+                "width": 412,
+                "leftCorner": [
+                    122,
+                    337
+                ],
+                "rightCorner": [
+                    534,
+                    406
+                ],
+                "text": "La ora de limba romani, invatatorul il intreaba pe un elev:\nCum vei spune la viitor ,,eu case?\n\n \n\n\u2014 Voi spune ,,eu dorm\u201d."
+            },
+            "101": {
+                "class": "text",
+                "x": 77,
+                "y": 324,
+                "height": 42,
+                "width": 40,
+                "leftCorner": [
+                    77,
+                    324
+                ],
+                "rightCorner": [
+                    117,
+                    366
+                ],
+                "text": "y"
+            },
+            "102": {
+                "class": "text",
+                "x": 123,
+                "y": 237,
+                "height": 71,
+                "width": 394,
+                "leftCorner": [
+                    123,
+                    237
+                ],
+                "rightCorner": [
+                    517,
+                    308
+                ],
+                "text": "Marian se intoarce suparat de la scoala. Tata il intreaba:\n~ De ce esti suparat, Marian?\n\n \n\n\u2014 Cum si\u2019 nu fiu suparat daca mi-ai gresit tema?"
+            },
+            "103": {},
+            "104": {
+                "class": "text",
+                "x": 77,
+                "y": 150,
+                "height": 41,
+                "width": 39,
+                "leftCorner": [
+                    77,
+                    150
+                ],
+                "rightCorner": [
+                    116,
+                    191
+                ],
+                "text": "y"
+            },
+            "105": {
+                "class": "text",
+                "x": 122,
+                "y": 137,
+                "height": 70,
+                "width": 419,
+                "leftCorner": [
+                    122,
+                    137
+                ],
+                "rightCorner": [
+                    541,
+                    207
+                ],
+                "text": "\u2014 Ionut, spune-mi, ce este substantivul?\n\n\u2014 V-as spune cu plicere, doamna invatitoare, dar nici eu\nnu stiu!"
+            },
+            "106": {
+                "class": "text",
+                "x": 213,
+                "y": 56,
+                "height": 73,
+                "width": 174,
+                "leftCorner": [
+                    213,
+                    56
+                ],
+                "rightCorner": [
+                    387,
+                    129
+                ],
+                "text": "GLUME"
+            }
+        }
+    },
+    "img_104": {
+        "page": "104",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "107": {
+                "class": "text",
+                "x": 61,
+                "y": 777,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    61,
+                    777
+                ],
+                "rightCorner": [
+                    97,
+                    803
+                ],
+                "text": "102"
+            },
+            "108": {
+                "class": "text",
+                "x": 295,
+                "y": 597,
+                "height": 26,
+                "width": 246,
+                "leftCorner": [
+                    295,
+                    597
+                ],
+                "rightCorner": [
+                    541,
+                    623
+                ],
+                "text": "P.LP. Andrunache Carmen-Gabriela"
+            },
+            "109": {
+                "class": "text",
+                "x": 58,
+                "y": 263,
+                "height": 345,
+                "width": 483,
+                "leftCorner": [
+                    58,
+                    263
+                ],
+                "rightCorner": [
+                    541,
+                    608
+                ],
+                "text": "Marele Arbore Banian, localizat in Gradinin Botanica\nIndiana Acharya Jagadish Chandra Bose, din Howrah, India, este\ncel mai mare copac din lume, ca suprafata pe care coronamentul sau\n\u00a9 acopera. Se estimeaza cd arborele are o varsti de aproximativ 250\nde ani si o intindere de circa 14.500 de metri patrati (1,5 hectare).\n\nCu numirul su mare de crengi infipte in pam\u00e9nt asemenea\nunor trunchiuri, Marele Arbore Banian pare a fi mai mult o padure\ndect un singur copac. Interesant este ci in prezent marele\norganism vegetal traieste fara trunchiul sau principal, care a putrezit\nin 1925 si a fost indepartat. Circumferinta acestuia era de 1,7 metri\nsi avea o inaltime de 15,7 metri. Prezenta coroana a arborelui are o\ncircumferinfa de un kilometri, iar cea mai mare inaltime pana la\ncare ajung ramurile sale este de aproximativ 25 de metri; nu mai\nputin de 2880 de radacini aeriene (sau crengi infipte in pamand)\nalcatuiesc acum fenomenalul copac indian.\n\nSe spune ci sub coroana lui se pot ad\u00e9posti 20 000 de\npersoane."
+            },
+            "110": {},
+            "111": {},
+            "112": {
+                "class": "text",
+                "x": 91,
+                "y": 66,
+                "height": 34,
+                "width": 416,
+                "leftCorner": [
+                    91,
+                    66
+                ],
+                "rightCorner": [
+                    507,
+                    100
+                ],
+                "text": "Marele Arbore Banian (un fel de smochin)"
+            }
+        }
+    }
+}

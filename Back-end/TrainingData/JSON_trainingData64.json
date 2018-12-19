@@ -1,0 +1,1135 @@
+{
+    "numberOfPages": 155,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 236,
+                "y": 707,
+                "height": 34,
+                "width": 136,
+                "leftCorner": [
+                    236,
+                    707
+                ],
+                "rightCorner": [
+                    372,
+                    741
+                ],
+                "text": "2012-2013"
+            },
+            "2": {
+                "class": "text",
+                "x": 256,
+                "y": 565,
+                "height": 47,
+                "width": 160,
+                "leftCorner": [
+                    256,
+                    565
+                ],
+                "rightCorner": [
+                    416,
+                    612
+                ],
+                "text": "2, NR. 2"
+            },
+            "3": {
+                "class": "text",
+                "x": 184,
+                "y": 564,
+                "height": 42,
+                "width": 74,
+                "leftCorner": [
+                    184,
+                    564
+                ],
+                "rightCorner": [
+                    258,
+                    606
+                ],
+                "text": "AN"
+            },
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 191,
+                "y": 341,
+                "height": 67,
+                "width": 223,
+                "leftCorner": [
+                    191,
+                    341
+                ],
+                "rightCorner": [
+                    414,
+                    408
+                ],
+                "text": "ANGAR"
+            },
+            "6": {
+                "class": "text",
+                "x": 259,
+                "y": 173,
+                "height": 30,
+                "width": 82,
+                "leftCorner": [
+                    259,
+                    173
+                ],
+                "rightCorner": [
+                    341,
+                    203
+                ],
+                "text": "Harlau"
+            },
+            "7": {
+                "class": "text",
+                "x": 205,
+                "y": 127,
+                "height": 34,
+                "width": 189,
+                "leftCorner": [
+                    205,
+                    127
+                ],
+                "rightCorner": [
+                    394,
+                    161
+                ],
+                "text": "\u201cStefan cel Mare\u201d"
+            },
+            "8": {
+                "class": "text",
+                "x": 208,
+                "y": 79,
+                "height": 35,
+                "width": 184,
+                "leftCorner": [
+                    208,
+                    79
+                ],
+                "rightCorner": [
+                    392,
+                    114
+                ],
+                "text": "Colegiul National"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 91,
+                "y": 698,
+                "height": 31,
+                "width": 223,
+                "leftCorner": [
+                    91,
+                    698
+                ],
+                "rightCorner": [
+                    314,
+                    729
+                ],
+                "text": "ISSN-L 2285 \u2014 794X"
+            },
+            "10": {
+                "class": "text",
+                "x": 95,
+                "y": 561,
+                "height": 47,
+                "width": 298,
+                "leftCorner": [
+                    95,
+                    561
+                ],
+                "rightCorner": [
+                    393,
+                    608
+                ],
+                "text": "CMI dr. Neicu Stela Tatiana\nlor \"Stefan Cel Mare\u201d H:"
+            },
+            "11": {
+                "class": "text",
+                "x": 95,
+                "y": 523,
+                "height": 27,
+                "width": 74,
+                "leftCorner": [
+                    95,
+                    523
+                ],
+                "rightCorner": [
+                    169,
+                    550
+                ],
+                "text": "Sponsori:"
+            },
+            "12": {
+                "class": "text",
+                "x": 95,
+                "y": 389,
+                "height": 123,
+                "width": 287,
+                "leftCorner": [
+                    95,
+                    389
+                ],
+                "rightCorner": [
+                    382,
+                    512
+                ],
+                "text": "Alupei Rodica clasa a Xl-a F\nCreanga Aryna Alexandra clasa a Xll-a A\nGrigorovici Carina Diana Clasa a Xil-a E\n\nRionesei Izabela Constantina Clasa a Xil-a E\n\u2018Tofan Remus Andrei clasaa X\\-a A\nsub indrumarea prof.AnaMaria Bulau"
+            },
+            "13": {
+                "class": "text",
+                "x": 95,
+                "y": 353,
+                "height": 28,
+                "width": 241,
+                "leftCorner": [
+                    95,
+                    353
+                ],
+                "rightCorner": [
+                    336,
+                    381
+                ],
+                "text": "llustratia copertei - Pictura murala:"
+            },
+            "14": {
+                "class": "text",
+                "x": 96,
+                "y": 317,
+                "height": 25,
+                "width": 136,
+                "leftCorner": [
+                    96,
+                    317
+                ],
+                "rightCorner": [
+                    232,
+                    342
+                ],
+                "text": "Prof. Ramona Darie"
+            },
+            "15": {
+                "class": "text",
+                "x": 94,
+                "y": 280,
+                "height": 28,
+                "width": 241,
+                "leftCorner": [
+                    94,
+                    280
+                ],
+                "rightCorner": [
+                    335,
+                    308
+                ],
+                "text": "Tehnoredactare, graficd si coperta:"
+            },
+            "16": {
+                "class": "text",
+                "x": 96,
+                "y": 208,
+                "height": 25,
+                "width": 120,
+                "leftCorner": [
+                    96,
+                    208
+                ],
+                "rightCorner": [
+                    216,
+                    233
+                ],
+                "text": "Prof. Aurel Neicu"
+            },
+            "17": {
+                "class": "text",
+                "x": 95,
+                "y": 171,
+                "height": 25,
+                "width": 100,
+                "leftCorner": [
+                    95,
+                    171
+                ],
+                "rightCorner": [
+                    195,
+                    196
+                ],
+                "text": "Coordonator:"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 136,
+                "y": 523,
+                "height": 216,
+                "width": 331,
+                "leftCorner": [
+                    136,
+                    523
+                ],
+                "rightCorner": [
+                    467,
+                    739
+                ],
+                "text": "Rode ay Eig\nWy,\n\na\na\nJ\n\neo\nOTT ec nak"
+            },
+            "19": {
+                "class": "text",
+                "x": 267,
+                "y": 477,
+                "height": 29,
+                "width": 66,
+                "leftCorner": [
+                    267,
+                    477
+                ],
+                "rightCorner": [
+                    333,
+                    506
+                ],
+                "text": "Steagul"
+            },
+            "20": {},
+            "21": {},
+            "22": {
+                "class": "text",
+                "x": 284,
+                "y": 142,
+                "height": 26,
+                "width": 58,
+                "leftCorner": [
+                    284,
+                    142
+                ],
+                "rightCorner": [
+                    342,
+                    168
+                ],
+                "text": "Stema"
+            },
+            "23": {
+                "class": "text",
+                "x": 181,
+                "y": 92,
+                "height": 32,
+                "width": 237,
+                "leftCorner": [
+                    181,
+                    92
+                ],
+                "rightCorner": [
+                    418,
+                    124
+                ],
+                "text": "INSEMNELE COLEGIULUI"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {}
+    },
+    "img_150": {
+        "page": "150",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 282,
+                "y": 759,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    282,
+                    759
+                ],
+                "rightCorner": [
+                    319,
+                    784
+                ],
+                "text": "148"
+            },
+            "25": {
+                "class": "text",
+                "x": 83,
+                "y": 167,
+                "height": 577,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    167
+                ],
+                "rightCorner": [
+                    517,
+                    744
+                ],
+                "text": "Stimati colegi, dragi elevi,\n\nNe aflim in momentul bilantului de sfarsit de an\nscolar in care rememorim rezultatele efortului didactic al\nprofesorilor nostri si al elevilor scolii, despre care sunt\nmandru si afirm ci ne-au adus satisfactii si impliniri si ne\ndau speranta ci toti cei care isi desfaigoara activitatea in acest\nspatiu educational au fcut_ un demers comun pentru\nincadrarea scolii noastre in galeria celor de succes. Sunt\nconvins cA tot ceea ce s-a derulat in acest an scolar sunt\nactivititi care s-au afirmat ca reusite vizibile in traseul\npedagogic la care aji participat, c& ati simfit intentia noastra\nde a va plasa pe orbita realizarilor de calitate, ca ati fost\ndeplin motivati sa participati cu interes la competitii din\ntoate zonele profilurilor la care invatafi si si aduceti un plus\nde imagine la patrimoniul de impliniri in plan profesional.\nintr-o retrospectiva sintetict, amintesc de numeroasele\nevenimente care au avut loc in colegiul nostra inc& din\nprimul semestru si care au continuat mai intens in cel de-al\ndoilea:concursurile tradigionale care sunt o adevarati efigie a\nscolii: Cezar Petrescu, Micii matematicieni, Pagini HWEB,\n\n  \n\napoi olimpiadele pe obiecte la care scoala a obtinut premii si\ndistincjii_notabile, lansarea anuarului pe care dorim sa-l\ncontinuim si in viitor, prezentarea Monografiei colegiului,"
+            },
+            "26": {
+                "class": "text",
+                "x": 246,
+                "y": 125,
+                "height": 28,
+                "width": 107,
+                "leftCorner": [
+                    246,
+                    125
+                ],
+                "rightCorner": [
+                    353,
+                    153
+                ],
+                "text": "2012 / 2013"
+            },
+            "27": {
+                "class": "text",
+                "x": 100,
+                "y": 75,
+                "height": 36,
+                "width": 400,
+                "leftCorner": [
+                    100,
+                    75
+                ],
+                "rightCorner": [
+                    500,
+                    111
+                ],
+                "text": "CUVANT DE iNCHIDERE A ANULUI SCOLAR"
+            }
+        }
+    },
+    "img_151": {
+        "page": "151",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "28": {
+                "class": "text",
+                "x": 282,
+                "y": 759,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    282,
+                    759
+                ],
+                "rightCorner": [
+                    319,
+                    783
+                ],
+                "text": "149"
+            },
+            "29": {
+                "class": "text",
+                "x": 474,
+                "y": 698,
+                "height": 22,
+                "width": 43,
+                "leftCorner": [
+                    474,
+                    698
+                ],
+                "rightCorner": [
+                    517,
+                    720
+                ],
+                "text": "vom"
+            },
+            "30": {
+                "class": "text",
+                "x": 83,
+                "y": 77,
+                "height": 646,
+                "width": 435,
+                "leftCorner": [
+                    83,
+                    77
+                ],
+                "rightCorner": [
+                    518,
+                    723
+                ],
+                "text": "aniversarea a 60 de ani de invatimant liceal in Harlau,\nparticiparea la mobilitatile din cadrul___proiectului\ninternational Comenius si multe altele, care cu siguranta v-au\nrimas intiparite in minte. Consider ca tot ceea ce construim\nzilnic intr-un efort comun de optimizare a invatamantului\neste rezultatul pregitirii performante a corpului didactic, dar\nsi al interesului pe care il manifesta multi dintre elevi fata de\nvolumul de informatie si calificare profesionala, ceea ce se\nreflecta in rezultatele voastre de la final de an scolar. Sigur\ncA prioritatea absoluta a noastra este si oferim societatii\nabsolventi de calitate, api sd urmeze o cariera academia si o\nspecializare profesional superioari, avem in vedere si\norientarea realist si motivanta a celor care termina clasa a\nVIII-a de a-si alege judicios viitorul profil si ma bucura ca\nrezultatele la simuldrile examenelor nationale \u2014 sunt\npromititoare, ceea ce imi da increderea ci ne vom putea\nbucura de procente multumitoare la examenele care se\nderuleaza in prezent si incd vor continua in viitorul proxim.\nAstept de la voi, atat profesori cat si elevi, continuarea, cu\naceeasi energie si pasiune a tot ceea ce am initiat si construit\npana in prezent si cred ca avefi capacitatea, competenta si\ncreativitatea necesara de a diversifica ofertele educationale,\nastfel ined\n\n \n\ndintr-un mic oras de provincie si risari,ca o\n\nfloare rari, 0 scoala calitativa in care sa fifi mandri cd va\n\n \n\ndesfasurati activitatea. In ce ne priveste, vom continua\n\n \n\neforturile de a diversifica posibilitaile didactic:"
+            }
+        }
+    },
+    "img_152": {
+        "page": "152",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "31": {
+                "class": "text",
+                "x": 282,
+                "y": 759,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    282,
+                    759
+                ],
+                "rightCorner": [
+                    319,
+                    784
+                ],
+                "text": "150"
+            },
+            "32": {
+                "class": "text",
+                "x": 230,
+                "y": 638,
+                "height": 26,
+                "width": 140,
+                "leftCorner": [
+                    230,
+                    638
+                ],
+                "rightCorner": [
+                    370,
+                    664
+                ],
+                "text": "Prof. Aurel Neicu"
+            },
+            "33": {
+                "class": "text",
+                "x": 261,
+                "y": 599,
+                "height": 28,
+                "width": 78,
+                "leftCorner": [
+                    261,
+                    599
+                ],
+                "rightCorner": [
+                    339,
+                    627
+                ],
+                "text": "Director,"
+            },
+            "34": {
+                "class": "text",
+                "x": 134,
+                "y": 527,
+                "height": 26,
+                "width": 90,
+                "leftCorner": [
+                    134,
+                    527
+                ],
+                "rightCorner": [
+                    224,
+                    553
+                ],
+                "text": "21.06.2013"
+            },
+            "35": {
+                "class": "text",
+                "x": 83,
+                "y": 77,
+                "height": 421,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    77
+                ],
+                "rightCorner": [
+                    517,
+                    498
+                ],
+                "text": "imbunatati calitatea suporturilor educative, vom oferi o\nasistenta pedagogica de cea mai buna calitate astfel incat tot\nceea ce va iegi de pe bancile scolii noastre sa fie un produs\ncu potential valoric ridicat si deplin integrabil in societatea\nromaneascd. Le multumese profesorilor scolii pentru\nseriozitatea si rigoarea cu care se prezint\u00e9 in fata voastra,\ntuturor colaboratorilor care ne-au sprijinit in crearea unui\nambient propice invatarii, parintilor care va asigura confortul\nhecesar si tuturor elevilor care ne fac universul scolar mai\nfrumos,care ne aduc satisfactii prin rezultatele lor. Pentru cei\ncare desfagoara acum examenul de bacalaureat le doresc\nputere de munca gi concentrare pentru a trece cu brio acest\nimportant prag al vietii lor scolare, absolventilor de clasa a\nVIII-a, care se apropie de primul examen important din viata\n\nlor, le urez succes deplin, iar celorlalti, care asteptati febril 0\nlunga vara fierbinte, vi dorese vacant plcut si plina de\n\n \n\nbucurii!"
+            }
+        }
+    },
+    "img_153": {
+        "page": "153",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "36": {
+                "class": "text",
+                "x": 282,
+                "y": 759,
+                "height": 25,
+                "width": 35,
+                "leftCorner": [
+                    282,
+                    759
+                ],
+                "rightCorner": [
+                    317,
+                    784
+                ],
+                "text": "151"
+            },
+            "37": {
+                "class": "text",
+                "x": 114,
+                "y": 692,
+                "height": 24,
+                "width": 402,
+                "leftCorner": [
+                    114,
+                    692
+                ],
+                "rightCorner": [
+                    516,
+                    716
+                ],
+                "text": "GEOGRAFIE"
+            },
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 115,
+                "y": 634,
+                "height": 24,
+                "width": 402,
+                "leftCorner": [
+                    115,
+                    634
+                ],
+                "rightCorner": [
+                    517,
+                    658
+                ],
+                "text": "LIMBI MODERNE.\n\n \n\n28"
+            },
+            "40": {
+                "class": "text",
+                "x": 115,
+                "y": 602,
+                "height": 27,
+                "width": 401,
+                "leftCorner": [
+                    115,
+                    602
+                ],
+                "rightCorner": [
+                    516,
+                    629
+                ],
+                "text": "LIMBA ROMANA"
+            },
+            "41": {
+                "class": "text",
+                "x": 83,
+                "y": 575,
+                "height": 27,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    575
+                ],
+                "rightCorner": [
+                    516,
+                    602
+                ],
+                "text": "PERFORMANTE SCOLARE"
+            },
+            "42": {
+                "class": "text",
+                "x": 99,
+                "y": 546,
+                "height": 25,
+                "width": 418,
+                "leftCorner": [
+                    99,
+                    546
+                ],
+                "rightCorner": [
+                    517,
+                    571
+                ],
+                "text": "CLUBUL MICILOR MATEMATICIENILOR.."
+            },
+            "43": {
+                "class": "text",
+                "x": 98,
+                "y": 485,
+                "height": 59,
+                "width": 418,
+                "leftCorner": [
+                    98,
+                    485
+                ],
+                "rightCorner": [
+                    516,
+                    544
+                ],
+                "text": "CERCUL DE ARTA DRAMATICA ,Arlecchino\u201d ....\n\n \n\nASOCIATIA SPORTIVA SCOLARA ,,OLIMPIA\u201d ."
+            },
+            "44": {
+                "class": "text",
+                "x": 99,
+                "y": 455,
+                "height": 30,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    455
+                ],
+                "rightCorner": [
+                    516,
+                    485
+                ],
+                "text": "CERC DE PICTURA RELIGIOASA ,,Trepte"
+            },
+            "45": {
+                "class": "text",
+                "x": 99,
+                "y": 428,
+                "height": 27,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    428
+                ],
+                "rightCorner": [
+                    516,
+                    455
+                ],
+                "text": "CLUBUL DE TURISM SI ECOLOGIE ,ECOMONT\u201d ...\n\n \n\n21"
+            },
+            "46": {
+                "class": "text",
+                "x": 99,
+                "y": 400,
+                "height": 24,
+                "width": 418,
+                "leftCorner": [
+                    99,
+                    400
+                ],
+                "rightCorner": [
+                    517,
+                    424
+                ],
+                "text": "CONCURSUL HWEB.\n\n    \n\n20"
+            },
+            "47": {
+                "class": "text",
+                "x": 99,
+                "y": 370,
+                "height": 27,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    370
+                ],
+                "rightCorner": [
+                    516,
+                    397
+                ],
+                "text": "CONCURSUL LITERAR ,,CEZAR PETRESCU\u201d\n\n \n\n19"
+            },
+            "48": {
+                "class": "text",
+                "x": 99,
+                "y": 341,
+                "height": 25,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    341
+                ],
+                "rightCorner": [
+                    516,
+                    366
+                ],
+                "text": "PLEDOARIE PENTRU STUDIUL MATEMATICT .."
+            },
+            "49": {
+                "class": "text",
+                "x": 99,
+                "y": 312,
+                "height": 24,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    312
+                ],
+                "rightCorner": [
+                    516,
+                    336
+                ],
+                "text": "MICII MATEMATICIENI\n\n \n\n13"
+            },
+            "50": {
+                "class": "text",
+                "x": 83,
+                "y": 280,
+                "height": 30,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    280
+                ],
+                "rightCorner": [
+                    516,
+                    310
+                ],
+                "text": "CONCURSURI $I CERCURI ORGANIZATE IN COLEGIU"
+            },
+            "51": {
+                "class": "text",
+                "x": 83,
+                "y": 253,
+                "height": 28,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    253
+                ],
+                "rightCorner": [
+                    516,
+                    281
+                ],
+                "text": "PLANUL DE $COLARIZARE AN $COLAR"
+            },
+            "52": {
+                "class": "text",
+                "x": 83,
+                "y": 225,
+                "height": 24,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    225
+                ],
+                "rightCorner": [
+                    516,
+                    249
+                ],
+                "text": "PERSONAL ADMINISTRATIV SAU NEDIDACTIC..\n\n \n\nwld"
+            },
+            "53": {
+                "class": "text",
+                "x": 83,
+                "y": 195,
+                "height": 25,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    195
+                ],
+                "rightCorner": [
+                    517,
+                    220
+                ],
+                "text": "PERSONAL DIDACTIC AUXILIAR .."
+            },
+            "54": {
+                "class": "text",
+                "x": 83,
+                "y": 166,
+                "height": 24,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    166
+                ],
+                "rightCorner": [
+                    516,
+                    190
+                ],
+                "text": "CADRE DIDACTICE."
+            },
+            "55": {
+                "class": "text",
+                "x": 83,
+                "y": 134,
+                "height": 30,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    134
+                ],
+                "rightCorner": [
+                    516,
+                    164
+                ],
+                "text": "CUVANT DE DESCHIDERE A ANULUI SCOLAR"
+            },
+            "56": {
+                "class": "text",
+                "x": 82,
+                "y": 105,
+                "height": 27,
+                "width": 434,
+                "leftCorner": [
+                    82,
+                    105
+                ],
+                "rightCorner": [
+                    516,
+                    132
+                ],
+                "text": "INSEMNELE COLEGIULUI"
+            },
+            "57": {
+                "class": "text",
+                "x": 253,
+                "y": 79,
+                "height": 28,
+                "width": 94,
+                "leftCorner": [
+                    253,
+                    79
+                ],
+                "rightCorner": [
+                    347,
+                    107
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_154": {
+        "page": "154",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "58": {
+                "class": "text",
+                "x": 282,
+                "y": 759,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    282,
+                    759
+                ],
+                "rightCorner": [
+                    319,
+                    784
+                ],
+                "text": "152"
+            },
+            "59": {
+                "class": "text",
+                "x": 83,
+                "y": 514,
+                "height": 30,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    514
+                ],
+                "rightCorner": [
+                    517,
+                    544
+                ],
+                "text": "IT DE INCHIDERE A ANULUI $COLAR."
+            },
+            "60": {
+                "class": "text",
+                "x": 83,
+                "y": 485,
+                "height": 27,
+                "width": 433,
+                "leftCorner": [
+                    83,
+                    485
+                ],
+                "rightCorner": [
+                    516,
+                    512
+                ],
+                "text": "IIMAGINEA COLEGIULUI REFLECTATA DE MEDIA LOCALA 115"
+            },
+            "61": {
+                "class": "text",
+                "x": 83,
+                "y": 455,
+                "height": 30,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    455
+                ],
+                "rightCorner": [
+                    517,
+                    485
+                ],
+                "text": "SITUATIA SCOLARA LA SFARSITUL ANULUI SCOLAR 2012 -2013..56"
+            },
+            "62": {
+                "class": "text",
+                "x": 82,
+                "y": 426,
+                "height": 27,
+                "width": 435,
+                "leftCorner": [
+                    82,
+                    426
+                ],
+                "rightCorner": [
+                    517,
+                    453
+                ],
+                "text": "ACTIVITATEA EDUCATIVA 2012"
+            },
+            "63": {
+                "class": "text",
+                "x": 99,
+                "y": 400,
+                "height": 24,
+                "width": 417,
+                "leftCorner": [
+                    99,
+                    400
+                ],
+                "rightCorner": [
+                    516,
+                    424
+                ],
+                "text": "BACALAUREAT 2013...\n\n \n\n52"
+            },
+            "64": {
+                "class": "text",
+                "x": 99,
+                "y": 368,
+                "height": 30,
+                "width": 418,
+                "leftCorner": [
+                    99,
+                    368
+                ],
+                "rightCorner": [
+                    517,
+                    398
+                ],
+                "text": "EVALUAREA NATIONALA 2013"
+            },
+            "65": {
+                "class": "text",
+                "x": 83,
+                "y": 341,
+                "height": 27,
+                "width": 434,
+                "leftCorner": [
+                    83,
+                    341
+                ],
+                "rightCorner": [
+                    517,
+                    368
+                ],
+                "text": "EXAMENE NATIONALE."
+            },
+            "66": {
+                "class": "text",
+                "x": 115,
+                "y": 309,
+                "height": 30,
+                "width": 401,
+                "leftCorner": [
+                    115,
+                    309
+                ],
+                "rightCorner": [
+                    516,
+                    339
+                ],
+                "text": "EDUCATIE PLASTICA."
+            },
+            "67": {
+                "class": "text",
+                "x": 115,
+                "y": 280,
+                "height": 30,
+                "width": 402,
+                "leftCorner": [
+                    115,
+                    280
+                ],
+                "rightCorner": [
+                    517,
+                    310
+                ],
+                "text": "EDUCATIE FIZICA $I SPORT .."
+            },
+            "68": {},
+            "69": {
+                "class": "text",
+                "x": 115,
+                "y": 225,
+                "height": 24,
+                "width": 401,
+                "leftCorner": [
+                    115,
+                    225
+                ],
+                "rightCorner": [
+                    516,
+                    249
+                ],
+                "text": "BIOLOGIA."
+            },
+            "70": {
+                "class": "text",
+                "x": 114,
+                "y": 195,
+                "height": 25,
+                "width": 403,
+                "leftCorner": [
+                    114,
+                    195
+                ],
+                "rightCorner": [
+                    517,
+                    220
+                ],
+                "text": "CHIMIE"
+            },
+            "71": {},
+            "72": {},
+            "73": {
+                "class": "text",
+                "x": 114,
+                "y": 108,
+                "height": 27,
+                "width": 403,
+                "leftCorner": [
+                    114,
+                    108
+                ],
+                "rightCorner": [
+                    517,
+                    135
+                ],
+                "text": "STIINTE SOCIO- UMANE.\n\n \n\n34"
+            },
+            "74": {}
+        }
+    },
+    "img_155": {
+        "page": "155",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {}
+    }
+}

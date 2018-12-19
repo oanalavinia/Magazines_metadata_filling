@@ -1,0 +1,649 @@
+{
+    "numberOfPages": 124,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 256,
+                "y": 733,
+                "height": 51,
+                "width": 87,
+                "leftCorner": [
+                    256,
+                    733
+                ],
+                "rightCorner": [
+                    343,
+                    784
+                ],
+                "text": "Editura PM\n\nIASI, 2013"
+            },
+            "2": {
+                "class": "text",
+                "x": 248,
+                "y": 636,
+                "height": 24,
+                "width": 106,
+                "leftCorner": [
+                    248,
+                    636
+                ],
+                "rightCorner": [
+                    354,
+                    660
+                ],
+                "text": "4 APRILIE 2013"
+            },
+            "3": {
+                "class": "text",
+                "x": 252,
+                "y": 407,
+                "height": 24,
+                "width": 90,
+                "leftCorner": [
+                    252,
+                    407
+                ],
+                "rightCorner": [
+                    342,
+                    431
+                ],
+                "text": "EDITIA A VE-A"
+            },
+            "4": {
+                "class": "text",
+                "x": 162,
+                "y": 352,
+                "height": 39,
+                "width": 276,
+                "leftCorner": [
+                    162,
+                    352
+                ],
+                "rightCorner": [
+                    438,
+                    391
+                ],
+                "text": "IN SCOALA ROMANEASCA"
+            },
+            "5": {
+                "class": "text",
+                "x": 123,
+                "y": 317,
+                "height": 35,
+                "width": 354,
+                "leftCorner": [
+                    123,
+                    317
+                ],
+                "rightCorner": [
+                    477,
+                    352
+                ],
+                "text": "CREATIVITATE $I MODERNITATE"
+            },
+            "6": {
+                "class": "text",
+                "x": 193,
+                "y": 258,
+                "height": 28,
+                "width": 214,
+                "leftCorner": [
+                    193,
+                    258
+                ],
+                "rightCorner": [
+                    407,
+                    286
+                ],
+                "text": "SIMPOZIONUL NATIONAL"
+            },
+            "7": {
+                "class": "text",
+                "x": 134,
+                "y": 66,
+                "height": 26,
+                "width": 337,
+                "leftCorner": [
+                    134,
+                    66
+                ],
+                "rightCorner": [
+                    471,
+                    92
+                ],
+                "text": "LICEUL TEHNOLOGIC ,,ANGHEL SALIGNY\u201d IASI"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 98,
+                "y": 696,
+                "height": 46,
+                "width": 402,
+                "leftCorner": [
+                    98,
+                    696
+                ],
+                "rightCorner": [
+                    500,
+                    742
+                ],
+                "text": "Responsabilitatea pentru continutul materialelor apa\nwutorilor."
+            },
+            "9": {
+                "class": "text",
+                "x": 222,
+                "y": 520,
+                "height": 27,
+                "width": 141,
+                "leftCorner": [
+                    222,
+                    520
+                ],
+                "rightCorner": [
+                    363,
+                    547
+                ],
+                "text": "ISSN: 2068-5564"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "10": {
+                "class": "text",
+                "x": 51,
+                "y": 736,
+                "height": 55,
+                "width": 496,
+                "leftCorner": [
+                    51,
+                    736
+                ],
+                "rightCorner": [
+                    547,
+                    791
+                ],
+                "text": "Prof. Doina Citilina COZARIUCIUC\n\n \n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi"
+            },
+            "11": {
+                "class": "text",
+                "x": 50,
+                "y": 711,
+                "height": 24,
+                "width": 250,
+                "leftCorner": [
+                    50,
+                    711
+                ],
+                "rightCorner": [
+                    300,
+                    735
+                ],
+                "text": "jiunea DIALOGUL STIINTELOR EXACTE"
+            },
+            "12": {
+                "class": "text",
+                "x": 50,
+                "y": 155,
+                "height": 525,
+                "width": 499,
+                "leftCorner": [
+                    50,
+                    155
+                ],
+                "rightCorner": [
+                    549,
+                    680
+                ],
+                "text": "1, UNALTFEL DE\nProf, Luiza POTOROACA\n\nLiceul Teoretic Al. I. Cuz lagi\n\n2. POPULATIA SI MEDIUL INCONJURATOR..\nProf, Diana Elena NASTURAS.\n\nLiceul Teoretie Al. I Cuza\", lai / Colegiul National .G. Tbrileanu\u201d, lagi\n3. BISERICA ORTODOXA ROMANA SI AL DOILEA RAZBOI MONDIAL:\nMISIUNEA BISERICEASCA PENTRU TRANSNISTRIA.\n\nProf, Costel COAIA\n\nLiceul Tehnologie -Anghel Saligny\u201d, kasi\n\n4. PORTOFOLIUL-METODA DE EVALUARE..\nProf, Simona ARSENI\n\nColegiul Tehnic .Dimitrie Ghiks\", Comainesti\n5. MISCAREA ONIRICA,\nProf, lina Eugenia BACIU\nScoala Gimnaziala ,Dimitrie Cantemit\", Vaslui\n6. ROLUL PADURILOR SI ARILE DE\nMUNICIPIUL 1ASL\n\nProf, Marius BACIU\nLiceul Tehnologie ,lon Mineu\u201d, Vaslui\n7. ALIMENTATIA, UN PERICOL LA ADRESA SANATATI\nProf, Citalin Constantin IOAN\n\nLiceul Tehnologie ,Anghel Salizny\u201d, lai\n\n8. INVATARE ACTIVA.\nProf, Mariana STANA\n\nProf, Adriana Roxana GAVRIL\n\nLiceul Tehnologie Anghel Saligny\u201d, kasi\n\n9. REMINISCENTE IRANIENE IN CIVILIZATIA ROMANA TRADITIONAL:\nProf, Dr. Cezar FURTUNA\n\nLiceul de Informatics .Grigore Moisi\" lasi/ Liceul Teoretic\n10, METODE SI TEHNICI INTERACTIVE DE GRU!\nProf, Alina Maria JONESCU\n\nLiceul Tehnologic ,Anghel Salizny\u201d, lagi\n\n11, FUNCTIA ELEMENTELOR STRUCTURALE. ROLUL PRAGMATIC\nAL PARATEXTULUL IN DISCURSUL PUBLICISTIC ROMANESC ACTUAL.\nProf, Natalia Alina COPACEL\n\nLiceul Tehnologie ,Anghel Saligny\u201d lai\n\n \n\nGEORGE ENESCU\n\n \n\n   \n\n \n\n \n\n   \n\n \n\n \n\n{GETATIE PROTEJATE IN\n\n \n\n \n\n1.1. Cuza, las"
+            },
+            "13": {
+                "class": "text",
+                "x": 51,
+                "y": 125,
+                "height": 27,
+                "width": 217,
+                "leftCorner": [
+                    51,
+                    125
+                ],
+                "rightCorner": [
+                    268,
+                    152
+                ],
+                "text": "junea OM, SOCIETATE, CULTURA"
+            },
+            "14": {
+                "class": "text",
+                "x": 246,
+                "y": 54,
+                "height": 25,
+                "width": 107,
+                "leftCorner": [
+                    246,
+                    54
+                ],
+                "rightCorner": [
+                    353,
+                    79
+                ],
+                "text": "= CUPRINS ="
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 50,
+                "y": 162,
+                "height": 615,
+                "width": 499,
+                "leftCorner": [
+                    50,
+                    162
+                ],
+                "rightCorner": [
+                    549,
+                    777
+                ],
+                "text": "14, UTILIZAREA SOPTWARE-ULUI EDUCATIONAL IN PROCESUL DE.\nINSTRUIRE A ELEVILOR..\nProf. Doina Mirela JORDAN\nProf. Gigliola Nicandra LASCU\nColegiu Tehnic ,Anghel Saligny\u201d, Bucuresti\n\n15, CONSIDERATH PRIVIND UTILIZAREA INSTALATHLOR\nFRIGORIFICE CU ABSORBTIE LA CLIMATIZAREA CLADIRILOR.\nDrd, Alexandru VERDES\n\nUniversitatea Tehnics ,Gheorghe Asachi\u201d, lagi\n\nProf. lonela CAZACU\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n\n16. __GENERALIZAREA DIFERENTIATA A TEHNOLOGIEI DE INCALZIRE\nOPTIME A LINGOURILOR DIN OTEL. UTILIZAREA UNUI MODEL.\nMATEMATIC NELINIAR DE FUNCTIH CUBICE SPLINE.\n\nDr. ing. Vasile CATARSCHL\n\nUniversitatea Tehnied ,Gheorghe Asachi\u201d, lagi\n\nProf. Smaranda CATARSCHI\n\nLiccul Tehnologic ,Anghel Saligny\u201d, lagi\n\n17. ECHIPAMENTE EFICIENTE DE VALORIFICARE A SURSELOR DE.\nENERGIE REGENERABILA - POMPELE DE CALDURA ose\nProf. Liviu HERTANU\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n\n18. GENERALIZAREA DIFERENTIATA A TEHNOLOGIEI DE INCALZIRE_\nOPTIME A LINGOURILOR DIN OTEL. APROXIMAREA CURBELOR DE.\niNCALZIRE $I DETERMINAREA COEFICIENTILOR FUNCTHULOR SPLINE.\nDr. ing. Vasile CATARSCHI\n\nUniversitatea Tehnics ,Gheorghe Asachi\"\nProf. Smaranda CATARSCHI\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n19. _ UTILIZAREA DE MATERIALE GEOSINTETICE LA SISTEMELE DE FUNDARE,\n\nPE TERENURI DIFICILE. sen\nProf. Raruea CHIRIAC\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lay\n\nProf. Catilin CHIRIAC\n\nColegiul Tehnic ,Gh. Asachi\u201d, lagi\n\n20. INVATARE PENTRU SOCIETATEA CUNOASTERII\u201d PRIORITATI ALE,\nEDUCATIEL.\n\nProf. Sanda Florina VORONIANU\nProf. Cristina CARDOS.\n\nColegiul Natjonal ,Avram Iancu\u201d, Brad\n\n21. TIC IN PROIECTAREA EVALUARIL.\nProf. Jonela Vanina SUCIU\n\nColegiul Tehnie ,.D. Leonida\u201d, lagi\n\n  \n\n \n\n \n\n \n\n \n\n \n\n   \n\n \n\n \n\n \n\n \n\n \n\nIasi"
+            },
+            "16": {
+                "class": "text",
+                "x": 51,
+                "y": 136,
+                "height": 25,
+                "width": 257,
+                "leftCorner": [
+                    51,
+                    136
+                ],
+                "rightCorner": [
+                    308,
+                    161
+                ],
+                "text": "Sectiunea TEHNOLOGII ALE SECOLULUI XX"
+            },
+            "17": {
+                "class": "text",
+                "x": 51,
+                "y": 53,
+                "height": 52,
+                "width": 495,
+                "leftCorner": [
+                    51,
+                    53
+                ],
+                "rightCorner": [
+                    546,
+                    105
+                ],
+                "text": "13. ORGANISMUL UMAN - UN SISTEM BIOFIZIC..\nProf. Aurora LAZAR\n\n \n\nScoala gimnazial\u00e9 .M. Codreanu\u201d, lasi"
+            }
+        }
+    },
+    "img_119": {
+        "page": "119",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 286,
+                "y": 794,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    794
+                ],
+                "rightCorner": [
+                    315,
+                    816
+                ],
+                "text": "117"
+            },
+            "19": {
+                "class": "text",
+                "x": 50,
+                "y": 271,
+                "height": 513,
+                "width": 500,
+                "leftCorner": [
+                    50,
+                    271
+                ],
+                "rightCorner": [
+                    550,
+                    784
+                ],
+                "text": "1, Justificarea propunerii cursului\nUniversul este atit de bine creat, incit as dori si ii invat i sf ii aplic principiile, in loc s& il\n\u2018exploatez in mod orbese si cu friea pentru supravietuire\u201d R. Buckminster Fuller\n\n   \n\nEducatia ECO este perceputd ca un instrument in serviciul conservarii pe termen lung a\nmediului, acesta din urma fiind considerat ca un rezervor de resurse care trebuie exploatate in\nccontextul unei dezvoltri economice durabile, rezultat\u00e9 dintr-un consens al domeniilor economice,\nsociale si ecologice si care permite gestionarea diversitati bio-culturale. Etica durabilitatii a rezultat,\ndint-o ,curistics a friii\" asociati cu actuala criza a securitatii personale si sociale, in care se\ninclude si preocuparea pentru clonarea umani, Domeniul educatiei pentru mediu mu trebuie si se\nlimiteze 1a necesittile de supravietuire, trebuie si evolueze deci intt-o directie constructiva\nConsideram cd urmitoarele argumente justified importanta implementarii educatiei pentru mediu:\n\n   \n\n \n\n> Capacitatea tehnicit modeme de transformare a habitatului natural este astizi considerabild\nsi actioneaza ca un bumerang, influentind negativ destinelor umanitayi,\n> Pe fermen lung distrugerea armonici cadrului natural prin interventia antropicd irational\n(Gespaduriri, poluare, degradarea terenurilor)\n> Crestereariscurilor imbolnivirilor in eazul unui mediu de viat\u00e9 poluat;\n> Dreptul lao vial sindtoasd intr-un mediu prietenos pentru vitoarele generaii in perspectiva\ndezvoltarii durabile;\n> Lipsa unei discipline in programa de inviimint care si asigure educareatinerei generati\n> Necesitatea popularizarii problemelor mediului apropiat sia constientiziri civice \u2014 cresterea\nimplicari societai civile in actiuni de voluntariat pentru medi;\n> Necesitatea implementirii metodelor active in contextul actualelor politici educationale de\ndezvoltare de atitudini ECO;\nEducafia ecologici nu mai este 0 opfiune\nsi fie un scop in sine ci un drum de parcurs, jaloanele urmand a fi stablite de fiecare socictate\n\u2018comunitate in parte. De aici se poate delimita un nou concept, acela de educatie pentru un vitor\nViabil care are avantajul de a propune un cadru integrator al diferitelor dimensiuni ale educatiei\nccontemporane (relative la pace, democratie, mediu, cooperare internayionali). Problema este ci\nacest cadru este reductiv pentru educatia pentru mediu, care se limiteazi la a fi un simplu\n\n \n\n \n\n \n\n \n\n \n\nnecesitate ! Dezvoltarea durabi\n\n \n\nnu trebuie\n\n \n\ninstrument, printre multe alte forme de educatie .tematica\u201d, in serviciul dezvolrit durable,\npierziind recunoasterea ca spatiu de abordare interdisciplinari, Este totusi necesari realizarea uni"
+            },
+            "20": {
+                "class": "text",
+                "x": 74,
+                "y": 243,
+                "height": 25,
+                "width": 475,
+                "leftCorner": [
+                    74,
+                    243
+                ],
+                "rightCorner": [
+                    549,
+                    268
+                ],
+                "text": "wu e destul si sti, trebuie sa si aplici. Nu e destul sit vr (J. W. Goethe)"
+            },
+            "21": {
+                "class": "text",
+                "x": 302,
+                "y": 187,
+                "height": 39,
+                "width": 248,
+                "leftCorner": [
+                    302,
+                    187
+                ],
+                "rightCorner": [
+                    550,
+                    226
+                ],
+                "text": "Profesor Florentina Gro"
+            },
+            "22": {
+                "class": "text",
+                "x": 59,
+                "y": 92,
+                "height": 78,
+                "width": 489,
+                "leftCorner": [
+                    59,
+                    92
+                ],
+                "rightCorner": [
+                    548,
+                    170
+                ],
+                "text": "EDUCATIA PENTRU MEDIU - COORDONATA MAJORA A EDUCATIEL\nPENTRU VIATA!\n\nPROPUNERE PENTRU UN CURS DE FORMARE ADRESAT CADRELOR\nDIDACTICE DIN INVATAMANTUL PREUNIVERSITAR"
+            }
+        }
+    },
+    "img_120": {
+        "page": "120",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 286,
+                "y": 794,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    794
+                ],
+                "rightCorner": [
+                    315,
+                    816
+                ],
+                "text": "118"
+            },
+            "24": {
+                "class": "text",
+                "x": 50,
+                "y": 53,
+                "height": 729,
+                "width": 499,
+                "leftCorner": [
+                    50,
+                    53
+                ],
+                "rightCorner": [
+                    549,
+                    782
+                ],
+                "text": "\u2018educafii pentru mediu care si pistreze in continuare perspectiva dezvoltirii durabile (ca important\ndeziderat socio-istoric),\nPot fi idemtticate tei strategi\n\n+ Utlizarea naturii ca ,mediu\u201d pentru educatie, ca resursi pentru activititi de dezvoltare a\nabilitjilor de relationare cu natura. Aceastd abordare este cunoscutd in general sub numele de\nstiinta mediului\n\n\u00a9 Usilizarea mediului a subiect pentru investigatii(predomind latura cognitiva.\n\n* Conservarea si imbundtatrea calitatii mediului ca scopuri ale educatei, urmarese formarea\nde valor si atitudini fata de natur\n\nEducatia pentru mediu, este deci, o tema cross-curriculari, care Ti ajutii pe oameni\n\n(ndividval sau grupal) si ingeleagi natura, sA triiasca ca membri ai biosferei, avind drept scop\ndezvoltarea capacititi de  sustine functionarea normal a mediului\n\n2.Scopul cursului: La sfiryitul programului de instruire participangii_ vor dobiindi\nccunostinele gi abilittile necesare de proiectare, organizare si promovare a activitatlor specifice de\nprotectia mediului in sensul responsabilitii ft de natura, a adoptirii unui comportament ECO.\n\nObiective specifice: Identificarea problemelor specifice de medi; Utilizarea limbajului specific\ndomeniului educatiei pentru mediu (concepte, notiuni, idei); identificarea obiectivelor educatici\npentru mediu; Diferentierea activititilor de proteciie a mediului; Realizarea de conexiuni intre\nproblemele mediului-legislatie-interventie necesari; Aplicarea de tehnici de comunicare intra si\ninter-grup; Motivarea participantilor la actvittile specifice; Promovarea invari prin dinamica de\n\u2018grup; Identificarea resurselor necesare pentru elaborarea actvitiilor specifice de mediu; Pregitirea\nstrategiiloractivizante gi a materialelor auxiliae; Proiectarea activititilor de mediu; Organizarea si\ncevaluarea activityilor de mediu; Promovare a activitailor specifice; Elaborarea de strategii' mai\ncomplexe de interventie de tipul proiectelor de mediu; Utilizarea calculatorului in proiectarea gi\npromovarea actvitiilor.\n\n3. Programa cursului\nModulul 1: Domeniul educatiei pentru mediu\n1.1 Ce este medial inconjurator?\n1.2 Obiectivele educatiei pentru mediu\n1.3 Probleme actuale grave: degradare, poluare, defrisare, desertficare\n\n \n\n \n\n \n\n \n\n   \n\nModulul 2: Speificulactvitiilor de protectia mediulu\n2.1 Proteaia si conservarea\n\n2.2 Legislaie specified insti abilitte\n\n2.3 Tipuri de activt(consientiare, evaluae, intervetie,promovare)\n\nModilu 3: Metode si tehniei de ner in educatia pent media\n\n3.1 Tehnici de comunicare in grup\n\n3.2 Metode si statgi aetvizane\n\nModula 4 Proictarea atvititilor de medi\n\n4.1 Identifiareaproblemetor de medias stabilienobietiveloractiviiilor\n\n42 Seletarea metodeor de ler, stabilizea matrialeor necesare, a mijloaelorutiizate\n43 inocmirea planurilor de lueru metoda jocului ga simulritor in educaja pentru medi\nModula 5: Organizaca aetvittior de medi\n\n5.1 Organizara,desfigurara i promovarea atvititilor de medi"
+            }
+        }
+    },
+    "img_121": {
+        "page": "121",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "25": {
+                "class": "text",
+                "x": 286,
+                "y": 794,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    794
+                ],
+                "rightCorner": [
+                    315,
+                    816
+                ],
+                "text": "119)"
+            },
+            "26": {
+                "class": "text",
+                "x": 50,
+                "y": 679,
+                "height": 108,
+                "width": 500,
+                "leftCorner": [
+                    50,
+                    679
+                ],
+                "rightCorner": [
+                    550,
+                    787
+                ],
+                "text": "MV, Bucovali, Carmen, Cindea, Mihaela (2003) - Metode moderne de educatie pentru\n\u2018media, Editura ONG Mare Nostrum, Constana\n\n12. Dulami, Maria, Eliza (2000) - Strate didactice, Editura Clusium, Cluj-Napoca,\n\n1B). Grozavu, A. et al, 2005 - Dictionar poligiot multimedia de Mediu si Stine ale\n\nPamdntului, Editura Azimuth, lag (http://www. envearthonary.0rg).\n14). Grozavu, A., Grozavu, Florentina, (2010) - Probleme locale de medi - abordare\nprin metoda IBSC (invijare bazata pe studit de caz). Procesele geomorfologice - hazard si rise"
+            },
+            "27": {
+                "class": "text",
+                "x": 51,
+                "y": 652,
+                "height": 22,
+                "width": 99,
+                "leftCorner": [
+                    51,
+                    652
+                ],
+                "rightCorner": [
+                    150,
+                    674
+                ],
+                "text": "BIBLIOGRAFIE:"
+            },
+            "28": {
+                "class": "text",
+                "x": 260,
+                "y": 575,
+                "height": 32,
+                "width": 223,
+                "leftCorner": [
+                    260,
+                    575
+                ],
+                "rightCorner": [
+                    483,
+                    607
+                ],
+                "text": "\u2018curs acreditat CNFP, MECTS/ 11\ncredite transferabile"
+            },
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 50,
+                "y": 367,
+                "height": 265,
+                "width": 447,
+                "leftCorner": [
+                    50,
+                    367
+                ],
+                "rightCorner": [
+                    497,
+                    632
+                ],
+                "text": "\u00bb Esti cadru didactic yntru mes\n\\ Educatia pe!\n* Egtl angajat intr-un_ ONG 41 te ala a\nStuside problemele mediuial coordonata esentiala\nVei putea pentru viata!\n\n= WY\n\neducatie|\n\nsee ee,\n\n4-25 mal 2013 ~ 42 ore.\n\nNFundamentare stintied gurOASS | iceu Tehmologie \"C. Brancusl\n\n5 Sletematizare a informati\n\n tucrutin echips \u2018curs acreditat CNFP, MECTS/ 11\nEe naturs a crodite transfer"
+            },
+            "31": {
+                "class": "text",
+                "x": 257,
+                "y": 364,
+                "height": 129,
+                "width": 249,
+                "leftCorner": [
+                    257,
+                    364
+                ],
+                "rightCorner": [
+                    506,
+                    493
+                ],
+                "text": "Educatia pentru\ncoordonata esenti\npentru viata !\n\n \n\n4\nWY ler"
+            },
+            "32": {
+                "class": "text",
+                "x": 51,
+                "y": 53,
+                "height": 299,
+                "width": 498,
+                "leftCorner": [
+                    51,
+                    53
+                ],
+                "rightCorner": [
+                    549,
+                    352
+                ],
+                "text": "5.2 Evaluarea activitagilor\n5.3 Proiectele de mediu-abordare general\nModulul 6: Excursia-modalitate ficient de studiu al problematicii mediului local-Aplicatie\npractica\n4. Evaluarea cursangilor\nEvaluare pe parcurs \u2014 minim o not la fiecare modul de curs (5 note) rezultat\u00e9 din observarea\nactivi participantior so not la implicarea in organizarea si desfigurarea excursiel\nEvaluare final\n> Proba teoreticd de evaluare consti in intrebiri de tip wild sau deschise (un total de 10 de\nintrebari)\nProba practic\u2019 de evaluare implied. un portofoliu ~ colectie de lueriri individuale care si\nreflecte studiul individual in vederea realizarii unui proiect al unei activitti de mediu\npropuse de candidat\nProiectulactivititii va fi sustinut oral\nPentru ambele probe se vor acorda note pe o scald de la | la 10, Media notelor obginute\n\u2018constituie nota final de absolvire a cursului si trebuie sl fie de el puyin 6\n5. Afigul protectulut"
+            }
+        }
+    },
+    "img_122": {
+        "page": "122",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 286,
+                "y": 794,
+                "height": 22,
+                "width": 30,
+                "leftCorner": [
+                    286,
+                    794
+                ],
+                "rightCorner": [
+                    316,
+                    816
+                ],
+                "text": "120"
+            },
+            "34": {
+                "class": "text",
+                "x": 124,
+                "y": 150,
+                "height": 39,
+                "width": 264,
+                "leftCorner": [
+                    124,
+                    150
+                ],
+                "rightCorner": [
+                    388,
+                    189
+                ],
+                "text": "\u2018#* http:/isere,\n\u2018*# hup/por\n\n \n\n \n\nuuneseo.orgleducation"
+            },
+            "35": {
+                "class": "text",
+                "x": 413,
+                "y": 53,
+                "height": 25,
+                "width": 136,
+                "leftCorner": [
+                    413,
+                    53
+                ],
+                "rightCorner": [
+                    549,
+                    78
+                ],
+                "text": "spirit si ereatie\u201d, editia a"
+            },
+            "36": {
+                "class": "text",
+                "x": 49,
+                "y": 53,
+                "height": 133,
+                "width": 500,
+                "leftCorner": [
+                    49,
+                    53
+                ],
+                "rightCorner": [
+                    549,
+                    186
+                ],
+                "text": "\u2018pentru mediu si societate, Luctirile simpozionului national ,.Brincusi\nL-a, Editura PIM Iasi, p. 7-10.\n\nJS), Stan, Liliana et al, (2003) - Elemente de didactica geografci,Editura Polirom, lai\n\n16). McKeown, Rosalyn, (2002) - Education for Sustainable Development Toolkit,\n\u2018version 2, http://www. esdtoolkitorg.\n\n(7), M\u00e9renne-Schoumaker, Bemadette, (1994) - Didactique de la g\u00e9ographie, Editions\n\"Nathan, Pars,\n\n8. [/*** hup:/sere carlton edu/introgeol\n9), | *** hup:/iportal uneseo.orgieducation"
+            }
+        }
+    },
+    "img_123": {
+        "page": "123",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    },
+    "img_124": {
+        "page": "124",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 183,
+                "y": 640,
+                "height": 147,
+                "width": 226,
+                "leftCorner": [
+                    183,
+                    640
+                ],
+                "rightCorner": [
+                    409,
+                    787
+                ],
+                "text": "Tipar digital realizat la\n\nm\nEDITURA $I TIPOGRAFIA PIM\n\n\u2018SoseaaSefan cel Mae i Sint. 4 Lagi~ 700497\n\u201cTel 730.086 676; Fan 0832.40.730\nE-mail: edtwapimeopy.s0\nworpimeopyc0"
+            }
+        }
+    }
+}

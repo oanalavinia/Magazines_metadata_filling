@@ -1,0 +1,690 @@
+{
+    "numberOfPages": 95,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 139,
+                "y": 254,
+                "height": 81,
+                "width": 318,
+                "leftCorner": [
+                    139,
+                    254
+                ],
+                "rightCorner": [
+                    457,
+                    335
+                ],
+                "text": "Reflexii de lumina,\ninocenta si magie"
+            },
+            "2": {
+                "class": "text",
+                "x": 167,
+                "y": 104,
+                "height": 79,
+                "width": 266,
+                "leftCorner": [
+                    167,
+                    104
+                ],
+                "rightCorner": [
+                    433,
+                    183
+                ],
+                "text": "Petronela Angheluta\n\nGeorgiana - Alexandra Vasile\nMaria - Nicoleta Rotariu"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "3": {
+                "class": "text",
+                "x": 93,
+                "y": 383,
+                "height": 101,
+                "width": 413,
+                "leftCorner": [
+                    93,
+                    383
+                ],
+                "rightCorner": [
+                    506,
+                    484
+                ],
+                "text": "Proiect sustinut de:\nPrimaria Comunei Ruginoasa\n\nParohia ,,Sfintii Apostoli Petru si Pavel\u201d Dumbravita\nCentrul Cultural Ruginoasa"
+            },
+            "4": {
+                "class": "text",
+                "x": 139,
+                "y": 313,
+                "height": 54,
+                "width": 321,
+                "leftCorner": [
+                    139,
+                    313
+                ],
+                "rightCorner": [
+                    460,
+                    367
+                ],
+                "text": "Prezentul volum face parte din proiectul\n\n \n\nScolii Gimnaziale Re:"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 208,
+                "y": 754,
+                "height": 30,
+                "width": 185,
+                "leftCorner": [
+                    208,
+                    754
+                ],
+                "rightCorner": [
+                    393,
+                    784
+                ],
+                "text": "Editura PIM, lasi, 2014"
+            },
+            "6": {
+                "class": "text",
+                "x": 138,
+                "y": 500,
+                "height": 82,
+                "width": 359,
+                "leftCorner": [
+                    138,
+                    500
+                ],
+                "rightCorner": [
+                    497,
+                    582
+                ],
+                "text": "Moto:\n\u201cLumina nu trebuie ascunsa,\n\n \n\niar talentul trebuie inmultit...\u201d"
+            },
+            "7": {
+                "class": "text",
+                "x": 139,
+                "y": 320,
+                "height": 81,
+                "width": 318,
+                "leftCorner": [
+                    139,
+                    320
+                ],
+                "rightCorner": [
+                    457,
+                    401
+                ],
+                "text": "Reflexii de lumina,\ninocenta si magie"
+            },
+            "8": {
+                "class": "text",
+                "x": 167,
+                "y": 127,
+                "height": 79,
+                "width": 266,
+                "leftCorner": [
+                    167,
+                    127
+                ],
+                "rightCorner": [
+                    433,
+                    206
+                ],
+                "text": "Petronela Angheluta\n\nGeorgiana - Alexandra Vasile\nMaria - Nicoleta Rotariu"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 64,
+                "y": 743,
+                "height": 24,
+                "width": 98,
+                "leftCorner": [
+                    64,
+                    743
+                ],
+                "rightCorner": [
+                    162,
+                    767
+                ],
+                "text": "821.135.1-822"
+            },
+            "10": {
+                "class": "text",
+                "x": 65,
+                "y": 692,
+                "height": 44,
+                "width": 198,
+                "leftCorner": [
+                    65,
+                    692
+                ],
+                "rightCorner": [
+                    263,
+                    736
+                ],
+                "text": "I. Rotariu, Maria Nicoleta\n\n \n\njeorgiana Alexandra"
+            },
+            "11": {
+                "class": "text",
+                "x": 64,
+                "y": 591,
+                "height": 91,
+                "width": 442,
+                "leftCorner": [
+                    64,
+                    591
+                ],
+                "rightCorner": [
+                    506,
+                    682
+                ],
+                "text": "Deserierea male a Romaniei\nANGHELUTA, PETRONELA\n\nReflexii de lumina, inocenta si magie / Petronela Angheluti\nNicoleta Rotariu, Georgiana Alexandra Vasile. - lagi : PIM, 2014\nISBN 978-606-13-1846-9"
+            },
+            "12": {
+                "class": "text",
+                "x": 82,
+                "y": 435,
+                "height": 76,
+                "width": 435,
+                "leftCorner": [
+                    82,
+                    435
+                ],
+                "rightCorner": [
+                    517,
+                    511
+                ],
+                "text": "Editura PIM Editura acreditata CNCSIS \u2014 66/01.05.2006\nSoseaua Stefan cel Mare si Sfant nr. 4, Iasi \u2014 700497 ,\n\n \n\nTel.: 0730.086.676;"
+            },
+            "13": {
+                "class": "text",
+                "x": 82,
+                "y": 359,
+                "height": 58,
+                "width": 345,
+                "leftCorner": [
+                    82,
+                    359
+                ],
+                "rightCorner": [
+                    427,
+                    417
+                ],
+                "text": "Volum editat sub egida"
+            },
+            "14": {
+                "class": "text",
+                "x": 82,
+                "y": 266,
+                "height": 32,
+                "width": 335,
+                "leftCorner": [
+                    82,
+                    266
+                ],
+                "rightCorner": [
+                    417,
+                    298
+                ],
+                "text": "Tehnoredactare: prof Petronela An;"
+            },
+            "15": {
+                "class": "text",
+                "x": 82,
+                "y": 197,
+                "height": 54,
+                "width": 351,
+                "leftCorner": [
+                    82,
+                    197
+                ],
+                "rightCorner": [
+                    433,
+                    251
+                ],
+                "text": "Imagine coperta: Dor de tard \u2014 Daniela Vrabie\n\n \n\nDesen realizat in guas."
+            },
+            "16": {
+                "class": "text",
+                "x": 82,
+                "y": 103,
+                "height": 55,
+                "width": 293,
+                "leftCorner": [
+                    82,
+                    103
+                ],
+                "rightCorner": [
+                    375,
+                    158
+                ],
+                "text": "Copyright \u00a9 2014"
+            }
+        }
+    },
+    "img_90": {
+        "page": "90",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 286,
+                "y": 801,
+                "height": 25,
+                "width": 28,
+                "leftCorner": [
+                    286,
+                    801
+                ],
+                "rightCorner": [
+                    314,
+                    826
+                ],
+                "text": "90"
+            },
+            "18": {
+                "class": "text",
+                "x": 272,
+                "y": 725,
+                "height": 54,
+                "width": 245,
+                "leftCorner": [
+                    272,
+                    725
+                ],
+                "rightCorner": [
+                    517,
+                    779
+                ],
+                "text": "Georgiana\nClasa a IX"
+            },
+            "19": {
+                "class": "text",
+                "x": 152,
+                "y": 548,
+                "height": 159,
+                "width": 295,
+                "leftCorner": [
+                    152,
+                    548
+                ],
+                "rightCorner": [
+                    447,
+                    707
+                ],
+                "text": "CAti oameni s-au odihnit\nSub umbra ta, copac imbatranit?...\nDar toamna este pe sfarsit,\n\nDe asta langa tine m-am oprit;\nCoroana ta de frunze aramie -\nTu pentru mine esti o poeziel..."
+            },
+            "20": {
+                "class": "text",
+                "x": 253,
+                "y": 494,
+                "height": 36,
+                "width": 94,
+                "leftCorner": [
+                    253,
+                    494
+                ],
+                "rightCorner": [
+                    347,
+                    530
+                ],
+                "text": "Copacul"
+            },
+            "21": {
+                "class": "text",
+                "x": 96,
+                "y": 239,
+                "height": 211,
+                "width": 406,
+                "leftCorner": [
+                    96,
+                    239
+                ],
+                "rightCorner": [
+                    502,
+                    450
+                ],
+                "text": "Stau in mijlocul drumului ce duce spre nicaieri,\nincercAnd sa uit ce s-a intamplat ieri;\nMa-nec usor in lacrimile mele,\n\nPrieteni si dusmani imi sunt doar ele;\n\nNu pot sa cred, dar ochii imi deschid,\nRaman doar doua lumi ce se inchid;\nRaman separate, c& asa-i mai bine,\nDar promit cd o s4-mi amintesc de tinel..."
+            },
+            "22": {
+                "class": "text",
+                "x": 191,
+                "y": 189,
+                "height": 32,
+                "width": 217,
+                "leftCorner": [
+                    191,
+                    189
+                ],
+                "rightCorner": [
+                    408,
+                    221
+                ],
+                "text": "(celei mai bune prietene)"
+            },
+            "23": {
+                "class": "text",
+                "x": 241,
+                "y": 135,
+                "height": 36,
+                "width": 117,
+                "leftCorner": [
+                    241,
+                    135
+                ],
+                "rightCorner": [
+                    358,
+                    171
+                ],
+                "text": "Despartire"
+            },
+            "24": {
+                "class": "text",
+                "x": 79,
+                "y": 55,
+                "height": 36,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    55
+                ],
+                "rightCorner": [
+                    520,
+                    91
+                ],
+                "text": "Reflexii de lumina, inocenta si magie"
+            }
+        }
+    },
+    "img_91": {
+        "page": "91",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 193,
+                "y": 716,
+                "height": 85,
+                "width": 217,
+                "leftCorner": [
+                    193,
+                    716
+                ],
+                "rightCorner": [
+                    410,
+                    801
+                ],
+                "text": "22. Ionut - Petronel Rotaru\n23. Mihaela Ungureanu\n\n \n\n24. Stefan Ungureanu"
+            },
+            "27": {
+                "class": "text",
+                "x": 193,
+                "y": 636,
+                "height": 79,
+                "width": 232,
+                "leftCorner": [
+                    193,
+                    636
+                ],
+                "rightCorner": [
+                    425,
+                    715
+                ],
+                "text": "19. Daniel Rotariu\n\n20. Emanuel Rotariu\n\n \n\n21. Elena \u2014 Robertina Rotaru"
+            },
+            "28": {},
+            "29": {},
+            "30": {},
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 194,
+                "y": 154,
+                "height": 481,
+                "width": 264,
+                "leftCorner": [
+                    194,
+                    154
+                ],
+                "rightCorner": [
+                    458,
+                    635
+                ],
+                "text": "Bianca Altam\nGabriel Ambrozie\nMalina ~ Georgiana Balcan\nAna ~ Maria Bragoveanu\nAndreea Burlacu\nFlorina ~ Madalina Chiriac\nCamelia - Alexandra Condae\nPetrica Cretu\nElena - Violeta Ferariu\n\n. Delia - Maria Fulga\n\n. Bianca ~ Margareta Haliga\n. Liviu \u2014 Mihai Iasoaia\n\n. Lavinia - Gabriela Lupu\n\n. Claudia - Georgiana Palade\n. Cosmina ~ Gabriela Panciuc\n\n. Costinela \u2014 Ramona Podeanu\n. Bianca \u2014 Gabriela Roman\n\n \n\n. Alexandru Rotariu"
+            },
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 79,
+                "y": 55,
+                "height": 36,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    55
+                ],
+                "rightCorner": [
+                    520,
+                    91
+                ],
+                "text": "Reflexii de lumina, inocenta si magie"
+            }
+        }
+    },
+    "img_92": {
+        "page": "92",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {}
+    },
+    "img_93": {
+        "page": "93",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 286,
+                "y": 801,
+                "height": 25,
+                "width": 27,
+                "leftCorner": [
+                    286,
+                    801
+                ],
+                "rightCorner": [
+                    313,
+                    826
+                ],
+                "text": "93"
+            },
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 82,
+                "y": 179,
+                "height": 612,
+                "width": 364,
+                "leftCorner": [
+                    82,
+                    179
+                ],
+                "rightCorner": [
+                    446,
+                    791
+                ],
+                "text": "Picaturi de suflet.\nMarturisire..\nDimineata... emo!\nEmotii si copilarie- \u201cTara dulciurilor\u201d.\nCopilaria mea.\nUnchiul meu..\nMiezul iernii..\nLacul Bicaz..\nLa campie.\nFantasmele mamei- naturi..\nPicatura de ploaie.\nPaianjenu\nPeste varfuri.\nMonolo;\nRelatia profesor - elevi\nUn loc binecuvantat - Ruginoas\nDraga Vacant\u00e9,.\nCartea- izvor stravecl\n\n \n\n  \n  \n\nStihuri pentru toamni\nJocuri de rime... fara titlu...\n\n \n\nin luna martie,ghiocei pentru mama!"
+            },
+            "40": {
+                "class": "text",
+                "x": 250,
+                "y": 130,
+                "height": 27,
+                "width": 99,
+                "leftCorner": [
+                    250,
+                    130
+                ],
+                "rightCorner": [
+                    349,
+                    157
+                ],
+                "text": "CUPRINS"
+            },
+            "41": {
+                "class": "text",
+                "x": 79,
+                "y": 55,
+                "height": 36,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    55
+                ],
+                "rightCorner": [
+                    520,
+                    91
+                ],
+                "text": "Reflexii de lumina, inocenta si magie"
+            }
+        }
+    },
+    "img_94": {
+        "page": "94",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "42": {
+                "class": "text",
+                "x": 286,
+                "y": 801,
+                "height": 25,
+                "width": 28,
+                "leftCorner": [
+                    286,
+                    801
+                ],
+                "rightCorner": [
+                    314,
+                    826
+                ],
+                "text": "94"
+            },
+            "43": {},
+            "44": {
+                "class": "text",
+                "x": 82,
+                "y": 104,
+                "height": 658,
+                "width": 363,
+                "leftCorner": [
+                    82,
+                    104
+                ],
+                "rightCorner": [
+                    445,
+                    762
+                ],
+                "text": "Dulce vara, dulce soar\narna vine!\nCine poate sti\nHaide, ghicil\nUn catelus orfan.\n\n  \n  \n \n  \n \n \n  \n \n  \n  \n \n  \n \n   \n\nVersuri pentru\nRasaritul mari\n\nCuvant albastru..\nDoua randuri,\nDis-de-dimineata\ninspre viitor.\nE tare greu.\nCuloarea viet\nDragostea.\nAs vrea sa vi\nDurerea mari\nNi\nDespartire..\nCopacul.."
+            },
+            "45": {
+                "class": "text",
+                "x": 79,
+                "y": 55,
+                "height": 36,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    55
+                ],
+                "rightCorner": [
+                    520,
+                    91
+                ],
+                "text": "Reflexii de lumina, inocenta si magie"
+            }
+        }
+    },
+    "img_95": {
+        "page": "95",
+        "pageWidth": "600",
+        "pageHeight": "888",
+        "sections": {
+            "46": {
+                "class": "text",
+                "x": 147,
+                "y": 647,
+                "height": 111,
+                "width": 341,
+                "leftCorner": [
+                    147,
+                    647
+                ],
+                "rightCorner": [
+                    488,
+                    758
+                ],
+                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua Stefan cel Mare gi Sfant nr. 4, Lagi - 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimcopy.ro\n\n \n\nwww.pimeopy.ro"
+            },
+            "47": {
+                "class": "text",
+                "x": 260,
+                "y": 600,
+                "height": 43,
+                "width": 115,
+                "leftCorner": [
+                    260,
+                    600
+                ],
+                "rightCorner": [
+                    375,
+                    643
+                ],
+                "text": "20m"
+            },
+            "48": {
+                "class": "text",
+                "x": 223,
+                "y": 566,
+                "height": 30,
+                "width": 189,
+                "leftCorner": [
+                    223,
+                    566
+                ],
+                "rightCorner": [
+                    412,
+                    596
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

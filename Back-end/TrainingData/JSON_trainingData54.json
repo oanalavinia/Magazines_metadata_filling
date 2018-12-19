@@ -1,0 +1,436 @@
+{
+    "numberOfPages": 232,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 176,
+                "y": 446,
+                "height": 70,
+                "width": 248,
+                "leftCorner": [
+                    176,
+                    446
+                ],
+                "rightCorner": [
+                    424,
+                    516
+                ],
+                "text": "A FOSTULUI LICEU DE FETE\n\u00bbELISABETA DOAMNA\u201d\n\n \n\nDIN RADAUTI"
+            },
+            "3": {
+                "class": "text",
+                "x": 192,
+                "y": 409,
+                "height": 29,
+                "width": 216,
+                "leftCorner": [
+                    192,
+                    409
+                ],
+                "rightCorner": [
+                    408,
+                    438
+                ],
+                "text": "\u2014PROMOTIA 1952 \u2014"
+            },
+            "4": {
+                "class": "text",
+                "x": 165,
+                "y": 357,
+                "height": 28,
+                "width": 267,
+                "leftCorner": [
+                    165,
+                    357
+                ],
+                "rightCorner": [
+                    432,
+                    385
+                ],
+                "text": "ISTORIA UNE! GENERATII"
+            },
+            "5": {},
+            "6": {
+                "class": "text",
+                "x": 342,
+                "y": 298,
+                "height": 33,
+                "width": 86,
+                "leftCorner": [
+                    342,
+                    298
+                ],
+                "rightCorner": [
+                    428,
+                    331
+                ],
+                "text": "REM"
+            },
+            "7": {},
+            "8": {},
+            "9": {
+                "class": "text",
+                "x": 134,
+                "y": 298,
+                "height": 33,
+                "width": 138,
+                "leftCorner": [
+                    134,
+                    298
+                ],
+                "rightCorner": [
+                    272,
+                    331
+                ],
+                "text": "RECUT"
+            },
+            "10": {},
+            "11": {
+                "class": "text",
+                "x": 358,
+                "y": 106,
+                "height": 32,
+                "width": 165,
+                "leftCorner": [
+                    358,
+                    106
+                ],
+                "rightCorner": [
+                    523,
+                    138
+                ],
+                "text": "NICULAI SOREA"
+            },
+            "12": {
+                "class": "text",
+                "x": 77,
+                "y": 102,
+                "height": 36,
+                "width": 225,
+                "leftCorner": [
+                    77,
+                    102
+                ],
+                "rightCorner": [
+                    302,
+                    138
+                ],
+                "text": "RADUTA VASILOVSCHI"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 91,
+                "y": 680,
+                "height": 27,
+                "width": 208,
+                "leftCorner": [
+                    91,
+                    680
+                ],
+                "rightCorner": [
+                    299,
+                    707
+                ],
+                "text": "ISBN: 978-973-716-671-5"
+            },
+            "14": {
+                "class": "text",
+                "x": 76,
+                "y": 214,
+                "height": 103,
+                "width": 349,
+                "leftCorner": [
+                    76,
+                    214
+                ],
+                "rightCorner": [
+                    425,
+                    317
+                ],
+                "text": "Prelucrarea imaginilor : Niculai Sorea, Maria Sorea\nRedactare primar: Raduta Vasilovschi\nRedactori: Raduta Vasilovschi, Niculai Sorea\n\nTehnoredactor : Niculai Sorea\nCorectura: Niculai Sorea, Maria Sorea"
+            },
+            "15": {},
+            "16": {
+                "class": "text",
+                "x": 77,
+                "y": 120,
+                "height": 28,
+                "width": 398,
+                "leftCorner": [
+                    77,
+                    120
+                ],
+                "rightCorner": [
+                    475,
+                    148
+                ],
+                "text": "Coperta: Raduta Vasilovschi, Niculai Sorea si Emil Colban"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 189,
+                "y": 301,
+                "height": 69,
+                "width": 334,
+                "leftCorner": [
+                    189,
+                    301
+                ],
+                "rightCorner": [
+                    523,
+                    370
+                ],
+                "text": "~Este cult cu adevarat numai omul\ncare stie de unde vine si incotro se indreapti\u201d\n\n \n\n(T. Vianu)"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {}
+    },
+    "img_227": {
+        "page": "227",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 157,
+                "y": 696,
+                "height": 27,
+                "width": 287,
+                "leftCorner": [
+                    157,
+                    696
+                ],
+                "rightCorner": [
+                    444,
+                    723
+                ],
+                "text": "La pomenirea profesorilor si colegilor in 2006"
+            },
+            "19": {},
+            "20": {},
+            "21": {
+                "class": "text",
+                "x": 221,
+                "y": 407,
+                "height": 28,
+                "width": 157,
+                "leftCorner": [
+                    221,
+                    407
+                ],
+                "rightCorner": [
+                    378,
+                    435
+                ],
+                "text": "colege in 2006"
+            },
+            "22": {},
+            "23": {}
+        }
+    },
+    "img_228": {
+        "page": "228",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 80,
+                "y": 422,
+                "height": 341,
+                "width": 439,
+                "leftCorner": [
+                    80,
+                    422
+                ],
+                "rightCorner": [
+                    519,
+                    763
+                ],
+                "text": "La agapa de la Sucevita, in 2006"
+            },
+            "25": {}
+        }
+    },
+    "img_229": {
+        "page": "229",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "26": {
+                "class": "text",
+                "x": 77,
+                "y": 597,
+                "height": 178,
+                "width": 444,
+                "leftCorner": [
+                    77,
+                    597
+                ],
+                "rightCorner": [
+                    521,
+                    775
+                ],
+                "text": "Distinsii nostri profesori de la fostul Liceu ,,Elisabeta Doamna\u201d\ndin i\n... (Raduta Vasilovschi)\nProfesoarele noastre de atunci... (Geta Boghian) .\nProf. Badac Artemizia (Sindilariu\n\nEvocare (Riduta Vasilovschi)\nProf. Gheorghiesi Elena (Carbune) .\nProf. Alexinschi Viorica (Sindilariu) .\nProf. Ganin Felicia (Facas)"
+            },
+            "27": {
+                "class": "text",
+                "x": 77,
+                "y": 377,
+                "height": 216,
+                "width": 444,
+                "leftCorner": [
+                    77,
+                    377
+                ],
+                "rightCorner": [
+                    521,
+                    593
+                ],
+                "text": "Scurt istoric al invagimantului ridautean\n(Raiduta Vasilovschi)\nPentru Bucovina (Vasile Posteucd) ....\nLista directorilor de la Liceul de Fete ,Elisabeta Doamna\nde la infiintare pana in present\n(azi Colegiul Tehnic Radituti) .\n\nProfesoarele si profesorii de la Liceul de Fete din Radiuti\n(Reiduja Vasilovschi)\nAbsolventii care functioneazi in noua scoala ca profesori\nAbsolventi ai noului liceu care s-au afirmat in\ndiverse domenii ale societatii si culturii romanesti .."
+            },
+            "28": {
+                "class": "text",
+                "x": 77,
+                "y": 289,
+                "height": 84,
+                "width": 444,
+                "leftCorner": [
+                    77,
+                    289
+                ],
+                "rightCorner": [
+                    521,
+                    373
+                ],
+                "text": "Prefatai (Raidufa Vasilovschi)\nDragi colege... (Niculai $orea)\n\nGaudeamus igitur...\nMandr\u00e9 Bucovina\u00e9 (Ridua Vasilovschi)"
+            },
+            "29": {
+                "class": "text",
+                "x": 253,
+                "y": 227,
+                "height": 27,
+                "width": 94,
+                "leftCorner": [
+                    253,
+                    227
+                ],
+                "rightCorner": [
+                    347,
+                    254
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_230": {
+        "page": "230",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "30": {
+                "class": "text",
+                "x": 77,
+                "y": 75,
+                "height": 689,
+                "width": 444,
+                "leftCorner": [
+                    77,
+                    75
+                ],
+                "rightCorner": [
+                    521,
+                    764
+                ],
+                "text": "Elevele promotiei noastre, din trecute vremi..\npe drumurile vietii .......\n\nLumea scolii (Riduta Vasilovschi) .\n\nAm fost o generatie (Geta Boghian) ..\nToamna vietii (Raidua Vasilovschi) .....-\nNingea, ningea cu flori de tei (Unei colege)\n(Niculai Sorea)\nBodnaras Lucia (Bolf\u2019-Grosar\n\nMioritica (Vasile Posteuca)\nBoghian Geta (Grama)\n\nToamn\u00e9 aurie (Raduja Vasilovschi)\nBors Valeria (Apetroaie)\nBuliga Eufrosina\nCuciureanu Floarea (Mandinescu)\nCraciun Rodica (Chitescu)\n\nTaina (Raiduta Vasilovschi) .......\n\nRas\u00e9rit de soare (Raduta Vasilovs\nChelariu Oltea (Guter) .....\n\nPoiana amintirilor (Niculai Sorea)\nDarie Aspazia (Popescu)\nDonisan Olimpiada..\n\nCand infloreau salcdmii (Niculai Sorea)\nFagcu Oltea (Marcu)\nFilip Elena (Renner)\n\nSeara la mare (Riduya Vasilovschi)\nJuravle Voichita (Babencu)....\nKonecyny Elisabeta-Lili (Calota) .\n\nAmintiri din vremi trecute (Unei colege)\n\n(Niculai $orea) ..\nLavrie Raduta (Vasilovschi)\n\nVara amintirilor (Riduya Vasilovschi)\n\nTe tot astept (Niculai Sorea)\nLungoci Paraschiva (Lungoci) .\nLuja Floarea (Macovei) ...\n\nN-am sa uit! (Raduga Vasilovschi)\nManoliu Eugenia .\n\n \n\n \n\n \n\n)"
+            }
+        }
+    },
+    "img_231": {
+        "page": "231",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 76,
+                "y": 390,
+                "height": 253,
+                "width": 445,
+                "leftCorner": [
+                    76,
+                    390
+                ],
+                "rightCorner": [
+                    521,
+                    643
+                ],
+                "text": "Spicuiri din sihastrie... Internatul nostru\n(Reiduja Vasilovschi)\nSihdistria noastr\u00e9.\nAmintiri, amintiri... (Lucica Bodndras) .\nDemult erau elevi de-acei... (Octavian Loghin) .\nRugdciunea elevului ..\n clipa... (Viorica Puha-Chiriac)\n\nEiarnd iar ! (Raduta Vasilovschi)\n1952 a Liceului ,,Blisabeta Doamna\u201d\n\nPromotia initial 1952 a Colegiului National\nEudoxiu Hurmuzachi\u201d din Radzuti"
+            },
+            "33": {
+                "class": "text",
+                "x": 117,
+                "y": 75,
+                "height": 312,
+                "width": 404,
+                "leftCorner": [
+                    117,
+                    75
+                ],
+                "rightCorner": [
+                    521,
+                    387
+                ],
+                "text": "Minescu Rodica (Turcu)\nMehler Eva (Kosser)\nNiculescu Daniela (Delitoiu)\n\nPrelipcean Eufrosina (Dumitriu).............:0000\n\nNoapte de vis (Niculai Sorea) .\nPricopiuc Varvara-Varuca (Aioanei)\nPuha Viorica (Chiriac) ......\nAu fost odatd acele clipe... (Niculai Sorea) ..\nSandi Maria (Paun) ...\nTimoceanu Virginia Valentina-Tuya\nTiganescu Livia (Muresan)\n\u2018Nailuca (Niculai orea) .\nVisan Lia Sanda (Cristea).\nZub Ana.\nLa rascrucea vietii... (Niculai Sorea)\n\n \n\nS-au aurit pddurile (Raduta Vasilovschi)"
+            }
+        }
+    },
+    "img_232": {
+        "page": "232",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "34": {
+                "class": "text",
+                "x": 166,
+                "y": 645,
+                "height": 98,
+                "width": 268,
+                "leftCorner": [
+                    166,
+                    645
+                ],
+                "rightCorner": [
+                    434,
+                    743
+                ],
+                "text": "\u2018Tipar Digital realizat la Tipografia ON\nsgoseaua Stefan cel Mare nr. 11 lagi -700498\n\nTel. / fax: 0232-212740\ne-mail:editurapim@pimeopy.r0\nwww.pimeopy.r0"
+            }
+        }
+    }
+}

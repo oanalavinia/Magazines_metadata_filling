@@ -1,0 +1,885 @@
+{
+    "numberOfPages": 130,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 279,
+                "y": 603,
+                "height": 23,
+                "width": 41,
+                "leftCorner": [
+                    279,
+                    603
+                ],
+                "rightCorner": [
+                    320,
+                    626
+                ],
+                "text": "2008"
+            },
+            "2": {
+                "class": "text",
+                "x": 230,
+                "y": 575,
+                "height": 25,
+                "width": 140,
+                "leftCorner": [
+                    230,
+                    575
+                ],
+                "rightCorner": [
+                    370,
+                    600
+                ],
+                "text": "Editura ,,Tehnica-Info\u201d"
+            },
+            "3": {},
+            "4": {
+                "class": "text",
+                "x": 186,
+                "y": 310,
+                "height": 28,
+                "width": 256,
+                "leftCorner": [
+                    186,
+                    310
+                ],
+                "rightCorner": [
+                    442,
+                    338
+                ],
+                "text": "IN BOALA PARODONTALA,"
+            },
+            "5": {
+                "class": "text",
+                "x": 159,
+                "y": 275,
+                "height": 27,
+                "width": 310,
+                "leftCorner": [
+                    159,
+                    275
+                ],
+                "rightCorner": [
+                    469,
+                    302
+                ],
+                "text": "TRATAMENTUL CONSERVATOR"
+            },
+            "6": {}
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "7": {
+                "class": "text",
+                "x": 110,
+                "y": 546,
+                "height": 68,
+                "width": 370,
+                "leftCorner": [
+                    110,
+                    546
+                ],
+                "rightCorner": [
+                    480,
+                    614
+                ],
+                "text": "Toate drepturile asupra acestei lucr\u00e9ri apartin autorilor si Editurii,Tehnica-\nInfo\" Chisindu Nici o parte ain acest volum nu poate fi copiatd sau transmisd prin\n\nici un mile, electric sou mecanic inclusyfotocopere, fr permisiunen sers8\ndin portea outorilor sou a elturt"
+            },
+            "8": {
+                "class": "text",
+                "x": 109,
+                "y": 303,
+                "height": 144,
+                "width": 346,
+                "leftCorner": [
+                    109,
+                    303
+                ],
+                "rightCorner": [
+                    455,
+                    447
+                ],
+                "text": "Vascu, Bogdan\n\u201catamentul constr in bola pardon Bogan Vascu, Ana\nMaria Fat,\" Gh\" Teton If 2008 \"98\n\u2018tog: 196- 2000\n\ns163140758)\nVor"
+            },
+            "9": {
+                "class": "text",
+                "x": 157,
+                "y": 254,
+                "height": 26,
+                "width": 332,
+                "leftCorner": [
+                    157,
+                    254
+                ],
+                "rightCorner": [
+                    489,
+                    280
+                ],
+                "text": "Universitatea de Medicind si Farmacie ,Gr. T. Popa\u201d lasi"
+            },
+            "10": {
+                "class": "text",
+                "x": 240,
+                "y": 225,
+                "height": 26,
+                "width": 155,
+                "leftCorner": [
+                    240,
+                    225
+                ],
+                "rightCorner": [
+                    395,
+                    251
+                ],
+                "text": "Prof. Dr. Stefan Lacdtusu"
+            },
+            "11": {
+                "class": "text",
+                "x": 110,
+                "y": 138,
+                "height": 56,
+                "width": 350,
+                "leftCorner": [
+                    110,
+                    138
+                ],
+                "rightCorner": [
+                    460,
+                    194
+                ],
+                "text": "\u2018Valoarea lucr\u00e9rii este indiscutabils, dac\u00e9 tinem cont de claritatea\n\nredactiri side precizia datelor, situdnd aceast3 edie in panoplia\n\u2018materialelor didactice de real interes."
+            },
+            "12": {
+                "class": "text",
+                "x": 110,
+                "y": 79,
+                "height": 57,
+                "width": 377,
+                "leftCorner": [
+                    110,
+                    79
+                ],
+                "rightCorner": [
+                    487,
+                    136
+                ],
+                "text": "\\Volumul ,Tratamentul conservator in boala parodontala\u201d a dr. Bogdan\n\\Vascu sia dr. Ana-Maria Fatu se inscrie in categoria monografillor de 0 reals\n\n \n\nvaloare didactc\u00e9 si stiitific, utile studentilor si medicior."
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 110,
+                "y": 576,
+                "height": 61,
+                "width": 366,
+                "leftCorner": [
+                    110,
+                    576
+                ],
+                "rightCorner": [
+                    476,
+                    637
+                ],
+                "text": "Capitolul 4. se\nMOBILITATEA DENTARA NORMALA $1 PATOLOGICA\n\n \n\nMOBILITATEA DENTARA TRANZITORIE."
+            },
+            "14": {
+                "class": "text",
+                "x": 110,
+                "y": 429,
+                "height": 126,
+                "width": 368,
+                "leftCorner": [
+                    110,
+                    429
+                ],
+                "rightCorner": [
+                    478,
+                    555
+                ],
+                "text": "CapitolUl 3...onee enmenmenne 39\nDIAGNOSTICUL CLINIC $1 PARACLINIC IN AFECTIUNILE\nPARODONTALE\n\n\u2018TIPURI DE BOLI GINGIVALE INDUSE DE PLACA, 49\nAFECTARI ALE PARODONTIULUI DE SUSTINERE, 6\n\u2018CRITERII DE EVALUARE A ACTIVITATH BOLI PARODONTALE. 67\n\nEXAMENUL RADIOGRAFIC, 68"
+            },
+            "15": {
+                "class": "text",
+                "x": 110,
+                "y": 332,
+                "height": 78,
+                "width": 365,
+                "leftCorner": [
+                    110,
+                    332
+                ],
+                "rightCorner": [
+                    475,
+                    410
+                ],
+                "text": "CapitolUl 2osrnmeeneennen reveneene 2B\nMECANISME PATOGENICE IN AFECTIUNILE PARODONTALE\n\n\u2018COLONIZAREA $I INVADAREA TESUTURILOR PARODONTALE.29\nASPECTE ALE INFLAMATIEI LA NIVELUL PARODONTIULUL..34"
+            },
+            "16": {
+                "class": "text",
+                "x": 110,
+                "y": 206,
+                "height": 107,
+                "width": 361,
+                "leftCorner": [
+                    110,
+                    206
+                ],
+                "rightCorner": [
+                    471,
+                    313
+                ],
+                "text": "Capitotul 1\nETIOLOGIA AFECTIUNILOR PARODONTALE\nPLACA BACTERIANA - FACTOR LOCAL DETERMINANT.\n\nPLACA BACTERIANA - BIOFILM. 13\n(CRITERII DE IDENTIFICARE A PATOGENILOR PARODONTALI.20\nFACTORI DE VIRULENTA AI PATOGENILOR PARODONTALL...22"
+            },
+            "17": {},
+            "18": {}
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 110,
+                "y": 450,
+                "height": 108,
+                "width": 358,
+                "leftCorner": [
+                    110,
+                    450
+                ],
+                "rightCorner": [
+                    468,
+                    558
+                ],
+                "text": "Capit OlUl Toresernenern seneeed 25\nFACTORI LOCALI CU ROL IN APARITIA MOBILITATI DENTARE\nANAMNEZA DENTARA, wr\n\nEXAMENUL CLINIC. 129\nRECESIUNEA GINGIVALA. 138\n\u2018CASTIGUL DE ATASAMENT. 139"
+            },
+            "21": {
+                "class": "text",
+                "x": 110,
+                "y": 333,
+                "height": 96,
+                "width": 339,
+                "leftCorner": [
+                    110,
+                    333
+                ],
+                "rightCorner": [
+                    449,
+                    429
+                ],
+                "text": "Capitolul 6.\nEFICIENTA APARATELOR DE IMOBILIZARE I)\n\nPARODONTALA\n\n\u2018CAZURICLINICE,\nMETODA STATISTICA,"
+            },
+            "22": {
+                "class": "text",
+                "x": 110,
+                "y": 171,
+                "height": 141,
+                "width": 338,
+                "leftCorner": [
+                    110,
+                    171
+                ],
+                "rightCorner": [
+                    448,
+                    312
+                ],
+                "text": "Capitol Sion ssn\nPRINCIPH DE TRATAMENT IN BOALA PARODONTALA.\n\nIMOBILIZAREA DINTILOR PARODONTOTICI\nETAPIZAREA TERAPIEI PARODONTALE.\n\nCLASIFICAREA PROCEDEELOR DE IMOBILIZARE.\nPRINCIPIILE GENERALE ALE IMOBILIZARILOR,\nIMOBILIZAREA PROVIZORIE.\n\nIMOBILIZAREA DEFINITIVA."
+            },
+            "23": {
+                "class": "text",
+                "x": 134,
+                "y": 77,
+                "height": 53,
+                "width": 333,
+                "leftCorner": [
+                    134,
+                    77
+                ],
+                "rightCorner": [
+                    467,
+                    130
+                ],
+                "text": "MOBILITATEA DENTARA REVERSIBILA.\nMOBILITATEA DENTARA IREVERSIBILA.\n\n \n\nUTILIZAREA MOBILOMETRIEI IN PARODONTOLOGIE,"
+            }
+        }
+    },
+    "img_125": {
+        "page": "125",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 110,
+                "y": 541,
+                "height": 120,
+                "width": 379,
+                "leftCorner": [
+                    110,
+                    541
+                ],
+                "rightCorner": [
+                    489,
+                    661
+                ],
+                "text": "Desi au fost obtinute succese remarcabile in stomatologia contemporand in\nUultemele deceni, prin elaborarea mateiaelor,instrumentelor, aparatajuus\ntechnologilr noi de restaurare directs indirect ate pe pacienii intereseaxd\nunum posibiittile de pastrare si estabilie a dingo cu functile respective, dar\n\nsaspectul estticinalt Aceasta in mare msur\u00e9a conltionat ulzarea ceramice!\n1a compoatelor. In restaurvleocuzale o mare importants oare reproducerea\n\n191"
+            },
+            "25": {
+                "class": "text",
+                "x": 110,
+                "y": 471,
+                "height": 68,
+                "width": 366,
+                "leftCorner": [
+                    110,
+                    471
+                ],
+                "rightCorner": [
+                    476,
+                    539
+                ],
+                "text": "Protezarea sau repunerea in functie a unui dinte nefunctional printr-un\naparat su rol de imobilzare poate in anumitesituaticlinice 8 prods traum\u2019\n\n\u2018ocluzald secundar\u2019 dac\u00e9 nu se concepe dupa princi stintiice aparatl gato\nprotec"
+            },
+            "26": {
+                "class": "text",
+                "x": 110,
+                "y": 384,
+                "height": 85,
+                "width": 375,
+                "leftCorner": [
+                    110,
+                    384
+                ],
+                "rightCorner": [
+                    485,
+                    469
+                ],
+                "text": "Tin lipsa imobilzirit dentare, o parte din dint de pe arcade sunt\nsuprasolcitati prin traumatism ocluzal, iar alti devin nefunctionali.nsufiienta\nstimulare produce oreducere a grosimi igamentului paradontal cu reducere 3\n\nspatiulul dento-aveolar,atrofieafibrelor,osteoporoza osulul alveolar manifestats|\nprint radlotransparent crescut\u00e9datortd demineralizii osulu"
+            },
+            "27": {
+                "class": "text",
+                "x": 110,
+                "y": 315,
+                "height": 69,
+                "width": 376,
+                "leftCorner": [
+                    110,
+                    315
+                ],
+                "rightCorner": [
+                    486,
+                    384
+                ],
+                "text": "LUgamentul paradontal se poate regenera sau poate apare anchiloza cu sau\n\u201885 mentinerea unel usoareinlamayi.nflamatia moderati sau severi poate\n\nperssta,impedicd reparatl tisulare i atunciimoblizarea dentarS sau insotit\u00e9 de\nceyec 26 poate chiar constitu int-un factor de agravare a evolute boli"
+            },
+            "28": {
+                "class": "text",
+                "x": 110,
+                "y": 224,
+                "height": 82,
+                "width": 367,
+                "leftCorner": [
+                    110,
+                    224
+                ],
+                "rightCorner": [
+                    477,
+                    306
+                ],
+                "text": "\\Vindecarea, de care depinde functionalitatea dentar3 prezint\u00e9 o mare\n\nvarlabiltate si ea trebule aprecats prin mijloace clnice gia exploriparactinice,\n\ncare pot aprecia aspectl ginge,osulul alveolar, a ligamentull alveolar, 2\n\n \n\ncimentulu denta."
+            },
+            "29": {
+                "class": "text",
+                "x": 110,
+                "y": 132,
+                "height": 85,
+                "width": 371,
+                "leftCorner": [
+                    110,
+                    132
+                ],
+                "rightCorner": [
+                    481,
+                    217
+                ],
+                "text": "\u2018Aprecierea momentuluiaplicirit imobilizai ia tipului de imobilizare este\n\nIa latitudinea practiianull stomatolog care pe baza experentel sales pe baza\n\nInterpret rezultatlorexplorriclnice si paractinice poate asgurasuccesul\n\n \n\neficintain timp."
+            },
+            "30": {
+                "class": "text",
+                "x": 110,
+                "y": 82,
+                "height": 43,
+                "width": 376,
+                "leftCorner": [
+                    110,
+                    82
+                ],
+                "rightCorner": [
+                    486,
+                    125
+                ],
+                "text": "institu | Inaintea altor proceduri terapeutice sau dups tratamentul"
+            },
+            "31": {
+                "class": "text",
+                "x": 145,
+                "y": 45,
+                "height": 24,
+                "width": 311,
+                "leftCorner": [
+                    145,
+                    45
+                ],
+                "rightCorner": [
+                    456,
+                    69
+                ],
+                "text": "Capitolul 11. Conditia parodontal ta pacienti cw aparate de imobilizare"
+            }
+        }
+    },
+    "img_126": {
+        "page": "126",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "32": {},
+            "33": {
+                "class": "text",
+                "x": 110,
+                "y": 584,
+                "height": 54,
+                "width": 372,
+                "leftCorner": [
+                    110,
+                    584
+                ],
+                "rightCorner": [
+                    482,
+                    638
+                ],
+                "text": "Fortele ocluzale aplicate pe o imobilizare sunt suportate de toti dintii\nImobilzati chiar dacs forta este aplicatd doar intro singurd reglune a imobiliza\n\n \n\nAigidtatea nei mobili o face ca aceasta s8actionexe ca o parghi,astelncat"
+            },
+            "34": {
+                "class": "text",
+                "x": 110,
+                "y": 544,
+                "height": 38,
+                "width": 351,
+                "leftCorner": [
+                    110,
+                    544
+                ],
+                "rightCorner": [
+                    461,
+                    582
+                ],
+                "text": "Imobilizarea corecteazi raportul\n\niminueazs incircareafiecSrul dinde mal als in plan orizontal"
+            },
+            "35": {
+                "class": "text",
+                "x": 110,
+                "y": 473,
+                "height": 69,
+                "width": 374,
+                "leftCorner": [
+                    110,
+                    473
+                ],
+                "rightCorner": [
+                    484,
+                    542
+                ],
+                "text": "Obligatoriu inainte de orice imobilizare a fost obtinut\u00a7 stabilitatea ocluzali\nsicontrollfrfelor ocluzale excesve. Frecvent, moifiarea fortelorocluzale\n\nliming necesitatea imobilizari, deoarece dintele i reduce mobiltatea sare 0\nporitie mult mai stabil"
+            },
+            "36": {
+                "class": "text",
+                "x": 110,
+                "y": 417,
+                "height": 53,
+                "width": 373,
+                "leftCorner": [
+                    110,
+                    417
+                ],
+                "rightCorner": [
+                    483,
+                    470
+                ],
+                "text": "\u2018In unele situati, ca urmare a controluli si amendSriinflamatiei in urma\n\n\u2018unui tratament corect, mobiltateas-a redus, astfel ined imobilzarea nua mai fost\nrecesard"
+            },
+            "37": {
+                "class": "text",
+                "x": 110,
+                "y": 378,
+                "height": 38,
+                "width": 356,
+                "leftCorner": [
+                    110,
+                    378
+                ],
+                "rightCorner": [
+                    466,
+                    416
+                ],
+                "text": "Imobilizarea permanent\u00e9 a fost luat\u2019 in considerare numai dupa ce s\namend inflamatia parodontals"
+            },
+            "38": {
+                "class": "text",
+                "x": 110,
+                "y": 278,
+                "height": 99,
+                "width": 377,
+                "leftCorner": [
+                    110,
+                    278
+                ],
+                "rightCorner": [
+                    487,
+                    377
+                ],
+                "text": "Imobilizarea dintilor parodontotici se realizeaz3 cu caracter fie tranzitor fie\nprovizoriy, in cursulfazelor inital de terapie parodontal,inante de chirurgia\nparodontals, fein etapa de terape restaurativa cdnd aparatle de lmobilzare au\n\navut caracter permanent. Imobilzareadinllor parodontotici nua fost ns folosis,\n\u2018ca uni metoda de aobtinestabilitatea dentar3 Tebule, intotdeauna determinat\ncauza mobili dentare crescute ct gi migrarea patologics adil."
+            },
+            "39": {
+                "class": "text",
+                "x": 110,
+                "y": 207,
+                "height": 69,
+                "width": 346,
+                "leftCorner": [
+                    110,
+                    207
+                ],
+                "rightCorner": [
+                    456,
+                    276
+                ],
+                "text": "Diversele metode i tehnici de imobilizare, aspectele de refacere ale\nachitectui zonelor de interes s+-au pastrat actualitatea datorit structui\n\n\u2018morfologice complicate @acestor dint topografiel lors partcuarttilor\nanatomice ale tesuturilorinconjuratoar."
+            },
+            "40": {
+                "class": "text",
+                "x": 109,
+                "y": 137,
+                "height": 67,
+                "width": 372,
+                "leftCorner": [
+                    109,
+                    137
+                ],
+                "rightCorner": [
+                    481,
+                    204
+                ],
+                "text": "\u2018Asadar, restabilirea morfologica a arillor ocluzale ale arcadelor dentare\nIntegre sauintrerupte, avind ca concept refacereaechillorullsfuncie ocluzale,\n\nprevede selectarea tehnologilor optimal de imobilizaredirects/indrects sau 0\n\u2018mbinare rationals a acestor tic"
+            },
+            "41": {
+                "class": "text",
+                "x": 110,
+                "y": 82,
+                "height": 53,
+                "width": 365,
+                "leftCorner": [
+                    110,
+                    82
+                ],
+                "rightCorner": [
+                    475,
+                    135
+                ],
+                "text": "\u2018eliefului ocluzal a dintilor lezati sau absenti. Aceasta problem\u2019 necesit\u2019\naprofundarea cercetirilorprivind dverse aspecte ale tehnologilor de estaurare\n\n \n\n\u2018morfofunctional direct indirects Tn dereglaile olurale"
+            },
+            "42": {
+                "class": "text",
+                "x": 145,
+                "y": 45,
+                "height": 24,
+                "width": 311,
+                "leftCorner": [
+                    145,
+                    45
+                ],
+                "rightCorner": [
+                    456,
+                    69
+                ],
+                "text": "Capitolul 11. Conditia parodontal ta pacienti cw aparate de imobilizare"
+            }
+        }
+    },
+    "img_127": {
+        "page": "127",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "43": {
+                "class": "text",
+                "x": 286,
+                "y": 639,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    639
+                ],
+                "rightCorner": [
+                    315,
+                    661
+                ],
+                "text": "193"
+            },
+            "44": {
+                "class": "text",
+                "x": 110,
+                "y": 247,
+                "height": 97,
+                "width": 372,
+                "leftCorner": [
+                    110,
+                    247
+                ],
+                "rightCorner": [
+                    482,
+                    344
+                ],
+                "text": "Folosirea imobilziriiin terapia parodontals este controversats; practica a\ndemonstrat 3 teoria conform c\u00e9reiaimobilzareadinilorcresteresistenta fat de\nlstructia parodontal uterioardsiimbunititeste prognostic de vindecare nu\n\neste valabil in toate cazurl.mobilzarea permanent nu reduce in mod necesar\ncfectlforelor nocive asupra dngilor mobil, ll nu reduce in mod previibil\nmobiltatea dentars"
+            },
+            "45": {
+                "class": "text",
+                "x": 109,
+                "y": 177,
+                "height": 69,
+                "width": 375,
+                "leftCorner": [
+                    109,
+                    177
+                ],
+                "rightCorner": [
+                    484,
+                    246
+                ],
+                "text": "Prin urmare este foarte important a se stabiliza ocluziainainte de a se face\nImobilzarea dito. Dacd un singur dnte dint-o imobllzare este supus une\n\nInterferenteocluzaletraumatice,tesuturileparodontale gi ini restanti pot lzat\n\u2018inaceeasimisurs"
+            },
+            "46": {
+                "class": "text",
+                "x": 110,
+                "y": 122,
+                "height": 53,
+                "width": 377,
+                "leftCorner": [
+                    110,
+                    122
+                ],
+                "rightCorner": [
+                    487,
+                    175
+                ],
+                "text": "Prin urmare includerea unui dinte mobil intr-un dispozitiv de imobilizare nu\nscuteste complet dintele de Incdrciturafortel oluale nic nul protejeaz8 de\n\n \n\nafectarea ce poate apare ca urmare a foreloroclzaleexcesive,"
+            },
+            "47": {
+                "class": "text",
+                "x": 110,
+                "y": 82,
+                "height": 36,
+                "width": 340,
+                "leftCorner": [
+                    110,
+                    82
+                ],
+                "rightCorner": [
+                    450,
+                    118
+                ],
+                "text": "ate pe unil dinti cuprinsi in ateld sd fie mai mare decat inaintea"
+            },
+            "48": {
+                "class": "text",
+                "x": 145,
+                "y": 45,
+                "height": 24,
+                "width": 311,
+                "leftCorner": [
+                    145,
+                    45
+                ],
+                "rightCorner": [
+                    456,
+                    69
+                ],
+                "text": "Capitolul 11. Conditia parodontal ta pacienti cw aparate de imobilizare"
+            }
+        }
+    },
+    "img_128": {
+        "page": "128",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "49": {},
+            "50": {},
+            "51": {},
+            "52": {},
+            "53": {},
+            "54": {},
+            "55": {},
+            "56": {},
+            "57": {},
+            "58": {},
+            "59": {},
+            "60": {
+                "class": "text",
+                "x": 138,
+                "y": 132,
+                "height": 507,
+                "width": 348,
+                "leftCorner": [
+                    138,
+                    132
+                ],
+                "rightCorner": [
+                    486,
+                    639
+                ],
+                "text": "***ACADEMY REPORTS \"The American Academy of\nPeriodontology, The Pathogenesis of Periodontal Diseases\", J.\nPeriodontol, 1999, 70, 457-470\n\n\u00b0\u00b0 AMERICAN DENTAL ASSOCIATION. ADA guide ro dental\n\u2018therapeutics. sted, Chicago, IL: American Dental Association,\n\n1998,\n***Healozone Users Congresses. uly 2003 . HealOzone website.\n\u2018p:/swww.the-0-zone.cc/O3eong.doc\n\n \n\nBOUGHMAN J. A, CHARON J. A, SUZUKI J. Be \"Aspects,\nbiologiques et gen\u00e9tiques des parodontites & d\u00e9but pr\u00e9coce\nParodontol. 988; 7: 249-257,\n\nBRADY HANCOCK E, DONALD H. NEWELL: \"Preventive\nstrategies and supportive treatment\", Periodontology 2000, 2000,\n25, 59-16\n\nBRATU E, LAPUSAN H, ROMANUM. \"Consideratit\nimunopatologice orale\", Rev. Med. Siom. 1998, 2,6, 10-19.\n\nCATON J, QUINONES C. R. \"Etiology of periodontal diseases\"\nCurr. Opin. Dent. 1991, 1, 17-28\n\nDANILA I, VATAMAN R, ILIESCU A, UNGUREANU C.:\nProfilaxie stomatologica ~ Ed. Did si Ped. Bucuresti, 1996\n\nDARBY I, CURTIS M.: \"Microbiology of periodontal disease in\nchildren and young adults\u2019. Periodontology 2000, 26, 33-53.\n2001\n\nDUERIG TW et al, Ed,, Engineering Aspects of Shape Memory\nAlloys, Butterworth-Heinemann, London, 1990\n\nDUMITRIU H, MUREA ANCA, ET ALL \"Hiperplazia gingival de\n\u2018cauzdi modicamentoasi la bolnavi cardiac\" Stomatologia, 1996;"
+            },
+            "61": {}
+        }
+    },
+    "img_129": {
+        "page": "129",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "62": {
+                "class": "text",
+                "x": 286,
+                "y": 639,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    639
+                ],
+                "rightCorner": [
+                    315,
+                    661
+                ],
+                "text": "195"
+            },
+            "63": {
+                "class": "text",
+                "x": 110,
+                "y": 579,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    110,
+                    579
+                ],
+                "rightCorner": [
+                    137,
+                    601
+                ],
+                "text": "22."
+            },
+            "64": {
+                "class": "text",
+                "x": 110,
+                "y": 507,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    110,
+                    507
+                ],
+                "rightCorner": [
+                    137,
+                    529
+                ],
+                "text": "21"
+            },
+            "65": {
+                "class": "text",
+                "x": 110,
+                "y": 470,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    110,
+                    470
+                ],
+                "rightCorner": [
+                    137,
+                    492
+                ],
+                "text": "20."
+            },
+            "66": {},
+            "67": {},
+            "68": {},
+            "69": {},
+            "70": {},
+            "71": {},
+            "72": {},
+            "73": {},
+            "74": {
+                "class": "text",
+                "x": 138,
+                "y": 82,
+                "height": 556,
+                "width": 348,
+                "leftCorner": [
+                    138,
+                    82
+                ],
+                "rightCorner": [
+                    486,
+                    638
+                ],
+                "text": "1-2:25-31\n\nDUMITRIU HT : Mobiltatea dinlor parodontotiet si tratamentul\n\u2018prin imobilizare Ed, Cema, 1992, Bucuresti, ea I-a, 1996\n\nDUMITRIU HT, SILVIA DUMITRIU: Parodontologie ~ Ed, Viata\nMedicali, Bucuresti, 1997\n\nDUMITRIU SILVIA, DUMITRIU H: Etiologia microbiana in\n\u2018parodontitele marginale cronice ~ Ed, CERNA Bucuresti, 1996\n\nLAANG NP, ADLER R, JARS A, NYMAN \u00a7: \"Absence of bleeding\n\n\"J. Chir\n\n \n\n \n\n\u2018on probing, An indication of periodontal stabil\nPeriodont, 1990; 17: 714-721\n\nLACATUSU \u00a7T, CALIN D, FRANCU Le: Complevul adomto-\nparodontal in sarcind, Editura SedCom Libris kasi, 1999\n\nMARTU SILVIA, MOCANU CONSTANTA, FORNA NORINA:\n\u201cRolulterapie iniiale in managementul boli parodontale\u201d Rev.\nMed. Stomatologied, 1999; vo. 3, nt. 6: 49-50\n\nMARTU SILVIA, MOCANU CONSTANTA: Parodontologie\nlinied \u00a34, Apollonia, 2000.\n\nMARTU SILVIA, MOCANU CONSTANTA: \"Surfisajul: indicat\nsi limite in managementul boli patodontale\u201d Rev. Med,\nStomauologic\u2019, 1999; vol3,\nnr. 5:35.36\n\nMARTU SILVIA: \"Boala parodontal la ins ia\nJuventostomatologia, 2003, Ed Apollonia Iasi\n\nMOCANU CONSTANTA, SILVIA MARTU, MARIA URSACHE:\n\u201cimportant determindri microbiene in diagnosticul si\nteatamentl boii parodontale\u201d Rev. Med. Stomatologic, 2000; 4\n145-48\n\nZAMBON J.J, REINOLDS A.S, CHEN P, GENCO R. Js \"Rapid\nidentitication of periodontal pathogens in subgingival dental\nplague. Comparison of indirect immunofluareseence microscopy"
+            }
+        }
+    },
+    "img_130": {
+        "page": "130",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "75": {},
+            "76": {},
+            "77": {
+                "class": "text",
+                "x": 166,
+                "y": 81,
+                "height": 41,
+                "width": 256,
+                "leftCorner": [
+                    166,
+                    81
+                ],
+                "rightCorner": [
+                    422,
+                    122
+                ],
+                "text": "with bacterial culture for detection of B.\nPeriodontol; $6: 32-40,19"
+            }
+        }
+    }
+}

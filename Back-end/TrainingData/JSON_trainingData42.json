@@ -1,0 +1,515 @@
+{
+    "numberOfPages": 58,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 92,
+                "y": 284,
+                "height": 68,
+                "width": 414,
+                "leftCorner": [
+                    92,
+                    284
+                ],
+                "rightCorner": [
+                    506,
+                    352
+                ],
+                "text": "Rezolvarea conflictelor dintre\nscolarii m"
+            },
+            "3": {
+                "class": "text",
+                "x": 186,
+                "y": 75,
+                "height": 32,
+                "width": 227,
+                "leftCorner": [
+                    186,
+                    75
+                ],
+                "rightCorner": [
+                    413,
+                    107
+                ],
+                "text": "MARIA COVASNEANU"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "4": {
+                "class": "text",
+                "x": 110,
+                "y": 717,
+                "height": 23,
+                "width": 117,
+                "leftCorner": [
+                    110,
+                    717
+                ],
+                "rightCorner": [
+                    227,
+                    740
+                ],
+                "text": "978 973 716 878 8"
+            },
+            "5": {
+                "class": "text",
+                "x": 76,
+                "y": 370,
+                "height": 45,
+                "width": 331,
+                "leftCorner": [
+                    76,
+                    370
+                ],
+                "rightCorner": [
+                    407,
+                    415
+                ],
+                "text": "EDITURA ACREDITATA CNCSIS BUCURESTI\n66 01 05 2006"
+            },
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 308,
+                "y": 289,
+                "height": 25,
+                "width": 74,
+                "leftCorner": [
+                    308,
+                    289
+                ],
+                "rightCorner": [
+                    382,
+                    314
+                ],
+                "text": "i 700498"
+            },
+            "8": {
+                "class": "text",
+                "x": 269,
+                "y": 289,
+                "height": 25,
+                "width": 26,
+                "leftCorner": [
+                    269,
+                    289
+                ],
+                "rightCorner": [
+                    295,
+                    314
+                ],
+                "text": "1"
+            },
+            "9": {
+                "class": "text",
+                "x": 77,
+                "y": 266,
+                "height": 102,
+                "width": 188,
+                "leftCorner": [
+                    77,
+                    266
+                ],
+                "rightCorner": [
+                    265,
+                    368
+                ],
+                "text": "EDITURA PM\n\u00b0 fc\n\nf 0232-212740\ni i pi pi cop\npi cop o"
+            },
+            "10": {
+                "class": "text",
+                "x": 75,
+                "y": 152,
+                "height": 72,
+                "width": 320,
+                "leftCorner": [
+                    75,
+                    152
+                ],
+                "rightCorner": [
+                    395,
+                    224
+                ],
+                "text": "Redactor: inv. Gr. I Maria Covasneanu\n\nReferent stiintific: Prof. Dr. Strachinaru Ioan\nTehnoredactor: Florina Cumpana"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "11": {},
+            "12": {},
+            "13": {},
+            "14": {},
+            "15": {},
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 178,
+                "y": 605,
+                "height": 124,
+                "width": 341,
+                "leftCorner": [
+                    178,
+                    605
+                ],
+                "rightCorner": [
+                    519,
+                    729
+                ],
+                "text": "Cunoasterea tipurilor de conflicte scolare\nCunoasterea surselor conflictelor\n\nCunoasterea cauzelor conflictelor\nCunoasterea metodelor de rezolvare\nconflictelor"
+            },
+            "18": {
+                "class": "text",
+                "x": 152,
+                "y": 559,
+                "height": 28,
+                "width": 305,
+                "leftCorner": [
+                    152,
+                    559
+                ],
+                "rightCorner": [
+                    457,
+                    587
+                ],
+                "text": "FORMULAREA OBIECTIVELOR:"
+            },
+            "19": {},
+            "20": {},
+            "21": {},
+            "22": {
+                "class": "text",
+                "x": 75,
+                "y": 235,
+                "height": 310,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    235
+                ],
+                "rightCorner": [
+                    524,
+                    545
+                ],
+                "text": "Neast\u00e9mparul sau obraznicia este 0 constant\u00e9 a\ncomportamentului scolarilor mici . Pot include aici\nagitatia motorie, violenta fizicd, glume nepotrivite sau\nperturbarea activitatii scolare a colegilor.\n\nA De ce apar conflictele intre scolarii mici?\n\nCum solutionim conflictele dintre scolarii\nmici?\n\nTata doua intrebari care ar trebui s\u00e9 ne dea mult\nde gandit si-n acelasi timp si devina o preocupare\npentru cadrul didactic.\n\nin institutia scolara se produc, incontestabil,\ntoate tipurile recunoscute de conflicte interpersonale,\nintergrupale, intragrupale."
+            },
+            "23": {
+                "class": "text",
+                "x": 152,
+                "y": 189,
+                "height": 28,
+                "width": 300,
+                "leftCorner": [
+                    152,
+                    189
+                ],
+                "rightCorner": [
+                    452,
+                    217
+                ],
+                "text": "MOTIVAREA ALEGERII TEMEI:"
+            },
+            "24": {},
+            "25": {
+                "class": "text",
+                "x": 101,
+                "y": 143,
+                "height": 32,
+                "width": 410,
+                "leftCorner": [
+                    101,
+                    143
+                ],
+                "rightCorner": [
+                    511,
+                    175
+                ],
+                "text": "Tema: Rezolvarea conflictelor dintre"
+            },
+            "26": {
+                "class": "text",
+                "x": 152,
+                "y": 98,
+                "height": 27,
+                "width": 183,
+                "leftCorner": [
+                    152,
+                    98
+                ],
+                "rightCorner": [
+                    335,
+                    125
+                ],
+                "text": "ALEGEREA TEMEI"
+            },
+            "27": {}
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "28": {},
+            "29": {},
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 126,
+                "y": 653,
+                "height": 100,
+                "width": 398,
+                "leftCorner": [
+                    126,
+                    653
+                ],
+                "rightCorner": [
+                    524,
+                    753
+                ],
+                "text": "diminuarea comunicarii negative in grupul de\nelevi(clasa);\n\nconstruirea unei identitati de sine pozitiva, la\nfiecare elev;"
+            },
+            "32": {},
+            "33": {
+                "class": "text",
+                "x": 152,
+                "y": 603,
+                "height": 31,
+                "width": 231,
+                "leftCorner": [
+                    152,
+                    603
+                ],
+                "rightCorner": [
+                    383,
+                    634
+                ],
+                "text": "OBIECTIVE URMARITE:"
+            },
+            "34": {
+                "class": "text",
+                "x": 240,
+                "y": 446,
+                "height": 146,
+                "width": 246,
+                "leftCorner": [
+                    240,
+                    446
+                ],
+                "rightCorner": [
+                    486,
+                    592
+                ],
+                "text": "dezbaterea;\nchestionarul;\ndiscutia;\n\nexercitiul;\nlucrul in perechi si in echipa;\njocul didactic,"
+            },
+            "35": {
+                "class": "text",
+                "x": 152,
+                "y": 400,
+                "height": 31,
+                "width": 330,
+                "leftCorner": [
+                    152,
+                    400
+                ],
+                "rightCorner": [
+                    482,
+                    431
+                ],
+                "text": "METODE SI PROCEDEE FOLOSITE:"
+            },
+            "36": {},
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 126,
+                "y": 216,
+                "height": 170,
+                "width": 398,
+                "leftCorner": [
+                    126,
+                    216
+                ],
+                "rightCorner": [
+                    524,
+                    386
+                ],
+                "text": "cercetarea a vizat rezolvarea conflictelor din\ncadrul colectivului. de elevi si integrarea\nelevilor marginalizati in grupul majoritar;\n\ncercetarea a fost realizata pe un numar de 25 de\n\nelevi, de la clasa a III-a A, Scoala \u201cIon Ghica\u201d;\ndesfaisurat pe parcursul a trei"
+            },
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 152,
+                "y": 171,
+                "height": 31,
+                "width": 157,
+                "leftCorner": [
+                    152,
+                    171
+                ],
+                "rightCorner": [
+                    309,
+                    202
+                ],
+                "text": "ESANTIONARE:"
+            },
+            "42": {},
+            "43": {},
+            "44": {
+                "class": "text",
+                "x": 178,
+                "y": 79,
+                "height": 78,
+                "width": 347,
+                "leftCorner": [
+                    178,
+                    79
+                ],
+                "rightCorner": [
+                    525,
+                    157
+                ],
+                "text": "Rezolvarea unui conflict din cadrul\ncolectivului de elevi si integrarea elevilor\n\n \n\nmarginalizati in grupul majoritar"
+            }
+        }
+    },
+    "img_53": {
+        "page": "53",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "45": {},
+            "46": {
+                "class": "text",
+                "x": 75,
+                "y": 77,
+                "height": 651,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    77
+                ],
+                "rightCorner": [
+                    524,
+                    728
+                ],
+                "text": "effort propriu, conditia unei vieti decente, demne.\nEducatia trebuie sa formeze constiinta ca intr-o\nsocietate democratica, intr-o societate care asigura\ndrepturile legale afirmarii omului de initiativa,\ndepinde de insul uman sa se foloseasca efectiv, prin\neffort propriu, de aceste drepturi pentru a-si realiza 0\nviata fericita. Trebuie lichidata mentalitatea ca cele\nnecesare vietii vin ca un dar din partea \u201csocietatii\u201d, ca\npentru un tanar datoria se rezuma la a sti saua invata,\nurmand ca societatea sa-I \u201cpuna\u201d intr-un loc al ei de\nunde sa \u201cstraluceasca\u201d. Intr-o societate cu strcutura\nprivata, nici o institutie de stat nu poate impune\nocuparea locurilor activitatii de catre indivizi; meritul,\nvaloarea, confirmatic practic, reprezinta criteriul\nsanselor, Ceea ce nu inseamna ignorarea posibilitatilor\narbitrariului, a abandonarii omului de valoare si a\nindiferentei pentru drepturile legitime de munca si la\nviata onesta, pe baza muncii.\n\nFormarea _ moralitatii \u00a9 presupune, _totodata,\nintegrarea educatiei in viata si activitatea romaneasca,\npunerea ei de acord cu cerintele continuitatii spirituale\nsi morale romanesti, ale dezvoltarii caracterului\nromanesc. Educatia trebuie sa cultive si sa exercite\ntrasaturile bunului roman, ale mandriei si demnitatii\nnationale, ale patriotismului, frumoaselor insusiri\nmorale ale amoenici si onestitatii traditionale,\ndragostea pentru cultura si limba romana, pentru\ne eroismului poporului."
+            }
+        }
+    },
+    "img_54": {
+        "page": "54",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "47": {},
+            "48": {
+                "class": "text",
+                "x": 75,
+                "y": 77,
+                "height": 672,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    77
+                ],
+                "rightCorner": [
+                    524,
+                    749
+                ],
+                "text": "Copii, tinerii trebuie sa respecte virtutile morale\ncare disting moralitatea romaneasca cum sunt:\nrespingerea razbunarii, a raspunderii cu rau la rau,\nraspunderea cu bine la rau, ceea ce nu exclude\nsanctionarea legitima si morala a raului, ospitalitatea,\najungerea la bine prin cunoasterea raului, primirea la\nnevoie a raului necesar, iertarea, toleranta si\nconcilierea,  respingerea _atitudinii __patimase,\nsinceritatea si prietenia etc.\n\nTotodata, formarea moralitatii romanesti se\nconditioneaza cu respectul celorlalte popoare si\nnatiuni, cu stima pentru creatia originala a valorilor,\ncu  deschiderea spre colaborare si schimburi\ncomerciale, pentru relatii de buna vecinatate, pentru\nraporturi de prietenie cu alte popoare si state etc.,\nacestea dimensionand continutul educatiei morale in\nacord cu exigentele dezvoltarii contemporane a\npatriei. In promovarea relatiilor europene, cu celelalte\ntari si natiuni, educatia trebuie sa intretina constiinta\ndemnitatii, a evitarii oricarei umiliri si injosiri, a luptei\nhotarate impotriva acelora care, punand mai presus de\ninteresele nationale interesele proprii, individuale sau\nde grup, denigreaza poporul roman, institutiile sale,\nfavorizand fortele ostile Romaniei.\n\nContinutul formarii fiintei morale a omului se\nproiecteaza si functie de alte probleme actuale ale\neducatiei. O gravitate deosebita o prezinta aceea care\nreclama refacerea integritatii morale, a echilibrului\nfiintei morale a omului, atat de serios afectat de"
+            }
+        }
+    },
+    "img_55": {
+        "page": "55",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "49": {},
+            "50": {
+                "class": "text",
+                "x": 75,
+                "y": 77,
+                "height": 674,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    77
+                ],
+                "rightCorner": [
+                    524,
+                    751
+                ],
+                "text": "presiunile duplicitatii la care a fost supus.\nConditionata de autoritatea eteronoma, a conducerii\npolitice coercitive si chiar punitive, duplicitatea a\nsubminat moralitatea romaneasca in doua sensuri,\nstranse intre ele:\n\n1) acela al dublei morale (0 morala oficiala\nsi una intima, personala);\n\n2) acela al conflictului dintre interior (bun\nsau rau) si forma exterioara, manifestarile\ncomportamentale (in contrast cu fondul,\nascuns). Dar daca in regimul trecut\nraspunderea pentru. _proliferarea\nduplicitatiirevenea, in principal,\nregimului, in perioada actuala, cand\nindividul dispune de libertate personala si\nde drepturi de afirmare onesta si sincera,\nvina duplicitatii apartine \u2014_decisiv\nindividului care recurge la mimetism si la\noportunism. De  aceea,  continutul\neducatiei trebuie sa vizeze eradicarea\nraului_ moral, inclusiv al aceluia al\nduplicitatii.\n\nLa fel de grav este si raul datorat substituirii\nimproprii, incorecte din punct de vedere moral, a\ntransformarii morale necesare si firesti cu mutatiile\nextremiste, acoperite demagocic, de acte oportuniste,\nrau stimulat si de fortele politice care, avand nevoie\nde aderenti, ignora criteriile selective de calitate.\nCopiii, adolescentii care se formeaza in atmosfera"
+            }
+        }
+    },
+    "img_56": {
+        "page": "56",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "51": {},
+            "52": {
+                "class": "text",
+                "x": 75,
+                "y": 77,
+                "height": 168,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    77
+                ],
+                "rightCorner": [
+                    524,
+                    245
+                ],
+                "text": "morala infecta de asemenea fenomene pot fi cuceriti\nde modelele comportamentale mimetice,de raul\nduplicitatii si al extremismului.\n\nDemocratia, ordinea morala a statului de drept\nnu pot fi garantate de comportamentele duplicitare,\ninevitabil acestea evoluand spre starile conflictuale,\nintoleranta, violenta, etc."
+            }
+        }
+    },
+    "img_57": {
+        "page": "57",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_58": {
+        "page": "58",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "53": {
+                "class": "text",
+                "x": 137,
+                "y": 583,
+                "height": 162,
+                "width": 302,
+                "leftCorner": [
+                    137,
+                    583
+                ],
+                "rightCorner": [
+                    439,
+                    745
+                ],
+                "text": "Tipar Digital realizat la Tipografia om\n\nSoseaua Stefan cel Mare nr. 11\nTasi - 700498\n\nTel. / fax: 0232-212740\ne-mail:editurapim@pimcopy.ro\nwww.pimeopy.ro"
+            }
+        }
+    }
+}

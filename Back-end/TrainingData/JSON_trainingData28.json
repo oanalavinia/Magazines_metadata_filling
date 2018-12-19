@@ -1,0 +1,624 @@
+{
+    "numberOfPages": 114,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {}
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {}
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 166,
+                "y": 759,
+                "height": 31,
+                "width": 267,
+                "leftCorner": [
+                    166,
+                    759
+                ],
+                "rightCorner": [
+                    433,
+                    790
+                ],
+                "text": "ANUL I, Nr. 1/2013 * HUSL"
+            },
+            "2": {
+                "class": "text",
+                "x": 44,
+                "y": 420,
+                "height": 56,
+                "width": 511,
+                "leftCorner": [
+                    44,
+                    420
+                ],
+                "rightCorner": [
+                    555,
+                    476
+                ],
+                "text": "Revista cadrelor militare in rezerva si a veteranilor de razboi\njudetul Vash"
+            },
+            "3": {
+                "class": "text",
+                "x": 427,
+                "y": 353,
+                "height": 45,
+                "width": 122,
+                "leftCorner": [
+                    427,
+                    353
+                ],
+                "rightCorner": [
+                    549,
+                    398
+                ],
+                "text": "TIMP"
+            },
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 50,
+                "y": 353,
+                "height": 56,
+                "width": 228,
+                "leftCorner": [
+                    50,
+                    353
+                ],
+                "rightCorner": [
+                    278,
+                    409
+                ],
+                "text": "CADENTE"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 62,
+                "y": 654,
+                "height": 59,
+                "width": 170,
+                "leftCorner": [
+                    62,
+                    654
+                ],
+                "rightCorner": [
+                    232,
+                    713
+                ],
+                "text": "Costin Clit\nColonel (r) ing. Nicu Saped\n\n \n\nColonel (r) Martin Cata"
+            },
+            "8": {
+                "class": "text",
+                "x": 111,
+                "y": 622,
+                "height": 26,
+                "width": 203,
+                "leftCorner": [
+                    111,
+                    622
+                ],
+                "rightCorner": [
+                    314,
+                    648
+                ],
+                "text": "COMITETUL DE REDACTIE"
+            },
+            "9": {
+                "class": "text",
+                "x": 350,
+                "y": 165,
+                "height": 27,
+                "width": 68,
+                "leftCorner": [
+                    350,
+                    165
+                ],
+                "rightCorner": [
+                    418,
+                    192
+                ],
+                "text": "coperta 4,"
+            },
+            "10": {
+                "class": "text",
+                "x": 62,
+                "y": 83,
+                "height": 108,
+                "width": 452,
+                "leftCorner": [
+                    62,
+                    83
+                ],
+                "rightCorner": [
+                    514,
+                    191
+                ],
+                "text": "Batalionul 202 Apirare C.B.R.N. in pas de defilare pe strada General\nGheorghe Teleman din Husi ~ coperta |\nCol.(r) ing. NBC Nicu Sapea \u2014 coperta 2\n\nDistinctie germand primit\u00e9 de Dumitru P. Harnagea la 24 decembrie\n1942 \u2014 coperta 3.\nstag husean in Primul Raizboi Mondial"
+            },
+            "11": {
+                "class": "text",
+                "x": 112,
+                "y": 49,
+                "height": 26,
+                "width": 86,
+                "leftCorner": [
+                    112,
+                    49
+                ],
+                "rightCorner": [
+                    198,
+                    75
+                ],
+                "text": "LEGENDA:"
+            }
+        }
+    },
+    "img_109": {
+        "page": "109",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "12": {
+                "class": "text",
+                "x": 284,
+                "y": 819,
+                "height": 24,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    819
+                ],
+                "rightCorner": [
+                    318,
+                    843
+                ],
+                "text": "109"
+            },
+            "13": {
+                "class": "text",
+                "x": 56,
+                "y": 441,
+                "height": 337,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    441
+                ],
+                "rightCorner": [
+                    544,
+                    778
+                ],
+                "text": "Cu ocazia prezintirii unui memoriu cerut de Ministerul de Finante, cu\n\u2018intimpinari asupra anteprocctului legit generale de pensiuni intocmit de acel\nminister (Casa generali de pensiuni) anul trecut, Societatea ofiterilor in rezerva si\nretragere \u201cCarol al Il-lea\u201d, printr-o declaratie preliminard, arta cd adunarea\ngenerali a societatii, constienta de conditiunile exceptionale sub care trebuie privitd\nsi solutionata, prin lege, chestia pensiilor militare, ramane nestrdmutatd in credinta\ncA administrarea deplind a acestor pensii trebuie si se facd neaparat sub autoritatea\nMinisterului Apararii Nationale si pe baza unei legi speciale, cum se face si in alte\n{ari si cum s-a mai flicut cu succes, altaidatd, si la noi.\n\nDeclaratia aceasta prealabili a Soc. \u201cCarol al Il-lea\u201d, f\u00e9cdnd aluzie la\nstarea precard a pensiilor militare de la rizboi incoace, exprima o eruda si extrem\nde dureroasa realitate.\n\nDar dacd starea aceasta precarl a pensiilor noastre militare ar fi\ndeterminata numai de criza economica si financiara postbelica, este evident ci ea\nnar justifica elaborarea unei legi de pensii speciale pentru militari, intrucat\ncons\u00e9cinfele crizei, atingdnd toate categoriile de bugetari, in mod egal si, respectiv,\nproportional, nu se pot cere si nici acorda exceptiuni si privilegii, In realitate, ins,\nnu este numai criza cauza existenfei si gravitatii starii precare in chestiune.\n\nCauza sau mai bine zis cauzele genetice ale stiri precare a pensiilor\n\niva in cea mai mare parte numai din eroarea ce s-a facut in 1902, cand"
+            },
+            "14": {
+                "class": "text",
+                "x": 375,
+                "y": 409,
+                "height": 27,
+                "width": 169,
+                "leftCorner": [
+                    375,
+                    409
+                ],
+                "rightCorner": [
+                    544,
+                    436
+                ],
+                "text": "de general Alexe Anastasiu"
+            },
+            "15": {
+                "class": "text",
+                "x": 147,
+                "y": 377,
+                "height": 26,
+                "width": 306,
+                "leftCorner": [
+                    147,
+                    377
+                ],
+                "rightCorner": [
+                    453,
+                    403
+                ],
+                "text": "Necesitatea legii speciale pentru pensiile militare"
+            },
+            "16": {
+                "class": "text",
+                "x": 321,
+                "y": 343,
+                "height": 27,
+                "width": 223,
+                "leftCorner": [
+                    321,
+                    343
+                ],
+                "rightCorner": [
+                    544,
+                    370
+                ],
+                "text": "ul\u201d, 24 mai 1934, p.5."
+            },
+            "17": {
+                "class": "text",
+                "x": 56,
+                "y": 50,
+                "height": 288,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    50
+                ],
+                "rightCorner": [
+                    544,
+                    338
+                ],
+                "text": "create de atunci intr-una, Chiar numai in domeniul pensiilor militare avem regimuri\nsi legi speciale pentru jandarmerie, si aviatie, iar in domeniul civil si eclesiastic\navem legi si case speciale pentru pensii la C.F.R., la Ministerul Sanatatii, la Case\nautonome, precum si regimurile existente in provinciile surori, pe cari a trebuit si\nJe mentinem,\n\nCa lucrul este asa si trebuie si rimand astfel face dovada textul art. 2 din\nanteproiectul legii generale de pensiuni intocmit anul trecut de de Finante, care\nstabilea ci intra sub prevederile legei (aceea care se elabora) toate categoriile de\npensionari, afard de acelea cari dispun de legi, regimuri gi case de pensiuini proprii\ncari vor continua sa fiinfeze si mai departe asa cum sunt, daca ele singure nu ar\ncere trecerea la Casa general de pensiuni a Ministerul de Finange. Prin urmare,\nregimuri de legi speciale existdnd, ideea crearii unui precedent prin o lege special\npentru pensionarii militari este exclusd. lar facultatea de-a fiinta sau mu, sub\nregimul unificat, find admisi de Ministerul de Finante, cum dovedeste\nanteproiectul de lege din anul trecut, aceasti facultate nu poate fi interzisa\npensionarilor militari. Vom vedea mai departe si alte temeiuri cari pledeaz\u2019 in\nfavoarea acestei mult asteptate masuri."
+            }
+        }
+    },
+    "img_110": {
+        "page": "110",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 284,
+                "y": 819,
+                "height": 24,
+                "width": 34,
+                "leftCorner": [
+                    284,
+                    819
+                ],
+                "rightCorner": [
+                    318,
+                    843
+                ],
+                "text": "110"
+            },
+            "19": {
+                "class": "text",
+                "x": 54,
+                "y": 50,
+                "height": 728,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    50
+                ],
+                "rightCorner": [
+                    545,
+                    778
+                ],
+                "text": "pensiile militare s-au unificat cu pensiile civile, precum si din crearea prin legea\ndin 1925 si dispozitiunile de birou pentru aplicarea acestei legi pentru pensionarii\nmilitari si exclusive numai contra lor, a unor conditiuni de tratament pe cat de\nnedrepte, pe atat de vexatoare.\n\nAstfel, in 1926, cu ocazia majorarii indemnitatii (indemnizatiei, n.n.) de\nscumpete a pensiilor, in mod general, cu 25 la sutd, in ce priveste pensionai\nmilitari, s-a dispus cd aplicdndu-li-se gi lor acest coeficient, \u201csuma rezultatd sd nu\nintreacd in tot eazul pentru capitan de ... at\u00e9ta, pentru maior de ... atdta\u201d si asa\nmai departe pentru toate gradele, adic& 0 limit maximal, pe grade, care nu s-a\nprevaizut ins pentru nici o alta categorie de pensionari. De aici a rezultat neajunsul\nJignitor c pensiile militare au ramas inferioare pensiilor civile, nu numai la grade\negale, prin asimilare, dar chiar si decdt a unor grade mai mici. Aga de exp., pensia\nunui invatator, care prin asimilare \u2014 fiind primul grad in ierarhia profesoratului de\ncarierd \u2014 ar corespunde gradului de sublocotenent, nu numai cd iegind la pensie\nprimea mai mult decat un sublocotenent, locotenent ori chiar cApitan, dar depasind\nierarhia ofiterilor inferiori, primea mai mult si dec\u00e9t un maior, aliniindu-se pentru\ncuantumul pensiei cu locotenent-colonelul. Cunose personal cazul unei institutoare,\ncu gradatii, care avea pensia mai mare decat a sotului ei general\n\nin ce priveste domeniul pur militar, dup& cum am aritat in articolul\nprecedent, un maior are solda mai mare decat pensia unui general, situatie penibild\ncare ins nu exist in domeniul civil pentru grade similare.\n\nContrastul nu arati ca soldele sunt mari, intrucat in realitate si ele sunt mai\nmult decit insuficiente, ci numai spiritul anarhic ce stapdneste ierarhizarea\npensiilor militare si absolut numai aceasta categorie de pensionari\n\nAlt caz de nedreptate. Pensionarii militari primese pensii foarte diferentiate\nintre ele pentru grade si drepturi egale, dupa data iesirii lor la pensie. Astfel, un\ngeneral trecut la pensie inainte de 1919 primeste mai putin decat un general iesit la\npensie dupa 1919, desi au aceiasi ani de serviciu si au avut aceeasi varstd la data\npensiondrii. Aceastd diferentiere este desigur irationald si nedreapta.\n\nCerintele existentei, obligatiunile sociale, consideratiunile de prestigiu si\nde demnitate corespunzitoare gradului, fiind identice, motivul e& unul apartine unei\nlegi de pensiune mai veche, iar altui unei legi mai noua, este absolut brutal. Bursa\nviefii mu stabileste prefurile pietii pentru pensionarii militari, aparte si dupa data\npensionarii lor.\n\n\u2018Alimentele, imbricdmintea, chiriile, medicamentele etc. sunt platite de\npensionari dupicursul pietii de astizi, nu acel de la data pensionarii,\n\n\u00a9 anomalie strigitoare pentru ofiterii pensionari 0 formeazi apoi\nchestiunea indemnitatilor, ca adaose la solda activilor care nefiindsupuse retinerii\nde 10 Ia suta pentru pensie, sunt din aceasti cauzd nereversibile la pensie\nProcedeul este nedrept si neloial, iar practicarea lui pgubeste prestigiul statului\n(subLn.), fata de acei ce nu si-au precupetit viata pentru el, cu mult mai simtitor\ndec\u00e9t reprezinta profitul binese ce-I poate aduce aceasta masuri,\n\nInainte de 1916 exista un supliment la solda propriu-zisi a activilor, sub\ntitlul de indemnitate de activitate, nesupus la refinere si nereversibil la pensie, dar"
+            }
+        }
+    },
+    "img_111": {
+        "page": "111",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "20": {
+                "class": "text",
+                "x": 284,
+                "y": 819,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    284,
+                    819
+                ],
+                "rightCorner": [
+                    316,
+                    843
+                ],
+                "text": "1"
+            },
+            "21": {
+                "class": "text",
+                "x": 54,
+                "y": 50,
+                "height": 728,
+                "width": 490,
+                "leftCorner": [
+                    54,
+                    50
+                ],
+                "rightCorner": [
+                    544,
+                    778
+                ],
+                "text": "acel supliment raportat la cuantumul soldei era de circa 9 la sutd. Acum la solda\npropriu-zisi \u00abbruta se dau vreo 4 indemnititi, cari in total depagesc o treime din\ncuantumul soldei, iar pensia se calculeazi numai asupra soldei bruto, dupa ce se\nmai deduc si cei 10 la sutd, refinerea pentru pensie, desi pensionarii militari au\nplatit-o si ei fiind activi.\n\nCand procedeul se va schimba si se va fixa pentru stabilirea pensiei un\nprocent general de atita la sutd din salar pentru civili si, prin consecin{a, pentru\nmilitari, misura va fi dezastruoas& pentru acesti din urm\u00e9. Funetionarii civilin-au\nasemenea indemnitati, iar sporurile create la salarul lor prin \u00abgradatii\u00bb fiind supuse\nla retineri sunt reversibile la pensii,\n\nEste nevoie prin urmare de o lege special, care si prevadi cd pensia\nmilitarilor se referd la retributia lunar ce primesc, sub orice titlu, indemnititile\nind supuse la retinerea pentru pensie si deci reversibile la pensie.\n\nSe pretinde c& prin 0 noud lege generala de pensiuni toate nedreptatile,\ne si vitregiile semnalate de pensionarii militari se vor inkatura, stabilindu-\nse un regim uniform, egal si echitabil pentru tofi, corespunzitor drepturilor\nrespective. O asemenea lege mai toate guvernele de la 1926 incoace au anuntat-o,\niar unele au dispus chiar pregitirea ei, dar n-au infiptuit-o inca si afirmim c& nu\nvor putea-o infiiptui curand, chiar daca vor fine sincer si hotirat s-o faci. Motivul:\n\u00a9 noud lege a pensiilor trebuie si stabileascd neapirat normalizarea lor. Or,\nnormalizarea pensiilor, fri o prealabili normalizare a salariilor, este inoperanta,\nexclusa; iar normalizarea salariilor este 0 misurd, dacd nu imposibil de realizat, in\ntot cazul o operatiune extrem de dificilagi de lunga durata\n\nEste drept c& in 1902 s-a putut stabili o asimilare a ierarhiei civile cu\nierarhia militar, uniformizind salariile functionarilor statului prin referire la\ngradele si soldele militare; ceea ce a inlesnit si 0 echitabila aplicare a legei generale\na pensiilor din acel an. Dar de la 1902 pana astizi, lucrurile sau, mai bine zis,\nsituatiunile s-au schimbat profund. Dup& rizboiu mai cu. seam, in domeniul\nfunctiondresc civil s-au creat trepte intermediare aproape pentru fiecare grad\nierarhic de port si functiune. Aga de ex. inainte vreme exista la functionarii civili\nierarhia aceasta: ef de birou, sef serviciu si director. Demnitatea de director\ngeneral era limitata numai la cdteva institutii, Dupa 1902 s-a generalizat functiunea\nde director general la toate ministerele si unele autoritati si servicii, de stat,\njudetene si chiar comunale urbane, mai infiintandu-se treptat si posturi de\nsubdirectori generali, subdirectori, subsefi de servicii si subsefii de birouri etc., iar\npentru fiecare post s-au creat cate doug, trei si patru trepte ca de exp. impiegat cl. I,\nIL, IL, IV, sef de biurou principal, sef de birou de cl. 1, Il, IMI si aga mai departe.\nCaracteristica acestor cteatiuni fiinded nu exist\u00e9 in mod identic la toate\ndepartamentele autoritijilor si serviciilor (caselor) autonome ; iar conditiunile de\nnumire, inaintare gi salarizare a functionarilor de la unele din aceste compartimente\nfunetiondresti depinzind de titluri academice si tehnice de specialitate cari nu\nexistd la altele, este evident cd un sef de biurou, de serviciu ori director de la\nsindtate, de la culte, de la industrie ete, nu este totuna cu corespondentul su de la\ntun compartment functiondiresc, unde nu se cer titlurile si probele cerut celorlalt"
+            }
+        }
+    },
+    "img_112": {
+        "page": "112",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 284,
+                "y": 819,
+                "height": 24,
+                "width": 33,
+                "leftCorner": [
+                    284,
+                    819
+                ],
+                "rightCorner": [
+                    317,
+                    843
+                ],
+                "text": "112"
+            },
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 321,
+                "y": 311,
+                "height": 27,
+                "width": 223,
+                "leftCorner": [
+                    321,
+                    311
+                ],
+                "rightCorner": [
+                    544,
+                    338
+                ],
+                "text": "Sursa: Adevarul\u201d, 5 iunie 1934, p.5."
+            },
+            "25": {
+                "class": "text",
+                "x": 56,
+                "y": 50,
+                "height": 255,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    50
+                ],
+                "rightCorner": [
+                    544,
+                    305
+                ],
+                "text": "Soldele fortuit diferd, iar nivelarea lor ar insemna pentru titrati o deposedare\nnedreapti si ofensatoare.Raportind apoi functiunile acestea la ierarhia militard gi\nstabilind ca sefull de birou se asimileaza gradului de capitan, seful de serviciu unui\nmaior, directorul unui colonel, iar directorul general unui general, cu cine\nasimilezi, la treapta ierarhicd pe subdirectori si titularii de diferite grade: principal,\nde cl. II, Il etc. ?\n\nCine gi cind va realiza oare o inteleapta si just armonizare\n\nPentru pensionarii militari ins& armonizarea pensiilor se poate face fra\n\nnici o dificultate, intrucat soldele militarilor sunt perfect armonizate. Un cdpitan, un\nmaior, colonel etc. din orice arma, serviciu sau gamizoand ar fi si din orice\ncomandament ar face parte, avand si autoritate si soldi si drepturi egale. Prin\nsimpla raportare a pensiilor militare la solde, in baza unui coeficient la suti, egal\npentru tofi, se obtine armonizarea si se pune capat starii haotice si anarhice. lati de\nce este necesara o lege speciald pentru pensiile militare. O cere nu numai dreptatea,\ndar si logi"
+            }
+        }
+    },
+    "img_113": {
+        "page": "113",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "26": {
+                "class": "text",
+                "x": 284,
+                "y": 819,
+                "height": 24,
+                "width": 33,
+                "leftCorner": [
+                    284,
+                    819
+                ],
+                "rightCorner": [
+                    317,
+                    843
+                ],
+                "text": "113"
+            },
+            "27": {
+                "class": "text",
+                "x": 504,
+                "y": 562,
+                "height": 43,
+                "width": 32,
+                "leftCorner": [
+                    504,
+                    562
+                ],
+                "rightCorner": [
+                    536,
+                    605
+                ],
+                "text": "107\n113"
+            },
+            "28": {
+                "class": "text",
+                "x": 509,
+                "y": 526,
+                "height": 24,
+                "width": 25,
+                "leftCorner": [
+                    509,
+                    526
+                ],
+                "rightCorner": [
+                    534,
+                    550
+                ],
+                "text": "81"
+            },
+            "29": {
+                "class": "text",
+                "x": 510,
+                "y": 494,
+                "height": 23,
+                "width": 26,
+                "leftCorner": [
+                    510,
+                    494
+                ],
+                "rightCorner": [
+                    536,
+                    517
+                ],
+                "text": "79"
+            },
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 509,
+                "y": 411,
+                "height": 73,
+                "width": 27,
+                "leftCorner": [
+                    509,
+                    411
+                ],
+                "rightCorner": [
+                    536,
+                    484
+                ],
+                "text": "ST\n59\n65\n09"
+            },
+            "32": {
+                "class": "text",
+                "x": 509,
+                "y": 361,
+                "height": 41,
+                "width": 27,
+                "leftCorner": [
+                    509,
+                    361
+                ],
+                "rightCorner": [
+                    536,
+                    402
+                ],
+                "text": "47\nSI"
+            },
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 509,
+                "y": 295,
+                "height": 56,
+                "width": 27,
+                "leftCorner": [
+                    509,
+                    295
+                ],
+                "rightCorner": [
+                    536,
+                    351
+                ],
+                "text": "29\n39\n43"
+            },
+            "35": {},
+            "36": {},
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 63,
+                "y": 148,
+                "height": 461,
+                "width": 354,
+                "leftCorner": [
+                    63,
+                    148
+                ],
+                "rightCorner": [
+                    417,
+                    609
+                ],
+                "text": "Argument, colt) Martin CATA\n\nMesajul Comandantului Batalionului 202 Apdrare CBNR\n(Interventie La Dezastre),, General Gheorghe Teleman\u201d, I.\ncol. Adrian Vasile PERDUN\n\nReflect... CBRN. La Aniversare, col.(t) Martin CATA\nGand spre Cernobil, Ex - Sef Sectie Mentenant Armament\nsi Tehnica, Forte Terestre, col(r) ing. NBC Nicu SAPCA\nParticiparea Batalionului 202 Aparare C.B.R.N. la\nEvenimentele din Decembrie 1989 in Garnizoana Husi,\ncol(r) ing. NBC Nicu SAPCA\n\nUn tana in armatd, maior (t) Sergiu MARIAN\n\nVeteranii \u2014 si ei au fost tineri!, col(r) Martin CATA\nGeneralul Gheorghe Teleman (22 Octombrie 1838 \u20144 lulie\n1913), Costin CLIT\n\nErou Sergent Major Arhire Stefan, Costin CLIT\n\nIn memoriam: Locotenent - Colonel Constantin Chiril\u00e9,\nStefan PLUGARU\n\nAmintiri din .... ,,copilarie\u201d, col.(r) Aurel MIHAIESCU\nGinduri si fapte ce nu se pot uita, colt) loan GEMAN\nAmintiri din armat\u00e9, maisteu militar Mihai BRIGHIU\nUNITATEA NUCLEARA (Oda d-lui BRIGHIU la a 70-a\naniversare), col.(r) Martin CATA\n\nHuseni pe frontul de rasdrit in imagini: Dumitru P.\nHarnagea, Costin CLIT\n\nG\u00e9nduri despre pensiile militare - Extrase din presa\ninterbelica - , col.(r) Martin CATA\n\nCuprins"
+            },
+            "40": {
+                "class": "text",
+                "x": 262,
+                "y": 99,
+                "height": 24,
+                "width": 76,
+                "leftCorner": [
+                    262,
+                    99
+                ],
+                "rightCorner": [
+                    338,
+                    123
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_114": {
+        "page": "114",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "41": {
+                "class": "text",
+                "x": 167,
+                "y": 662,
+                "height": 94,
+                "width": 283,
+                "leftCorner": [
+                    167,
+                    662
+                ],
+                "rightCorner": [
+                    450,
+                    756
+                ],
+                "text": "EDITURA SI TIPOGRAFIA PIM.\nSoseaua Stefan cel Mare gi Sfint nr. 4, Iasi ~ 700497\n\u2018Tel:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimeopy.r0\n\n \n\nwwwpimeopy.c0"
+            },
+            "42": {
+                "class": "text",
+                "x": 260,
+                "y": 623,
+                "height": 38,
+                "width": 97,
+                "leftCorner": [
+                    260,
+                    623
+                ],
+                "rightCorner": [
+                    357,
+                    661
+                ],
+                "text": "2 Om"
+            },
+            "43": {
+                "class": "text",
+                "x": 230,
+                "y": 595,
+                "height": 27,
+                "width": 157,
+                "leftCorner": [
+                    230,
+                    595
+                ],
+                "rightCorner": [
+                    387,
+                    622
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

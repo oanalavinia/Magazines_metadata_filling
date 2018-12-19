@@ -1,0 +1,665 @@
+{
+    "numberOfPages": 40,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 0,
+                "y": 0,
+                "height": 848,
+                "width": 600,
+                "leftCorner": [
+                    0,
+                    0
+                ],
+                "rightCorner": [
+                    600,
+                    848
+                ],
+                "text": "Colegiul National \"$tefancel Mare\u2019 Harlau"
+            },
+            "6": {}
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "7": {
+                "class": "text",
+                "x": 96,
+                "y": 637,
+                "height": 58,
+                "width": 408,
+                "leftCorner": [
+                    96,
+                    637
+                ],
+                "rightCorner": [
+                    504,
+                    695
+                ],
+                "text": "Revista elevilor din Colegiului National \u201cStefan cel Mare\u201d Hirkiu\nFondati 1973\n\n \n\nSerie noua, anul I, nr. 1"
+            },
+            "8": {
+                "class": "text",
+                "x": 235,
+                "y": 259,
+                "height": 32,
+                "width": 137,
+                "leftCorner": [
+                    235,
+                    259
+                ],
+                "rightCorner": [
+                    372,
+                    291
+                ],
+                "text": "\u201cAnotimpuri\u201d"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 73,
+                "y": 705,
+                "height": 26,
+                "width": 145,
+                "leftCorner": [
+                    73,
+                    705
+                ],
+                "rightCorner": [
+                    218,
+                    731
+                ],
+                "text": "ISSN 2359 \u2014 8662"
+            },
+            "10": {
+                "class": "text",
+                "x": 66,
+                "y": 562,
+                "height": 86,
+                "width": 273,
+                "leftCorner": [
+                    66,
+                    562
+                ],
+                "rightCorner": [
+                    339,
+                    648
+                ],
+                "text": "\u2018Nota redactiei:\nMenjiunea \u201cEdie noua\u201d vrea si atragi atengia\n\nsupra faptului ef prezenta aparifie este  continuare\n\n \n\n1 celor cine! numere aparute in perioada 1973-2000,"
+            },
+            "11": {
+                "class": "text",
+                "x": 66,
+                "y": 519,
+                "height": 25,
+                "width": 156,
+                "leftCorner": [
+                    66,
+                    519
+                ],
+                "rightCorner": [
+                    222,
+                    544
+                ],
+                "text": "web: http://hirlau.licee.edu.ro"
+            },
+            "12": {
+                "class": "text",
+                "x": 66,
+                "y": 493,
+                "height": 23,
+                "width": 119,
+                "leftCorner": [
+                    66,
+                    493
+                ],
+                "rightCorner": [
+                    185,
+                    516
+                ],
+                "text": "\u2018Tel/Fax: 0232/720911"
+            },
+            "13": {
+                "class": "text",
+                "x": 66,
+                "y": 467,
+                "height": 23,
+                "width": 141,
+                "leftCorner": [
+                    66,
+                    467
+                ],
+                "rightCorner": [
+                    207,
+                    490
+                ],
+                "text": "Str, Mihai Emineseu, nr. 5"
+            },
+            "14": {
+                "class": "text",
+                "x": 66,
+                "y": 439,
+                "height": 27,
+                "width": 319,
+                "leftCorner": [
+                    66,
+                    439
+                ],
+                "rightCorner": [
+                    385,
+                    466
+                ],
+                "text": "COLEGIUL NATIONAL STEFAN CEL MARE, HIRLAU."
+            },
+            "15": {},
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 66,
+                "y": 154,
+                "height": 231,
+                "width": 230,
+                "leftCorner": [
+                    66,
+                    154
+                ],
+                "rightCorner": [
+                    296,
+                    385
+                ],
+                "text": "Jacob Emanuela: reportaj\nPaltinel Tustin: buletin sportive\n\nTzmana Daniel: \u201cCarcotasul de servi\n\nAcsinte Cosmin/Madlina Seutirasu: grafica\n\n\u2018Lungu Madalina: design\nGina Laura: Stat e.\n\nHriseu Alexandru: muzicd\nRoxana Cozma: fashion\nCosarci Simona: poezii\n\nana Chiril: topul profesorilor\n\n \n\nSimioneseu Daiana: tehnoredactare"
+            },
+            "18": {},
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 194,
+                "y": 97,
+                "height": 26,
+                "width": 212,
+                "leftCorner": [
+                    194,
+                    97
+                ],
+                "rightCorner": [
+                    406,
+                    123
+                ],
+                "text": "Redactor sef : Scutdrasu Madilina"
+            },
+            "21": {
+                "class": "text",
+                "x": 221,
+                "y": 69,
+                "height": 26,
+                "width": 158,
+                "leftCorner": [
+                    221,
+                    69
+                ],
+                "rightCorner": [
+                    379,
+                    95
+                ],
+                "text": "REDACTIA REVI:"
+            }
+        }
+    },
+    "img_35": {
+        "page": "35",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 288,
+                "y": 709,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    288,
+                    709
+                ],
+                "rightCorner": [
+                    311,
+                    731
+                ],
+                "text": "31"
+            },
+            "23": {
+                "class": "text",
+                "x": 64,
+                "y": 453,
+                "height": 228,
+                "width": 238,
+                "leftCorner": [
+                    64,
+                    453
+                ],
+                "rightCorner": [
+                    302,
+                    681
+                ],
+                "text": "Incontestabil, liceul rimiine in amintirea\nrmajoritait ca perioada cea mai frumoasd din\nvial. Acesti ani sunt sii mai incireati de\nlamintri frumoase atunei cand ne implicim in\ncat mai multe activitaji. Balul bobocilor ar fi\ntuna dinre ele.\n\nAtt pentrs organizatori, eit gi penta\nparticipant, acesta a fost un eveniment de\nneuitat, un eveniment plin de emojie-Tema\n\nbalului de anul acesta a fost \u201cBal Viene\n\n \n\nales aceast tem pentru a readuce in atentia"
+            },
+            "24": {
+                "class": "text",
+                "x": 305,
+                "y": 451,
+                "height": 247,
+                "width": 231,
+                "leftCorner": [
+                    305,
+                    451
+                ],
+                "rightCorner": [
+                    536,
+                    698
+                ],
+                "text": "tuturor splendoarea balurilor pline de grafic\nde alti data, Atat organizatori, profesori si\nlevi\n\n\u00abait si concurenti la Miss gi Mister au\n\u2018muneit din greu timp de 5 saptamni pentru\nca totul si fie perfect, si fie unie:\n\nusp/Avww.youtube.com/watch?v=qVTbLpp\n8Msk\n\nProfesoriiorganizatori, doamna Iancu\nMirela, domnisoara Drumea Irina,\ndomnisoara Andronic Mihaela. si domnul\nMunteanu Comeliu au fost alituri de noi si"
+            },
+            "25": {
+                "class": "text",
+                "x": 64,
+                "y": 371,
+                "height": 80,
+                "width": 230,
+                "leftCorner": [
+                    64,
+                    371
+                ],
+                "rightCorner": [
+                    294,
+                    451
+                ],
+                "text": "pliner leet"
+            },
+            "26": {
+                "class": "text",
+                "x": 152,
+                "y": 330,
+                "height": 24,
+                "width": 137,
+                "leftCorner": [
+                    152,
+                    330
+                ],
+                "rightCorner": [
+                    289,
+                    354
+                ],
+                "text": "\u201cCarcotasul de serviciu\u2122"
+            },
+            "27": {},
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 64,
+                "y": 66,
+                "height": 248,
+                "width": 225,
+                "leftCorner": [
+                    64,
+                    66
+                ],
+                "rightCorner": [
+                    289,
+                    314
+                ],
+                "text": "flimind  si-si potoleasci\u2014_,stomacul\nsiligios\u201d daca portile sunt inchise si pazite\nde ,vajnicicerberi\"? Aceasta este Ins o alt\nproblema pe care o Vom discutaaltidatat\nV-a5 recomanda, pentru. sinitatea\nvoustr, si vi Iuati pachetul de acasd, Asa\nSti e& mu sunteti expusi vreunui ris.\nPresupun ef un timp au voi mai da\n\u2018chil cu vanzitoarea de la acest stand, Din\nmotive de sincertate\u201d ins, eu mu am fost,\n\ndeca vocea neauziti\u201d a majoritiit\n\n \n\nconsumatorilor din colegiul nostru,"
+            }
+        }
+    },
+    "img_36": {
+        "page": "36",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "30": {},
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 314,
+                "y": 425,
+                "height": 23,
+                "width": 222,
+                "leftCorner": [
+                    314,
+                    425
+                ],
+                "rightCorner": [
+                    536,
+                    448
+                ],
+                "text": "Jacob Emanuela Andreea, clasa"
+            },
+            "33": {
+                "class": "text",
+                "x": 64,
+                "y": 66,
+                "height": 613,
+                "width": 238,
+                "leftCorner": [
+                    64,
+                    66
+                ],
+                "rightCorner": [
+                    302,
+                    679
+                ],
+                "text": "\u2018ne-ati indrumat pentru a reusi ceea ce ne-am\npropus pentru acest event\n\nComitetul de etevi organizator a fost cel care a\nsmuncit cu partcipantii, ia ajutat pentru a-si\nating telul, pentru a-s indeplini visu. Desi s\n\n\u2018muneit mult, pentru tof, a fost experienti ce eu\neu 0 Vom uita de-a ungulanilor ce vor tece.\nDe asemenea, sponsorii acestui eveniment au\nfost foarte importani, Datorta lor am avut o\nsala, precum si baza financiara pentru\ncheltuilile ce au intervenit. Cu aceasti ocazie,\nddorim si le mulfumim pentru sustinerea\nacordati. Dincolo de toate acestea, bobocit\nparticipanji_au resimyit cel mai mult emotia\nacestui eveniment deosebit, Au muncit pentna\nsi perfecfiona probele la care aveau si fle\nsupusi. Au depus eforturi pentru arta \u20ac8 sunt\ncei mai buni, c& pot mai mult deeat alii, au\n\u2018muneit pentru a arta ef merit titurile de Miss\nsi Mister,\n\nfn ziua balului au uitat de toate emoriile pe care\nTe aveau gi s-au concentrat pe visul lor, dorind\nsi dea tot ce au mai bun, li mentioniim aici pe\ncstizitorii Miss gi Mister: Moruzi Dana class\n1X D si Matei Alin clasa a IX-a A, precum\nsi Miss si Mister Popularitate: Gin Tuliana\nclasa a IX-a D gi Ciobanita Marius elasa a IX-a\nA. Desi nu tofi au cistizat aceste titur,tofi au\ncistigat clipe de neuitat, amintiri frumoase si\n\n \n\nnoi prieteni,"
+            },
+            "34": {
+                "class": "text",
+                "x": 312,
+                "y": 64,
+                "height": 349,
+                "width": 224,
+                "leftCorner": [
+                    312,
+                    64
+                ],
+                "rightCorner": [
+                    536,
+                    413
+                ],
+                "text": "fntregul bal i gisifi la adresa de web:\n\nhttp: /Avwwyoutube-com/watch?v=u3_r8hP\nxo2k\n\nDegi ani tre gi liceul se terming, nimeni nu\nva uita vreodati ball la care a participat. A\nfost un eveniment emotionant, grew de dat\nLita Dineolo de munea si sarifiei,balul a\nreprezentat fericirea momentelor petrecute\nimpreund, Pind la urma, totul a fost bine si\nbalul s-a terminat la inaltimea asteptirilor,\njar fercirea fost mare, Fiecare moment\nreusit @ fost tri la maximum, De fapt, la\naceasta se rezuma gi frumusefea anilor de\nliceu: si tim fiecare clip ineununata de\nsucces, si sim sii ne bucurim de fiecare\n\n\u2018moment in care strilucim pentru ceca ce\n\n \n\nsuntem."
+            }
+        }
+    },
+    "img_37": {
+        "page": "37",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "35": {
+                "class": "text",
+                "x": 288,
+                "y": 709,
+                "height": 22,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    709
+                ],
+                "rightCorner": [
+                    312,
+                    731
+                ],
+                "text": "33"
+            },
+            "36": {},
+            "37": {
+                "class": "text",
+                "x": 64,
+                "y": 130,
+                "height": 572,
+                "width": 238,
+                "leftCorner": [
+                    64,
+                    130
+                ],
+                "rightCorner": [
+                    302,
+                    702
+                ],
+                "text": "A intrat deja in obisnuin{a faptul cd ne bucuriim\nSi il sirbitorim gi pe cei mai miei geolari ce\ntree pragul Colegiului nostra, Astfel cd balul\nlor este in fiecare an un camaval de Halloween,\nSirbitoarea de Halloween dateazi de foarte\n\u2018mult timp, dar romani au inceput si 0 serbeze\ndupa revolutia din 1989. Halloween-ulare loc\nJn fiecare an pe data de 31 octombrie, Acesta\neste 0 sirbitoare de origine barbari de alungare\na spitelor rele, foarte gustata de cei mici,\nelrora li se oferd prileul si se deghizeze.si\nmeargi cu \u201ctrick oF teat\u201d penttu a primi\nduleiur\n\nStefi a sirbitorit Halowoenul pe data de\n01.11.2013 in sala de sport a Colegiului\nAceasttactivitate extrascolari a avut ca seop\nstimulareaereativitai i originalitai elevilr,\n\nBeneficiarii acestei activitati au fost clevii\nclaselor V-VII si eadrele didactice ale\nColegiului Stefan cel Mare\u201d Hirt,\n\nEle,\n\n \n\nimplica fn aceasta actvitate au fost cet\ndela clasa a X-a A:\n\n~ Bobi Costin Petru\n\n~ Ochiand lonela Loredana\n\n+ Cotiuga Stefan\n\n~ Scurtu Gabriela\n\n~ Porusniue liana Bianca\n\n \n\n= Georgescu Alina Elena"
+            },
+            "38": {
+                "class": "text",
+                "x": 67,
+                "y": 67,
+                "height": 47,
+                "width": 219,
+                "leftCorner": [
+                    67,
+                    67
+                ],
+                "rightCorner": [
+                    286,
+                    114
+                ],
+                "text": "al da Halloween"
+            },
+            "39": {
+                "class": "text",
+                "x": 312,
+                "y": 66,
+                "height": 450,
+                "width": 224,
+                "leftCorner": [
+                    312,
+                    66
+                ],
+                "rightCorner": [
+                    536,
+                    516
+                ],
+                "text": "~ Licitus Elena Alexandra\n~ Ciubue Mihaela\n~ Lungu Maria Madatina\n+ Loghin Andreea Catalina\n~ Scutirayu lonela Madalina\nIn realizarea acestei_actvitai, echipa de\nlevi a lucratimpreund eu urmitoarele cadre\ndidactice\nprof, Mihaela Liliana Andronie;\nprof, Tatiana Vatavus\nprof, CitilinaJalba ;\nCei care au gustat din plin aceasti serat\u00e9 au\nfost elev clasei a V-a, care au fost supusi la\n\u2018mai multe probe specifice Halloweenu-\nIukprezentarea costumelor, prezentarea\ndovleacului,proba de dans, ereativitate gi\n\nditie\n\nfn urma acestor probe ,elevi care au edstigat\n\nau fost: Miss Halloween - loana Purcel si\nMister Halloween - Mircea Constantin\nBulgagiu.\n\nScutiirasu Ionela Midilina,clasa a-X-a A."
+            }
+        }
+    },
+    "img_38": {
+        "page": "38",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "40": {
+                "class": "text",
+                "x": 288,
+                "y": 709,
+                "height": 22,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    709
+                ],
+                "rightCorner": [
+                    312,
+                    731
+                ],
+                "text": "34"
+            },
+            "41": {
+                "class": "text",
+                "x": 64,
+                "y": 573,
+                "height": 24,
+                "width": 283,
+                "leftCorner": [
+                    64,
+                    573
+                ],
+                "rightCorner": [
+                    347,
+                    597
+                ],
+                "text": "izat de Chirili Daniela, clasa a Xia F"
+            },
+            "42": {
+                "class": "text",
+                "x": 64,
+                "y": 452,
+                "height": 103,
+                "width": 196,
+                "leftCorner": [
+                    64,
+                    452
+                ],
+                "rightCorner": [
+                    260,
+                    555
+                ],
+                "text": "\u2018Cel mai indulgent profesor\n1. Bujor Ramona\n2. Andronie Mihaela; Sarbu Florentina\n\n3. Pusa Alexa\nPersoane chestionate: 85"
+            },
+            "43": {
+                "class": "text",
+                "x": 64,
+                "y": 330,
+                "height": 85,
+                "width": 210,
+                "leftCorner": [
+                    64,
+                    330
+                ],
+                "rightCorner": [
+                    274,
+                    415
+                ],
+                "text": "\u2018Cel mai sever profesor :\n|LBoboe Eleonora\n\n2 Jordichioaie Octaviana ; Oancea Mirela\n\n3. Oancea Gheorghe"
+            },
+            "44": {
+                "class": "text",
+                "x": 64,
+                "y": 228,
+                "height": 64,
+                "width": 194,
+                "leftCorner": [
+                    64,
+                    228
+                ],
+                "rightCorner": [
+                    258,
+                    292
+                ],
+                "text": "1. Pusa Alexa; Burican Gheorghe\n\n2. Bujor Ramona; Vatavu Cristian\n\n \n\n3. Munteanu Comeliu; Sacileanu Toan"
+            },
+            "45": {
+                "class": "text",
+                "x": 64,
+                "y": 188,
+                "height": 25,
+                "width": 143,
+                "leftCorner": [
+                    64,
+                    188
+                ],
+                "rightCorner": [
+                    207,
+                    213
+                ],
+                "text": "\u2018Cel mai popular profesor:"
+            },
+            "46": {
+                "class": "text",
+                "x": 64,
+                "y": 104,
+                "height": 47,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    104
+                ],
+                "rightCorner": [
+                    536,
+                    151
+                ],
+                "text": "in urma rezultatelor objinute in vederea obfinerii unui clasament al profesorilr, din punct de\n\n \n\nvedere al populartitiiseveritati si indulgenei, elevi au votat umatori profeso"
+            },
+            "47": {
+                "class": "text",
+                "x": 256,
+                "y": 66,
+                "height": 22,
+                "width": 87,
+                "leftCorner": [
+                    256,
+                    66
+                ],
+                "rightCorner": [
+                    343,
+                    88
+                ],
+                "text": "CHESTIONAR"
+            }
+        }
+    },
+    "img_39": {
+        "page": "39",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "48": {
+                "class": "text",
+                "x": 288,
+                "y": 709,
+                "height": 22,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    709
+                ],
+                "rightCorner": [
+                    312,
+                    731
+                ],
+                "text": "35"
+            },
+            "49": {
+                "class": "text",
+                "x": 64,
+                "y": 112,
+                "height": 509,
+                "width": 459,
+                "leftCorner": [
+                    64,
+                    112
+                ],
+                "rightCorner": [
+                    523,
+                    621
+                ],
+                "text": "\u2018Anotimpuri\nStil de invigare\n\nAspartam,\n\nEsti \u201cfey\u201d In scoala ta?\n\u2018Versuri aleatori despre Mosu\u2019\nCopilara,\n\nDecline toamne.....\n\n(\u00a9 noapte de ina,\n\nfn Hirldul de o\n\n \n\nsar.\n\nFloare de colt!\n\n \n\n(Cea mai rit fing\nSinguritate nemaeginita\nInterviui\n\nDespre cinste...\n\n \n\nReusita in vit\nAnotimp,\n\nPregiteste-te si studiez in strindtate.\nStiati ea\n\nGlumige\n\nDeclinul sportului romanese,\n\nInterviuri\n\nInamicul public 1\n\nBal Vienez, bal de neuitt\n\nBal Halloween,\n\nChestionar."
+            },
+            "50": {
+                "class": "text",
+                "x": 269,
+                "y": 67,
+                "height": 26,
+                "width": 62,
+                "leftCorner": [
+                    269,
+                    67
+                ],
+                "rightCorner": [
+                    331,
+                    93
+                ],
+                "text": "Cuprins."
+            }
+        }
+    },
+    "img_40": {
+        "page": "40",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "51": {},
+            "52": {},
+            "53": {}
+        }
+    }
+}

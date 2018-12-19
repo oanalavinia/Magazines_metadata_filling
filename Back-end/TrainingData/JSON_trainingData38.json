@@ -1,0 +1,1094 @@
+{
+    "numberOfPages": 37,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 279,
+                "y": 634,
+                "height": 24,
+                "width": 41,
+                "leftCorner": [
+                    279,
+                    634
+                ],
+                "rightCorner": [
+                    320,
+                    658
+                ],
+                "text": "2009"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 216,
+                "y": 344,
+                "height": 58,
+                "width": 168,
+                "leftCorner": [
+                    216,
+                    344
+                ],
+                "rightCorner": [
+                    384,
+                    402
+                ],
+                "text": "Traditii"
+            },
+            "4": {
+                "class": "text",
+                "x": 189,
+                "y": 204,
+                "height": 27,
+                "width": 222,
+                "leftCorner": [
+                    189,
+                    204
+                ],
+                "rightCorner": [
+                    411,
+                    231
+                ],
+                "text": "Prof. drd. Elena-Laura Bolota"
+            },
+            "5": {
+                "class": "text",
+                "x": 251,
+                "y": 152,
+                "height": 24,
+                "width": 97,
+                "leftCorner": [
+                    251,
+                    152
+                ],
+                "rightCorner": [
+                    348,
+                    176
+                ],
+                "text": "Coordonator :"
+            },
+            "6": {
+                "class": "text",
+                "x": 187,
+                "y": 98,
+                "height": 29,
+                "width": 225,
+                "leftCorner": [
+                    187,
+                    98
+                ],
+                "rightCorner": [
+                    412,
+                    127
+                ],
+                "text": "Grup Scolar \u201cNicolina\u201d-Iasi"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "7": {
+                "class": "text",
+                "x": 224,
+                "y": 654,
+                "height": 24,
+                "width": 151,
+                "leftCorner": [
+                    224,
+                    654
+                ],
+                "rightCorner": [
+                    375,
+                    678
+                ],
+                "text": "Prof. Elena-Laura Boloti"
+            },
+            "8": {
+                "class": "text",
+                "x": 244,
+                "y": 629,
+                "height": 24,
+                "width": 111,
+                "leftCorner": [
+                    244,
+                    629
+                ],
+                "rightCorner": [
+                    355,
+                    653
+                ],
+                "text": "\u2018Tehnoredactare:"
+            },
+            "9": {
+                "class": "text",
+                "x": 230,
+                "y": 578,
+                "height": 24,
+                "width": 140,
+                "leftCorner": [
+                    230,
+                    578
+                ],
+                "rightCorner": [
+                    370,
+                    602
+                ],
+                "text": "Prof. Delia Bosinceanu"
+            },
+            "10": {
+                "class": "text",
+                "x": 239,
+                "y": 552,
+                "height": 24,
+                "width": 113,
+                "leftCorner": [
+                    239,
+                    552
+                ],
+                "rightCorner": [
+                    352,
+                    576
+                ],
+                "text": "Prof. Ana Nechita"
+            },
+            "11": {
+                "class": "text",
+                "x": 236,
+                "y": 527,
+                "height": 26,
+                "width": 128,
+                "leftCorner": [
+                    236,
+                    527
+                ],
+                "rightCorner": [
+                    364,
+                    553
+                ],
+                "text": "Prof. Angela Stanciu"
+            },
+            "12": {
+                "class": "text",
+                "x": 237,
+                "y": 501,
+                "height": 24,
+                "width": 133,
+                "leftCorner": [
+                    237,
+                    501
+                ],
+                "rightCorner": [
+                    370,
+                    525
+                ],
+                "text": "Prof. Marcela Farama"
+            },
+            "13": {
+                "class": "text",
+                "x": 237,
+                "y": 476,
+                "height": 25,
+                "width": 160,
+                "leftCorner": [
+                    237,
+                    476
+                ],
+                "rightCorner": [
+                    397,
+                    501
+                ],
+                "text": "Prof. Paraschiva Tuturman"
+            },
+            "14": {
+                "class": "text",
+                "x": 239,
+                "y": 424,
+                "height": 49,
+                "width": 135,
+                "leftCorner": [
+                    239,
+                    424
+                ],
+                "rightCorner": [
+                    374,
+                    473
+                ],
+                "text": "Prof. Cristina Rojezuc\n\n \n\nProf. Anca Hondru"
+            },
+            "15": {},
+            "16": {
+                "class": "text",
+                "x": 239,
+                "y": 322,
+                "height": 24,
+                "width": 113,
+                "leftCorner": [
+                    239,
+                    322
+                ],
+                "rightCorner": [
+                    352,
+                    346
+                ],
+                "text": "Prof. Ana Nechita"
+            },
+            "17": {
+                "class": "text",
+                "x": 237,
+                "y": 296,
+                "height": 26,
+                "width": 136,
+                "leftCorner": [
+                    237,
+                    296
+                ],
+                "rightCorner": [
+                    373,
+                    322
+                ],
+                "text": "Prof. Manuela Caslaru"
+            },
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 212,
+                "y": 169,
+                "height": 23,
+                "width": 176,
+                "leftCorner": [
+                    212,
+                    169
+                ],
+                "rightCorner": [
+                    388,
+                    192
+                ],
+                "text": "Prof. drd. Elena-Laura Bolota"
+            },
+            "20": {
+                "class": "text",
+                "x": 251,
+                "y": 118,
+                "height": 24,
+                "width": 97,
+                "leftCorner": [
+                    251,
+                    118
+                ],
+                "rightCorner": [
+                    348,
+                    142
+                ],
+                "text": "Coordonator :"
+            },
+            "21": {
+                "class": "text",
+                "x": 225,
+                "y": 67,
+                "height": 26,
+                "width": 148,
+                "leftCorner": [
+                    225,
+                    67
+                ],
+                "rightCorner": [
+                    373,
+                    93
+                ],
+                "text": "Colecti"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 64,
+                "y": 603,
+                "height": 25,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    603
+                ],
+                "rightCorner": [
+                    535,
+                    628
+                ],
+                "text": "Pagina hazlie pentru profesor si"
+            },
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 423,
+                "y": 553,
+                "height": 22,
+                "width": 112,
+                "leftCorner": [
+                    423,
+                    553
+                ],
+                "rightCorner": [
+                    535,
+                    575
+                ],
+                "text": "32"
+            },
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 64,
+                "y": 527,
+                "height": 24,
+                "width": 470,
+                "leftCorner": [
+                    64,
+                    527
+                ],
+                "rightCorner": [
+                    534,
+                    551
+                ],
+                "text": "31"
+            },
+            "27": {},
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 64,
+                "y": 426,
+                "height": 50,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    426
+                ],
+                "rightCorner": [
+                    535,
+                    476
+                ],
+                "text": "Joia din Saptimana patimilor.\n\n \n\n\u2018Tracitile populare si sirbatorlecrestine,"
+            },
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 64,
+                "y": 401,
+                "height": 22,
+                "width": 207,
+                "leftCorner": [
+                    64,
+                    401
+                ],
+                "rightCorner": [
+                    271,
+                    423
+                ],
+                "text": "Lumina Sfanta de la lerusalim..."
+            },
+            "32": {
+                "class": "text",
+                "x": 64,
+                "y": 375,
+                "height": 24,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    375
+                ],
+                "rightCorner": [
+                    535,
+                    399
+                ],
+                "text": "Pastel"
+            },
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 64,
+                "y": 325,
+                "height": 22,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    325
+                ],
+                "rightCorner": [
+                    536,
+                    347
+                ],
+                "text": "Ziua mamei"
+            },
+            "35": {
+                "class": "text",
+                "x": 65,
+                "y": 299,
+                "height": 25,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    299
+                ],
+                "rightCorner": [
+                    535,
+                    324
+                ],
+                "text": "Baba Dochia si sosirea pri"
+            },
+            "36": {},
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 64,
+                "y": 223,
+                "height": 24,
+                "width": 470,
+                "leftCorner": [
+                    64,
+                    223
+                ],
+                "rightCorner": [
+                    534,
+                    247
+                ],
+                "text": "Istoricul sirbitorii_ martigorul"
+            },
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 64,
+                "y": 172,
+                "height": 25,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    172
+                ],
+                "rightCorner": [
+                    535,
+                    197
+                ],
+                "text": "Cee dragostea ?"
+            },
+            "42": {},
+            "43": {
+                "class": "text",
+                "x": 64,
+                "y": 122,
+                "height": 22,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    122
+                ],
+                "rightCorner": [
+                    535,
+                    144
+                ],
+                "text": "Sfiintul Valentin, o sirbatoare tot mai des celebrat."
+            },
+            "44": {
+                "class": "text",
+                "x": 269,
+                "y": 67,
+                "height": 26,
+                "width": 61,
+                "leftCorner": [
+                    269,
+                    67
+                ],
+                "rightCorner": [
+                    330,
+                    93
+                ],
+                "text": "\u2018Cuprins"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "45": {
+                "class": "text",
+                "x": 64,
+                "y": 654,
+                "height": 41,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    654
+                ],
+                "rightCorner": [
+                    536,
+                    695
+                ],
+                "text": "lele noastre ne exprimim dragostea si ate\nflor si mesaje de dragoste persoancor\n\ninea de Ziva Sfantului Valentin trimitand"
+            },
+            "46": {
+                "class": "text",
+                "x": 228,
+                "y": 538,
+                "height": 120,
+                "width": 308,
+                "leftCorner": [
+                    228,
+                    538
+                ],
+                "rightCorner": [
+                    536,
+                    658
+                ],
+                "text": "\u2018Cand paznicul s-a intors acasi, a fost primit de fiica lui. Fetita\na deschis biletul si a descoperit \u00a9 planta galbeni induntru\nMesajul suna astel, \u201cDe la al tau Valentin,\u201d Cum fetta privea\nplanta, pentru prima data in viola ei a vazut mii de culori\n\nrevarsindu-i-se in palmi! Ochii ei era vindecaica print-un\ntmiracl! In 496 Papa Gelasus 1a desemnat ziua de 14\nfebruarie ca fiind Ziva Sfintului Valentin, Sirbitoarea a\ndisprut din calendar oficial in 1969"
+            },
+            "47": {
+                "class": "text",
+                "x": 229,
+                "y": 115,
+                "height": 92,
+                "width": 307,
+                "leftCorner": [
+                    229,
+                    115
+                ],
+                "rightCorner": [
+                    536,
+                    207
+                ],
+                "text": "fn ultima vreme, Ziua Indrigostiilor a fost adoptata si pe\nmeleagurile noastre, Tinerii sunt incdntyi ed exist\u00e9 io zi a\nlor, a indrigostitior, un prilej de a sirbitori impreund cu eel\n\n(cea) iubi(d), Desi mai sunt yoct care spun ca nu este 0 Zi\nspecifici frit noastre, ea prinde ridicini tot mai ad\u00e9nei cu\nfiecare an ce tece. Cine a fost Valentin?"
+            },
+            "48": {
+                "class": "text",
+                "x": 63,
+                "y": 114,
+                "height": 542,
+                "width": 473,
+                "leftCorner": [
+                    63,
+                    114
+                ],
+                "rightCorner": [
+                    536,
+                    656
+                ],
+                "text": "In ultima vreme, Ziua Indrigostitilor a fost adoptata si pe\nmeleagurile noastre, Tinerii sunt incdntyi ed exist\u00e9 io zi a\nlor, a indrigostitilor, un prilej de a sirbitori impreund cu cel\n(cea) iubi(d), Desi mai sunt yoct care spun ca nu este 0 Zi\nspecifici frit noastre, ea prinde ridicini tot mai ad\u00e9nei cu\nfiecare an ce tece. Cine a fost Valentin?\n\nMulti dintre noi ne intrebim desigur cine a fost Valentin si care sunt originile acestei sirbatori\nExist mai multe versiuni ale acestel istrioare, care imbinate au niscut o legend - legenda\n\u2018Sfintului Valentin\n\nJn Roma Antica atrit un om numit Valentin, Era un medic bun la suflt, care practica medicina\nIntr-o cim\u00e9ruta propriei case. Se spunea despre el c\u00a5 era medic gastronom datort\u00e9 faptului ed Ti\nplicea si giteasca si fi plicea mancarea, \u201cDoctorul\u201d Valentin s-a striduit mereu si ofere\npacientlor medicamente care cit de cit aveau un gust delicios. Avea mereu timp si amestece\n\u2018medicamentele amare cu vin, lapte sau miere pentru a avea un gust mai bun pentru bolnavi\nCurita rinile gi le vindeca cu riicini gi ierburi medicinale. Religia se constituie ca parte\nntegranta a vietii mediculu sides crestinismul nu era prea popular in acele vremuti a devenit\ncrestin si finea predici pentru ali. De multe ori se ruga pentru bunistarea pacienfilor.Int-o 2i un\nppaznic al inchisori impardtesti din Roma a batut la usa ui Valentin, inindu-sifiica oarba ia\nbate. Auzise de abiittile mediculu si -a ugat pe acesta si. o Vindece pe fat. Valentin tia c& i\nva fi grew si faci acest lucru, ins i-a promis omului ci va face tot posibiul. A examinat fetta, i-\n\u2018dat o alifie pentra ochi si i-8 rugat si se intoare pentru mai multe examina. Au trecut mai\n\u2018multe sptdmani insa ochitfetfei nu s-au vindecat. Totusi cei doi nu si-au pierdat speranta si s-\nau intors siptimdnal pentru reexaminiri la \u201cdoctorul\u201d Valentin. Apoi, fas-0 2i,eitiva soldati\nromani Iau vizitat pe medic si lau arestat, distrugindu-i medicamentele si condamndndu-1\npentru redinga lui. Cind tal fete a aflat de arestareaIui Valentin a dorit si interving, ins nu\nera nimic de facut. Valentin a tnfeles acest lucru. Stiind cd va fi executat, a cerut 0 coal de\nhirte, o pand de scris si cemeali. A scris cdteva randuri de rimas bun sia inm\u00e9nat-o paznicului\npentru fica lu oarba. Valentin a fost executatziua aceea, pe 14 februarie, 270 (e.n.) prin decizia\nImparatului Claudius Gothicus al I-tea.\n\n\u2018Cand paznicl sa intors casa, a fost primit de ita Tui. Petia\na deschs biletul si a descoperit planta galbend indunt\nMesajul suna astfel, \u201cDe laa tu Valenti.\u201d Cum feta privea\nplanta, pent prima data in via et a vlzat mi de eulor\nrevarsindu-i-se in palmi! Ochii ei era vindecaica print-un\ntmiracl! In 496 Papa Gelasus 1a desemnat ziua de 14\nfebruarie ca fiind Ziva Sfintului Valentin, Sirbitoarea a\ndlispirut din calendaral oficial in 1968."
+            },
+            "49": {
+                "class": "text",
+                "x": 142,
+                "y": 66,
+                "height": 26,
+                "width": 315,
+                "leftCorner": [
+                    142,
+                    66
+                ],
+                "rightCorner": [
+                    457,
+                    92
+                ],
+                "text": "Sfantul Valentin, o sirbatoare tot mai des celebratit"
+            }
+        }
+    },
+    "img_32": {
+        "page": "32",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "50": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "32"
+            },
+            "51": {
+                "class": "text",
+                "x": 64,
+                "y": 468,
+                "height": 227,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    468
+                ],
+                "rightCorner": [
+                    536,
+                    695
+                ],
+                "text": "Cele mai frumoase ouii de Pasti, care fac $i acum faima Bucovinei, sunt ouile inchistrite, num\n\nimpropriu oud incondciate. Tehnica uzitatd este accea a pistriii culorii de fond si constd in\n\ntrasarea pe ou a unor desene, cu ajutorul ceri de albine topita $i scufundarea succesiva in bai de\n\nculoare (galbent, rosie si neagra). Unealtafolositi se numeste chisiti gi este un betigor de lemn\n\nce are fixatd la unul din capete o palnie minuscula confectionat\u00e9 din alamd, prin care este\npetrecut un firde pir de pore.\n\nLa sfarsit, dupa \"scriere\u201d si \"Imbaiere\", oul se nedlzeste putin\n\nsi, cu ajutorul unei carpe, de asemenea usor incalzitd, se\n\n\u2018indepirteazi straturile de ceari, pundndu-se in evident\n\ndesenul. Cele mai rispindite motive folosite la inchistritea\n\nsunt crucea Pastelui, floarea Pastelui, clrarea\n\nsau clrarea ratictd, briul_ si desagiipopii,\n\nfrunza de\n\nSela, albina, peste 1a ciobanulu, inet ciobanulu,\n\nAuierul ciobanului, cide clinigori\",virtlnia, ereasta eocosului, broasea, fierul plugului,\ntla satulu, grebla, sapa ete"
+            },
+            "52": {
+                "class": "text",
+                "x": 64,
+                "y": 305,
+                "height": 161,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    305
+                ],
+                "rightCorner": [
+                    536,
+                    466
+                ],
+                "text": "Preluate de crestinism, ouale rosii simbolizeaza sngele varsat de Fiul Domnului intru mantuirea\n\u2018omeniri i miracolul renastrii Sale, devenind elementu definitori al sArbatori pascal.\n\n{n Bucovina ouile de Pasti sunt numite cu un termen generic\n\u201cmerigoare\u201d si erau la inceput colorate numai in rosu\n(Crosete\") pentru ca mai tirziu si se rispandeased si practica\n\u2018vopsirii in galben (\"galbinete\"), in verde (\"verdete\"), in\nalbasiru Calbistrele\") si in negru (\"negrete\u201d). Alti dati,\nculorile se objineau numai din plante ce erau puse la macerat\n{in Duminica Florilor. Astizi acest obicei este in mare parte\npierdut, femeile folosind culori acrlice pentru vopsirea\n\u2018uturor ouilor de Past"
+            },
+            "53": {
+                "class": "text",
+                "x": 64,
+                "y": 237,
+                "height": 65,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    237
+                ],
+                "rightCorner": [
+                    536,
+                    302
+                ],
+                "text": "Din marfea Siptimanii Mari, dar mai ales in zilele de joi, vineri si simbati, in toate gospoditiile\nbucovinene se vopsese ouale rosii de Pasti. Obiceiul folosirii oualor colorate in practcile de\n\nrenovare a timpuluiprimavara, cind se serba, odinioard, Anul Nou, tine de mitul cosmogonic al\n\u2018ului primordial, pe care i zlsim si in unele legende bucovinene."
+            },
+            "54": {
+                "class": "text",
+                "x": 86,
+                "y": 64,
+                "height": 171,
+                "width": 427,
+                "leftCorner": [
+                    86,
+                    64
+                ],
+                "rightCorner": [
+                    513,
+                    235
+                ],
+                "text": "Ouaile de Pasi\nCer"
+            }
+        }
+    },
+    "img_33": {
+        "page": "33",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "55": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "33"
+            },
+            "56": {},
+            "57": {},
+            "58": {},
+            "59": {},
+            "60": {},
+            "61": {
+                "class": "text",
+                "x": 101,
+                "y": 438,
+                "height": 145,
+                "width": 96,
+                "leftCorner": [
+                    101,
+                    438
+                ],
+                "rightCorner": [
+                    197,
+                    583
+                ],
+                "text": "YS"
+            },
+            "62": {
+                "class": "text",
+                "x": 269,
+                "y": 391,
+                "height": 24,
+                "width": 267,
+                "leftCorner": [
+                    269,
+                    391
+                ],
+                "rightCorner": [
+                    536,
+                    415
+                ],
+                "text": "Prof. Marcela Fardmd , Scoala Speciali C. Paunescu"
+            },
+            "63": {
+                "class": "text",
+                "x": 64,
+                "y": 323,
+                "height": 52,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    323
+                ],
+                "rightCorner": [
+                    536,
+                    375
+                ],
+                "text": "\u2018Ouale inchistrte incepeau a fi \"muncite\u201d de pe la mijlocul Postului Mare. De reguli, ele au se\n\u2018maincau, Dupi ce erau sfntite in noaptea de Inviere,erau diruite rudelor si celor dragi gi erau\n\n \n\npiistrate in apropietea icoanelor pind la Pastele urmator."
+            },
+            "64": {
+                "class": "text",
+                "x": 64,
+                "y": 201,
+                "height": 119,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    201
+                ],
+                "rightCorner": [
+                    536,
+                    320
+                ],
+                "text": "\u2018Vechimea obiceiului poate fi doar binuiti. Existau bitriini care igi amintese ci stribunii lor\nvorbeau de practici de fertlizare sivaryite de tinere perechi care Ingropau \u201coud desenate\u201d la\n\u2018marginea cimpului, in noaptea de Inviere, ccea ce plaseazi obiceiul in vremuri precrestine.\n\u2018Acevasi vechime pare a fi demonstratd si de perpetuarea unui model numit \u201cciresica\"- ce este\n\nroape identic cu \"virtelnita\u201d intalniti pe ceramica de tip Cucuteni - sau a motivului numit\n\u2018crarea ritaciti\", cel mai greu de realizat (el se desfigoarl pe intreaga suprafath a oului sub\nforma unei spirale cu volute), motiv ce este o form\u00e9 originali de reprezentare a Cai Lactee,\n\u2018numita Cararea Ciobanului in comunitile de oer"
+            },
+            "65": {
+                "class": "text",
+                "x": 64,
+                "y": 64,
+                "height": 132,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    64
+                ],
+                "rightCorner": [
+                    536,
+                    196
+                ],
+                "text": "{in trecut culorte utilzate se objineau din plante, firbindu-se frunzele, fori, coaja sau tulpina\nacestora\n\nCulori (vege\n\n-rosu coaja de mir dulce, frunze sori de mar dulce, roa, fori de svar coaja de maces, ete.\n\nsalbastru: Mri de viorele\nverde: frunze de nve, coaja de arin, coaja si mugur de mar padure, loarea-soarelu, ete\n\n-galben: coji de ceapd, coaji de lem piduret, caja de lemnul cAinelui, coaja de malin, ete\n-negru (oudle negre simbolizeaza durerea lui Tisus): coaja verde a nucilor, coaj si fructe de arin,"
+            }
+        }
+    },
+    "img_34": {
+        "page": "34",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "66": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "4"
+            },
+            "67": {},
+            "68": {
+                "class": "text",
+                "x": 81,
+                "y": 380,
+                "height": 95,
+                "width": 284,
+                "leftCorner": [
+                    81,
+                    380
+                ],
+                "rightCorner": [
+                    365,
+                    475
+                ],
+                "text": "\u2018Se di crestinilor de citre preot(sg.)\n\n{In noapte de Inviere se aprinde \u00a9 humanare si la.(s8.)\n\n(Cea mai important sArbatoare a cresinatait\n\n \n\nCele mai admirate oud pe masa de Pasti(pl)"
+            },
+            "69": {},
+            "70": {},
+            "71": {}
+        }
+    },
+    "img_35": {
+        "page": "35",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "72": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "35"
+            },
+            "73": {
+                "class": "text",
+                "x": 64,
+                "y": 640,
+                "height": 52,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    640
+                ],
+                "rightCorner": [
+                    535,
+                    692
+                ],
+                "text": "- Si presupunem c& locuiesti la etajul cinci gi cd intre fiecare dous etaje sint 15 trepte. Cate wepte\nva trebui sf ure pentru a ajunge la apartamentul tau?\n\n \n\nPe toate, domnule profesor."
+            },
+            "74": {
+                "class": "text",
+                "x": 64,
+                "y": 552,
+                "height": 87,
+                "width": 447,
+                "leftCorner": [
+                    64,
+                    552
+                ],
+                "rightCorner": [
+                    511,
+                    639
+                ],
+                "text": "Profesorul se striduieste si limureasca elevilor proverbul \u201cDrumul cel mai scurte si cel mai\nbu\nTata zice \u20ac8 nui aga! spune un ele.\n\nZiv? Si ce meserie are tat iu?\n+ Soler de taxi."
+            },
+            "75": {},
+            "76": {
+                "class": "text",
+                "x": 64,
+                "y": 428,
+                "height": 66,
+                "width": 440,
+                "leftCorner": [
+                    64,
+                    428
+                ],
+                "rightCorner": [
+                    504,
+                    494
+                ],
+                "text": "oti elevii seriu cu asiduitate la lucrarea \"Ce as face dacd as fi patron\". Unul singur sti cu\ninfinite la piept si mediteaza,\n\n= Marinescule, tu nu seri?\nNu, domnule profesor, asteptsi-mi vind seeretara"
+            },
+            "77": {
+                "class": "text",
+                "x": 64,
+                "y": 371,
+                "height": 51,
+                "width": 460,
+                "leftCorner": [
+                    64,
+                    371
+                ],
+                "rightCorner": [
+                    524,
+                    422
+                ],
+                "text": "= Ti-am citit lucrarea de control. Foarte bund. dar \u00a2 identic@ cu cea a colegului tau de banca. Ce\nconcluzie si trag de aici? intreabi profesorul\n\n \n\n= Ca gall e foarte bund,"
+            },
+            "78": {
+                "class": "text",
+                "x": 64,
+                "y": 330,
+                "height": 38,
+                "width": 424,
+                "leftCorner": [
+                    64,
+                    330
+                ],
+                "rightCorner": [
+                    488,
+                    368
+                ],
+                "text": "red cli notele pe care mi le-ai adus cer o bataie zdraviind,\nlu te sfituiese s-0 fac, tticule, profesorul nostru de matematic\u2019 e campion la karate!"
+            },
+            "79": {
+                "class": "text",
+                "x": 64,
+                "y": 272,
+                "height": 50,
+                "width": 461,
+                "leftCorner": [
+                    64,
+                    272
+                ],
+                "rightCorner": [
+                    525,
+                    322
+                ],
+                "text": "= MA intreb ce o s& te faci cind vei fi mare, cind acum, in clasa a doua, tu nu sti sf numeri decit\npind la 10?\n\n \n\n= Arbitru de box."
+            },
+            "80": {
+                "class": "text",
+                "x": 224,
+                "y": 155,
+                "height": 113,
+                "width": 115,
+                "leftCorner": [
+                    224,
+                    155
+                ],
+                "rightCorner": [
+                    339,
+                    268
+                ],
+                "text": "Ff"
+            },
+            "81": {},
+            "82": {},
+            "83": {
+                "class": "text",
+                "x": 323,
+                "y": 84,
+                "height": 40,
+                "width": 211,
+                "leftCorner": [
+                    323,
+                    84
+                ],
+                "rightCorner": [
+                    534,
+                    124
+                ],
+                "text": "prolesori $1 elev"
+            },
+            "84": {}
+        }
+    },
+    "img_36": {
+        "page": "36",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "85": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "36"
+            },
+            "86": {},
+            "87": {
+                "class": "text",
+                "x": 64,
+                "y": 66,
+                "height": 63,
+                "width": 213,
+                "leftCorner": [
+                    64,
+                    66
+                ],
+                "rightCorner": [
+                    277,
+                    129
+                ],
+                "text": "~ Cite continente sint? intreaba profesorul.\nCini\n\n= Numied-mi-le!\n-1,2,3.4,5."
+            }
+        }
+    },
+    "img_37": {
+        "page": "37",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "88": {
+                "class": "text",
+                "x": 512,
+                "y": 713,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    512,
+                    713
+                ],
+                "rightCorner": [
+                    536,
+                    734
+                ],
+                "text": "37"
+            },
+            "89": {
+                "class": "text",
+                "x": 284,
+                "y": 592,
+                "height": 25,
+                "width": 142,
+                "leftCorner": [
+                    284,
+                    592
+                ],
+                "rightCorner": [
+                    426,
+                    617
+                ],
+                "text": "HRISTOS A INVIAT !"
+            },
+            "90": {
+                "class": "text",
+                "x": 135,
+                "y": 534,
+                "height": 52,
+                "width": 326,
+                "leftCorner": [
+                    135,
+                    534
+                ],
+                "rightCorner": [
+                    461,
+                    586
+                ],
+                "text": "Nasterea Domnului sa-ti umple sufletul de lumi\n\nintea de ganduri frumoase"
+            },
+            "91": {}
+        }
+    }
+}

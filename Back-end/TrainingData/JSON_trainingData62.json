@@ -1,0 +1,624 @@
+{
+    "numberOfPages": 110,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 230,
+                "y": 757,
+                "height": 30,
+                "width": 141,
+                "leftCorner": [
+                    230,
+                    757
+                ],
+                "rightCorner": [
+                    371,
+                    787
+                ],
+                "text": "Editura PM, lasi 2011"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 115,
+                "y": 211,
+                "height": 49,
+                "width": 370,
+                "leftCorner": [
+                    115,
+                    211
+                ],
+                "rightCorner": [
+                    485,
+                    260
+                ],
+                "text": "VOLUM MEMORIAL\nDEDICAT FOSTILOR PROFESORI SI COLEGI"
+            },
+            "4": {
+                "class": "text",
+                "x": 107,
+                "y": 77,
+                "height": 43,
+                "width": 386,
+                "leftCorner": [
+                    107,
+                    77
+                ],
+                "rightCorner": [
+                    493,
+                    120
+                ],
+                "text": "UNIVERSITATEA TEHNICA \"GHEORGHE ASACHI\" DIN IASI\n\n \n\nCATEDRA DE MATEMATIC!"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 99,
+                "y": 597,
+                "height": 26,
+                "width": 128,
+                "leftCorner": [
+                    99,
+                    597
+                ],
+                "rightCorner": [
+                    227,
+                    623
+                ],
+                "text": "378(498 lasi):51:929"
+            },
+            "6": {
+                "class": "text",
+                "x": 99,
+                "y": 552,
+                "height": 41,
+                "width": 180,
+                "leftCorner": [
+                    99,
+                    552
+                ],
+                "rightCorner": [
+                    279,
+                    593
+                ],
+                "text": "IL. Teodoru,"
+            },
+            "7": {
+                "class": "text",
+                "x": 98,
+                "y": 476,
+                "height": 69,
+                "width": 420,
+                "leftCorner": [
+                    98,
+                    476
+                ],
+                "rightCorner": [
+                    518,
+                    545
+                ],
+                "text": "irdusu, Georgeta Teodoru. - Iasi\nISBN 978-606-13-0267-3"
+            },
+            "8": {
+                "class": "text",
+                "x": 94,
+                "y": 356,
+                "height": 112,
+                "width": 335,
+                "leftCorner": [
+                    94,
+                    356
+                ],
+                "rightCorner": [
+                    429,
+                    468
+                ],
+                "text": "Editura OM\nEditura acreditati CNCSIS \u2014 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, I\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimcopy.ro,"
+            },
+            "9": {
+                "class": "text",
+                "x": 94,
+                "y": 61,
+                "height": 269,
+                "width": 414,
+                "leftCorner": [
+                    94,
+                    61
+                ],
+                "rightCorner": [
+                    508,
+                    330
+                ],
+                "text": "Nota:\n\n\u2018Volumul a fost elaborat la initiativa Catedrei de Matematicd @ Univ. Tehnice\n\u201cGh, Asachi\u201d Iasi. El este rezultatul unui efort colectiv. Conf. dr. Georgeta\nTeodoru a elaborat cite 0 not biograficd + o listk de lueriri pentru fiecare din cei\n14 fosticolegi ; pentru majoritatea a oferit si fotografi-portret. A. Cardugu a\nverifcat, completat si asamblat datele, a editatintreg materialul sub Word XP. O\nserie de alfi colegi din Catedra sau de la Facultatea de Matematied ~ tasi au\ncontribuit cu completiri Ia notele biografice si la listele de lucriri: aceste\ncontributi prefioase sunt mentionate la locurile respective.\n\nIn probleme de IT, un sprijin neces i oportun a vent dela colegi letori Dr.\nPaul Georgesca si Dr. Rad Strugaria,\n\nfn mod inevitabil, mai ales listole de lueriri contin inci lacune saws\ninexact, Orice fel de obervati~ sugesii ~ corectur ~ complet vor fi\nnuma bine-venit i chiar astepate. Ele vor putea fi trimise la una din adesele\n\ncatedra matematica@vahoo.com \u2014alex.carausu@vahoo.com"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "10": {
+                "class": "text",
+                "x": 62,
+                "y": 183,
+                "height": 564,
+                "width": 476,
+                "leftCorner": [
+                    62,
+                    183
+                ],
+                "rightCorner": [
+                    538,
+                    747
+                ],
+                "text": "CATEDRA DE MATEMATICA a Institutului Politehnic Iasi, acum Universitatea Tehnicd \u201cGh.\nAsachi\u201d Iasi, are o istorie bogati. Ca discipline fundamentale dar strict necesare pregiticii\ntemeinice a viitoritor inginer, disciplinele matematice au fost predate ~ aya cum era si firese ~\nined din primii ani ai finfiri invatimntl tehnic superior la Tayi, deci imediat dup 1937\nDecizia inline $colit Politehnice de la Iasi a fost Iwata de Parlamentul Romane\u2019 fa 20 martie\n1937, dar aceasta a inceput si functioneze efectiv la | octombrie 1938. Acesti ani ai inceputurilor\nau fost consemnafi at eit s-a putut pe baza documentelorgasite in arhive din Iasi in volumul\nCatedra de Matematici 1952-2000 - Scurt istorie. Acesta a fost realizat in eatedri, mai ales la\ninigiativa si prin stridania domnului Prof. Dr. Adrian Corduneanu ~ seful catedrei inure 1990-2006\n= dar seu sprijinul unor eolegi\n\nDesigur, au existat colective de cadre didactice care predau matematicile la Politehnica\n\u2018eseand care au inclus mari personaliti ale matematici romineyti ea profesorii Octav Mayer, on\nCreangi, Mendel Haimoviei, Gheorghe Gheorghiev, lie Popa si alfi care aveau normele de baz\nla Facultatea de Matematicd a Universitit \u201cALL Cuza\u2019, dar gi pe profesorii Dumitru Mangeron\nsi Alexandru Climescu care pot fi consideraji ca adevarayi paring! fondatori ai catedrei noastre.\nin perioada 1940-1952 au existatcatedre (sau colective) de matematici mai mici in eadrul unor\nfacultti ea cele de Construcii, Chimie industrial, Mecanied, Electotehnicd. Dar catedra a luat\nfling ca atare in anul 1952, avand ca prim gef de eatedri pe Prof. Dr. Gheorghe Gheorghiev,\nacest find urmat de Prof. Dr. Alexandru Climescu (din anul univ. 1953/54).\n\nA intrat in traditia Catedrei de Matematicd cultivarea respectului pentru fondatorit acesteia,\n\u2018pentru toi marii profesori care ~ de-a lungul anilor si decenilor \u2014 au contribuit cu competent\ndiruire la formarea profesional a zeci de generafii de studenti, devenii ingineri care au\nccontibuit la edificarea Romaniei modeme, a industrilo, a infastructurii ete In special dupa ani\n190 sa conturat preacuparea pentru a mentine legitura cu profesorit mai viestici ehiar si dupa ce\ncesta se retrigeau la pensie, Cabinetul de Matematicd \u201cAlexandru Climescu\u201d, situat in faja\n\u2018amifiteatrului P.6 (din corpul A) eare de asemenea poartd numele marelui profesor, si-a pista\ntaditia de a gizdui intlnir si discuit fertile intre membri ai catedrei mai virstnici si mai tner.\nIn pagina web a Catedrei pot fi gisite adrese de e-mail / numere de telefon si ale colegilor\npensionari, coea ce faciliteaza contactarea acestora, Catedra de Matematicd organizeaza periodic\nconferintestinifice unde igi pot prezenta ultimele rezultate at membri ai catedrei cit sicolegi\nde la Facultatea de Matematica a Universiti \"ALL Cuza\u201d, de la alte institufii de invapimnt-\n\u2018ercetare din ara si chiar din strindtate. Cea mai recenta conferinti de acest fel a fost cea din 12-\n15 noiembrie 2010: International Conference on Applied and Pure Mathematies (November\n12-14, 2010) Aceasta a avut un bogat program de comuniciri originale prezentate in dou\nsectuni paralele. Dar conteringa a inclus si 0 Sesiune memoriald, dedicata fostilor profesor gi\nccolegi care ne-au parisit, desfigurati in amf. P.6, in dupa amiaza ~ seara zilei de 13 noiembric\n(orele 16-18). Timpul limitat nu a permis evocarea tuuror celor 14 fostiprofesori gi colegi de\nccatedri care au trecut in eteritate, de-a ungul anilor. Inainte de a mentiona numele celora ciror\nmemori a fost omagiat, si remaredm prestigiosele prezenfe ale domnului Academician Profesor\nRadu Miko sia domnului Prof. Dr. ing. Spiridon Creju  prorector al U.T. lagi Au fost omagiati"
+            },
+            "11": {
+                "class": "text",
+                "x": 109,
+                "y": 113,
+                "height": 63,
+                "width": 380,
+                "leftCorner": [
+                    109,
+                    113
+                ],
+                "rightCorner": [
+                    489,
+                    176
+                ],
+                "text": "iN MEMORIA PROFESORILOR $I COLEGILOR\nPE CARE NU-I MALAVEM\n\n \n\nPrefafi la Volumul memorial al Catedrei de Matematicd, 2010-2011"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 62,
+                "y": 100,
+                "height": 645,
+                "width": 478,
+                "leftCorner": [
+                    62,
+                    100
+                ],
+                "rightCorner": [
+                    540,
+                    745
+                ],
+                "text": "Prof. Dr. docent Alexandru CLIMESCU (de catre Conf. dr. Gh. Costovici), Conf. univ. Arsenie\n\u2018Opnea (de cltre Lector Liviu Ciobanu), Prof. Dr. loan Guinea (de eitre Conf. dr. Gheorghe\n\u2018Andricioaei gi Acad. Prof. Radu Miron), Conf. Dr. Viorel Camil Murgescu (de eitre Cont dr\nGeorgeta Teodoru si Acad. Prof. Radu Miron), Acad, Prof. Dr. docent Dumitru MANGERON (de\nccltre Acad. Prof. Radu Miron si Prof. Dr. ing. Spiridon Creu), Prof. Dr. Stefania RUScioR (de\nfire Conf: dr. Dan Bors), Prof. Dr. lon ENESCU (de edtre Cont. dr, Alexandru Card gi Prof dr.\nTon Criciun). Pe King\u2019 sublinierea staturii uriage a savantului Dumitru MANGERON, Domnul\n\u2018Academician Radu Miron a oferit si substantiale completiri relative la rezultatele deosebite\n\u2018domeniul Geometriei diferenfiale objinute, in lucrarile lor, de profesor Viorel Murgescu si oan\nGhinea. tar domnul Prorector S. Cretu a completat ~ si d-sa ~ portetul profesorului Arsenic\nprea, fost set de catedri intre 1974-1982. Sesiunea memorial a fost incheiati cu o savuroasi\n\u2018evocare a profesorului A. Oprea, dar sa altoreolegi, de e\u00e9tre Conf. dr. Dan Bors. Aste, si mai\ntinerii colegi au putut afla despre personalitatea lini de farmec, bonomie, comunicativitate a\nfostului nostra gef de cated.\n\n \n\n \n\n \n\nConducerea Catedrei, consultindu-se si cu alti colegi, a considerat oportund editarea acestui\nVOLUM MEMORIAL dedicat fostilorcolegi. Colectarea datelor a inceput la sfrsitul lui noiembrie\n2010, dar aceasta nu a fost o sarc usoari. La catedri exista un dosar voluminos, redactat la\ninceputul anului 1988 pentru ICEMAT, cu ete un scurt CV $i o list de luerii apirute pind\natunei, pentru flecare membru al catedre. S-au mai putut folos si date din reistrele de evident\nanuali a activititi de cercctare. Dar cele mai multe date le-a adunat si redactat dera Conf, Dr,\nGeorgeta Teodoru, care a scris cate o fis pentru fiecare dintre cei 4 fosticolegi (ce urmau a f\n\u2018comemorati in volum. Pentru majortatea a gisit si fotografi, Prin forta luerurilor, mai ales\n\nccazul_unor fosti colegi care nu mai aveau rude sau prieteni care si poatd fi contactati, notele\nbiografice respective sunt cam sirace, La cealalt\u00e9 extrema, colegi ca Prof. dr. lon Crciun, Prof,\nddr. Constantin Feteciu, Conf. dr. Gh. Andrivioaiei au oferit texte excelente dedicate profesorilor\nlon Enescu, respectiv loan Ghinea. D-ra G. Teodoru a elaborat texte bogate in informatii despre\nprofesorii D. Mangeron, Al. Climeseu, Viorel Murgescu si Stefania Ruscior. Un ajutor substanfial\nnea venit si de Ia profesori ai Facultajii de Matematicd ~ Univ. \u201cALL. Cuza\u201d, Vasile Oproiu si\nToan 1. Vrabie, care au oferit prezentiri consistente ale personalittior fostilor nostri colegi\nNeculai Papaghiuc, respectiv Robert T. Vescan,insotte gi de liste de err verficate cu ajutorul\nsite-urilor MATHSCINET (Math. Reviews) si Zentralblat fir Mathematik si chiar comentate. D-na\nConf. Liliana Raleanu ne-a oferit un emoionant si impresionant omagiu pentru prietena sa de\nsullet care a fost Prof. Elena Vamanu-Puseasu, Dr. Catlin Calistr (de la Facultatea A&C a\nU-T.L) a seris o frumoasi evocare dedicat tatalui sau, Lector dr. Neculai Calista, Le mulfumim\n\n \n\n   \n\n \n\n \n\n  \n\nLa unele liste de lucrri mai ample, precum cele ale Acad. Prof, D. Mangeron si Prof. Dr. N.\nPapaghiue, am ficut unele preciziri de ordin mai curind tchnie in seetiunile ce le-au fost dedicate\nFad indoial, listele de lucrari ale fiecdruia dinte fost colegi omagiati mai contin lacune sau\ninexactititi. Sperim cd acestea vor fi completae / corectate si cu ajutorl altor colegi din eatedri\n{inclusiv dint cei retrai la pensi), al altor persoane care i-au cunoseut pe cei a edror amintire\nincercim si o menfinem vie. Vor fi cat se poate de binevenite si completiri la portretele celor\n\u2018omagiafi, pentru o dortdviitoare monografie a catedrei. Acestifosticolegi care sau distins prin\ncalitatea operei lor didactice dar si prin valoatea contibutilor lor slinjlice mertd tot respectul\nnostru, Acest volum se doreste a fi un obstacol in caleauitii, oferind modele de profesionalism\n4 integrtate pentru actuaii membri activi ai Catedrei ea si pentru cei care vor veni, Si incheiem\n\u2018cu menjunea ci Sesiunea memoriali din 13.X1.2010 nu a fost o manifestare singulard ; dupa"
+            }
+        }
+    },
+    "img_105": {
+        "page": "105",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "14": {
+                "class": "text",
+                "x": 287,
+                "y": 759,
+                "height": 21,
+                "width": 25,
+                "leftCorner": [
+                    287,
+                    759
+                ],
+                "rightCorner": [
+                    312,
+                    780
+                ],
+                "text": "99"
+            },
+            "15": {
+                "class": "text",
+                "x": 62,
+                "y": 251,
+                "height": 382,
+                "width": 478,
+                "leftCorner": [
+                    62,
+                    251
+                ],
+                "rightCorner": [
+                    540,
+                    633
+                ],
+                "text": "\u2018Nota explicativa: intr-o lista de publicatii ale Prof. N. Papaghiuc, oferita de Catedra de\nGeometric, se menjioneaza lucrarile 41, 49, 51, 55, 58, 63, 68, 72, 79 ca fiind publicate in\nreviste cotate ISI sau indexate in baze de date. In ce priveste lucrarile comunicate la\nconferinte / sesiuni stintfice, pe ling cele doua de mai sus ~ [83] & [84] - exist si luervile\n13, 15, 18, 19, 26, 27, 40, 48, 60: pe care le-am listat printre lucratile publicate, la aceste\npoziti ; ele au aparut in volumele conferinjelor respective, la paginile indicate. Am\nconsiderat c& listarea Iueririlor in ordine cronologicd, indiferent de statutul lor\n(publicate in fara / strainatate, in reviste cotate ISI, respectiv in volumele unor\nconferinte), permite o mai fidela urmarire a preocupatilor autorului in anumite perioade.\nAducem vii multumiri colegilor de la Catedra de Geometrie, respectiv Departamentul\nStiinie ale Univ. \u201cALL Cuza\u201d ~ Prof.Dr. Vasile Oproiu si Cercetator Dr, Simona-Luiza\nDruji-Romaniuc ~ pentru sprijinul substanjial acordat in verificarea si completarea listei\nde lucrari ale Prof. N, Papaghiuc.\nManuale~ culegeri de probleme\n1. L, Ciobanu, PT. Criciunas, N. Papaghiue: Elemente de Algebrd liniart, Geometrie\nnalitied si diferential\u00e9 (in colaborare). Crs litografiat, LP. asi, 1980 (345 pag.)\n2. N. Gheorghiu, T. Precupanu, N. Papaghiue, Brinzei, D.: Matematicielementare: Probleme\nde sinteza (in colaborare). Fira Junimea, las, 1983,\n3. N. Papaghiue: Geometric anaitcd si elemente de Geometric difereniali. Univ. Tehnic&\n\"Gh. Asachi\u201d lagi (Central de multplicre), 1988 (215 pag)\n\n4. N. Papaghiue, C. Calin: Algebra linari si Eeuapit diferentiale. Editura Gh. Asachi, tsi,\n2000 (250 pp)\n\n5. N. Papaghiue, C. Calin: Algebra liniard si Geometric, Editura Performantica, lsi 2003,\n(302 pa)"
+            },
+            "16": {
+                "class": "text",
+                "x": 63,
+                "y": 95,
+                "height": 145,
+                "width": 475,
+                "leftCorner": [
+                    63,
+                    95
+                ],
+                "rightCorner": [
+                    538,
+                    240
+                ],
+                "text": "80, V. Oproiu, N. Papaghiue: Some new geometric structures of natural lift type on the tangent\nbundle (in colab, cu V. Oproiu \u2014 prim autor). Bull.Math. Soe. Sci. Math, Roumanie\n(NS, vol. $2(100), 2009, no. 3, 333-346, Dedicati Prof. S. lanus la aniversarea a 70 de\n\nComunied\n\nSI. Structuri Kachler-Einstein si focal-simetrice pe fibratul tangent. Zilele Univ. \u201cAL Cuza\u201d\u2122\nasi, 22-24 octombrie 1998 (in colab. cu V- Oproiu ~ prim autor.\nStructuri de spatii local simetrice pe fibratul tangent al unei varietaji difereniabile, Zilele Univ\nALL. Cuza\u2019 Iasi, 23-25 octombrie 1999."
+            },
+            "17": {
+                "class": "text",
+                "x": 63,
+                "y": 95,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    95
+                ],
+                "rightCorner": [
+                    90,
+                    117
+                ],
+                "text": "80."
+            }
+        }
+    },
+    "img_106": {
+        "page": "106",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 62,
+                "y": 139,
+                "height": 616,
+                "width": 475,
+                "leftCorner": [
+                    62,
+                    139
+                ],
+                "rightCorner": [
+                    537,
+                    755
+                ],
+                "text": "S-a niscut la lagi, la data de 28 august 1951. A.\n\u2018urmat gimnaziul la Liceul \u00b0G. Ibsileanu las, apoi\nstudileliceale la Liceul Internat \u201cC. Negruzai\u2122 din ls\npe care La absolvit ca ef de promoyie in 1970. A fost\n\u2018admis la Facullatea\u201d de Matematici-Mecanicd a\nUniversiti \"ALL. Cuza\", pe care a absolvito in anul\n1974 de asemenca ea sef de promotie. In perioada 1974-\n1975 a umat cursurile sectiet de spevalizare \u201cEcuai\nFunotionale\u201d pe care a absolvito tot ou brio, Intre 1\nseptembrie 1975 si | matic 1979, a fst profesor la Liceul\nIndustrial Energetic las In periada I'marie 1979 ~ 1\nseptembrie 1982, a fost incadrat, prin concurs, ca asstent\nla Catedra de Matematica a Insiutului Poltehni lai. De\nla 1 septembrie 1982, a devenit, tot prin concurs, lector,\nfimetie pe care deinuto pin\u00e9 in ziua decesului sia\nprematur, 8 august 1989. A predat dnalizd matematicd st\nL Matematict speciale studenilor Facutit de Mecanic\u00ae,\ndar si cxlor dela Facultatea de Constraci (sect instal) si de la Facultatea de Hidotchnicd\n(Gecta subinginer). A devenit doctor in matematic\u00e9 Ia 16 ianuarie 1982, specilitatea Anal\nneliniard si como! optimal, in urma susfinesi tezei intulate \u201cInegalty! variajionale cu\n\u201cplicati in optimizarea infint dimensionala\u201d, elaborata. ta Universitatea \u201cAl. I. Caza\u201d din Iasi\nsub conduceteasinitied a Acad. Prof. univ. De. Viorel Barba.\n\n   \n\n \n\n \n\n \n\n \n\n \n\nDomeniile sale de cercetare au fost: (a) Algebra abstract\u00e9, (b) Teoria optimizari, (c)\nInegalitayievasi-variayionale i Ecuaiicu derivate parfiate.Fiind un spirit extrem de creativ, i\naviind o cultura matematic\u2019 de except, a reusit ca, into perioada foarte seurti de timp, si\n\u2018objind rezultate de o mare profunzime, si nu doar intr-unul, ci in toate domeniile de cercetare pe\n\u2018are le-a abordat. Prezentim suecint cele mai importante realizar stinjifice ale sae,\n\n   \n\n   \n\n \n\n \n\n(a) Algebra abstractd. In (1), impround cu 1, Tofan, studiaza sisteme interioare pe latici\n\u2018complete eit si operatori interiori si semi-interiori pe multimi partial ordonate. De asemene\ninvestigheaza functor indus de o relajie binard din 4xB de la eatezoria sitemelor interioare pe\nlaticea complet a tuturor submuljimilor lui 4, la categoria sistemelor interioare pe laticea\n\u2018completa tuturor submulfimilor lui B.\n\n \n\n \n\nIn 2}, pomind de ta produsul direct al uneifamilii oarecare de module stingi peste un inel,\ndefineste nojiunea de refaie liniard ca flind un submodul R al acestui produs direct. Aceasti\nnofiune, care extinde notiunea de relayie adit introdusa de S. Mac Lane eit si pe cea de relarie\n\u2018olomorfi introdusi de J. Lambek, ii permite s& defineasca diferte submodule ale produsului\ndirect. Prin intermediul proprietitilor diagramelor comutative dintre aceste submodule, deserie\nstructura submodulului &. Introduce nojiunea de centru al lui R, legati de notiunea de nucleu al\nunui omomorfism,\n\n \n\n \n\n \n\nIn [3], fiecirei categorii ordonate cu involutie, B, care satisfuce \u00a9 parte din axiomele\nintroduse de MeLane, ii asociazi o noua categorie B, si identifica notiunile de: subobiect, nucle,\n<conucleu, edt aga cum au fost definite de S. Mac Lane, cu notiunile obignuite din eatezoria B. in\n[7] studiazd o problemi de axiomaticd a categorilor de relai eu factorizare standard,"
+            },
+            "20": {}
+        }
+    },
+    "img_107": {
+        "page": "107",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "21": {
+                "class": "text",
+                "x": 286,
+                "y": 759,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    286,
+                    759
+                ],
+                "rightCorner": [
+                    313,
+                    781
+                ],
+                "text": "101"
+            },
+            "22": {
+                "class": "text",
+                "x": 62,
+                "y": 93,
+                "height": 610,
+                "width": 478,
+                "leftCorner": [
+                    62,
+                    93
+                ],
+                "rightCorner": [
+                    540,
+                    703
+                ],
+                "text": "(b) Teoria optimisarit. In (4), demonstreaza ca, pentru o familie de functionale J definita\npe o multime arbitral si avand Valor\u2019 reale, punctele de minim Pareto slab finit dominate sunt\n\u2018exact punctele de minim ale functionalelor din J eu condijia ea J si fie compacta in topologia\n\u2018convergentei punctuale. De asemenea, arati ci dac& J este 0 familie convexa si compacta de\nfunctionale injective, atunei orice punet de minim Pareto slab este un punet de minim Pareto\n<lasic si minimizeaza cel pujn 6 functional din J\n\n6) Inegalitagicvasi-variationale_ si Feuaii eu derivate patiate. In (18] demonsteaza o\ngeneralizare a une teoreme de existena a hi U. Mosco referitoare la inegaliti evasivariationale\n$i drop alicatc, deduce existnja pentru o clas de inepaliii evasvariatonae de tip parabolic\n{in (8,wilizand argumente de compacitate, objine douarezultate de existent pentru incgalitti\ncvasivariagionale abstract eu aplcai in ica plasms in probleme de dizi fn (9), stuiaza\naceeasi problematicd, in cadrul unor structuri ordonate si in ipoteza 8 restrichile mu sunt\nmonotone, dar sunt m\u00e9rginite in port cu ordinea pe o sfera de raza sufiient de mare. In [12] si\n{24}, utlzind Lema lui Ky Fan de intersect nevid, studiaz problema existent solutiet pentru\n\u00a9 clas de inegaliticvasvaratonae abstracts in ipotezefoane generale ait asupa spafiulu et\n$i asupra eperatorilor implica. In condi suplimentare de coerivitate, deduce si unicitatea\nSolute Rezultatele abstacte pe care Te-a obyinut sunt utile in studi problemelor din fsa\nplasm\n\n \n\nIn (11), pe baza unor rezultate de intersectie nevida de tip Knaster-Kuratowski\nMazurkievicz, objine 0 teorema generali de existentA pentru o inegalitate cvasivariationala\nabstractd, Tot aici, deduce condi suficiente de existent pentru o clas\u00e9 de inegalitii varafionale\ncit gi de existent a punctelor de minim Pareto slabe.\n\nIn [22] si [25], tot pe baza lemei Knaster-Kuratowski-Mazurkieviez, objine un rezultat de\ncexistenfd pentru o inegalitate evasivariationald de tip JL. Joly si U. Mosco, inegalitate ce\ncconstituie un model matematie care deserie infitrarea apei intr-un bara}. Acceasi problemi este\nreluatd in [14], utilizind lema lui Ky Fan. In [13], demonstreaza cd, intro latice Banach, orice\ninegalitate evasivariajionald, dintr-o anumiti clas, exprimatd in termenii ordinii, este echivalenti\n\u2018cu un sistem de complementaritate. Cazul concret in care operatorul implicat este diferenfal este\n\u2018analizat separat, Existena solufie este dedusi in ipoteza in eare conul care defineste ordinea este\n\u2018cu interior nevid. In [15], introduce nojiunea de solujie aproape tare a unei inegalitati\ncevasivariajionale de tip parabolic cu obstacole implicite neregulate i objine un rezultat de\nexistent a unei astfel de solufii in ipoteze foarte generale. Un caz particular remarcabil avut in\nvedere este cel al problemelor de complementaritate implicite\n\n \n\n \n\n \n\n \n\n \n\n  \n\nIn 5] si (6), impreund cu J. Gotlieb, T. Jucan gi F. lacob, defines o elas de transforms\nintegrale pe o clasi de funetii uniform temperate\u201d de 2n-variabile reale, eu valori complexe.\nStudiaza proprietatile acestor operator integral cat gia adjuncilor lor. De asemenea, defineste\nprodusul Fourier, cu ajutorul ciruia introduce transformata Fourier generalizat\u00e9 si studiazi\nproprietiile operatorilor de derivare paral pe clasa defunct uniform temperate\u201d considerat.\n\nLucririle sale au fost eitate: [3] si [6] de G. Hutchinson tn Journal of Pure and Applied\nAlgebra din 1986 si 1988; [14] de A. Gachechiladze in Georgian Mathematical Journal din 2004;\n[8], [11], [12] si [14] de 1.1. Vrabie in Compactness Methods for Nonlinear Evolutions, Second\nEdition, Longman-Lohn Wiley&Sons Ine., 1995."
+            }
+        }
+    },
+    "img_108": {
+        "page": "108",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 286,
+                "y": 759,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    759
+                ],
+                "rightCorner": [
+                    315,
+                    781
+                ],
+                "text": "102"
+            },
+            "24": {},
+            "25": {},
+            "26": {},
+            "27": {},
+            "28": {},
+            "29": {},
+            "30": {},
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {},
+            "36": {},
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 68,
+                "y": 96,
+                "height": 656,
+                "width": 472,
+                "leftCorner": [
+                    68,
+                    96
+                ],
+                "rightCorner": [
+                    540,
+                    752
+                ],
+                "text": "Lucriri stiintifice\n(@) fn jurnate\n\n[i] vevam,t. Robert, Tofan fom: Interior systems and intror operat. Anal Snice\nvie Unis ald Ceca last XIX. 1 Matec, 1973, 311319,\n\n  \n\nVescan, T. Robert: On the algebraic structure of linear relations. Analele Stinjifice ale\nUniv. \u201cALL Cuca\u201d lasi,t. XX, 8.1 Matematied, 1974, 277-284.\n\nVesean, T. Robert: On subobjects, quotients, kemels, cokerels in partially ordered\n\u2018category. Publicationes Mathematicae Debrecen, t. 2, 1975, 211-218.\n\nVesean, T. Robert: On Pareto minima and optimal points for injective functional, Bul\n\u2018Math. de a Soe. Sei. Math. de la R.S. Rowman, . 19(67), 1975, 401-407,\n\nS. Gottlieb, J, Jucan, T, Vesean R. Tz A. generalization of the Fourier transform,\n\nAn. Univ. Timisoara, Ser. Site Mat., 15, 19-25 (1977)\n6. Gottlieb, J, Juean, T., Vescan R.\n\ntransforms. Analele stinifice ale\n1977, 391-402\n\n  \n\n. lacob, F-: On a class of Fourier type integral\nIniv. \u201cALL Cuca\u201d Iasi, t. XXIII, 1 Matematica,\n\n \n\nVescan, T. Robert: Categories of relations with standard factorizations. Publicationes\n\u2018Mathematicae Debrecen, 1.26, 1979, 155-160.\n\n8. ] Vesean, 1 Robert: Existence of solutions for some quasi-varational inequalities. Rend.\n\u2018Sem. Matematico Univ. Padova 63, 1980, 215-230.\n\n9. ] Vesean, 7. Robert: Quelques in\u00e9quations quasi-variationelles avec restrictions bom\u00e9es par\nrapport a ordre. Numerical Functional Anal. & Optimization 2, M. Dekker Inc., New\nYork - Basel, 1980, 637-648.\n\n10. ] Vescan, . Robert: Quasi-varational inequalities with non monotone implicit restriction.\nBuletinul Inst. Poltehnic las, t. XXVUXXX), 1980, 35-38\n\n \n\n11, ] Vesean, 1. Robert: Quasi-variational characterization of some optimal points in Banach\nspaces. Analele Stinrifice ale Univ. \"ALL. Cuza\u201d Iasi, t. XXIX, 5.1 Matematicd, 1983, 3-\n14,\n\n12. ] Vesean, T. Robert: Quasi-varational inequalities solved by a non-void intersection\n\nproperty. J. Math. Anal. Appl. 93, Academie Press, New York ~ London, 1983, 89-103,\n\n13. ] Vescan, T. Robert: Un probl\u00e9me variationnel implicite faible, C. Rendues Acad. Set. Paris,\n1.299, 1984, 655-658.\n\n14. ] Vesean, T. Robert: An implicit variational problem and the steady state flow through a\nporous medium. \u201cCercetari Matematice\u201d ~ supliment la Buletinul Inst. Politelnic Iasi,\n1985, 131-133,\n\n \n\n \n\n5. ] Vesean, T. Robert: Systems of evolution inequalities with irregular implicit obstacle\nBuletinul Inst. Poltehnic las, t. XXXIIXXXV1, 1986, 31-35.\n\n16. ] Vesean, T. Robert: A uniqueness result for QVIs in vector latices. Mathematica Balkanica,\n1, 1987, 58:63,\n\n17. ] Vesean, T. Robert: Probleme variajionale implicite. Lucrarife Sesiunit $1. Jubiliare a Inst.\nPolitehnic \"Gh. Asachi\u201d last, 10-12 noiembrie 1988, vol. V, 157-160."
+            }
+        }
+    },
+    "img_109": {
+        "page": "109",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "40": {
+                "class": "text",
+                "x": 286,
+                "y": 759,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    759
+                ],
+                "rightCorner": [
+                    315,
+                    781
+                ],
+                "text": "103"
+            },
+            "41": {
+                "class": "text",
+                "x": 63,
+                "y": 580,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    580
+                ],
+                "rightCorner": [
+                    90,
+                    602
+                ],
+                "text": "30."
+            },
+            "42": {
+                "class": "text",
+                "x": 63,
+                "y": 547,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    547
+                ],
+                "rightCorner": [
+                    90,
+                    569
+                ],
+                "text": "29,"
+            },
+            "43": {
+                "class": "text",
+                "x": 63,
+                "y": 514,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    514
+                ],
+                "rightCorner": [
+                    90,
+                    536
+                ],
+                "text": "28."
+            },
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 63,
+                "y": 448,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    448
+                ],
+                "rightCorner": [
+                    90,
+                    470
+                ],
+                "text": "26."
+            },
+            "46": {
+                "class": "text",
+                "x": 63,
+                "y": 402,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    402
+                ],
+                "rightCorner": [
+                    90,
+                    424
+                ],
+                "text": "25,"
+            },
+            "47": {
+                "class": "text",
+                "x": 63,
+                "y": 369,
+                "height": 22,
+                "width": 26,
+                "leftCorner": [
+                    63,
+                    369
+                ],
+                "rightCorner": [
+                    89,
+                    391
+                ],
+                "text": "24."
+            },
+            "48": {
+                "class": "text",
+                "x": 63,
+                "y": 348,
+                "height": 387,
+                "width": 475,
+                "leftCorner": [
+                    63,
+                    348
+                ],
+                "rightCorner": [
+                    538,
+                    735
+                ],
+                "text": "(\u00a9) Preprinturi\nVescan, T. Robert: Quasi-variational problems solved by Ky Fan\u2019s Lemma. Preprint\nINCREST Seresn Math No.5, 981. 1-24\nP35] Vescan,T. Robert: A new qusi-sariatonal approach forte fnctional equation ofthe\nam problem. Preprint \"Bates Boa\u201d Univ. Fae Math, Phys. Res. Semin\u2019 No.2, 1983,\n185-102,\nVesean, T. Robert: A ariatonl inequality with implicit obstacle. Preprint \u201cBabes-\nobvt\u201d Unin Fae Math Phy. Res. Somin. No 61984, 209-212\nVesean, T. Robert: A weak implicit variational inequality. Preprint A. Moller Math\nSeminar \u201cALL Cuca\" Uni las 1984, 16,\nVesean, . Robert: Parabolic problems with implicit inegular constans, Preprint\n\u201cputes Bohai Uni. Fac Math Phys Res Seminar No, 3.1986, 317-326\nVescan, T. Robert: A nonlinear complementarity problem, Preprint \u201cBabe-Bolya\u201d Uni\nFac Math Ps es, Sominar No 6, Chj-Napoea 1987, 291298\n\n[1] Vesean,T. Robert: Optmaliy condions for wetk consintgualifstions. Pepin\nahes-Bolel\u201d Unis Fac Math Ph Res. Som No Ci Napoca 1988, 317.318\n\nNota Cu excepfia primului alineat din nota biografied de mai sus, redactat pe baza unor\ninfomatit de la Catedra de Matematicd a U-TL, restul prezentiri activitti si rezultatelor lui\nRobert VESCAN este datorati domnului Prof. Dr. Joan I. VRABIE de la Facultatea de Matematict\n\n4 Universititii \u201cALL. Cuza\u201d Iasi. Tot d-sa a verificat cu maxima rigoare lista de lueriri si le-a\n\u2018grupat pe categori, pundnd principalele rezultate ale autorului in contextul cereetitilor\nmatematice din domeniile abordate, pe plan international, Domnia sa ne-a ofeit si excelentul\nPortret foto al regretatului R. Vescan. Ii muljumim fostului nostru coleg de catedr loan I. Vrabie\nSipe aceasti cale"
+            },
+            "49": {
+                "class": "text",
+                "x": 63,
+                "y": 308,
+                "height": 23,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    308
+                ],
+                "rightCorner": [
+                    90,
+                    331
+                ],
+                "text": "2."
+            },
+            "50": {},
+            "51": {
+                "class": "text",
+                "x": 63,
+                "y": 216,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    216
+                ],
+                "rightCorner": [
+                    90,
+                    238
+                ],
+                "text": "2"
+            },
+            "52": {
+                "class": "text",
+                "x": 63,
+                "y": 183,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    63,
+                    183
+                ],
+                "rightCorner": [
+                    90,
+                    205
+                ],
+                "text": "20,"
+            },
+            "53": {},
+            "54": {},
+            "55": {
+                "class": "text",
+                "x": 89,
+                "y": 96,
+                "height": 250,
+                "width": 449,
+                "leftCorner": [
+                    89,
+                    96
+                ],
+                "rightCorner": [
+                    538,
+                    346
+                ],
+                "text": "(b) In volumele unor conferinte\n\nVesean, T. Robert: An existence theorem for quasi-variational inequalities. In Variational\nInequalities and Optimization, D. Pascal editor, Constanta, 1979, 115-124,\n\nVesean, T. Robert: Existenta si unicitatea controlului sub-optimal intr-o_ problema\nstationari, In Ecuati functionale, aproximatre si convexitate, Timisoara 1980, 35-41\n\n\u2018Vescan, T. Robert: Approximate solutions for evolution problems with irregular implicit\nobstacles. Differential Equations and Their Control, lai, 1982, 181-193.\n\nVescan, T. Robert: Implicit variational formulation for multivalued complementarity\nproblems. Differential Equations Control Theory, INCREST ~ Univ. Bucuresti, 1983,\n227-234\n\nVesean, T. Robert: A new quasi-variational approach for the functional equation of the\n\u00abdam problem. In Ecuati funcfionale, aproximare si convexitate, Cluj-Napoca 1983, 185-\n192,\n\nVescan, T. Robert: A uniqueness result for QVIs in ordered Banach spaces, Anali\nfncjionald, Craiova, 1983, 25-31"
+            }
+        }
+    },
+    "img_110": {
+        "page": "110",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "56": {
+                "class": "text",
+                "x": 181,
+                "y": 649,
+                "height": 135,
+                "width": 234,
+                "leftCorner": [
+                    181,
+                    649
+                ],
+                "rightCorner": [
+                    415,
+                    784
+                ],
+                "text": "\u2018Tipar digital realizat la\n\nEDITURA $I TIPOGRAFIA PIM\n\u2018Soseaua Stefan cel Mare 5 fine ne. 4, Iagi~ 700897\n\u201cTe 730.086 676; Fax: 0332.440.730\nwowmpimcopy:r0|"
+            }
+        }
+    }
+}

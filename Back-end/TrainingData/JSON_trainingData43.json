@@ -1,0 +1,2265 @@
+{
+    "numberOfPages": 107,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 241,
+                "y": 700,
+                "height": 46,
+                "width": 118,
+                "leftCorner": [
+                    241,
+                    700
+                ],
+                "rightCorner": [
+                    359,
+                    746
+                ],
+                "text": "EDITURA PIM\nIASI, 2011"
+            },
+            "2": {
+                "class": "text",
+                "x": 190,
+                "y": 238,
+                "height": 40,
+                "width": 325,
+                "leftCorner": [
+                    190,
+                    238
+                ],
+                "rightCorner": [
+                    515,
+                    278
+                ],
+                "text": "comunicarii interne"
+            },
+            "3": {
+                "class": "text",
+                "x": 84,
+                "y": 238,
+                "height": 40,
+                "width": 100,
+                "leftCorner": [
+                    84,
+                    238
+                ],
+                "rightCorner": [
+                    184,
+                    278
+                ],
+                "text": "Rolul"
+            },
+            "4": {
+                "class": "text",
+                "x": 192,
+                "y": 95,
+                "height": 28,
+                "width": 215,
+                "leftCorner": [
+                    192,
+                    95
+                ],
+                "rightCorner": [
+                    407,
+                    123
+                ],
+                "text": "LOREDANA VASILIU"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 49,
+                "y": 551,
+                "height": 24,
+                "width": 54,
+                "leftCorner": [
+                    49,
+                    551
+                ],
+                "rightCorner": [
+                    103,
+                    575
+                ],
+                "text": "316.77"
+            },
+            "6": {
+                "class": "text",
+                "x": 46,
+                "y": 445,
+                "height": 97,
+                "width": 447,
+                "leftCorner": [
+                    46,
+                    445
+                ],
+                "rightCorner": [
+                    493,
+                    542
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Rom\u00e9niei\nVASILIU, LOREDANA.\n\nRolul comunicarii interne / Loredana Vasiliu. - lagi : PIM, 2011\nBibliogr,\nISBN 978-606-13-0322-9"
+            },
+            "7": {
+                "class": "text",
+                "x": 98,
+                "y": 232,
+                "height": 28,
+                "width": 232,
+                "leftCorner": [
+                    98,
+                    232
+                ],
+                "rightCorner": [
+                    330,
+                    260
+                ],
+                "text": "Acreditati de CNCSIS, 66/2010"
+            },
+            "8": {
+                "class": "text",
+                "x": 98,
+                "y": 206,
+                "height": 27,
+                "width": 139,
+                "leftCorner": [
+                    98,
+                    206
+                ],
+                "rightCorner": [
+                    237,
+                    233
+                ],
+                "text": "EDITURA PIM"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "9": {},
+            "10": {},
+            "11": {},
+            "12": {
+                "class": "text",
+                "x": 46,
+                "y": 578,
+                "height": 29,
+                "width": 503,
+                "leftCorner": [
+                    46,
+                    578
+                ],
+                "rightCorner": [
+                    549,
+                    607
+                ],
+                "text": "IIL. Eficienta"
+            },
+            "13": {
+                "class": "text",
+                "x": 45,
+                "y": 523,
+                "height": 56,
+                "width": 508,
+                "leftCorner": [
+                    45,
+                    523
+                ],
+                "rightCorner": [
+                    553,
+                    579
+                ],
+                "text": "Capitolul III\n\n   \n\nMiasurarea efectelor optimizrii comunicai"
+            },
+            "14": {
+                "class": "text",
+                "x": 46,
+                "y": 496,
+                "height": 28,
+                "width": 509,
+                "leftCorner": [
+                    46,
+                    496
+                ],
+                "rightCorner": [
+                    555,
+                    524
+                ],
+                "text": "66"
+            },
+            "15": {
+                "class": "text",
+                "x": 46,
+                "y": 469,
+                "height": 29,
+                "width": 508,
+                "leftCorner": [
+                    46,
+                    469
+                ],
+                "rightCorner": [
+                    554,
+                    498
+                ],
+                "text": "IL.1. Pe componenta formala.\n\n57"
+            },
+            "16": {},
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 262,
+                "y": 416,
+                "height": 28,
+                "width": 86,
+                "leftCorner": [
+                    262,
+                    416
+                ],
+                "rightCorner": [
+                    348,
+                    444
+                ],
+                "text": "optimizare"
+            },
+            "19": {
+                "class": "text",
+                "x": 187,
+                "y": 416,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    187,
+                    416
+                ],
+                "rightCorner": [
+                    216,
+                    440
+                ],
+                "text": "de"
+            },
+            "20": {
+                "class": "text",
+                "x": 46,
+                "y": 416,
+                "height": 24,
+                "width": 95,
+                "leftCorner": [
+                    46,
+                    416
+                ],
+                "rightCorner": [
+                    141,
+                    440
+                ],
+                "text": "Instrumente"
+            },
+            "21": {},
+            "22": {
+                "class": "text",
+                "x": 45,
+                "y": 388,
+                "height": 28,
+                "width": 85,
+                "leftCorner": [
+                    45,
+                    388
+                ],
+                "rightCorner": [
+                    130,
+                    416
+                ],
+                "text": "Capitolul I"
+            },
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 46,
+                "y": 333,
+                "height": 29,
+                "width": 349,
+                "leftCorner": [
+                    46,
+                    333
+                ],
+                "rightCorner": [
+                    395,
+                    362
+                ],
+                "text": "13.Cultura organizationala ca rezultat al comunicarii"
+            },
+            "25": {
+                "class": "text",
+                "x": 45,
+                "y": 306,
+                "height": 25,
+                "width": 507,
+                "leftCorner": [
+                    45,
+                    306
+                ],
+                "rightCorner": [
+                    552,
+                    331
+                ],
+                "text": "comunicare.\n\n29"
+            },
+            "26": {
+                "class": "text",
+                "x": 527,
+                "y": 280,
+                "height": 25,
+                "width": 28,
+                "leftCorner": [
+                    527,
+                    280
+                ],
+                "rightCorner": [
+                    555,
+                    305
+                ],
+                "text": "de"
+            },
+            "27": {},
+            "28": {
+                "class": "text",
+                "x": 190,
+                "y": 280,
+                "height": 25,
+                "width": 58,
+                "leftCorner": [
+                    190,
+                    280
+                ],
+                "rightCorner": [
+                    248,
+                    305
+                ],
+                "text": "interna"
+            },
+            "29": {
+                "class": "text",
+                "x": 46,
+                "y": 280,
+                "height": 25,
+                "width": 118,
+                "leftCorner": [
+                    46,
+                    280
+                ],
+                "rightCorner": [
+                    164,
+                    305
+                ],
+                "text": "1.2.Comunicarea"
+            },
+            "30": {
+                "class": "text",
+                "x": 444,
+                "y": 279,
+                "height": 26,
+                "width": 57,
+                "leftCorner": [
+                    444,
+                    279
+                ],
+                "rightCorner": [
+                    501,
+                    305
+                ],
+                "text": "moduri"
+            },
+            "31": {
+                "class": "text",
+                "x": 319,
+                "y": 279,
+                "height": 26,
+                "width": 51,
+                "leftCorner": [
+                    319,
+                    279
+                ],
+                "rightCorner": [
+                    370,
+                    305
+                ],
+                "text": "Cadre"
+            },
+            "32": {
+                "class": "text",
+                "x": 46,
+                "y": 252,
+                "height": 29,
+                "width": 506,
+                "leftCorner": [
+                    46,
+                    252
+                ],
+                "rightCorner": [
+                    552,
+                    281
+                ],
+                "text": "L1. Resurse umane \u2014 Structura de organizare si functiile acesteia\n\n14"
+            },
+            "33": {
+                "class": "text",
+                "x": 45,
+                "y": 226,
+                "height": 28,
+                "width": 508,
+                "leftCorner": [
+                    45,
+                    226
+                ],
+                "rightCorner": [
+                    553,
+                    254
+                ],
+                "text": "strategii de optimizare a comunicai"
+            },
+            "34": {
+                "class": "text",
+                "x": 45,
+                "y": 198,
+                "height": 29,
+                "width": 510,
+                "leftCorner": [
+                    45,
+                    198
+                ],
+                "rightCorner": [
+                    555,
+                    227
+                ],
+                "text": "Contextul intraorganizational \u2014 punct de pornire in conceperea unei"
+            },
+            "35": {
+                "class": "text",
+                "x": 45,
+                "y": 171,
+                "height": 28,
+                "width": 80,
+                "leftCorner": [
+                    45,
+                    171
+                ],
+                "rightCorner": [
+                    125,
+                    199
+                ],
+                "text": "Capitolul I"
+            },
+            "36": {
+                "class": "text",
+                "x": 46,
+                "y": 116,
+                "height": 26,
+                "width": 509,
+                "leftCorner": [
+                    46,
+                    116
+                ],
+                "rightCorner": [
+                    555,
+                    142
+                ],
+                "text": "Introducere."
+            },
+            "37": {
+                "class": "text",
+                "x": 46,
+                "y": 49,
+                "height": 28,
+                "width": 99,
+                "leftCorner": [
+                    46,
+                    49
+                ],
+                "rightCorner": [
+                    145,
+                    77
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {}
+    },
+    "img_102": {
+        "page": "102",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "38": {
+                "class": "text",
+                "x": 283,
+                "y": 757,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    283,
+                    757
+                ],
+                "rightCorner": [
+                    319,
+                    783
+                ],
+                "text": "100"
+            },
+            "39": {
+                "class": "text",
+                "x": 45,
+                "y": 196,
+                "height": 29,
+                "width": 228,
+                "leftCorner": [
+                    45,
+                    196
+                ],
+                "rightCorner": [
+                    273,
+                    225
+                ],
+                "text": "capacitate de a obtine rezultate."
+            },
+            "40": {
+                "class": "text",
+                "x": 381,
+                "y": 166,
+                "height": 29,
+                "width": 174,
+                "leftCorner": [
+                    381,
+                    166
+                ],
+                "rightCorner": [
+                    555,
+                    195
+                ],
+                "text": "care se defineste ca 0"
+            },
+            "41": {
+                "class": "text",
+                "x": 45,
+                "y": 48,
+                "height": 147,
+                "width": 510,
+                "leftCorner": [
+                    45,
+                    48
+                ],
+                "rightCorner": [
+                    555,
+                    195
+                ],
+                "text": "perceptic, comportament defensiv sau lipsa feed-back-ului)? Acest\nlucru se poate verifica prin masurarea efectelor provocate in mediul\norganizational, apeland la doua elemente principale in orice analiza a\n\nperformantei: eficienta \u2014 se refera la capacitatea de a fi eficace cu\n\n \n\neforturi si costuri minime - si eficacitatea \u2014| care se defineste ca o"
+            }
+        }
+    },
+    "img_103": {
+        "page": "103",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "42": {
+                "class": "text",
+                "x": 283,
+                "y": 757,
+                "height": 26,
+                "width": 34,
+                "leftCorner": [
+                    283,
+                    757
+                ],
+                "rightCorner": [
+                    317,
+                    783
+                ],
+                "text": "101"
+            },
+            "43": {
+                "class": "text",
+                "x": 97,
+                "y": 704,
+                "height": 29,
+                "width": 84,
+                "leftCorner": [
+                    97,
+                    704
+                ],
+                "rightCorner": [
+                    181,
+                    733
+                ],
+                "text": "Tasi, 1999;"
+            },
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 73,
+                "y": 674,
+                "height": 29,
+                "width": 152,
+                "leftCorner": [
+                    73,
+                    674
+                ],
+                "rightCorner": [
+                    225,
+                    703
+                ],
+                "text": "11, McQuail, Denis:"
+            },
+            "46": {
+                "class": "text",
+                "x": 96,
+                "y": 644,
+                "height": 30,
+                "width": 309,
+                "leftCorner": [
+                    96,
+                    644
+                ],
+                "rightCorner": [
+                    405,
+                    674
+                ],
+                "text": "concise analysis, Pearson Education, 2002"
+            },
+            "47": {
+                "class": "text",
+                "x": 73,
+                "y": 615,
+                "height": 30,
+                "width": 482,
+                "leftCorner": [
+                    73,
+                    615
+                ],
+                "rightCorner": [
+                    555,
+                    645
+                ],
+                "text": "10. Mckenna, Eugene, Nic Beech ~ Human resource management-a"
+            },
+            "48": {
+                "class": "text",
+                "x": 97,
+                "y": 585,
+                "height": 29,
+                "width": 148,
+                "leftCorner": [
+                    97,
+                    585
+                ],
+                "rightCorner": [
+                    245,
+                    614
+                ],
+                "text": "Polirom, lasi, 2006;"
+            },
+            "49": {
+                "class": "text",
+                "x": 97,
+                "y": 556,
+                "height": 29,
+                "width": 458,
+                "leftCorner": [
+                    97,
+                    556
+                ],
+                "rightCorner": [
+                    555,
+                    585
+                ],
+                "text": "Makin, Peter, Charles Cox \u2014 Schimbarea in organizatii, Editura"
+            },
+            "50": {},
+            "51": {
+                "class": "text",
+                "x": 97,
+                "y": 527,
+                "height": 29,
+                "width": 457,
+                "leftCorner": [
+                    97,
+                    527
+                ],
+                "rightCorner": [
+                    554,
+                    556
+                ],
+                "text": "Managementul res"
+            },
+            "52": {
+                "class": "text",
+                "x": 97,
+                "y": 497,
+                "height": 29,
+                "width": 458,
+                "leftCorner": [
+                    97,
+                    497
+                ],
+                "rightCorner": [
+                    555,
+                    526
+                ],
+                "text": "Emilian, Radu, Gabriela, Tigu, Olimpia, State, Claudia Tuclea \u2014"
+            },
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 97,
+                "y": 467,
+                "height": 29,
+                "width": 125,
+                "leftCorner": [
+                    97,
+                    467
+                ],
+                "rightCorner": [
+                    222,
+                    496
+                ],
+                "text": "Bucuresti, 1999;"
+            },
+            "55": {},
+            "56": {
+                "class": "text",
+                "x": 97,
+                "y": 437,
+                "height": 30,
+                "width": 458,
+                "leftCorner": [
+                    97,
+                    437
+                ],
+                "rightCorner": [
+                    555,
+                    467
+                ],
+                "text": "Radu\n\n \n\nelor umane, Editura Expert,"
+            },
+            "57": {},
+            "58": {
+                "class": "text",
+                "x": 179,
+                "y": 408,
+                "height": 28,
+                "width": 369,
+                "leftCorner": [
+                    179,
+                    408
+                ],
+                "rightCorner": [
+                    548,
+                    436
+                ],
+                "text": "Human Behavior at Work, McGraw- Hill Inc, 1981;"
+            },
+            "59": {
+                "class": "text",
+                "x": 97,
+                "y": 408,
+                "height": 26,
+                "width": 73,
+                "leftCorner": [
+                    97,
+                    408
+                ],
+                "rightCorner": [
+                    170,
+                    434
+                ],
+                "text": "Davis K."
+            },
+            "60": {
+                "class": "text",
+                "x": 97,
+                "y": 378,
+                "height": 29,
+                "width": 125,
+                "leftCorner": [
+                    97,
+                    378
+                ],
+                "rightCorner": [
+                    222,
+                    407
+                ],
+                "text": "Bucuresti, 1991;"
+            },
+            "61": {
+                "class": "text",
+                "x": 256,
+                "y": 349,
+                "height": 29,
+                "width": 298,
+                "leftCorner": [
+                    256,
+                    349
+                ],
+                "rightCorner": [
+                    554,
+                    378
+                ],
+                "text": "Stiinta comunicarii, Editura Humanitas,"
+            },
+            "62": {
+                "class": "text",
+                "x": 185,
+                "y": 349,
+                "height": 26,
+                "width": 67,
+                "leftCorner": [
+                    185,
+                    349
+                ],
+                "rightCorner": [
+                    252,
+                    375
+                ],
+                "text": "Van JJ"
+            },
+            "63": {
+                "class": "text",
+                "x": 96,
+                "y": 349,
+                "height": 30,
+                "width": 93,
+                "leftCorner": [
+                    96,
+                    349
+                ],
+                "rightCorner": [
+                    189,
+                    379
+                ],
+                "text": "Cuilenberg,"
+            },
+            "64": {},
+            "65": {
+                "class": "text",
+                "x": 96,
+                "y": 290,
+                "height": 58,
+                "width": 459,
+                "leftCorner": [
+                    96,
+                    290
+                ],
+                "rightCorner": [
+                    555,
+                    348
+                ],
+                "text": "Cornescu Viorel \u2014 Management-de la teorie la pract\n\n \n\nUniversitatii, Bucuresti, 200"
+            },
+            "66": {},
+            "67": {
+                "class": "text",
+                "x": 97,
+                "y": 260,
+                "height": 29,
+                "width": 148,
+                "leftCorner": [
+                    97,
+                    260
+                ],
+                "rightCorner": [
+                    245,
+                    289
+                ],
+                "text": "Polirom, Iasi, 2006;"
+            },
+            "68": {
+                "class": "text",
+                "x": 96,
+                "y": 231,
+                "height": 29,
+                "width": 459,
+                "leftCorner": [
+                    96,
+                    231
+                ],
+                "rightCorner": [
+                    555,
+                    260
+                ],
+                "text": "Relatii publice.Principii si strategii, Edit"
+            },
+            "69": {},
+            "70": {
+                "class": "text",
+                "x": 97,
+                "y": 201,
+                "height": 29,
+                "width": 293,
+                "leftCorner": [
+                    97,
+                    201
+                ],
+                "rightCorner": [
+                    390,
+                    230
+                ],
+                "text": "umane, Editura Irecson, Bucuresti, 2002;"
+            },
+            "71": {},
+            "72": {
+                "class": "text",
+                "x": 96,
+                "y": 171,
+                "height": 30,
+                "width": 459,
+                "leftCorner": [
+                    96,
+                    171
+                ],
+                "rightCorner": [
+                    555,
+                    201
+                ],
+                "text": "tului in resurse"
+            },
+            "73": {},
+            "74": {
+                "class": "text",
+                "x": 93,
+                "y": 112,
+                "height": 59,
+                "width": 462,
+                "leftCorner": [
+                    93,
+                    112
+                ],
+                "rightCorner": [
+                    555,
+                    171
+                ],
+                "text": "Bratianu, Constantin \u2014 Management si marketing.Concepte\n\n \n\nfundamentale, Editura Comunicare.ro, Bucuresti, 2005;"
+            },
+            "75": {
+                "class": "text",
+                "x": 171,
+                "y": 112,
+                "height": 27,
+                "width": 88,
+                "leftCorner": [
+                    171,
+                    112
+                ],
+                "rightCorner": [
+                    259,
+                    139
+                ],
+                "text": "Constantin"
+            },
+            "76": {
+                "class": "text",
+                "x": 97,
+                "y": 112,
+                "height": 28,
+                "width": 75,
+                "leftCorner": [
+                    97,
+                    112
+                ],
+                "rightCorner": [
+                    172,
+                    140
+                ],
+                "text": "Bratianu,"
+            },
+            "77": {
+                "class": "text",
+                "x": 45,
+                "y": 49,
+                "height": 28,
+                "width": 158,
+                "leftCorner": [
+                    45,
+                    49
+                ],
+                "rightCorner": [
+                    203,
+                    77
+                ],
+                "text": "BIBLIOGRAFIE"
+            }
+        }
+    },
+    "img_104": {
+        "page": "104",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "78": {
+                "class": "text",
+                "x": 283,
+                "y": 757,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    283,
+                    757
+                ],
+                "rightCorner": [
+                    319,
+                    783
+                ],
+                "text": "102"
+            },
+            "79": {
+                "class": "text",
+                "x": 96,
+                "y": 699,
+                "height": 29,
+                "width": 175,
+                "leftCorner": [
+                    96,
+                    699
+                ],
+                "rightCorner": [
+                    271,
+                    728
+                ],
+                "text": "Teora, Bucuresti, 2000;"
+            },
+            "80": {
+                "class": "text",
+                "x": 71,
+                "y": 640,
+                "height": 59,
+                "width": 484,
+                "leftCorner": [
+                    71,
+                    640
+                ],
+                "rightCorner": [
+                    555,
+                    699
+                ],
+                "text": "ju arta de a conduce, Editura"
+            },
+            "81": {
+                "class": "text",
+                "x": 96,
+                "y": 612,
+                "height": 27,
+                "width": 113,
+                "leftCorner": [
+                    96,
+                    612
+                ],
+                "rightCorner": [
+                    209,
+                    639
+                ],
+                "text": "comportament"
+            },
+            "82": {
+                "class": "text",
+                "x": 435,
+                "y": 610,
+                "height": 28,
+                "width": 119,
+                "leftCorner": [
+                    435,
+                    610
+                ],
+                "rightCorner": [
+                    554,
+                    638
+                ],
+                "text": "Comunicare.ro,"
+            },
+            "83": {
+                "class": "text",
+                "x": 358,
+                "y": 610,
+                "height": 26,
+                "width": 62,
+                "leftCorner": [
+                    358,
+                    610
+                ],
+                "rightCorner": [
+                    420,
+                    636
+                ],
+                "text": "Editura"
+            },
+            "84": {
+                "class": "text",
+                "x": 223,
+                "y": 610,
+                "height": 29,
+                "width": 119,
+                "leftCorner": [
+                    223,
+                    610
+                ],
+                "rightCorner": [
+                    342,
+                    639
+                ],
+                "text": "organizational,"
+            },
+            "85": {
+                "class": "text",
+                "x": 71,
+                "y": 580,
+                "height": 29,
+                "width": 485,
+                "leftCorner": [
+                    71,
+                    580
+                ],
+                "rightCorner": [
+                    556,
+                    609
+                ],
+                "text": "21. Stanciu, Stefan, Mihaela, Alexandra, Ionescu Cultura si"
+            },
+            "86": {
+                "class": "text",
+                "x": 97,
+                "y": 521,
+                "height": 59,
+                "width": 458,
+                "leftCorner": [
+                    97,
+                    521
+                ],
+                "rightCorner": [
+                    555,
+                    580
+                ],
+                "text": "Rusu, Costache (coord.) \u2014 Managementul resurselor umane,\n\n \n\nEditura Economica, Bucuresti, 1997;"
+            },
+            "87": {
+                "class": "text",
+                "x": 71,
+                "y": 521,
+                "height": 29,
+                "width": 214,
+                "leftCorner": [
+                    71,
+                    521
+                ],
+                "rightCorner": [
+                    285,
+                    550
+                ],
+                "text": "20) Rusu, Costache (coord.)"
+            },
+            "88": {
+                "class": "text",
+                "x": 97,
+                "y": 491,
+                "height": 30,
+                "width": 302,
+                "leftCorner": [
+                    97,
+                    491
+                ],
+                "rightCorner": [
+                    399,
+                    521
+                ],
+                "text": "umane, Editura Sedcom Libris, lasi, 2006;"
+            },
+            "89": {
+                "class": "text",
+                "x": 359,
+                "y": 462,
+                "height": 30,
+                "width": 197,
+                "leftCorner": [
+                    359,
+                    462
+                ],
+                "rightCorner": [
+                    556,
+                    492
+                ],
+                "text": "Managementul resurselor"
+            },
+            "90": {
+                "class": "text",
+                "x": 73,
+                "y": 462,
+                "height": 27,
+                "width": 271,
+                "leftCorner": [
+                    73,
+                    462
+                ],
+                "rightCorner": [
+                    344,
+                    489
+                ],
+                "text": "19. Rotaru, Anton, Adriana, Prodan"
+            },
+            "91": {
+                "class": "text",
+                "x": 95,
+                "y": 432,
+                "height": 30,
+                "width": 301,
+                "leftCorner": [
+                    95,
+                    432
+                ],
+                "rightCorner": [
+                    396,
+                    462
+                ],
+                "text": "-, Editura Mirton,"
+            },
+            "92": {
+                "class": "text",
+                "x": 73,
+                "y": 403,
+                "height": 30,
+                "width": 482,
+                "leftCorner": [
+                    73,
+                    403
+                ],
+                "rightCorner": [
+                    555,
+                    433
+                ],
+                "text": "18. Ritt, Adriana \u2014 Comunicarea organizationald externa: Relatiile"
+            },
+            "93": {},
+            "94": {
+                "class": "text",
+                "x": 530,
+                "y": 345,
+                "height": 28,
+                "width": 25,
+                "leftCorner": [
+                    530,
+                    345
+                ],
+                "rightCorner": [
+                    555,
+                    373
+                ],
+                "text": "gi"
+            },
+            "95": {
+                "class": "text",
+                "x": 367,
+                "y": 344,
+                "height": 29,
+                "width": 164,
+                "leftCorner": [
+                    367,
+                    344
+                ],
+                "rightCorner": [
+                    531,
+                    373
+                ],
+                "text": "de  success.Motivatie"
+            },
+            "96": {
+                "class": "text",
+                "x": 251,
+                "y": 344,
+                "height": 29,
+                "width": 117,
+                "leftCorner": [
+                    251,
+                    344
+                ],
+                "rightCorner": [
+                    368,
+                    373
+                ],
+                "text": "Managementul"
+            },
+            "97": {
+                "class": "text",
+                "x": 73,
+                "y": 344,
+                "height": 27,
+                "width": 157,
+                "leftCorner": [
+                    73,
+                    344
+                ],
+                "rightCorner": [
+                    230,
+                    371
+                ],
+                "text": "17. Prodan, Adriana"
+            },
+            "98": {},
+            "99": {
+                "class": "text",
+                "x": 96,
+                "y": 285,
+                "height": 59,
+                "width": 427,
+                "leftCorner": [
+                    96,
+                    285
+                ],
+                "rightCorner": [
+                    523,
+                    344
+                ],
+                "text": "Parjol, Florin municarea organizational\n\n \n\norganizatii, Editura Mirton, Timsoara, 2003:"
+            },
+            "100": {
+                "class": "text",
+                "x": 248,
+                "y": 285,
+                "height": 26,
+                "width": 106,
+                "leftCorner": [
+                    248,
+                    285
+                ],
+                "rightCorner": [
+                    354,
+                    311
+                ],
+                "text": "Comunicarea"
+            },
+            "101": {
+                "class": "text",
+                "x": 161,
+                "y": 285,
+                "height": 26,
+                "width": 54,
+                "leftCorner": [
+                    161,
+                    285
+                ],
+                "rightCorner": [
+                    215,
+                    311
+                ],
+                "text": "Florin"
+            },
+            "102": {
+                "class": "text",
+                "x": 73,
+                "y": 285,
+                "height": 29,
+                "width": 81,
+                "leftCorner": [
+                    73,
+                    285
+                ],
+                "rightCorner": [
+                    154,
+                    314
+                ],
+                "text": "16} Parjol,"
+            },
+            "103": {
+                "class": "text",
+                "x": 471,
+                "y": 226,
+                "height": 26,
+                "width": 84,
+                "leftCorner": [
+                    471,
+                    226
+                ],
+                "rightCorner": [
+                    555,
+                    252
+                ],
+                "text": "Motivarea"
+            },
+            "104": {
+                "class": "text",
+                "x": 366,
+                "y": 226,
+                "height": 29,
+                "width": 79,
+                "leftCorner": [
+                    366,
+                    226
+                ],
+                "rightCorner": [
+                    445,
+                    255
+                ],
+                "text": "Panisoara"
+            },
+            "105": {
+                "class": "text",
+                "x": 265,
+                "y": 226,
+                "height": 26,
+                "width": 35,
+                "leftCorner": [
+                    265,
+                    226
+                ],
+                "rightCorner": [
+                    300,
+                    252
+                ],
+                "text": "Ton"
+            },
+            "106": {
+                "class": "text",
+                "x": 96,
+                "y": 226,
+                "height": 58,
+                "width": 269,
+                "leftCorner": [
+                    96,
+                    226
+                ],
+                "rightCorner": [
+                    365,
+                    284
+                ],
+                "text": "Georgeta, | Ion | Ovidiu\n\n \n\noficienta, editura Polirom, Iasi, 2005"
+            },
+            "107": {
+                "class": "text",
+                "x": 73,
+                "y": 226,
+                "height": 29,
+                "width": 107,
+                "leftCorner": [
+                    73,
+                    226
+                ],
+                "rightCorner": [
+                    180,
+                    255
+                ],
+                "text": "15] Panisoara,"
+            },
+            "108": {
+                "class": "text",
+                "x": 303,
+                "y": 225,
+                "height": 27,
+                "width": 60,
+                "leftCorner": [
+                    303,
+                    225
+                ],
+                "rightCorner": [
+                    363,
+                    252
+                ],
+                "text": "Ovidiu"
+            },
+            "109": {
+                "class": "text",
+                "x": 96,
+                "y": 196,
+                "height": 29,
+                "width": 333,
+                "leftCorner": [
+                    96,
+                    196
+                ],
+                "rightCorner": [
+                    429,
+                    225
+                ],
+                "text": "resurselor umane, Editura Polirom, lagi, 2005;"
+            },
+            "110": {
+                "class": "text",
+                "x": 439,
+                "y": 166,
+                "height": 30,
+                "width": 117,
+                "leftCorner": [
+                    439,
+                    166
+                ],
+                "rightCorner": [
+                    556,
+                    196
+                ],
+                "text": "Managementul"
+            },
+            "111": {},
+            "112": {
+                "class": "text",
+                "x": 97,
+                "y": 137,
+                "height": 29,
+                "width": 148,
+                "leftCorner": [
+                    97,
+                    137
+                ],
+                "rightCorner": [
+                    245,
+                    166
+                ],
+                "text": "Polirom, Iasi, 1999;"
+            },
+            "113": {},
+            "114": {},
+            "115": {
+                "class": "text",
+                "x": 96,
+                "y": 77,
+                "height": 30,
+                "width": 315,
+                "leftCorner": [
+                    96,
+                    77
+                ],
+                "rightCorner": [
+                    411,
+                    107
+                ],
+                "text": "aplicatii, Editura Sedcom Libris, Iasi, 2004;"
+            },
+            "116": {
+                "class": "text",
+                "x": 73,
+                "y": 48,
+                "height": 30,
+                "width": 482,
+                "leftCorner": [
+                    73,
+                    48
+                ],
+                "rightCorner": [
+                    555,
+                    78
+                ],
+                "text": "12. Panaite, Nica, Aurelian Iftimescu \u2014 Management.Concepte si"
+            }
+        }
+    },
+    "img_105": {
+        "page": "105",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "117": {
+                "class": "text",
+                "x": 283,
+                "y": 757,
+                "height": 26,
+                "width": 35,
+                "leftCorner": [
+                    283,
+                    757
+                ],
+                "rightCorner": [
+                    318,
+                    783
+                ],
+                "text": "103"
+            },
+            "118": {
+                "class": "text",
+                "x": 71,
+                "y": 699,
+                "height": 29,
+                "width": 369,
+                "leftCorner": [
+                    71,
+                    699
+                ],
+                "rightCorner": [
+                    440,
+                    728
+                ],
+                "text": "33. http://www. fen.gov/reinvent/pool/press34e.htm;"
+            },
+            "119": {},
+            "120": {
+                "class": "text",
+                "x": 71,
+                "y": 581,
+                "height": 58,
+                "width": 477,
+                "leftCorner": [
+                    71,
+                    581
+                ],
+                "rightCorner": [
+                    548,
+                    639
+                ],
+                "text": "3"
+            },
+            "121": {
+                "class": "text",
+                "x": 96,
+                "y": 551,
+                "height": 29,
+                "width": 255,
+                "leftCorner": [
+                    96,
+                    551
+                ],
+                "rightCorner": [
+                    351,
+                    580
+                ],
+                "text": "din 15 mai 2007;"
+            },
+            "122": {
+                "class": "text",
+                "x": 71,
+                "y": 521,
+                "height": 30,
+                "width": 481,
+                "leftCorner": [
+                    71,
+                    521
+                ],
+                "rightCorner": [
+                    552,
+                    551
+                ],
+                "text": "29. http://www.businessedu.ro/beta/index.php?page=detalii&conten"
+            },
+            "123": {
+                "class": "text",
+                "x": 97,
+                "y": 492,
+                "height": 28,
+                "width": 51,
+                "leftCorner": [
+                    97,
+                    492
+                ],
+                "rightCorner": [
+                    148,
+                    520
+                ],
+                "text": "2007;"
+            },
+            "124": {
+                "class": "text",
+                "x": 71,
+                "y": 462,
+                "height": 30,
+                "width": 484,
+                "leftCorner": [
+                    71,
+                    462
+                ],
+                "rightCorner": [
+                    555,
+                    492
+                ],
+                "text": "28. www.biblioteca.ase.ro/downres.php?tc=6610 , din 26 martie"
+            },
+            "125": {},
+            "126": {
+                "class": "text",
+                "x": 499,
+                "y": 344,
+                "height": 29,
+                "width": 56,
+                "leftCorner": [
+                    499,
+                    344
+                ],
+                "rightCorner": [
+                    555,
+                    373
+                ],
+                "text": "aprilie"
+            },
+            "127": {},
+            "128": {
+                "class": "text",
+                "x": 427,
+                "y": 344,
+                "height": 26,
+                "width": 35,
+                "leftCorner": [
+                    427,
+                    344
+                ],
+                "rightCorner": [
+                    462,
+                    370
+                ],
+                "text": "din"
+            },
+            "129": {},
+            "130": {},
+            "131": {
+                "class": "text",
+                "x": 366,
+                "y": 228,
+                "height": 26,
+                "width": 77,
+                "leftCorner": [
+                    366,
+                    228
+                ],
+                "rightCorner": [
+                    443,
+                    254
+                ],
+                "text": "cresterea"
+            },
+            "132": {
+                "class": "text",
+                "x": 97,
+                "y": 228,
+                "height": 56,
+                "width": 264,
+                "leftCorner": [
+                    97,
+                    228
+                ],
+                "rightCorner": [
+                    361,
+                    284
+                ],
+                "text": "managementul \u2014variatiilor _ pentr\n\n \n\nEditura Irecson, Bucuresti, 200:"
+            },
+            "133": {
+                "class": "text",
+                "x": 446,
+                "y": 226,
+                "height": 29,
+                "width": 109,
+                "leftCorner": [
+                    446,
+                    226
+                ],
+                "rightCorner": [
+                    555,
+                    255
+                ],
+                "text": "performantei,"
+            },
+            "134": {
+                "class": "text",
+                "x": 216,
+                "y": 226,
+                "height": 28,
+                "width": 83,
+                "leftCorner": [
+                    216,
+                    226
+                ],
+                "rightCorner": [
+                    299,
+                    254
+                ],
+                "text": "variatiilor"
+            },
+            "135": {
+                "class": "text",
+                "x": 96,
+                "y": 226,
+                "height": 29,
+                "width": 115,
+                "leftCorner": [
+                    96,
+                    226
+                ],
+                "rightCorner": [
+                    211,
+                    255
+                ],
+                "text": "managementul"
+            },
+            "136": {
+                "class": "text",
+                "x": 530,
+                "y": 197,
+                "height": 28,
+                "width": 26,
+                "leftCorner": [
+                    530,
+                    197
+                ],
+                "rightCorner": [
+                    556,
+                    225
+                ],
+                "text": "si"
+            },
+            "137": {
+                "class": "text",
+                "x": 448,
+                "y": 196,
+                "height": 26,
+                "width": 73,
+                "leftCorner": [
+                    448,
+                    196
+                ],
+                "rightCorner": [
+                    521,
+                    222
+                ],
+                "text": "continua"
+            },
+            "138": {
+                "class": "text",
+                "x": 204,
+                "y": 196,
+                "height": 29,
+                "width": 80,
+                "leftCorner": [
+                    204,
+                    196
+                ],
+                "rightCorner": [
+                    284,
+                    225
+                ],
+                "text": "Gheorghe"
+            },
+            "139": {
+                "class": "text",
+                "x": 71,
+                "y": 196,
+                "height": 29,
+                "width": 122,
+                "leftCorner": [
+                    71,
+                    196
+                ],
+                "rightCorner": [
+                    193,
+                    225
+                ],
+                "text": "24. Zybazynski,"
+            },
+            "140": {
+                "class": "text",
+                "x": 326,
+                "y": 193,
+                "height": 32,
+                "width": 111,
+                "leftCorner": [
+                    326,
+                    193
+                ],
+                "rightCorner": [
+                    437,
+                    225
+                ],
+                "text": "Ambunatitirea"
+            },
+            "141": {
+                "class": "text",
+                "x": 45,
+                "y": 166,
+                "height": 30,
+                "width": 313,
+                "leftCorner": [
+                    45,
+                    166
+                ],
+                "rightCorner": [
+                    358,
+                    196
+                ],
+                "text": "organizational, Editura Polirom, Iasi, 2003;"
+            },
+            "142": {
+                "class": "text",
+                "x": 443,
+                "y": 139,
+                "height": 27,
+                "width": 112,
+                "leftCorner": [
+                    443,
+                    139
+                ],
+                "rightCorner": [
+                    555,
+                    166
+                ],
+                "text": "comportament"
+            },
+            "143": {
+                "class": "text",
+                "x": 395,
+                "y": 138,
+                "height": 27,
+                "width": 25,
+                "leftCorner": [
+                    395,
+                    138
+                ],
+                "rightCorner": [
+                    420,
+                    165
+                ],
+                "text": "gi"
+            },
+            "144": {
+                "class": "text",
+                "x": 280,
+                "y": 137,
+                "height": 29,
+                "width": 92,
+                "leftCorner": [
+                    280,
+                    137
+                ],
+                "rightCorner": [
+                    372,
+                    166
+                ],
+                "text": "Organizatii"
+            },
+            "145": {
+                "class": "text",
+                "x": 96,
+                "y": 107,
+                "height": 29,
+                "width": 237,
+                "leftCorner": [
+                    96,
+                    107
+                ],
+                "rightCorner": [
+                    333,
+                    136
+                ],
+                "text": "Comunicare.ro, Bucuresti, 2005;"
+            },
+            "146": {},
+            "147": {
+                "class": "text",
+                "x": 493,
+                "y": 77,
+                "height": 27,
+                "width": 62,
+                "leftCorner": [
+                    493,
+                    77
+                ],
+                "rightCorner": [
+                    555,
+                    104
+                ],
+                "text": "Editura"
+            },
+            "148": {
+                "class": "text",
+                "x": 365,
+                "y": 77,
+                "height": 30,
+                "width": 119,
+                "leftCorner": [
+                    365,
+                    77
+                ],
+                "rightCorner": [
+                    484,
+                    107
+                ],
+                "text": "organizational,"
+            },
+            "149": {
+                "class": "text",
+                "x": 232,
+                "y": 77,
+                "height": 30,
+                "width": 126,
+                "leftCorner": [
+                    232,
+                    77
+                ],
+                "rightCorner": [
+                    358,
+                    107
+                ],
+                "text": "comportamentul"
+            },
+            "150": {
+                "class": "text",
+                "x": 97,
+                "y": 77,
+                "height": 26,
+                "width": 93,
+                "leftCorner": [
+                    97,
+                    77
+                ],
+                "rightCorner": [
+                    190,
+                    103
+                ],
+                "text": "Introducere"
+            },
+            "151": {
+                "class": "text",
+                "x": 71,
+                "y": 48,
+                "height": 30,
+                "width": 482,
+                "leftCorner": [
+                    71,
+                    48
+                ],
+                "rightCorner": [
+                    553,
+                    78
+                ],
+                "text": "23. Vidsceanu, Mihaela \u2014 Organizatia: proiectare si schimbare."
+            }
+        }
+    },
+    "img_106": {
+        "page": "106",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "152": {},
+            "153": {
+                "class": "text",
+                "x": 95,
+                "y": 255,
+                "height": 29,
+                "width": 70,
+                "leftCorner": [
+                    95,
+                    255
+                ],
+                "rightCorner": [
+                    165,
+                    284
+                ],
+                "text": "globale;"
+            },
+            "154": {
+                "class": "text",
+                "x": 440,
+                "y": 226,
+                "height": 29,
+                "width": 115,
+                "leftCorner": [
+                    440,
+                    226
+                ],
+                "rightCorner": [
+                    555,
+                    255
+                ],
+                "text": "informationale"
+            },
+            "155": {
+                "class": "text",
+                "x": 363,
+                "y": 226,
+                "height": 28,
+                "width": 77,
+                "leftCorner": [
+                    363,
+                    226
+                ],
+                "rightCorner": [
+                    440,
+                    254
+                ],
+                "text": "societatit"
+            },
+            "156": {
+                "class": "text",
+                "x": 266,
+                "y": 226,
+                "height": 29,
+                "width": 97,
+                "leftCorner": [
+                    266,
+                    226
+                ],
+                "rightCorner": [
+                    363,
+                    255
+                ],
+                "text": "configuratia"
+            },
+            "157": {},
+            "158": {
+                "class": "text",
+                "x": 96,
+                "y": 226,
+                "height": 26,
+                "width": 143,
+                "leftCorner": [
+                    96,
+                    226
+                ],
+                "rightCorner": [
+                    239,
+                    252
+                ],
+                "text": "resurselor_umane"
+            },
+            "159": {
+                "class": "text",
+                "x": 71,
+                "y": 166,
+                "height": 59,
+                "width": 485,
+                "leftCorner": [
+                    71,
+                    166
+                ],
+                "rightCorner": [
+                    556,
+                    225
+                ],
+                "text": "36. hitp://www.sfin.ro/articol_php?id=7889&pager_te:\n\n \n\ni, nr.99, luni 26 februarie 2007 \u2014 Rolul"
+            },
+            "160": {},
+            "161": {
+                "class": "text",
+                "x": 489,
+                "y": 107,
+                "height": 26,
+                "width": 35,
+                "leftCorner": [
+                    489,
+                    107
+                ],
+                "rightCorner": [
+                    524,
+                    133
+                ],
+                "text": "din"
+            },
+            "162": {
+                "class": "text",
+                "x": 71,
+                "y": 107,
+                "height": 56,
+                "width": 417,
+                "leftCorner": [
+                    71,
+                    107
+                ],
+                "rightCorner": [
+                    488,
+                    163
+                ],
+                "text": "3:\n\n  \n\nfebruarie 2007"
+            },
+            "163": {},
+            "164": {
+                "class": "text",
+                "x": 489,
+                "y": 48,
+                "height": 26,
+                "width": 35,
+                "leftCorner": [
+                    489,
+                    48
+                ],
+                "rightCorner": [
+                    524,
+                    74
+                ],
+                "text": "din"
+            },
+            "165": {
+                "class": "text",
+                "x": 71,
+                "y": 48,
+                "height": 56,
+                "width": 417,
+                "leftCorner": [
+                    71,
+                    48
+                ],
+                "rightCorner": [
+                    488,
+                    104
+                ],
+                "text": "34, http://www.markmedia.ro/article_show.php?g_id=567,\n\n \n\nfebruarie 2007"
+            }
+        }
+    },
+    "img_107": {
+        "page": "107",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "166": {
+                "class": "text",
+                "x": 140,
+                "y": 641,
+                "height": 103,
+                "width": 313,
+                "leftCorner": [
+                    140,
+                    641
+                ],
+                "rightCorner": [
+                    453,
+                    744
+                ],
+                "text": "EDITURA SI TIPOGRAFIA PIM.\nSoscaua $tefan cel Mare gi Sfant nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimcopy.r0\nsews: pimcopy.r0"
+            },
+            "167": {
+                "class": "text",
+                "x": 244,
+                "y": 599,
+                "height": 40,
+                "width": 106,
+                "leftCorner": [
+                    244,
+                    599
+                ],
+                "rightCorner": [
+                    350,
+                    639
+                ],
+                "text": "2 O1m"
+            },
+            "168": {
+                "class": "text",
+                "x": 210,
+                "y": 568,
+                "height": 28,
+                "width": 173,
+                "leftCorner": [
+                    210,
+                    568
+                ],
+                "rightCorner": [
+                    383,
+                    596
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

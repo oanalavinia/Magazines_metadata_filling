@@ -1,0 +1,742 @@
+{
+    "numberOfPages": 108,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 93,
+                "y": 149,
+                "height": 32,
+                "width": 428,
+                "leftCorner": [
+                    93,
+                    149
+                ],
+                "rightCorner": [
+                    521,
+                    181
+                ],
+                "text": "Doua decenii de colaborare. Bilant si perspective"
+            },
+            "2": {
+                "class": "text",
+                "x": 144,
+                "y": 68,
+                "height": 60,
+                "width": 325,
+                "leftCorner": [
+                    144,
+                    68
+                ],
+                "rightCorner": [
+                    469,
+                    128
+                ],
+                "text": "Republica Moldova,\nniunea Europeana"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "3": {
+                "class": "text",
+                "x": 63,
+                "y": 412,
+                "height": 29,
+                "width": 462,
+                "leftCorner": [
+                    63,
+                    412
+                ],
+                "rightCorner": [
+                    525,
+                    441
+                ],
+                "text": "aceasta cu Asociatia Obsteasca ,,Pro Historica\", din Chisinau"
+            },
+            "4": {
+                "class": "text",
+                "x": 69,
+                "y": 382,
+                "height": 29,
+                "width": 451,
+                "leftCorner": [
+                    69,
+                    382
+                ],
+                "rightCorner": [
+                    520,
+                    411
+                ],
+                "text": "Husi, fiind subsumata Protocolului de colaborare incheiat de"
+            },
+            "5": {
+                "class": "text",
+                "x": 68,
+                "y": 323,
+                "height": 59,
+                "width": 451,
+                "leftCorner": [
+                    68,
+                    323
+                ],
+                "rightCorner": [
+                    519,
+                    382
+                ],
+                "text": "Lucrarea apare sub e; Culturale\n\n \n\nPro Basarabia si Bucovina\u201d,"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 206,
+                "y": 566,
+                "height": 28,
+                "width": 200,
+                "leftCorner": [
+                    206,
+                    566
+                ],
+                "rightCorner": [
+                    406,
+                    594
+                ],
+                "text": "Cu o Prefaja de Dan Ravaru"
+            },
+            "8": {
+                "class": "text",
+                "x": 78,
+                "y": 446,
+                "height": 33,
+                "width": 458,
+                "leftCorner": [
+                    78,
+                    446
+                ],
+                "rightCorner": [
+                    536,
+                    479
+                ],
+                "text": "Doua decenii de colaborare. Bilant si perspective"
+            },
+            "9": {},
+            "10": {
+                "class": "text",
+                "x": 75,
+                "y": 358,
+                "height": 44,
+                "width": 462,
+                "leftCorner": [
+                    75,
+                    358
+                ],
+                "rightCorner": [
+                    537,
+                    402
+                ],
+                "text": "Romania si Uniunea Europeana"
+            },
+            "11": {
+                "class": "text",
+                "x": 158,
+                "y": 321,
+                "height": 43,
+                "width": 296,
+                "leftCorner": [
+                    158,
+                    321
+                ],
+                "rightCorner": [
+                    454,
+                    364
+                ],
+                "text": "Republica Moldova,"
+            },
+            "12": {
+                "class": "text",
+                "x": 99,
+                "y": 113,
+                "height": 31,
+                "width": 195,
+                "leftCorner": [
+                    99,
+                    113
+                ],
+                "rightCorner": [
+                    294,
+                    144
+                ],
+                "text": "STEFAN PLUGARU"
+            },
+            "13": {
+                "class": "text",
+                "x": 316,
+                "y": 109,
+                "height": 32,
+                "width": 213,
+                "leftCorner": [
+                    316,
+                    109
+                ],
+                "rightCorner": [
+                    529,
+                    141
+                ],
+                "text": "VIOREL MATASARU"
+            },
+            "14": {
+                "class": "text",
+                "x": 150,
+                "y": 63,
+                "height": 35,
+                "width": 312,
+                "leftCorner": [
+                    150,
+                    63
+                ],
+                "rightCorner": [
+                    462,
+                    98
+                ],
+                "text": "TULIAN SiNZIANU (coordonator)"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 92,
+                "y": 214,
+                "height": 26,
+                "width": 183,
+                "leftCorner": [
+                    92,
+                    214
+                ],
+                "rightCorner": [
+                    275,
+                    240
+                ],
+                "text": "ISBN 978-606-13-0049-5"
+            },
+            "16": {
+                "class": "text",
+                "x": 92,
+                "y": 89,
+                "height": 118,
+                "width": 355,
+                "leftCorner": [
+                    92,
+                    89
+                ],
+                "rightCorner": [
+                    447,
+                    207
+                ],
+                "text": "Editura OM\nEditura acreditatai CNCSIS \u2014 66/01.05.2006\n\nSoseauia Stefan cel Mare si Sfiint nr. 4, lasi~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimcopy.ro"
+            }
+        }
+    },
+    "img_103": {
+        "page": "103",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 66,
+                "y": 66,
+                "height": 718,
+                "width": 481,
+                "leftCorner": [
+                    66,
+                    66
+                ],
+                "rightCorner": [
+                    547,
+                    784
+                ],
+                "text": "oferindu-i Moldovei conditii privilegiate de comer{ sub forma\nregimului GSP plus in ianuarie 2006 si a Preferintelor Comerciale\nAutonome in martie 2008.\n\nin 2005 a fost semnat un acord de facilitare a comertului, pe\nprincipiul asimetrismului in raporturile economice bilaterale, care\nse materializeaza in exportul fara plata taxelor vamale a produselor\nmoldovenesti. Dupa 2007, UE a devenit principalul partener\neconomic al Republicii Moldova, 50,1% din exporturi in 2007 si\n45% din importuri provenind pe directia Uniunii Europene. in acest\ncontext, Romania locul al doilea la exporturi din Republica\nMoldova, dupa Rusia, si al treilea la importuri, dup\u2019 Rusia si\nUeraina.\n\nin domeniul mobilitatii persoanelor, exist\u2019 premise pentru\nflexibilizarea libertitii de miscare a cetifenilor moldoveni pe\nteritoriul Uniunii. Printre succesele acestui dialog in continua\ndesfisurare se numari negocierea si semnarea acordurilor de\nfacilitare a regimului de vize si readmisie a persoanelor, precum si\ndeschiderea Centrului Comun de eliberare a vizelor Schengen pe\nlangi Ambasada Ungariei la Chisinau. in prezent, se discutd\nacordurile cu privire la facilitarea regimului de vize si readmisie cu\nUcraina si Republica Moldova. de asemenea, a fost definit un\nParteneriat de mobilitate cu Moldova si Georgia.\n\nPentru a concluziona, beneficiile integrarii in Uniunea\nEuropeana sunt multiple si esentiale pentru progresul societatii\nmoldovenesti in urmatoarele decenii\n\n- beneficii financiare si crestere economic\u2019, manifestatd pe\nmai multe cai: accesarea direct\u00e9 a unor fonduri comunitare\nsubstantiale, indreptate spre reform administrativa, investitii in\neconomie si infrastructura; cresterea nivelului investitiilor straine,\ncu precidere a celor din statele membre, dar si cresterea\ncredibilititii fata de investitorii din statele terte. Fondurile\ncomunitare s-ar putea ridica la peste un miliard de euro anual\nCresterea economica s-ar traduce prin aparitia unui numar de noi\nlocuri de mune\u00e9, prin atingerea unui nivel decent al salarizarii, prin\nperspectiva revenirii in tara a multor dintre cetfenii moldoveni si a\n\n103"
+            }
+        }
+    },
+    "img_104": {
+        "page": "104",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 277,
+                "y": 758,
+                "height": 26,
+                "width": 37,
+                "leftCorner": [
+                    277,
+                    758
+                ],
+                "rightCorner": [
+                    314,
+                    784
+                ],
+                "text": "104"
+            },
+            "19": {
+                "class": "text",
+                "x": 54,
+                "y": 66,
+                "height": 444,
+                "width": 481,
+                "leftCorner": [
+                    54,
+                    66
+                ],
+                "rightCorner": [
+                    535,
+                    510
+                ],
+                "text": "refacerii echilibrului demografic al tari. Beneficii conexe ar fi\nposibilitatea retehnologizarii economiei, cresterea productivitatii\nmuncii, sporirea exporturilor prin accesul total la piafa comuni,\nechilibrarea balantei comerciale, sciiderea dependentei economice\n\nfoste membre ale URSS prin intermediul conditionarii furnizarii\nresurselor energetice;\n\n~ libertatea de miscare a locuitorilor Republicii Moldova,\ndeveniti cetiteni europeni, posibilitatea de a munci in statele\nmembre ale Uniunii, cu forme legale;\n\n- dobandirea unui climat de stabilitate in relatiile externe,\nsprijin acordat de institutiile comunitare pentru rezolvarea\nconflictului transnistrean, pentru reglementarea relatiilor cu Rusia\nsi Ucraina si pentru securizarea granitei de est a Republicii\nMoldova, care ar deveni, in acelasi timp, si granita a Uniunii;\n\n= accesul agricultorilor moldoveni la Politica Agricola\nComuna, obtinerea de subventii, aplicarea metodelor si a normelor\nstabilite de institutiile comunitare;\n\n= prin accesul unor specialisti moldoveni in Parlamentul\nEuropean si in alte institutii, realitatile moldovenesti si avantajele\ninvestirii in valorificarea potenfialului pam\u00e9nturilor dintre Prut si\nNistru vor deveni mai cunoscute in restul statelor europene."
+            }
+        }
+    },
+    "img_105": {
+        "page": "105",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "20": {
+                "class": "text",
+                "x": 289,
+                "y": 758,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    289,
+                    758
+                ],
+                "rightCorner": [
+                    325,
+                    784
+                ],
+                "text": "105"
+            },
+            "21": {},
+            "22": {},
+            "23": {},
+            "24": {},
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 464,
+                "y": 471,
+                "height": 29,
+                "width": 82,
+                "leftCorner": [
+                    464,
+                    471
+                ],
+                "rightCorner": [
+                    546,
+                    500
+                ],
+                "text": "Bucuresti,"
+            },
+            "27": {
+                "class": "text",
+                "x": 379,
+                "y": 471,
+                "height": 29,
+                "width": 82,
+                "leftCorner": [
+                    379,
+                    471
+                ],
+                "rightCorner": [
+                    461,
+                    500
+                ],
+                "text": "Europene,"
+            },
+            "28": {},
+            "29": {},
+            "30": {},
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {
+                "class": "text",
+                "x": 92,
+                "y": 126,
+                "height": 613,
+                "width": 455,
+                "leftCorner": [
+                    92,
+                    126
+                ],
+                "rightCorner": [
+                    547,
+                    739
+                ],
+                "text": "Catalin Andrus, Relajiile internationale ale Uniunii Europene,\nBucuresti, Academia de Politie Alexandru oan Cuza\u201d, 2009,\nteza de doctorat.\n\nPetru Bedros Naianu, Uniunea Europeand; Repere istorice;\nInstitutii; Programe, Bucuresti, Editura Aisteda, 2002.\n\nDoina Bordeianu, Politica Europeand de Vecindtate. Cazul\nRepublicii Moldova si al Ucrainei, lasi, Editura Lumen, 2007.\nIoan Ciuperc\u2019, Lucian Leustean, Istoria ideii de Europa si a\nintegrarii europene dupa 1945, lasi, Universitatea Alexandru\nJoan Cuza\u201d, 2004.\n\nValentin Constantin (ed.), Documente de baz\u00e9 ale Comunitagii\nsi Uniunii Europene, lasi, Editura Polirom, 1999.\n\nDanut Paul Duti, Dan lonici, EU-27. Politica European de\nVecinditate, Sibiu, Techno Media, 2007\n\nDanut Paul Dut\u2019, Mihail Teodor Purcrea, Ovidiu Cordoneanu,\nEuropa largiti\u00e9. Realizari si perspective, Sibiu, Techno Media,\n2008.\n\nAugustin Fuerea, Manualul Uniunii\nUniversul Juridic, editia a 4-a, 2010.\n\nLucian Jora, Cristina Vohn, Irina Stoica, Din politica externa a\nUniunii Europene. Relatiile de vecin\u00e9tate, Bucuresti, Editura\nInstitutului de Stiinte Politice si Relatii Internationale, 2007.\nPaul Lucian, Uniunea European, Sibiu, Editura Universitatii\nLucian Blaga, 2004,\n\nConstantin Mostoflei, Vasile Popa, Rolul UE in asigurarea\nsecuritatii globale, Bucuresti, Editura Universitatii Nationale de\nAparare Carol I, 2008.\n\nIon Nifi, lulica Voicu, luliana Scarlitescu, Isabella Sima,\nDicfoinar explicativ al Uniunii Europene, Bucuresti, Editura\nIrecson, 2009."
+            },
+            "36": {
+                "class": "text",
+                "x": 67,
+                "y": 83,
+                "height": 29,
+                "width": 204,
+                "leftCorner": [
+                    67,
+                    83
+                ],
+                "rightCorner": [
+                    271,
+                    112
+                ],
+                "text": "BIBLIOGRAFIE UTILA:"
+            }
+        }
+    },
+    "img_106": {
+        "page": "106",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "37": {},
+            "38": {},
+            "39": {},
+            "40": {},
+            "41": {},
+            "42": {},
+            "43": {
+                "class": "text",
+                "x": 450,
+                "y": 512,
+                "height": 29,
+                "width": 83,
+                "leftCorner": [
+                    450,
+                    512
+                ],
+                "rightCorner": [
+                    533,
+                    541
+                ],
+                "text": "Europene,"
+            },
+            "44": {},
+            "45": {},
+            "46": {},
+            "47": {},
+            "48": {},
+            "49": {},
+            "50": {},
+            "51": {},
+            "52": {
+                "class": "text",
+                "x": 79,
+                "y": 67,
+                "height": 717,
+                "width": 456,
+                "leftCorner": [
+                    79,
+                    67
+                ],
+                "rightCorner": [
+                    535,
+                    784
+                ],
+                "text": "Constantin Onisor, Dan Ionica, Paul Danut Duta, UE \u2014 27 si\nTratatul de la Lisabona, Sibiu, Techno Media, 2008.\nNicolae Paul,, Adrian ~ Ciprian Paun, Radu Albu-Comatescu,\nInstitusiile Uniunii Europene. Evolufii si proiecte de reforma,\nCluj-Napoca, Editura Fundatiei pentru Studi Europene (EFES),\n2004.\nNicolae Paun, [storia constructiei europene. Epoca posthelic\u00e9,\nCluj \u2014 Napoca, Editura Fundatiei pentru Studi Europene,\n2000.\nDaniela \u2014 Roxana Paun, Uniunea economica si monetara.\nIstoric si perspective, Bucuresti, Universul Juridic, 2005.\nOvidiu Pecican, Romania si integrarea europeand, Cluj \u2014\nNapoca, Editura Eikon, 2003.\nFlore Pop, Sergiu Gherghina, George Jigliu, Uniunea\nEuropeand. drept, institufii si politici comunitare, Cluj Napoca,\nEditura Argonaut, 2009.\nFlore Pop, Sergiu Gherghina, Liviu \u2014 Petru Zpartan, Uniunea\nEuropean dupa 50 de ani. Intre entuziasmul extinderii si\naprofundarea integrarii, Cluj \u2014 Napoca, Editura Argonaut,\n2007.\nNicu Popescu, Europeand Union's foreign policy towards\nMoldova, Bucuresti, Politeia ~ SNSPA, 2003.\nGheorghe Prisacaru, Istoria si evolusia Uniuni | Europen\nEditura Universititii din Suceava, 2002. [Eworee\nMarius Profiroiu, Alina Profiroiu, Irina Popescu, Institufii si\npolitici europene, Bucuresti, Editura Economica, 2008.\nMarius Profiroiu, Irina Popescu, Politici europene, Bucuresti,\nEditura Economica, 2003.\nJean \u2014 Luc Sauron, Curs de institufii europene. Puzzle \u2014 ul\neuropean, lasi, Editura Polirom, 2010.\nDana ~ Victoria Savu, Libertafi fundamentale si cetiifenesti in\nUniunea Europeand, Bucuresti, Editura ASE, 2007.\nStelian Sciunas, Uniunea Europeand. constructie,reform\u00e9,\ninstituyii, drept, Bucuresti, C.H.Beck, 2008.\n\n106"
+            }
+        }
+    },
+    "img_107": {
+        "page": "107",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "53": {
+                "class": "text",
+                "x": 289,
+                "y": 758,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    289,
+                    758
+                ],
+                "rightCorner": [
+                    325,
+                    784
+                ],
+                "text": "107"
+            },
+            "54": {},
+            "55": {
+                "class": "text",
+                "x": 485,
+                "y": 696,
+                "height": 29,
+                "width": 61,
+                "leftCorner": [
+                    485,
+                    696
+                ],
+                "rightCorner": [
+                    546,
+                    725
+                ],
+                "text": "Repere"
+            },
+            "56": {},
+            "57": {},
+            "58": {},
+            "59": {
+                "class": "text",
+                "x": 403,
+                "y": 514,
+                "height": 29,
+                "width": 143,
+                "leftCorner": [
+                    403,
+                    514
+                ],
+                "rightCorner": [
+                    546,
+                    543
+                ],
+                "text": "Bucuresti, Editura"
+            },
+            "60": {},
+            "61": {
+                "class": "text",
+                "x": 505,
+                "y": 473,
+                "height": 29,
+                "width": 41,
+                "leftCorner": [
+                    505,
+                    473
+                ],
+                "rightCorner": [
+                    546,
+                    502
+                ],
+                "text": "lasi,"
+            },
+            "62": {
+                "class": "text",
+                "x": 331,
+                "y": 473,
+                "height": 29,
+                "width": 171,
+                "leftCorner": [
+                    331,
+                    473
+                ],
+                "rightCorner": [
+                    502,
+                    502
+                ],
+                "text": "proiectelor europene,"
+            },
+            "63": {},
+            "64": {},
+            "65": {},
+            "66": {},
+            "67": {},
+            "68": {},
+            "69": {},
+            "70": {
+                "class": "text",
+                "x": 462,
+                "y": 209,
+                "height": 30,
+                "width": 83,
+                "leftCorner": [
+                    462,
+                    209
+                ],
+                "rightCorner": [
+                    545,
+                    239
+                ],
+                "text": "Europene,"
+            },
+            "71": {
+                "class": "text",
+                "x": 396,
+                "y": 209,
+                "height": 26,
+                "width": 65,
+                "leftCorner": [
+                    396,
+                    209
+                ],
+                "rightCorner": [
+                    461,
+                    235
+                ],
+                "text": "Uniunii"
+            },
+            "72": {},
+            "73": {},
+            "74": {
+                "class": "text",
+                "x": 457,
+                "y": 168,
+                "height": 30,
+                "width": 90,
+                "leftCorner": [
+                    457,
+                    168
+                ],
+                "rightCorner": [
+                    547,
+                    198
+                ],
+                "text": "drepturilor"
+            },
+            "75": {},
+            "76": {},
+            "77": {
+                "class": "text",
+                "x": 92,
+                "y": 67,
+                "height": 678,
+                "width": 455,
+                "leftCorner": [
+                    92,
+                    67
+                ],
+                "rightCorner": [
+                    547,
+                    745
+                ],
+                "text": "Daniel L. Seiler, Partidele politice din Europa, lasi, Editura\nInstitutului European, 1999.\nDusan Sidjanski, Viitorul federalist al Europei. Comunitatea\neuropeand de la origini la Tratatul de la Lisabona, lasi, Editura\nPolirom, 2010.\n\nBianca Selejan-Gufan, Protectia europeand\nomului, Bucuresti, C.H.Beck, 2006.\n\n  \n  \n  \n  \n  \n  \n  \n   \n  \n \n \n   \n  \n  \n\nDavid Spence, George Edwards, Hussein Kassim,, Comisia\nEuropean\u00e9, Bucuresti, Monitorul Oficial, 2008.\nTeodora Stinescu \u2014 Stanciu, Istoria integrarii europene,\nBucuresti, Editura Fundatici Romania de Maine, 2007.\nCamelia Stoica, Libera circulatie a persoanelor in Uniunea\nEuropean\u00e9, Bucuresti, Oscar Print, 2001.\nMonica Maricela Stoica, Uniunea Europeand. O abordare\ninstitufionaliz, Bucuresti, Pro Universitaria, 2009.\nOvidiu Stoica, Luis Palma Martos, Ana-Maria Bercu, Politici\nale Uniunii Europene, lasi, Editura Universititii Alexandru\nJoan Cuza, 2009.\n\nDaniela Suteu, Managementul| proiecteloreuropene, | lasi, |\n\nPolitehnium, 2008.\nOvidiu Tinea, Drept comunitar general,\nDidactica si Pedagogic\u2019, 1999.\n\nTheodor Tudoroiu (trad.), Tratatul de la Amsterdam. Tratatul\nasupra Uniunii Europene si Tratatul instituind Comunitatea\nEuropean\u00e9 cu modificdrile aduse de Tratatul de la Amsterdam,\nBucuresti, Editura Lucretius, 1999.\nUniunea Europeand. istoric, institufii, procese de decizie,\nInstitutul European din Romania, Bucuresti, Blueprint\nInternational, 2003.\n\nVasile Mircea Zaberca, Constructia europeand.\nistorice, Resita, Editura Eftimie Murgu, 2001."
+            }
+        }
+    },
+    "img_108": {
+        "page": "108",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "78": {
+                "class": "text",
+                "x": 277,
+                "y": 758,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    277,
+                    758
+                ],
+                "rightCorner": [
+                    313,
+                    784
+                ],
+                "text": "108"
+            },
+            "79": {
+                "class": "text",
+                "x": 510,
+                "y": 225,
+                "height": 29,
+                "width": 24,
+                "leftCorner": [
+                    510,
+                    225
+                ],
+                "rightCorner": [
+                    534,
+                    254
+                ],
+                "text": "si"
+            },
+            "80": {
+                "class": "text",
+                "x": 440,
+                "y": 225,
+                "height": 26,
+                "width": 66,
+                "leftCorner": [
+                    440,
+                    225
+                ],
+                "rightCorner": [
+                    506,
+                    251
+                ],
+                "text": "Externe"
+            },
+            "81": {
+                "class": "text",
+                "x": 55,
+                "y": 205,
+                "height": 263,
+                "width": 479,
+                "leftCorner": [
+                    55,
+                    205
+                ],
+                "rightCorner": [
+                    534,
+                    468
+                ],
+                "text": "http://europa.ew - site-ul oficial al Uniunii Europene\nhttp://www.mfa.gov.md/ -  Ministerul Afacerilor\n\nIntegrarii Europene a Republicii Moldova\nhttp://www.mf.gov.md/ro/about/divisions/aparcent/ueropeintegr/-\nMinisterul Finantelor al Republicii Moldova. Directia integrare\neuropean, relatii internationale si protocol.\n\nhttp://www.mae.ro/ - Ministerul Afacerilor Externe al Romaniei\nwww.infoeuropa. ro.\nwowwive.mae.ro\n\nwww.europeana.ro\nwww.cdep.ro\nwww.infoeuropa.ro\nwww.e-scoala.ro."
+            },
+            "82": {
+                "class": "text",
+                "x": 55,
+                "y": 166,
+                "height": 29,
+                "width": 109,
+                "leftCorner": [
+                    55,
+                    166
+                ],
+                "rightCorner": [
+                    164,
+                    195
+                ],
+                "text": "Legaturi utile:"
+            },
+            "83": {},
+            "84": {
+                "class": "text",
+                "x": 81,
+                "y": 67,
+                "height": 68,
+                "width": 453,
+                "leftCorner": [
+                    81,
+                    67
+                ],
+                "rightCorner": [
+                    534,
+                    135
+                ],
+                "text": "Letitia Zahiu, Anca Dachin, Victor Manole, Agricultura\nUniunii Europene sub impactul politicii agricole comune,\n\n \n\nBucuresti, Editura Ceres, 2006."
+            }
+        }
+    }
+}

@@ -1,0 +1,637 @@
+{
+    "numberOfPages": 253,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 353,
+                "y": 644,
+                "height": 26,
+                "width": 55,
+                "leftCorner": [
+                    353,
+                    644
+                ],
+                "rightCorner": [
+                    408,
+                    670
+                ],
+                "text": "PIM"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 158,
+                "y": 479,
+                "height": 28,
+                "width": 319,
+                "leftCorner": [
+                    158,
+                    479
+                ],
+                "rightCorner": [
+                    477,
+                    507
+                ],
+                "text": "MONOGRAFIA GENULUI ROSA"
+            },
+            "4": {
+                "class": "text",
+                "x": 146,
+                "y": 377,
+                "height": 32,
+                "width": 343,
+                "leftCorner": [
+                    146,
+                    377
+                ],
+                "rightCorner": [
+                    489,
+                    409
+                ],
+                "text": "GINGASIE - FRUMUSETE - SANATATE"
+            },
+            "5": {},
+            "6": {
+                "class": "text",
+                "x": 122,
+                "y": 296,
+                "height": 48,
+                "width": 330,
+                "leftCorner": [
+                    122,
+                    296
+                ],
+                "rightCorner": [
+                    452,
+                    344
+                ],
+                "text": "TRANDAFIRU"
+            },
+            "7": {
+                "class": "text",
+                "x": 202,
+                "y": 181,
+                "height": 29,
+                "width": 230,
+                "leftCorner": [
+                    202,
+                    181
+                ],
+                "rightCorner": [
+                    432,
+                    210
+                ],
+                "text": "lector di\n\n \n\nig. Elena BAVARU"
+            },
+            "8": {
+                "class": "text",
+                "x": 131,
+                "y": 124,
+                "height": 48,
+                "width": 373,
+                "leftCorner": [
+                    131,
+                    124
+                ],
+                "rightCorner": [
+                    504,
+                    172
+                ],
+                "text": "membru de onoare"
+            },
+            "9": {}
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {}
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "10": {
+                "class": "text",
+                "x": 486,
+                "y": 83,
+                "height": 625,
+                "width": 50,
+                "leftCorner": [
+                    486,
+                    83
+                ],
+                "rightCorner": [
+                    536,
+                    708
+                ],
+                "text": "pag.l\n\npag3\n\npag3\n\npag.6\npag.23\npag.23\npag,23\npag.24\npag.25\npag.25\npag.26\npag.28\npag.29\npag.29\npag.31\npag.33\npag.34\npag.36\npag.37\npag.37\npag.37\npag.d0\npagd0\npag.40\npag40\npag.46\npag49\npag49\npag.54\npag.s7\npag.59\npag.63\npag.63\npag.66\npag.71\npag.77\npag.79\npag.80\npag.83"
+            },
+            "11": {
+                "class": "text",
+                "x": 65,
+                "y": 82,
+                "height": 626,
+                "width": 372,
+                "leftCorner": [
+                    65,
+                    82
+                ],
+                "rightCorner": [
+                    437,
+                    708
+                ],
+                "text": "Introducere\nCap.\n\nCap.\n\nCap.\n\nCap.\n\nCap.\n\nCap.\n\nCap.\nCap.\nCap.\n\n2\n\n- Legendele si istoricul trandafirului\n\n1.1, Legende despre trandafiri\n1.2. Istoricul trandafirilor de-a lungul mileniilor\nDeserierea morfologicd a trandafirului\n2.1. Tulpinile\n2.2. Radacinile\n2.3. Frunzele\n2.4, Mugurit\n2.5, Inflorescenfele\n2.6, Florile\n2.7. Fructul\n\n. Cerintele ecologice ale trandafirului\n\n3.1, Aerul\n3.2. Lumina\n3.3. Temperatura\n3.4, Apa\n_ 3.5. Solul\n{inmultirea trandafirilor\n4.1, Inmultirea asexuati\n4.1.1. fnmultirea prin butisire\n4.1.2. inmultirea prin marcotaj arcuit\n4.1.3. inmultirea prin drajonare\n4.1.4, Inmultirea prin frunze\n4.1.5. inmultirea prin altoire\n4.2. inmultirea sexuata\nTehnologiile de cultivare a trandafirilor\n5.1. Plantarea trandafirilor la locul definitiv\n5.2, Lucratile de primavara\n5.3. Lucile de vara\n5.4. Lucritile de toamna\nBolile si daundtorii trandafirilor\n6.1, Bolile trandafirilor\n6.2. Daunatorii animali ai randafirilor\nCulturile fortate de trandafiri\nCultivarea trandafirilor pentru flor taiate\nClasificarea speciilor si soiurilor din genul Rosa\n9.1, Clasificarea botanica a genului Rosa\n9.2. Clasificarea genului Rosa dupa origine"
+            },
+            "12": {
+                "class": "text",
+                "x": 68,
+                "y": 54,
+                "height": 28,
+                "width": 97,
+                "leftCorner": [
+                    68,
+                    54
+                ],
+                "rightCorner": [
+                    165,
+                    82
+                ],
+                "text": "CUPRINS:"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 479,
+                "y": 98,
+                "height": 610,
+                "width": 57,
+                "leftCorner": [
+                    479,
+                    98
+                ],
+                "rightCorner": [
+                    536,
+                    708
+                ],
+                "text": "pag.84\n\npag.87\n\npag.87\n\npag.96\npag. 105\npag.106\npag. 108\npag.110\npag.110\npag.I11\npag.152\npag. 161\npag. 165\npag.167\npag.170\npag.177\npag.187\npag.187\npag. 189\npag.193\npag.197\npag.197\npag. 198\npag.199\npag.201\npag.205\npag.211\npag.2I1\npag.212\npag.215\npag.219\npag.222\npag.225\npag.229\npag.231\npag.235\npag.237\npag.239"
+            },
+            "14": {
+                "class": "text",
+                "x": 64,
+                "y": 98,
+                "height": 610,
+                "width": 409,
+                "leftCorner": [
+                    64,
+                    98
+                ],
+                "rightCorner": [
+                    473,
+                    708
+                ],
+                "text": "intrebuintare\n\nCap. 10. Des\n\nCap.\n\nCap.\nCap.\n\nCap.\nCap.\n\nCap.\nCap.\n\n12,\n1B\n\n14,\n\n15\n\n16,\n17,\n\n \n\njerea principalelor specii si soiuri de trandafiri\n10.1. Speciile silbatice\n10.2. Trandafiri clasici\n10.3. Trandafirii Portland\n10.4. Trandafirii Noisette\n10.5. Trandafirii Bourbon\n10.6. Trandafirii modern\nA. Trandafirii Thea\nB. Trandafirii Thea-hybrida\nC. Trandafirii Polyantha si Floribunda\nD. English Roses\nTrandafirii uredtori\n11.1. Soiuri de tip Rambler\n11.2. Soiuri de tip Climber\nTrandafirii Miniatur\nTrandatirii acoperitor si pletosi\n13.1. Trandafirii acoperitori (taratori)\n13.2. Trandafiri pletosi\nTrandafiri\u00e9 remontant\nGenul Rosa pe teritoriul Rom\u00e9niei\n15.1. Specii silbatice\n15.2. Soiuri cultivate\n15.3. Extinderea culturilor de trandafiri in Romania\n15.4. Crearea soiurilor de trandafiri in Romania\nCrearea soiurilor de trandafiri pe plan mondial\nUtilizarile trandafirilor\n17.1. Trandafirii cu rol decorativ\n17.2. Trandafirii adaptati la conditii ecologice speciale\n173. Plantele insotitoare\n17.4, Marile pareuri cu trandafiri\n17.5. Trandafirii ca baza odoranta in parfumerie\n17.6. Utilizari in medicina i cosmetics\n177. Utilizarea trandafirilor in alimentatie\n17.8. Buchetul de trandafiri\n17.9, Trandafiri in literatura gi arta\n\n \n\n \n\n \n\nBibliografie\nIndexul soiurilor si speciilor"
+            },
+            "15": {
+                "class": "text",
+                "x": 486,
+                "y": 67,
+                "height": 26,
+                "width": 49,
+                "leftCorner": [
+                    486,
+                    67
+                ],
+                "rightCorner": [
+                    535,
+                    93
+                ],
+                "text": "pag.83"
+            },
+            "16": {
+                "class": "text",
+                "x": 164,
+                "y": 66,
+                "height": 43,
+                "width": 317,
+                "leftCorner": [
+                    164,
+                    66
+                ],
+                "rightCorner": [
+                    481,
+                    109
+                ],
+                "text": "9.3. Clasificarea genului Rosa dupa forma de crestere\n94 Clasificarea genului Rosa dun madul de"
+            }
+        }
+    },
+    "img_248": {
+        "page": "248",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "17": {},
+            "18": {},
+            "19": {},
+            "20": {},
+            "21": {
+                "class": "text",
+                "x": 75,
+                "y": 64,
+                "height": 646,
+                "width": 120,
+                "leftCorner": [
+                    75,
+                    64
+                ],
+                "rightCorner": [
+                    195,
+                    710
+                ],
+                "text": "Golden Sunblaze\n\u2018Golden Surprise\nGolden Wines\n\n\u2018Gordon Eddie\n\n\u2018Grace de Monaco\n(Grace Kelly\n\nGrafin Sonja\n\n\u2018Graham Stuart Thomas\n\u2018Graham Thomas\n\u2018Grand Chateau\n\n\u2018Grande Dickson\nGrande Walzer\n\nGrand Galen\nGrandiflora Rose\n\u2018Grand Mere Jenny\n\u2018Great Maiden\u2019s Blush\nGroen Rose\n\nGreeting\n\nGris an Aachen\nGGriss an Coburg\nGris an Tepliz 1\n\nse: a\n\nHadley Rose\nHinde!\nHans Molisch\nHappiness ul\nHappy Aniversary\n\nks\n\n \n\n \n\nHeadliner\nHebe\n\nHeideking\nHeiderslein Nozomi\nHelene Traubel\nHeritage\n\nHeros\n\nHerz Ass\n\nHeureux Anniversire\nHighlight\n\nHigh Noon\n\nHolstein\n\nHolstein Perle\nHoneymoon"
+            },
+            "22": {
+                "class": "text",
+                "x": 179,
+                "y": 63,
+                "height": 647,
+                "width": 342,
+                "leftCorner": [
+                    179,
+                    63
+                ],
+                "rightCorner": [
+                    521,
+                    710
+                ],
+                "text": "leebere 155,172\nTee Cream 126\nIse Krohn Superior 169\nImp\u00e9rial Patentate 114\nImperatrice Farah 7\nIncandescent 196\nIngegnoli Pre 105\nIngrid Bergman 69, 114\nIntegrity bs\nk a7\n\nba\n\n146,\nIn\u00e9ne Watts Is\nIrish Eyas 156\nIris Gold 16\nIsabel de Orit ba\nIspahan oo\nIvory Fashion 159\n\n4\n\nJack Rose 187\nSacobite Rose 93\nJacques Carter 102\nJade 7\nJames Gibson 14\nJardin de Bagatelle 141\nJaen de France 132,\nJohn Armstrong us\nSohn Davison 4\nJolin Russel hia\nJohn Watarer lia\nTole Madade a8\n\u2018Josephine Bruce 11\nSubil\u00e9 Prince de Monaco 156\nSudit 97\nTune Park 12s\nSupite\u2019s Lighting 184\nJust Joey 10\n\n \n\ncs}\n\nKaiserin Auguste Vietoria 141\nKaiserin Farah a7\nKardinal us\nKarl Herbst iis\nKaren Blixen| Mi\nKate Schmid Mult 169\nKatherine Mansfield 121, 144,\nKatherine Zeimat 149, 180,\nKazanlik 96\nKing's Ransom 71, 136,\nKiss of Desire 169\nKanigin der Rosen 130\nKonigin Louise rr\nKonrad Adenauer us\nKordes Porfecta 127, Lal\nKorp Ish\nKorresis Isa\n\nLa Brillante 187\nLa Champagne 17\nLady Belder 130\nLady Florence Stonge 147\nLady H\u00e9l\u00e9n Maglona 115\nLady Hillington\n\nLady Like\n\nLady Maysie Robinson\n\nLady Meillandina\n\nTa France\n\nLaFrance de 1889\n\nTaJolla\n\nal\n\nLLandora\n\nTaRosee\n\nTaSevillana\n\nLas Vegas\n\nTaurete Messimy\n\nLavender Dream\n\nLavender Jewel\n\nLavender Lassie\n\nLawinia\n\nLawrence Johnston\n\nLemesle"
+            }
+        }
+    },
+    "img_249": {
+        "page": "249",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 533,
+                "width": 453,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    528,
+                    596
+                ],
+                "text": "Teonardo da Vine \u2018152\nLeonora hrisine 112\nLeontine Gervais 170\nLeopoldine d'Orl\u00e9ans 100\nLeR\u00e9ve 170,185\nLeslie's Dream us\nLettuce Leaved Rose 94\nLLeverkusten 101,170\nLe Veswve 185\nLicbestied Mar\niebeseauber| lis\nLiliae Chaem 155\nil Marlen BI\nLimelight, 139\nLite Arist 175\nite Flt us\nLittle Opal 176\nite White Pet i\nLodestar BL\nLord Charlemond = 115;\nLouis de Funes BI\nLouise Crinner M1\nLouise Krauser BI\nLovely Lady bs\nLove Song 147\nLoving Memory M0\nLuchian 196\nLucy Cramphorn 115\nCaneli 152\nM\nMabe iBT\nMac Gredy\u2019s Scarlat 115\nMada 67\nMadame Alfred Carrgre 104\nMadame Hardy 7\n\nMadame Louis Leveque 95\n\n \n\nMadona aT\n\n \n\n \n\n \n\nMagali us\nMahogena 131\nMainzerFasinacht 144\nMaman Cochet 98, 107\nManyika bs\nMaree van Houte 98\nMar\u00e9ehal le Clere 129)\nMar\u00e9chal Niel 07\nMargaret bs\nMargaret Meri 136\nMargaret Thatcher 123,\nMargaretha Mole 194\nMaria Mathilda Iso\nMariandel 11\nMarie Pavig 180\nMarie Vitorin 100\nMarjoriele Grice 131\nMarquise Boccela 102\nMarin Forbisher 100,\nMarton Aron Emicke 125,\nMary Harth us\nMary Merry Wester 137\nMary Rose 159\nMascotte Ds\nMasquerade 1s\nMatilde Bote 1a\nMaxim 126\nMaxima 93\nMax Krause BI\nMay Queen 165\nMazzi, ia\nMeCartney Rose 126\nMeGredy\u2019s Ivory 142\nMeigabi 79\ninda Gainsford 109\nMemoire 126\nMemoriam 142\nMercedes 09.22\n\nMerveillede Lyon 105\n\n \n\nMessage\nMeteor\n\nMetro\n\nMichele Meiland\nMignorete\nMillecentenarium\nMilocd\n\nMilrose\n\nMirela\n\nMischief\n\nMiss France\n\nMiss Ireland\nMister Lincoln\n\nMeme Buttery\n\u2018Meme Dieudonn\u00e9\nMeme Gredy's Sunset\nMeme Henry Gullot\n\u2018Meme Josephine Muble\n\u2018Meme Jules Bouch\u00e9\nMeme Kriloft\n\n \n\n16\nMeme A. Meilland 71, 137\n\na7\nur\nBI\n16\n194\n12\n131\n\n\u2018Meme Laurette Messimy 185,\nMeme Louise Laperri\u00e9ro 116\n\nMeme Ren\u00e9 Coty 116\nMeme Segond Weber 126\n\u2018Meme Vietor Verdier 188\nMojave BL\nMolineaux 159\nMondiale 1s\nMonika 16\nMonique 6\nMontana si\nMontezuma 70,126, 157\nMoondance 187\n\u2018Moulin Rouge 151\nMousseline 95\nMr. Blind 181\nMr. Lincoln o\nMr. Perkins 132\nMrs Charles Russel 116,"
+            }
+        }
+    },
+    "img_250": {
+        "page": "250",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 474,
+                "y": 660,
+                "height": 34,
+                "width": 29,
+                "leftCorner": [
+                    474,
+                    660
+                ],
+                "rightCorner": [
+                    503,
+                    694
+                ],
+                "text": "18,\nfea"
+            },
+            "25": {
+                "class": "text",
+                "x": 372,
+                "y": 660,
+                "height": 34,
+                "width": 52,
+                "leftCorner": [
+                    372,
+                    660
+                ],
+                "rightCorner": [
+                    424,
+                    694
+                ],
+                "text": "Radar\nRadiance"
+            },
+            "26": {},
+            "27": {
+                "class": "text",
+                "x": 371,
+                "y": 568,
+                "height": 36,
+                "width": 136,
+                "leftCorner": [
+                    371,
+                    568
+                ],
+                "rightCorner": [
+                    507,
+                    604
+                ],
+                "text": "\u2018Queen Elizabeth Rose\nQueen of Beauty 105"
+            },
+            "28": {},
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 319,
+                "y": 221,
+                "height": 467,
+                "width": 50,
+                "leftCorner": [
+                    319,
+                    221
+                ],
+                "rightCorner": [
+                    369,
+                    688
+                ],
+                "text": "7\n176\nur\n153,\nBT\nm1\n137\n178\n14\n27\n7\ni7\n98\n149, 185\ntol\nrey\n9s\nbs\n17\n17\n3\nbr\n177,183\nm1\n127\n100\nMa\n127\n7"
+            },
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 371,
+                "y": 66,
+                "height": 445,
+                "width": 142,
+                "leftCorner": [
+                    371,
+                    66
+                ],
+                "rightCorner": [
+                    513,
+                    511
+                ],
+                "text": "Pius XT\n\n  \n    \n  \n  \n \n\n \n\n \n\nPoetry in Motion\nPoker\n\nPolarsern\n\nPolka\n\nPolly\n\nPompon de Bourgogne 95\nPorcelain 13\nPorta Nigra 7\nPot o'Gold 138\nPoulsen\u2019s Bedder 183,\nPrecious Michelle 140\nPreference ia\nPremial Bal ry\nPresident Armand Zinsch 138\nPresident Briand 156\nPresident Herber Hoover St\nPresident Macia 1s\nPrima Ballerina br\nPrima Donna rn\nPrince de Bulgarie 127\n\nPrince Felix de Laxemb, 118\nPrincess de Monaco 143\nPrincess Grace 3\nPrincess of Wales 155\nPrincesse de Monaco 128\nPrincesse Yvonne Ghika 194\nPristine\n\nProcminent\nProfi Grinescu\nProfiLC.Teadoreseu\nProffasion\nProvence\n\nPuerta del Solo\nPyren\u00e9es"
+            },
+            "35": {
+                "class": "text",
+                "x": 75,
+                "y": 64,
+                "height": 646,
+                "width": 107,
+                "leftCorner": [
+                    75,
+                    64
+                ],
+                "rightCorner": [
+                    182,
+                    710
+                ],
+                "text": "Mrs. Henry Bowles\nMrs. Henry Morse\nMrs. John Laing\nMrs. Sam Gredy\nMrs. William Egan\n\u201cMunehener Kind\nMutabils\n\nMy Choise\n\nMy Faire Lady\nMy Lady\n\n \n\nNaissance de Venus\nNaomi\n\nNathalie Botner\nNederland\n\nNelly Versehuren\nNevada\n\nNew Dawa,\n\nNew Dawn Wich\nNew Day\nNew-Yorker\nNiagara Fride\nNiphetos\nNocturne\nNostalgie\nNozomi\n\nNuit de Young\n\nOcarina fe]\n\n\u2018Oiseau Canari\n(Old Black\n\n(Old Blush\n\n01d Glory\n\n\u2018Old Pink Daily\n\n\u2018Old Pink Monthly\n\u2018Olympia\nOlympiad\n\n\u2018Omar Khayyam\nOpera\n\nOphelia\n\u2018Orangeade\n\nOrange Meillandina"
+            },
+            "36": {
+                "class": "text",
+                "x": 191,
+                "y": 63,
+                "height": 647,
+                "width": 139,
+                "leftCorner": [
+                    191,
+                    63
+                ],
+                "rightCorner": [
+                    330,
+                    710
+                ],
+                "text": "93\n0\nLT\n16\n137\nia\nlos\nin\nBT\nM7\n\nuw\n1s\n183\n\n176\n\n95\nIss\n130\nas\n8s\n47\nM7\n\nut\niar\n156\nV8\n\n \n\n\u2018Orange Sensation\nOrange Triumph\nOrleans Rose\n(Oshima Rose\nOsiana\n\n(Oswald Sieper\n\nOthelo\n\nPaddy Me. Gredy\nPalossay Maria\nPapa Meilland\n\nPaul Crampel\nPaulete\n\nPaul Me, Caney\nPaul Richard\n\nPerfeta\nPetia de Alcanada\nPerle de Monserrat\nPerle des Jardins\nPetie d'Or\n\nPersian Yellow\nPeter Frankenfeld\nPate de Holland\nPhyllis Gold\nPiccadilly\n\nPicture\n\nPierre de Ronsard\nPigalle\n\nPink Bells\n\nPink Cloud\n\nPink Favorite\nPink Fire\n\nPink Peace\n\nPink Perfoot\n\nPink Symphonie"
+            }
+        }
+    },
+    "img_251": {
+        "page": "251",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 463,
+                "y": 127,
+                "height": 579,
+                "width": 53,
+                "leftCorner": [
+                    463,
+                    127
+                ],
+                "rightCorner": [
+                    516,
+                    706
+                ],
+                "text": "18\n181\n\n176\n\n155, 172"
+            },
+            "38": {
+                "class": "text",
+                "x": 365,
+                "y": 126,
+                "height": 585,
+                "width": 114,
+                "leftCorner": [
+                    365,
+                    126
+                ],
+                "rightCorner": [
+                    479,
+                    711
+                ],
+                "text": "Sabine\nSabrina\nSafran\nSalmon Perfection\nSemanzha\n\nam Me. Gredy\nSander\u2019s White\nSantana\nSarabande\nSttchmo\nScaramouche\nSchlosser Bila\nSchloss Glucksburd\nSchneeflocke\nSchneewalzer\nSchneewittchen\nSchoolgirl\nSchwarze Madonn\nSeagull\nSecret\nSensass Dear\nSensation\nSerenada\nShaile\u2019s White Mohs\nSharifa Asma\nSheer Bliss\nSheet Elegance\nShot Sill\nSignature\nSilver Anniversary\nSilver Columbia\nSilver Jubilee\nSilver Linning\nSimfonia\nSimina\nSimply Hearen\nSir Winston Churel\nSissi\nSnow Ball\nSnow Carpet\nSnow Queen\nSoldier Boy\nSoleil Or\nSolitaire\nSola"
+            },
+            "39": {},
+            "40": {
+                "class": "text",
+                "x": 334,
+                "y": 79,
+                "height": 47,
+                "width": 29,
+                "leftCorner": [
+                    334,
+                    79
+                ],
+                "rightCorner": [
+                    363,
+                    126
+                ],
+                "text": "194 |\n\n101"
+            },
+            "41": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 648,
+                "width": 286,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    361,
+                    711
+                ],
+                "text": "Ragged Robin Tet\n\nRamira 166\nRed Berlin oO\nRed Cedar Ho\nRed Dorothy Perking 168\nRed Ensigh ls\nRed France 6\nRed Robin Ist\nRed Succes 70\n\nRegele Carl al Iltea 195\nReine de Danemark 93)\nReine de Nigges ua\nReine des Roses 130\nReine Maria de Roumanie 194\nReine Marie Henrictte 168\nReine Vietora| los\nRendez-Vous\n\nRen\u00e9 d\u2019Anjow\nRepandia\n\nReverend Page Roberts\nRise'n Shine\n\nRoberta\n\nRobin Hood\n\nRobust\n\nRoi des Peintes\nRomsar\n\nRosabunda\n\nRosa de Provence\nRosadora\n\nRosagold\n\nRosalinda\n\nRosa Monsrosa\nRosana\n\nRosarium Uetersen\nRose de Meaux\n\nRose du Roi\n\nRose Gayjard 118,\nRose Noble\n\nRosina\n\nRosmarin\n\nRouge Mallerin\n\nRouge Meilland 70, 113,\nRoyal Grimpant\n\nRoyal Highness\n\nRoyal Occasion\n\nRoyal Salute\n\nRoyal William\n\nRoy Black\n\nRubin\n\nRudolf A. Schrier\n\n  \n\n \n\n \n\nRudolph Palossay\nRumba\nRush\n\nSPECH SALBATICE\nRoss alba\n\nRosa alpina\nRosa arvensis\nRosa Banksive\nRosa californica\nRosa canna\nRosa centifoia\nRosa centfoia Moseata\nRosa chinensis\nRosa damascena\nRosa ovae\n\nRosa eglanteria\nRosa foctida|\nRosa gallica\nRosa glauca\nRosa hugonis|\nRosa indica\nRosa lucida\nRoss Inter\n\nRosa majais\nRosa monsieoss\nRosa moyes\nRosa multiflora\nRoss iid\nRosa adorata\nRosa pendulina\nRosa persica\n\n \n\n \n\nRosa repens\nRosa rubiginosa\nRosa rubeifolia\n\nRosa rugosa\nRosa rugotida\nRosa sempervirens\nRosa simplicifoia\nRosa series\n\nRosa sinensis\nRosa spinosissima\nRosa sulphurea\nRosa sweginzovii\nRosa virginiana\nRosa wichuraiana\nRosa xanthina"
+            }
+        }
+    },
+    "img_252": {
+        "page": "252",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "42": {
+                "class": "text",
+                "x": 365,
+                "y": 673,
+                "height": 38,
+                "width": 148,
+                "leftCorner": [
+                    365,
+                    673
+                ],
+                "rightCorner": [
+                    513,
+                    711
+                ],
+                "text": "\u2018Yellow Cecile Brunner 185\nYellow Hammer 156"
+            },
+            "43": {},
+            "44": {
+                "class": "text",
+                "x": 333,
+                "y": 616,
+                "height": 47,
+                "width": 29,
+                "leftCorner": [
+                    333,
+                    616
+                ],
+                "rightCorner": [
+                    362,
+                    663
+                ],
+                "text": "189,\n120\n153"
+            },
+            "45": {},
+            "46": {
+                "class": "text",
+                "x": 371,
+                "y": 345,
+                "height": 284,
+                "width": 142,
+                "leftCorner": [
+                    371,
+                    345
+                ],
+                "rightCorner": [
+                    513,
+                    629
+                ],
+                "text": "\u2018Warm Wishes\n\u2018Weeding Day\n\nWendy\n\n\u2018Wendy Cussom\nWenlock\nWestminster\n\nWhite Knight\n\nWhite Maman Cochet\nWhite Provence\nWhite Rose of York\nWhite Swan\n\nWhite Weekend\nWithelm Kordes\nWilliam A. Richardson\n\nWilliam Booth\nWilliam Lobb\nWilliam Shakespeare\nWill Scarlet\n\nWimi\n\nWinchester\nWinchester Cathedral\n\u2018Wobum Abbey"
+            },
+            "47": {},
+            "48": {},
+            "49": {
+                "class": "text",
+                "x": 371,
+                "y": 109,
+                "height": 195,
+                "width": 105,
+                "leftCorner": [
+                    371,
+                    109
+                ],
+                "rightCorner": [
+                    476,
+                    304
+                ],
+                "text": "\u2018Variegata di Bologna\nVeilchenblas\nVendela\n\nVercors\n\nVeronica\n\nVersa\n\nViek's Caprice\nVierge de Clery\n\nVigorosa\nViolet Blue\n\nViolets\nViolette Niestle\nVirginia R Coxe\nVirgo\nViridiflora"
+            },
+            "50": {},
+            "51": {},
+            "52": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 648,
+                "width": 288,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    363,
+                    711
+                ],
+                "text": "Sombrero 153\nSombreuit 98\nSommerduft ug\nSommerset Nursery 165\nSonia Meilland 70,128,\nSoninenkind 179\nSoraya 132\nSouper et Noting 96\nSouvenir d\u2019Alex Bemaix 119\nSouvenie de G. Pemet 119\nSouvenie de Ia Malmaison 108\nSpanish Beauty 170\nSpartan 131\nSpeak\u2019s Yellow 1S\nSpectacular 167\nSpirit of Peace 137\nSplendens 7\nSplendid or\nStachellose Rose 165\nStanwell Perpetual 101\nStarina 179\nStarlite 1B\nSella 129\nStephanie de Monaco 121\nSterling Silver 144\nSt Patrick 139\nSul bs\nSummer Fragrance 119\nSummer Lady 129\nSunbest 137\nSunblest 107\nSunburst 129\nSun Dance 135\nSunseeker 131\nSunset Celebration 132\nSunspite 1s\nSunstr Be\nSuper Dorothy 165\nSuper Star 70,72, 119,129\nSuper Tuscan 94\nSupr\u00e9me de Meilland 71\nSuspance 9\nSutter's Gold 70,139\nSuzan Lotthe a9\nSweet Fairy rd\nSweet Juliet 160\nSweetdy 126\nSweet Memories 179\nSylvia 129\nSympathie 174\n\n \n\n \n\n  \n  \n    \n \n\n10\n\n129\n\n12\nTally Ho 119\nTandrote 199\nTango 36\nTapis@'Orient 157, 183\n\nTea Time 139\nTeenayer 9\n\u2018Texas Centennial 119,\nThais 139\nThalia 100\n\u2018The Childreen\u2019s Rose 123,\n\u2018The Fairy 149,157\n\n \n\n \n\n \n\n\u201cThe Herbalist 160\n\u2018The Lady 139\n\u2018Thelma\n\nTitfany\n\nTintinara\n\n\u2018Tipa late\n\nTivoli\n\nTopolina\n\nToscanini\n\n\u2018Touch of Class\n\n\u2018Tour de Malakot\u00ae\n\nTour Toi\n\n\u2018Toynbee Hall Isa\nTeer 100\n\u2018Tropicana 119, 129\n\u201cTropique 74\nTrumpeter 132\nTumer\u2019s Crimson Ram. 165\nTuscany Superb 98\n\u2018Taigane 19\nUlrich Bronner\n\nUncle Joe\n\nUnite Nation"
+            }
+        }
+    },
+    "img_253": {
+        "page": "253",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 323,
+                "y": 66,
+                "height": 71,
+                "width": 50,
+                "leftCorner": [
+                    323,
+                    66
+                ],
+                "rightCorner": [
+                    373,
+                    137
+                ],
+                "text": "19\n137,183\n102\n139"
+            },
+            "55": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 177,
+                "width": 449,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    524,
+                    240
+                ],
+                "text": "\u2018Yellow Rambler\n\u2018Yeloow Wonder\nYesterday\nYolande d\u2019Aragon\n\u2018Young Quinn\n\nZoutlich\nZephirine Drouhin\n\n \n\n163, 18\n19\n137,183\n102\n189)"
+            }
+        }
+    }
+}

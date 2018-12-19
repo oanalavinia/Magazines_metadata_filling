@@ -1,0 +1,510 @@
+{
+    "numberOfPages": 209,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 253,
+                "y": 712,
+                "height": 51,
+                "width": 122,
+                "leftCorner": [
+                    253,
+                    712
+                ],
+                "rightCorner": [
+                    375,
+                    763
+                ],
+                "text": "Editura PIM\n2008"
+            },
+            "2": {
+                "class": "text",
+                "x": 180,
+                "y": 234,
+                "height": 76,
+                "width": 239,
+                "leftCorner": [
+                    180,
+                    234
+                ],
+                "rightCorner": [
+                    419,
+                    310
+                ],
+                "text": "Cainele istor\nMirajul legendelor"
+            },
+            "3": {
+                "class": "text",
+                "x": 312,
+                "y": 99,
+                "height": 31,
+                "width": 73,
+                "leftCorner": [
+                    312,
+                    99
+                ],
+                "rightCorner": [
+                    385,
+                    130
+                ],
+                "text": "FILIP"
+            },
+            "4": {
+                "class": "text",
+                "x": 214,
+                "y": 98,
+                "height": 32,
+                "width": 96,
+                "leftCorner": [
+                    214,
+                    98
+                ],
+                "rightCorner": [
+                    310,
+                    130
+                ],
+                "text": "VASILE"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 95,
+                "y": 443,
+                "height": 167,
+                "width": 435,
+                "leftCorner": [
+                    95,
+                    443
+                ],
+                "rightCorner": [
+                    530,
+                    610
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nFILIP, VASILE\n\nTainele istoriei : mirajul legendelor / Vasile Filip. -\nlagi: PIM, 2008\n\nISBN 978-606-520-219-1\n\n \n\n \n\n \n\n94(498)(0:82-34)"
+            },
+            "6": {
+                "class": "text",
+                "x": 119,
+                "y": 92,
+                "height": 51,
+                "width": 362,
+                "leftCorner": [
+                    119,
+                    92
+                ],
+                "rightCorner": [
+                    481,
+                    143
+                ],
+                "text": "Culegere:\nTehnoredactare,\n\nViorel Dumitrascu"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "7": {
+                "class": "text",
+                "x": 55,
+                "y": 55,
+                "height": 738,
+                "width": 490,
+                "leftCorner": [
+                    55,
+                    55
+                ],
+                "rightCorner": [
+                    545,
+                    793
+                ],
+                "text": "Cainele istoriei\nMirajul legendelor"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {},
+            "9": {}
+        }
+    },
+    "img_204": {
+        "page": "204",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "10": {
+                "class": "text",
+                "x": 56,
+                "y": 613,
+                "height": 177,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    613
+                ],
+                "rightCorner": [
+                    544,
+                    790
+                ],
+                "text": "\u00bbDINTR-UN REGE SCURT A IESIT UN REGE MARE\u201d\nUn calendar grabit ...\n\nDaca nu ai bani, ii bati\n\nMoartea ii doboara si pe cei mari .\n\nDoua surori: Istoria si Legenda\nMisterul unei identitati .\nUn impirat marinimos"
+            },
+            "11": {
+                "class": "text",
+                "x": 56,
+                "y": 529,
+                "height": 68,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    529
+                ],
+                "rightCorner": [
+                    544,
+                    597
+                ],
+                "text": "MANUCHE, GARCON SITEPURASII\n\nManuche nu se da invii\nMoment de relaxare la iarba verde"
+            },
+            "12": {
+                "class": "text",
+                "x": 56,
+                "y": 420,
+                "height": 93,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    420
+                ],
+                "rightCorner": [
+                    544,
+                    513
+                ],
+                "text": "CAND ISTORIA SE iMBINA CU LEGENDA\nMerulam\n\nCasa cu.\nManuche este foarte sensibila la frumos"
+            },
+            "13": {
+                "class": "text",
+                "x": 56,
+                "y": 382,
+                "height": 29,
+                "width": 487,
+                "leftCorner": [
+                    56,
+                    382
+                ],
+                "rightCorner": [
+                    543,
+                    411
+                ],
+                "text": "SATUL ROSU"
+            },
+            "14": {
+                "class": "text",
+                "x": 56,
+                "y": 105,
+                "height": 261,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    105
+                ],
+                "rightCorner": [
+                    544,
+                    366
+                ],
+                "text": "ROCAMADOLR - intre Moarte si inviere ..\nPrabusirea\n\nRenasterea ..\n\nIstoria si legenda unui nume\n\nNevoia te invati\n\nTriada: geografie, istorie, cultura ..\n\nDrumul Crucii si Fecioara Neagra\nRezervatia pasarilor de prada ...\nCum a fost imblanzit primul soim\nParcul preistoric\n\nSpectacolul grotelor\n\nCu 55 000 de ani in urma"
+            },
+            "15": {
+                "class": "text",
+                "x": 258,
+                "y": 58,
+                "height": 32,
+                "width": 83,
+                "leftCorner": [
+                    258,
+                    58
+                ],
+                "rightCorner": [
+                    341,
+                    90
+                ],
+                "text": "Cuprins"
+            }
+        }
+    },
+    "img_205": {
+        "page": "205",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "16": {
+                "class": "text",
+                "x": 279,
+                "y": 763,
+                "height": 27,
+                "width": 42,
+                "leftCorner": [
+                    279,
+                    763
+                ],
+                "rightCorner": [
+                    321,
+                    790
+                ],
+                "text": "205"
+            },
+            "17": {
+                "class": "text",
+                "x": 56,
+                "y": 622,
+                "height": 134,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    622
+                ],
+                "rightCorner": [
+                    544,
+                    756
+                ],
+                "text": "ECATERINA TEODOROIU - JEANNE D\u2019ARC A.\nROMANILOR\nVisul s-a frant la inmugurire ..\n\nUnalt vis incepe si se infiripe\nSora ranitilor ..\nFloarea dragostei apare oricnd"
+            },
+            "18": {
+                "class": "text",
+                "x": 55,
+                "y": 304,
+                "height": 302,
+                "width": 489,
+                "leftCorner": [
+                    55,
+                    304
+                ],
+                "rightCorner": [
+                    544,
+                    606
+                ],
+                "text": "JEANNE D?ARC ~ EROINA MARTIRIZATA ..\nPrimii pasi in viata\n\nDe vorba cu Cerul\n\nPrimul pas ~ prima victorie\n\nSabia Jeannei\n\nSteagurile Jeannei d\u2019Arc\n\nVictoria cea adevarati\n\n.\u00bb. Actul de innobilare a famili\nincepea calvarul\n\nEroina cade in dizgratie .\n\nDin umbra, lucra omul diavolului\nCauchon a preluat in mod oficial fraiele\nCondamnarea Ioanei d\u2019Are\n\nAllituri de eroinele antice"
+            },
+            "19": {
+                "class": "text",
+                "x": 56,
+                "y": 118,
+                "height": 173,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    118
+                ],
+                "rightCorner": [
+                    544,
+                    291
+                ],
+                "text": "USILE DE LA NOTRE-DAME\nLacatugul Biscornet\n\nVisele apar mai ales noaptea ..\nMarea incercare\n\nintalnirea cu Satan ..\nBiscornet era doar lesina\nVisul a dat in rod ...\nPacatul nu a fost iertat"
+            },
+            "20": {}
+        }
+    },
+    "img_206": {
+        "page": "206",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "21": {
+                "class": "text",
+                "x": 279,
+                "y": 763,
+                "height": 27,
+                "width": 42,
+                "leftCorner": [
+                    279,
+                    763
+                ],
+                "rightCorner": [
+                    321,
+                    790
+                ],
+                "text": "206"
+            },
+            "22": {
+                "class": "text",
+                "x": 56,
+                "y": 703,
+                "height": 53,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    703
+                ],
+                "rightCorner": [
+                    544,
+                    756
+                ],
+                "text": "EGENDA SI ISTORIE.\n\n \n\nviata unei catedrale"
+            },
+            "23": {
+                "class": "text",
+                "x": 55,
+                "y": 241,
+                "height": 452,
+                "width": 489,
+                "leftCorner": [
+                    55,
+                    241
+                ],
+                "rightCorner": [
+                    544,
+                    693
+                ],
+                "text": "INSULA SCALDATA DE APELE MEDITERANEI\nSI ALE ISTORIEI\n\nO tranzactie primita cu ostilitate ..\n\nDe Sfinta Maria s-a nascut un viitor imparat\n\nBatdus si indragostit\n\nElev la scoala militara\n\nOfiter la 16 ani ..\n\nO casitorie cu... cdntece\n\nPrima victorie ..\n\nSoldatul este ficut si lupte\n\nIstoria avea un ritm alert\n\nimplinirea visului suprem .\n\ninfrangere si biruint?\n\nDar pace nu era\n\nUn targ in pretul cdruia intrau si Valahia si Moldova ..\n\nA doua fericire... domestica\n\nUn tanar frumos a vrut s ueida un imparat... urd\nVara nu-i ca tama, dar nici iarna nu-i ca vara\nFuga nu-i intotdeauna sniitoasi ..\n\nUn calendar grabit ~ un sfarsit tragic .\n\nJudecata urmasilor .."
+            },
+            "24": {
+                "class": "text",
+                "x": 56,
+                "y": 118,
+                "height": 114,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    118
+                ],
+                "rightCorner": [
+                    544,
+                    232
+                ],
+                "text": "LEGENDELE SENEI ..\nPrima legenda a fluviului Sena\nUn porumbel a intarit cuvantul Domnului\n\nPrecum intrarea lui Iisus in Ierusalim ..\n\n \n\nA doua legenda a Senei"
+            },
+            "25": {}
+        }
+    },
+    "img_207": {
+        "page": "207",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "26": {
+                "class": "text",
+                "x": 279,
+                "y": 763,
+                "height": 27,
+                "width": 42,
+                "leftCorner": [
+                    279,
+                    763
+                ],
+                "rightCorner": [
+                    321,
+                    790
+                ],
+                "text": "207"
+            },
+            "27": {
+                "class": "text",
+                "x": 56,
+                "y": 493,
+                "height": 242,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    493
+                ],
+                "rightCorner": [
+                    544,
+                    735
+                ],
+                "text": "LUMEA iNTR-O INSULA\n\nInsula R\u00e9union \u2014 natura in spectacol de gala\n\n$i natura stabileste recorduri ...\n\nV+V~=vegetatia si vietuitoarele .\n\nMicul sclav ~ descoperitor al poleniziiii artificiale\n\nPovestea nu se incheie aici\nA trait sia murit in saracie ..\nMultirasismul nu supa pe nimeni .\nDictionar ....\n\nToponimicele\n\nNu doar vanilie, ci si fete framoase"
+            },
+            "28": {
+                "class": "text",
+                "x": 56,
+                "y": 349,
+                "height": 135,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    349
+                ],
+                "rightCorner": [
+                    544,
+                    484
+                ],
+                "text": "SUFERINTA UNEI REG\nLungul drum al pacii\nUn debut haotic ....\n\nPrietenii contra neprietenilor\nDa, sangele api nu se face .\n\u00bbTratatele nu pot satisface pe toat\u2019 lumea\u201d"
+            },
+            "29": {
+                "class": "text",
+                "x": 56,
+                "y": 181,
+                "height": 156,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    181
+                ],
+                "rightCorner": [
+                    544,
+                    337
+                ],
+                "text": "VERSAILLES\n\nTrianon\n\nTrianon de portelan .\n\nPalatul de marmura si de porfir\n\n..Micul Trianon\nOamenii fac, oamenii desfac, oamenii refac ..\nIstoria romanilor trece si prin Trianon"
+            },
+            "30": {
+                "class": "text",
+                "x": 56,
+                "y": 55,
+                "height": 114,
+                "width": 488,
+                "leftCorner": [
+                    56,
+                    55
+                ],
+                "rightCorner": [
+                    544,
+                    169
+                ],
+                "text": "Tainele trecutului ies la iveala ..\nVinurile si goblenurile ...\nVictor Hugo si tiganca cea frumoasi\n\nRizboaiele si pacea\nDrumul spre Luna trece prin Nazareth"
+            }
+        }
+    },
+    "img_208": {
+        "page": "208",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "31": {}
+        }
+    },
+    "img_209": {
+        "page": "209",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "32": {
+                "class": "text",
+                "x": 206,
+                "y": 670,
+                "height": 97,
+                "width": 186,
+                "leftCorner": [
+                    206,
+                    670
+                ],
+                "rightCorner": [
+                    392,
+                    767
+                ],
+                "text": "\u2018Tipar Digital ealizat la Tipografia.\nSoseaua Stefan cel Mate nr. 11\nIasi - 700898,\n\nTelfax: 0232-212740\ne-mail: editurapim/@pimeopy.ro\n\n\u2018www.pimcopy.r0"
+            }
+        }
+    }
+}

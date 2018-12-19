@@ -1,0 +1,1284 @@
+{
+    "numberOfPages": 274,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 195,
+                "y": 739,
+                "height": 40,
+                "width": 205,
+                "leftCorner": [
+                    195,
+                    739
+                ],
+                "rightCorner": [
+                    400,
+                    779
+                ],
+                "text": "si, Editura OIM, 2010"
+            },
+            "2": {
+                "class": "text",
+                "x": 214,
+                "y": 388,
+                "height": 33,
+                "width": 170,
+                "leftCorner": [
+                    214,
+                    388
+                ],
+                "rightCorner": [
+                    384,
+                    421
+                ],
+                "text": "Partea teoretica"
+            },
+            "3": {
+                "class": "text",
+                "x": 291,
+                "y": 340,
+                "height": 35,
+                "width": 197,
+                "leftCorner": [
+                    291,
+                    340
+                ],
+                "rightCorner": [
+                    488,
+                    375
+                ],
+                "text": "CANALIZARE"
+            },
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 112,
+                "y": 340,
+                "height": 41,
+                "width": 117,
+                "leftCorner": [
+                    112,
+                    340
+                ],
+                "rightCorner": [
+                    229,
+                    381
+                ],
+                "text": "RETELE"
+            },
+            "6": {
+                "class": "text",
+                "x": 182,
+                "y": 150,
+                "height": 31,
+                "width": 235,
+                "leftCorner": [
+                    182,
+                    150
+                ],
+                "rightCorner": [
+                    417,
+                    181
+                ],
+                "text": "dr.ing. Cosmin TOBOLCEA"
+            },
+            "7": {
+                "class": "text",
+                "x": 195,
+                "y": 119,
+                "height": 31,
+                "width": 208,
+                "leftCorner": [
+                    195,
+                    119
+                ],
+                "rightCorner": [
+                    403,
+                    150
+                ],
+                "text": "dr.ing. Valentin CRETU"
+            },
+            "8": {
+                "class": "text",
+                "x": 186,
+                "y": 88,
+                "height": 30,
+                "width": 227,
+                "leftCorner": [
+                    186,
+                    88
+                ],
+                "rightCorner": [
+                    413,
+                    118
+                ],
+                "text": "dr. ing. Viorel TOBOLCEA"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 71,
+                "y": 748,
+                "height": 23,
+                "width": 160,
+                "leftCorner": [
+                    71,
+                    748
+                ],
+                "rightCorner": [
+                    231,
+                    771
+                ],
+                "text": "ISBN 978-606-520-842-1"
+            },
+            "10": {},
+            "11": {},
+            "12": {
+                "class": "text",
+                "x": 72,
+                "y": 319,
+                "height": 104,
+                "width": 424,
+                "leftCorner": [
+                    72,
+                    319
+                ],
+                "rightCorner": [
+                    496,
+                    423
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nTOBOLCEA, VIOREL\nRefele de canalizare : partea teoretici / Viorel Tobolcea, Valentin\n\nCreu, Cosmin Tobolcea. - Iasi : PIM, 2010\niogr.\nISBN 978-606-520-842-1"
+            },
+            "13": {
+                "class": "text",
+                "x": 67,
+                "y": 187,
+                "height": 117,
+                "width": 355,
+                "leftCorner": [
+                    67,
+                    187
+                ],
+                "rightCorner": [
+                    422,
+                    304
+                ],
+                "text": "Editura OM\nEditura acreditati\u2019 CNCSIS ~ 66,01.05.2006\n\nSoseaua Stefan cel Mare gi Sfant nr. 4, Iasi ~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimeopy.ro"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "14": {},
+            "15": {
+                "class": "text",
+                "x": 55,
+                "y": 709,
+                "height": 30,
+                "width": 489,
+                "leftCorner": [
+                    55,
+                    709
+                ],
+                "rightCorner": [
+                    544,
+                    739
+                ],
+                "text": "fantinilor satului, fantini care se polueazd"
+            },
+            "16": {
+                "class": "text",
+                "x": 55,
+                "y": 680,
+                "height": 30,
+                "width": 490,
+                "leftCorner": [
+                    55,
+                    680
+                ],
+                "rightCorner": [
+                    545,
+                    710
+                ],
+                "text": "rman credinciosi"
+            },
+            "17": {
+                "class": "text",
+                "x": 54,
+                "y": 623,
+                "height": 58,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    623
+                ],
+                "rightCorner": [
+                    545,
+                    681
+                ],
+                "text": "locuitori in prima faa de implementare a unui proiect de alimentare cu\n\n \n\napi nu toi locuitorii de Ia sate (din conditii financiare sau de educatic)"
+            },
+            "18": {
+                "class": "text",
+                "x": 54,
+                "y": 565,
+                "height": 59,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    565
+                ],
+                "rightCorner": [
+                    545,
+                    624
+                ],
+                "text": "de alimentare cu api s-a constatat ci apa subterani s-a poluat\n\n \n\nconsiderabil datorita lipsei retelelor de canalizare. Din num\u00e9arul total de"
+            },
+            "19": {
+                "class": "text",
+                "x": 54,
+                "y": 449,
+                "height": 117,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    449
+                ],
+                "rightCorner": [
+                    545,
+                    566
+                ],
+                "text": "problemi este alimentarea cu apa, experimentele practice au demonstrat\n\nc& daci se realizeazi numai sistemul de alimentare cu apa, poluarea\n\nsolului si a panzei freatice subterane este mult accentuata. Dintr-un\n\n \n\nfreatic potabil in maxim ase luni de la punerea in funcyiune a sistemului"
+            },
+            "20": {
+                "class": "text",
+                "x": 106,
+                "y": 420,
+                "height": 30,
+                "width": 439,
+                "leftCorner": [
+                    106,
+                    420
+                ],
+                "rightCorner": [
+                    545,
+                    450
+                ],
+                "text": "Daca la un moment dat se considera ci cea mai importanti"
+            },
+            "21": {
+                "class": "text",
+                "x": 54,
+                "y": 392,
+                "height": 29,
+                "width": 226,
+                "leftCorner": [
+                    54,
+                    392
+                ],
+                "rightCorner": [
+                    280,
+                    421
+                ],
+                "text": "alimentare cu apa sau canalizare."
+            },
+            "22": {
+                "class": "text",
+                "x": 54,
+                "y": 363,
+                "height": 29,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    363
+                ],
+                "rightCorner": [
+                    545,
+                    392
+                ],
+                "text": "num\u00e9r mic de localitati s-au executat infiingiri de astfel de instalagii de"
+            },
+            "23": {
+                "class": "text",
+                "x": 54,
+                "y": 276,
+                "height": 88,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    276
+                ],
+                "rightCorner": [
+                    545,
+                    364
+                ],
+                "text": "suportat nici o imbunatitire, ele degradindu-se prin exploatare.\n\nincepind cu 2000 pana in prezent, 2010, numai o mici parte\n\n \n\ndin instalagiile vechi au fost reabilitate si modernizate si pentru un"
+            },
+            "24": {
+                "class": "text",
+                "x": 54,
+                "y": 218,
+                "height": 58,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    218
+                ],
+                "rightCorner": [
+                    545,
+                    276
+                ],
+                "text": "mod direct doar latura cantitativa si mai putin cea calitativa, si chiar asa\n\n \n\naceste instalatii, in cele mai multe cazuri in perioada 1990-2000, nu au"
+            },
+            "25": {
+                "class": "text",
+                "x": 55,
+                "y": 189,
+                "height": 30,
+                "width": 489,
+                "leftCorner": [
+                    55,
+                    189
+                ],
+                "rightCorner": [
+                    544,
+                    219
+                ],
+                "text": "lucritilor edilitare de api/canal pentru localitati, instalatiile avand in"
+            },
+            "26": {
+                "class": "text",
+                "x": 106,
+                "y": 160,
+                "height": 30,
+                "width": 439,
+                "leftCorner": [
+                    106,
+                    160
+                ],
+                "rightCorner": [
+                    545,
+                    190
+                ],
+                "text": "Pana in 1990, regimul comunist a impus o dezvoltare tipizati a"
+            },
+            "27": {}
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "28": {
+                "class": "text",
+                "x": 415,
+                "y": 490,
+                "height": 26,
+                "width": 59,
+                "leftCorner": [
+                    415,
+                    490
+                ],
+                "rightCorner": [
+                    474,
+                    516
+                ],
+                "text": "Autorii"
+            },
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 54,
+                "y": 345,
+                "height": 88,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    345
+                ],
+                "rightCorner": [
+                    545,
+                    433
+                ],
+                "text": "paralel cu exemple privind diferite aplicatii la care a participat firma S.C.\n\nPRO TOBY S.RL. privind diferitele tipuri de rejele de canalizare\n\n \n\nexistente in practica curenti, materializate in cartea \"Reyele de canalizare"
+            },
+            "31": {
+                "class": "text",
+                "x": 54,
+                "y": 317,
+                "height": 29,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    317
+                ],
+                "rightCorner": [
+                    545,
+                    346
+                ],
+                "text": "canalizare, cuprinzind elemente teoretice. Aceasti carte trebuie citita in"
+            },
+            "32": {
+                "class": "text",
+                "x": 436,
+                "y": 288,
+                "height": 25,
+                "width": 109,
+                "leftCorner": [
+                    436,
+                    288
+                ],
+                "rightCorner": [
+                    545,
+                    313
+                ],
+                "text": "sistemelor de"
+            },
+            "33": {
+                "class": "text",
+                "x": 346,
+                "y": 288,
+                "height": 30,
+                "width": 88,
+                "leftCorner": [
+                    346,
+                    288
+                ],
+                "rightCorner": [
+                    434,
+                    318
+                ],
+                "text": "exploatarea"
+            },
+            "34": {
+                "class": "text",
+                "x": 311,
+                "y": 288,
+                "height": 25,
+                "width": 34,
+                "leftCorner": [
+                    311,
+                    288
+                ],
+                "rightCorner": [
+                    345,
+                    313
+                ],
+                "text": "din"
+            },
+            "35": {
+                "class": "text",
+                "x": 264,
+                "y": 288,
+                "height": 25,
+                "width": 46,
+                "leftCorner": [
+                    264,
+                    288
+                ],
+                "rightCorner": [
+                    310,
+                    313
+                ],
+                "text": "celor"
+            },
+            "36": {
+                "class": "text",
+                "x": 161,
+                "y": 288,
+                "height": 29,
+                "width": 102,
+                "leftCorner": [
+                    161,
+                    288
+                ],
+                "rightCorner": [
+                    263,
+                    317
+                ],
+                "text": "executantilor,"
+            },
+            "37": {
+                "class": "text",
+                "x": 54,
+                "y": 288,
+                "height": 30,
+                "width": 107,
+                "leftCorner": [
+                    54,
+                    288
+                ],
+                "rightCorner": [
+                    161,
+                    318
+                ],
+                "text": "proiectangilor,"
+            },
+            "38": {
+                "class": "text",
+                "x": 107,
+                "y": 259,
+                "height": 30,
+                "width": 438,
+                "leftCorner": [
+                    107,
+                    259
+                ],
+                "rightCorner": [
+                    545,
+                    289
+                ],
+                "text": "Lucrarea cuprinde cinci capitole si se adresea:"
+            },
+            "39": {
+                "class": "text",
+                "x": 54,
+                "y": 144,
+                "height": 87,
+                "width": 491,
+                "leftCorner": [
+                    54,
+                    144
+                ],
+                "rightCorner": [
+                    545,
+                    231
+                ],
+                "text": "Odati cu integrarea Rominiei in Uniunea Europeana s-au\n\nconstatat dou etape de investiii si in domeniul alimentarii / canalizarii,\n\n \n\nuna in perioada de preaderare si una imediat dupa aderarea din 2007."
+            },
+            "40": {
+                "class": "text",
+                "x": 54,
+                "y": 114,
+                "height": 30,
+                "width": 381,
+                "leftCorner": [
+                    54,
+                    114
+                ],
+                "rightCorner": [
+                    435,
+                    144
+                ],
+                "text": "cu api si"
+            },
+            "41": {
+                "class": "text",
+                "x": 55,
+                "y": 57,
+                "height": 58,
+                "width": 490,
+                "leftCorner": [
+                    55,
+                    57
+                ],
+                "rightCorner": [
+                    545,
+                    115
+                ],
+                "text": "Din acest principal si foarte important motiv este strict necesar\n\n \n\n(iar autoritagile au ingeles acest lucru) ca odat cu sistemul de alimentare"
+            }
+        }
+    },
+    "img_269": {
+        "page": "269",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "42": {},
+            "43": {
+                "class": "text",
+                "x": 56,
+                "y": 698,
+                "height": 26,
+                "width": 132,
+                "leftCorner": [
+                    56,
+                    698
+                ],
+                "rightCorner": [
+                    188,
+                    724
+                ],
+                "text": "22. Kesavan, K., \u00a7.2."
+            },
+            "44": {
+                "class": "text",
+                "x": 493,
+                "y": 668,
+                "height": 25,
+                "width": 61,
+                "leftCorner": [
+                    493,
+                    668
+                ],
+                "rightCorner": [
+                    554,
+                    693
+                ],
+                "text": "Tehnica,"
+            },
+            "45": {
+                "class": "text",
+                "x": 443,
+                "y": 668,
+                "height": 24,
+                "width": 51,
+                "leftCorner": [
+                    443,
+                    668
+                ],
+                "rightCorner": [
+                    494,
+                    692
+                ],
+                "text": "Editura"
+            },
+            "46": {
+                "class": "text",
+                "x": 56,
+                "y": 668,
+                "height": 25,
+                "width": 119,
+                "leftCorner": [
+                    56,
+                    668
+                ],
+                "rightCorner": [
+                    175,
+                    693
+                ],
+                "text": "21. Kisellev, P., G."
+            },
+            "47": {},
+            "48": {},
+            "49": {},
+            "50": {
+                "class": "text",
+                "x": 57,
+                "y": 388,
+                "height": 70,
+                "width": 151,
+                "leftCorner": [
+                    57,
+                    388
+                ],
+                "rightCorner": [
+                    208,
+                    458
+                ],
+                "text": "Dima, M.\nDemidov, M., L., $a\n\n|. Degremont\nFiotea, J, $.a,"
+            },
+            "51": {
+                "class": "text",
+                "x": 63,
+                "y": 329,
+                "height": 25,
+                "width": 143,
+                "leftCorner": [
+                    63,
+                    329
+                ],
+                "rightCorner": [
+                    206,
+                    354
+                ],
+                "text": "8. Brows, G., Curtis, P."
+            },
+            "52": {
+                "class": "text",
+                "x": 63,
+                "y": 285,
+                "height": 39,
+                "width": 73,
+                "leftCorner": [
+                    63,
+                    285
+                ],
+                "rightCorner": [
+                    136,
+                    324
+                ],
+                "text": "6. Blitz, E.\n7. Blitz, E."
+            },
+            "53": {
+                "class": "text",
+                "x": 63,
+                "y": 255,
+                "height": 25,
+                "width": 130,
+                "leftCorner": [
+                    63,
+                    255
+                ],
+                "rightCorner": [
+                    193,
+                    280
+                ],
+                "text": "5. Blitz, E., Trofin, P."
+            },
+            "54": {
+                "class": "text",
+                "x": 64,
+                "y": 152,
+                "height": 25,
+                "width": 102,
+                "leftCorner": [
+                    64,
+                    152
+                ],
+                "rightCorner": [
+                    166,
+                    177
+                ],
+                "text": "1. Arsenie, D.T."
+            },
+            "55": {
+                "class": "text",
+                "x": 57,
+                "y": 149,
+                "height": 634,
+                "width": 498,
+                "leftCorner": [
+                    57,
+                    149
+                ],
+                "rightCorner": [
+                    555,
+                    783
+                ],
+                "text": ".Curs de hidraulica $i hidrologie\", Institutul de Invatamant\n\u2018Superior Constanta, 1980\n2. Barsan, E., Vascu, V., .Aliment\u00e9ri cu. apa\", Indrumar de proiectare, LP. lasi,\n\nGavrilas, G. Rotaprint, 1993,\n3. Barsan, E Alimentari cu ap\u00e9, Editura CERM|, lagi, 2001\n4, Blitz, E., Pop, R. sHidraulicd, construct hidrotehnice, aliment\u00e9ri cu apa $i\n\ncanalizar'\u2019,E.S.D.P., Bucuresti, 1961\n\nAlimentari cu apa si canaliz\u00e9r\u2019, Editura Didactic& si\nPedagogica, Bucuresti, 1971\n\n.Projectarea canalizarior, Editura Tehnica, Bucuresti, 1970\n\n\"Canalizar\u2019, Editura Didactic& si pedagogic\u2019, Bucuresti,\n\n1969\n\nAn Automated Approach to Sanitary / Combined\nCatchment Performance And Precipitation Impact Analysis\u2019,\n\nSivth Intemational Conference on Urban Storm Drainage,\n\nProceedings, vol. Il, Ontario, Canada, 1993\n\n \n\n \n\n \n\n \n\n9. Dima, M \u00bbCanalizar\u2019, LP.lasi, Rotaprint, 1971\n\n10. Demidov, M.,L., $a. | ;Canalizarea\u2019, vol. |, Editura Tehnicd, Bucuresti, 1952\n\n11. Degremont \u2018Memento technique de eau, Paris, 1969\n\n12. Florea, J. \u00a7.. \u00abMecanica fluidelor, Ed. Didacticd si Pedagogica, Bucuresti,\n1979\n\n18. Fox, W.. Rs ulntroduction to fluid mechanics\u2019, John Wiley and Sons Inc.,\n\nMcDonald, New York, 1973\n\n14, Giurconiu, M. \u00bbExemple de calcul in canalizart, \\.P. Timisoara, Rotaprint,\ni971\n\n18. Giurconiu, M,, Mirel, | .Diagrame, nomograme i tabele pentru calculul ucr\u00e9ifor\n\n5a. hidroediitare\u2019, Editura Facla, 197\n\n16. Giurconiu, M,, Mirel, |. .Hidraulica constructor si instalafilor hidroeditare\u2019, Editura\nFacla, Timisoara, 1989\n\n17. Gavrilas, G. sHidraulica urbana\u2019, Editura Gh. Asachi\u2019,lasi, 1999\n\n18. lamandi,C.,5.a.|  -Hidraulica_instalatilor, elemente de calcul si aplicai\u2019,\nEzitura Tehnicd, Bucuresti, 1985\n\n19, lanculescu, \u00a9.,$.a.] \"Canaliz\u00e9r\u2019, Editura MATRIX ROM, Bucuresti, 2001\n\n20. lonescu, Gh, ,instalati' de canalizare\u2019, Ecditura Didactica si Pedagogic&\nBucuresti, 1997\n\n21. Kisellev, P., G. sindreptar pentru calculul hidraulic\u2019 { Editura | Tehnica, |\nBucuresti, 1988\n\n22. Kesavan, K..$.a.| _.Teoretic models for sewage pipe network analysis\", Journal\nOf the Hydr. Div. ASCE, nr. HY2, 1972\n\n23. Luca, M. sHidraulca tehnice, vol. |, Edtura Tehnopres, lasi, 1998\n\n24. Mateescu, Th. \u2018Caleulul instalatilorsanitare\u2019, Editura Gh. Asachi,\n\n \n\nBucuresti, 1950"
+            },
+            "56": {},
+            "57": {
+                "class": "text",
+                "x": 281,
+                "y": 44,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    281,
+                    44
+                ],
+                "rightCorner": [
+                    318,
+                    68
+                ],
+                "text": "269"
+            }
+        }
+    },
+    "img_270": {
+        "page": "270",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "58": {
+                "class": "text",
+                "x": 56,
+                "y": 737,
+                "height": 24,
+                "width": 67,
+                "leftCorner": [
+                    56,
+                    737
+                ],
+                "rightCorner": [
+                    123,
+                    761
+                ],
+                "text": "4a7.*t*"
+            },
+            "59": {
+                "class": "text",
+                "x": 56,
+                "y": 693,
+                "height": 24,
+                "width": 67,
+                "leftCorner": [
+                    56,
+                    693
+                ],
+                "rightCorner": [
+                    123,
+                    717
+                ],
+                "text": "46.***"
+            },
+            "60": {
+                "class": "text",
+                "x": 56,
+                "y": 649,
+                "height": 23,
+                "width": 67,
+                "leftCorner": [
+                    56,
+                    649
+                ],
+                "rightCorner": [
+                    123,
+                    672
+                ],
+                "text": "45. \u00b0\u00b0 *"
+            },
+            "61": {
+                "class": "text",
+                "x": 56,
+                "y": 619,
+                "height": 24,
+                "width": 66,
+                "leftCorner": [
+                    56,
+                    619
+                ],
+                "rightCorner": [
+                    122,
+                    643
+                ],
+                "text": "44.0"
+            },
+            "62": {
+                "class": "text",
+                "x": 56,
+                "y": 590,
+                "height": 23,
+                "width": 67,
+                "leftCorner": [
+                    56,
+                    590
+                ],
+                "rightCorner": [
+                    123,
+                    613
+                ],
+                "text": "43.4 *"
+            },
+            "63": {},
+            "64": {
+                "class": "text",
+                "x": 56,
+                "y": 471,
+                "height": 24,
+                "width": 66,
+                "leftCorner": [
+                    56,
+                    471
+                ],
+                "rightCorner": [
+                    122,
+                    495
+                ],
+                "text": "388"
+            },
+            "65": {
+                "class": "text",
+                "x": 56,
+                "y": 442,
+                "height": 26,
+                "width": 94,
+                "leftCorner": [
+                    56,
+                    442
+                ],
+                "rightCorner": [
+                    150,
+                    468
+                ],
+                "text": "37. Vintila, St"
+            },
+            "66": {
+                "class": "text",
+                "x": 56,
+                "y": 368,
+                "height": 25,
+                "width": 111,
+                "leftCorner": [
+                    56,
+                    368
+                ],
+                "rightCorner": [
+                    167,
+                    393
+                ],
+                "text": "34. Tobolcea, V.,"
+            },
+            "67": {
+                "class": "text",
+                "x": 56,
+                "y": 324,
+                "height": 26,
+                "width": 134,
+                "leftCorner": [
+                    56,
+                    324
+                ],
+                "rightCorner": [
+                    190,
+                    350
+                ],
+                "text": "33. Tobolcea, V., $.a"
+            },
+            "68": {
+                "class": "text",
+                "x": 56,
+                "y": 235,
+                "height": 26,
+                "width": 127,
+                "leftCorner": [
+                    56,
+                    235
+                ],
+                "rightCorner": [
+                    183,
+                    261
+                ],
+                "text": "31. Sztruhar, D. 5.a."
+            },
+            "69": {
+                "class": "text",
+                "x": 56,
+                "y": 205,
+                "height": 24,
+                "width": 85,
+                "leftCorner": [
+                    56,
+                    205
+                ],
+                "rightCorner": [
+                    141,
+                    229
+                ],
+                "text": "30. Srbu, |"
+            },
+            "70": {
+                "class": "text",
+                "x": 56,
+                "y": 161,
+                "height": 41,
+                "width": 133,
+                "leftCorner": [
+                    56,
+                    161
+                ],
+                "rightCorner": [
+                    189,
+                    202
+                ],
+                "text": "28. Paslarasu,|., $.a.\n29. Popescu, P., $.a."
+            },
+            "71": {
+                "class": "text",
+                "x": 56,
+                "y": 132,
+                "height": 25,
+                "width": 88,
+                "leftCorner": [
+                    56,
+                    132
+                ],
+                "rightCorner": [
+                    144,
+                    157
+                ],
+                "text": "27. Pavel, D."
+            },
+            "72": {
+                "class": "text",
+                "x": 56,
+                "y": 102,
+                "height": 26,
+                "width": 117,
+                "leftCorner": [
+                    56,
+                    102
+                ],
+                "rightCorner": [
+                    173,
+                    128
+                ],
+                "text": "26. Negulescu, M."
+            },
+            "73": {
+                "class": "text",
+                "x": 56,
+                "y": 73,
+                "height": 690,
+                "width": 499,
+                "leftCorner": [
+                    56,
+                    73
+                ],
+                "rightCorner": [
+                    555,
+                    763
+                ],
+                "text": "25. Manescu, Al., $.a.\n\n9. Negulescu, M.\n\nPaslarasu, |, \u00a7.a.\nPopescu, P., \u00a7.a.\n\n|. Sztruhar, D. $a.\n\n \n\n32. Toboloea, V., Cretu.v.,\n5a\n\n   \n    \n\nTobolcea, V., 5.4\n\nTobolcea, V.,\n\n35. Toboloea, V., Cretu, V.\n36. Troskolanski, A, T.\n\nVint, St.\n\n \n\n \n\nAliment\u00e9ri cu apa, Editura Didacticd si Pedagogica,\nBucuresti, 1994\n\n.Canalizar\u2019, Editura Didactica si Pedagogic\u2019, Bucuresti,\n1978\n\n-Hidraulicd teoretica si aplicat\u00e9\u2019, Editura Tehnica, Bucuresti,\n1950\n\n\u00bbCanalizar, Editura Tehnicd, Bucuresti, 1965\n\n*Masurarea debitului in tehnic\u00e9\u2019, Editura Tehnica, Bucuresti,\n1969\n\nCalculul instalatilor pentru constructi?, Editura Tehnica,\nBucuresti, 1994\n\nConjunctive Monitoring of a Sewer System and Receving\nWaters in a Medium Sized Community\u2019, Water Science and\nTechnologgy, vol. 36, nr. 8-9, 1997\n\nThe optimization of the Control and Management Systems\nused within the Wastewater International Process\u2019,\n\u2018Simpozionul International Vinnita, Ucraina, sept. 1995\n\u201cProbleme actuale ale impactului produs de deversarea\n{pelor poluante in bazinul hidrografic Prut\u2019, Simpozionul .45\nde ani de invatam\u00e9int hidrotehnic in Moldova\u2019, lasi, 1993\n.Impactul ecologic al lucr\u00e9rlor hidroediltare\", Editura\nRotaprint, lagi, 1995\n\nElemente de protectia mediulu\u2019, Rotaprint, IP. lagi, 1995\nTh\u00e9orie et pratique des mesures hydrauliques\u2019, Dunod,\nParis, 1963\n\nwinstalati' sanitare si de gaze\u2019, Editura Didactica si\nPedagogica, Bucuresti, 1995\n\nMeasuring and locating techniques in Communication\nCables in Power Cables, in Water Network, in Sewage\n\u2018Systems\u2019, Reprezentanta Seba Dynatronic, 1998\n\nColectia de STAS-uri de alimentari cu apa gi canaliz\u00e9r\nCatalog tehnic \u2014Palplast S.A. \u2014tuburi din PEHD, 2002\n\\Wavin\u2014 Romania, Tuburi si ftinguri din materiale plastice\nREHAU \u2014 AWADUKT din RAU \u2014 PVC 1100/1700 ~ tuburi\ncu miez spumat, ftinguri si accesorii pentru montaj\n\nGhid de proiectare si executie a retelelor si_instalatilor\nexterioare de alimentari cu apa si canalizari, 1999\n\nSisteme de monitorizare, concepte si realizari practice,\nseminar tehnico-stiintiic, Brasov, 2003\n\nConformarea uzinelor de apa la directiva CE 98/83/E\u00a2\nprivind calitatea apei destinate consumului uman, seminar\nstintfic Bucuresti, 2002\n\nhid privind proiectarea, executia gi exploatarea sisteretor\nde alimentare cu apa si canalizare, utiizand conducte din\nPVC, polatilena si polipropilena, GP \u2014 043/99, ICPT, 1999\nCatalog tehnic. S.C. PLASTUNION GRUP S.A., Baia Mare"
+            },
+            "74": {
+                "class": "text",
+                "x": 56,
+                "y": 73,
+                "height": 26,
+                "width": 137,
+                "leftCorner": [
+                    56,
+                    73
+                ],
+                "rightCorner": [
+                    193,
+                    99
+                ],
+                "text": "25. Manescu, Al, $.a."
+            },
+            "75": {
+                "class": "text",
+                "x": 281,
+                "y": 44,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    281,
+                    44
+                ],
+                "rightCorner": [
+                    318,
+                    68
+                ],
+                "text": "270"
+            }
+        }
+    },
+    "img_271": {
+        "page": "271",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "76": {
+                "class": "text",
+                "x": 55,
+                "y": 327,
+                "height": 459,
+                "width": 507,
+                "leftCorner": [
+                    55,
+                    327
+                ],
+                "rightCorner": [
+                    562,
+                    786
+                ],
+                "text": "Capitolul II - Dimensionarea retelei de canalizare in sistem unitar (SU)\n2.1, Determinarea debitelor\u2014 tipuri de debite\n2.1.1. Determinarea debitului uzat menaje.\n2.1.2 Determinarea debitlui uzat prin masuratr.\n2.1.2.1. Condit existente la intrrea in Statia de epurare To. Mures.\n2.1.2.2 Concluzi privind debitele la nivelul anului 2002 infuente in Staia de epurare\nTo. Mure.\n2.1.3, Prognaza de debite wzate peniru pericada de perspectiva - Condi vitoare privind\ndebitele in Statia de epurare Ta. Mures.\n2.1.3.1. Previziunea de debit gi canta de poluant al stale de epurare Ta, Mures\n2.1132 Situate vitoare privind debitele in anul 2020 in mun... Mures.\n2.11333 Situatie vitoare privind debitele in anul 2020 in locate imirfe.\n2.1.4. Determinarea debitului uzat industrial\n2.1.5. Determinarea debitelor pentru local din medil rural\n2.2: Repartiia debitulu uzat pe tronsoanele de calcul\n2.2.1 Trasarea reelei de canalzare publica\n2.2.2: Repartiia debitului uzat menajer prin metoda suprafetelr sau alungimilor.\n223. Detorminarea debitler pe tronscane.\n2.2.4, Determinarea debitului total uzat.\n23, Determinarea debitulipluvial (meteoric)\n2.3.1. Repartia suprafetelor bazinului canaiizat pe tronsoanele de calcul\n2.3.2. Determinarea coefcientior de scurgere.\n2.33. Determinarea duratei ploi de calcu tp.\n2.3.4, Determinarea intenstati normate a plo de calcul\n2.35. Determinarea debitlui meteoric Op!\n2.36. Determinarea debitelor meteorice Qpi cu ajutorul programelor de calcul create de\nS.C. PRO TOBY SRL.\n2.4. Dimensionarea colectoareir in sistem unitar\n2.4.1, Determinarea pantei clectorui i\u201d\n2.4.2\u2019 Determinarea sectuni colectoarsior(O sau Bi)\n2.433. Determinarea debituluila sectiune plin\u00e9 (Qp) si vteze la sectune pings\n2.4.4. Tipuri de materiale pentru executa retelelor de canalizare public.\n2.4.4.1. Tuburi din beton.\n2.4.4.2. Conducte din material piasti"
+            },
+            "77": {
+                "class": "text",
+                "x": 55,
+                "y": 126,
+                "height": 197,
+                "width": 507,
+                "leftCorner": [
+                    55,
+                    126
+                ],
+                "rightCorner": [
+                    562,
+                    323
+                ],
+                "text": "Capitolul | - Scheme gi sisteme de canalizare ... secs AT\n1.1, Generali 7\n112, Reteaua de canalizare 19\n\n12.1. Casificarea apelor de canalizare 19\n1.2.2. Elemente principale ale unei canalizari 2\n1.3, Scheme de canalizate.....omms vo a con 24\n1.3.1. Retele ramificate statice 24\n113.2. Retele ramificate dinamice (nodaie) a7\n1.3.3. Relele de canaiizare sub presiuNe. onsen sn 28\n113.4. Retele de conducte cu vid 28\n14, Sisteme de canalizare. 29\n414.1. Sistemul unitar. 30\n1.4.2 Sistemul separativ(divizor) 3\n\n1.4.3. Sisterl mist 31"
+            },
+            "78": {
+                "class": "text",
+                "x": 48,
+                "y": 55,
+                "height": 58,
+                "width": 505,
+                "leftCorner": [
+                    48,
+                    55
+                ],
+                "rightCorner": [
+                    553,
+                    113
+                ],
+                "text": "CUPRI"
+            }
+        }
+    },
+    "img_272": {
+        "page": "272",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "79": {
+                "class": "text",
+                "x": 55,
+                "y": 699,
+                "height": 26,
+                "width": 506,
+                "leftCorner": [
+                    55,
+                    699
+                ],
+                "rightCorner": [
+                    561,
+                    725
+                ],
+                "text": "CUPRINS. am"
+            },
+            "80": {
+                "class": "text",
+                "x": 55,
+                "y": 670,
+                "height": 25,
+                "width": 507,
+                "leftCorner": [
+                    55,
+                    670
+                ],
+                "rightCorner": [
+                    562,
+                    695
+                ],
+                "text": "BIBLIOGRAFIE.\n\n269"
+            },
+            "81": {
+                "class": "text",
+                "x": 54,
+                "y": 577,
+                "height": 91,
+                "width": 508,
+                "leftCorner": [
+                    54,
+                    577
+                ],
+                "rightCorner": [
+                    562,
+                    668
+                ],
+                "text": "Capitolul V - Proiectarea unei rejele de canalizare publica exemplu de calcul 257\n\n\u20185:1. Tema proiectuu 257\n5.2, Dimensionarea rejelei de canalizare in sistem unitar 258\n5.3. Dimensionarea refelei de canalizare in sistem separativ. 263,\n\n\u20185.3.1. Dimensionarea retell de canalizare in sistem separatv pentru ape uzate. 264\n\n5.3.2, Dimensionarea refelei de canalizae in sistem separativ pentru ape meteoric... 265"
+            },
+            "82": {
+                "class": "text",
+                "x": 55,
+                "y": 466,
+                "height": 108,
+                "width": 507,
+                "leftCorner": [
+                    55,
+                    466
+                ],
+                "rightCorner": [
+                    562,
+                    574
+                ],
+                "text": "Capitolul IV - Dimensionarea retelei de canalizare in sistem mixt criterii de\ncomparatie si de alegere a sistemelor de canalizare\n44. Retea de canalizare- sistem mist\n42. Cite de comparati si de alegere a sistemelor de canalizare.\n42.1. Sistomul unitar\n422 Sistomul separatv.\n42:3, Sistemul mit\n\n \n\n250\n250\n252\n252\n253\n254"
+            },
+            "83": {
+                "class": "text",
+                "x": 55,
+                "y": 292,
+                "height": 173,
+                "width": 507,
+                "leftCorner": [
+                    55,
+                    292
+                ],
+                "rightCorner": [
+                    562,
+                    465
+                ],
+                "text": "Capitolul II! - Dimensionarea retelei de canalizare in sistem separativ..\n\n3.1, Dimensionarea refelei de canalizare pentru debite uzate (Quzat).\n13.1.1. Determinarea debitelor uzate menajere (Quzat men)\n3.1.2. Reparttia Quzat men pe tronsoane de calcul\n3.1.3, Dimensionarea colectoarelor pentru ape uzate\n3.1.4. Verticarea dimensionari\n3.2, Dimensionarea retelei de canalizare pentru debitul meteoric.\n\u20183.2.1. Determinarea debitului pluvial (Qp).\n3.2.2. Dimensionarea retele de canalizare pentru debitulpluvial(rejea de conducte\nsublerane).\n3.2.3. Verticarea dimensionari\n3.2.4. Dimensionarea refelei de canalizare pentru debitl pluvial (canale deschise)\n\n \n\n \n\n210\n210\n212\n212\n212\n\n213,\n213.\n214"
+            },
+            "84": {
+                "class": "text",
+                "x": 69,
+                "y": 56,
+                "height": 234,
+                "width": 493,
+                "leftCorner": [
+                    69,
+                    56
+                ],
+                "rightCorner": [
+                    562,
+                    290
+                ],
+                "text": "2.4.4.2.1. Conducte din palitilend\n24422 Conducte din polclorura de vii (PVC).\n24.423. Conducte din palipropion.\n25, Veriicarea dimensionari in sistem unitar.\n25:1. Veriicarea dimensionari pe timp ploios.\n25.2. Verficarea dimensionari pe timp secetos\n25.3. Dimensionarea si verificarea R.C.P. cu programe de calcul create de S.C. PRO\nTOBY SRL.\n26. Profle longitudinale si panur de situa\n27 Construct accesori pe reteaua de canalzar publea.\n2.7.1. Construct acceso pentru relele de canalzare din beton\n27.1.1. Camine de vaitare.\n27.1.2. Caminele de rupere de panta\n27713. Caminele de spalare.\n27.1.4 Gur de scurgere.\n27.45. Doversoare.\n27.2. Accesori peniru rele de canalizare din materia plastic."
+            }
+        }
+    },
+    "img_273": {
+        "page": "273",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_274": {
+        "page": "274",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "85": {
+                "class": "text",
+                "x": 143,
+                "y": 634,
+                "height": 116,
+                "width": 310,
+                "leftCorner": [
+                    143,
+                    634
+                ],
+                "rightCorner": [
+                    453,
+                    750
+                ],
+                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua Stefan cel Mare gi Sffint nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura.pim@gmail.com\n\nwww:pimeopy.t0"
+            },
+            "86": {
+                "class": "text",
+                "x": 245,
+                "y": 585,
+                "height": 45,
+                "width": 106,
+                "leftCorner": [
+                    245,
+                    585
+                ],
+                "rightCorner": [
+                    351,
+                    630
+                ],
+                "text": "20m"
+            },
+            "87": {
+                "class": "text",
+                "x": 212,
+                "y": 550,
+                "height": 31,
+                "width": 172,
+                "leftCorner": [
+                    212,
+                    550
+                ],
+                "rightCorner": [
+                    384,
+                    581
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

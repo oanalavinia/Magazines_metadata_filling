@@ -1,0 +1,2169 @@
+{
+    "numberOfPages": 104,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 516,
+                "y": 554,
+                "height": 24,
+                "width": 35,
+                "leftCorner": [
+                    516,
+                    554
+                ],
+                "rightCorner": [
+                    551,
+                    578
+                ],
+                "text": "106"
+            },
+            "2": {
+                "class": "text",
+                "x": 63,
+                "y": 554,
+                "height": 27,
+                "width": 81,
+                "leftCorner": [
+                    63,
+                    554
+                ],
+                "rightCorner": [
+                    144,
+                    581
+                ],
+                "text": "Bibliografie"
+            },
+            "3": {
+                "class": "text",
+                "x": 62,
+                "y": 507,
+                "height": 42,
+                "width": 423,
+                "leftCorner": [
+                    62,
+                    507
+                ],
+                "rightCorner": [
+                    485,
+                    549
+                ],
+                "text": "IX, Releaua cabinetelor de asistent& psihopedagogi\njudetului lagi"
+            },
+            "4": {
+                "class": "text",
+                "x": 516,
+                "y": 506,
+                "height": 25,
+                "width": 35,
+                "leftCorner": [
+                    516,
+                    506
+                ],
+                "rightCorner": [
+                    551,
+                    531
+                ],
+                "text": "103"
+            },
+            "5": {
+                "class": "text",
+                "x": 523,
+                "y": 475,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    523,
+                    475
+                ],
+                "rightCorner": [
+                    551,
+                    499
+                ],
+                "text": "72"
+            },
+            "6": {
+                "class": "text",
+                "x": 63,
+                "y": 475,
+                "height": 24,
+                "width": 288,
+                "leftCorner": [
+                    63,
+                    475
+                ],
+                "rightCorner": [
+                    351,
+                    499
+                ],
+                "text": "Vill. Analiza nevoilor de consiliere 2011-2012"
+            },
+            "7": {
+                "class": "text",
+                "x": 523,
+                "y": 427,
+                "height": 25,
+                "width": 28,
+                "leftCorner": [
+                    523,
+                    427
+                ],
+                "rightCorner": [
+                    551,
+                    452
+                ],
+                "text": "58"
+            },
+            "8": {
+                "class": "text",
+                "x": 63,
+                "y": 427,
+                "height": 43,
+                "width": 423,
+                "leftCorner": [
+                    63,
+                    427
+                ],
+                "rightCorner": [
+                    486,
+                    470
+                ],
+                "text": "Vil. Raport asupra activitatii desfasurate de centrul si cabinetele de\npsihopedagogica lasi - an scolar 201"
+            },
+            "9": {
+                "class": "text",
+                "x": 523,
+                "y": 380,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    523,
+                    380
+                ],
+                "rightCorner": [
+                    551,
+                    404
+                ],
+                "text": "50"
+            },
+            "10": {
+                "class": "text",
+                "x": 62,
+                "y": 380,
+                "height": 43,
+                "width": 420,
+                "leftCorner": [
+                    62,
+                    380
+                ],
+                "rightCorner": [
+                    482,
+                    423
+                ],
+                "text": "VI. Monitorizarea activital\njudetului lagi"
+            },
+            "11": {
+                "class": "text",
+                "x": 522,
+                "y": 349,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    522,
+                    349
+                ],
+                "rightCorner": [
+                    551,
+                    373
+                ],
+                "text": "45"
+            },
+            "12": {
+                "class": "text",
+                "x": 63,
+                "y": 348,
+                "height": 27,
+                "width": 154,
+                "leftCorner": [
+                    63,
+                    348
+                ],
+                "rightCorner": [
+                    217,
+                    375
+                ],
+                "text": "V. Publicatii 2011-2012"
+            },
+            "13": {
+                "class": "text",
+                "x": 522,
+                "y": 317,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    522,
+                    317
+                ],
+                "rightCorner": [
+                    551,
+                    341
+                ],
+                "text": "42"
+            },
+            "14": {
+                "class": "text",
+                "x": 64,
+                "y": 317,
+                "height": 27,
+                "width": 253,
+                "leftCorner": [
+                    64,
+                    317
+                ],
+                "rightCorner": [
+                    317,
+                    344
+                ],
+                "text": "IV. Program ,Scoala altfel\u201d \u2014 raport final"
+            },
+            "15": {
+                "class": "text",
+                "x": 523,
+                "y": 238,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    523,
+                    238
+                ],
+                "rightCorner": [
+                    551,
+                    262
+                ],
+                "text": "33"
+            },
+            "16": {
+                "class": "text",
+                "x": 63,
+                "y": 238,
+                "height": 75,
+                "width": 414,
+                "leftCorner": [
+                    63,
+                    238
+                ],
+                "rightCorner": [
+                    477,
+                    313
+                ],
+                "text": "Ill. Studiu privind optiunile scolare si profesionale ale elevilor din\nclasa a VIII -a exprimate in vederea fundamentariicifrei de\n\nscolarizare si stabil refelei unitatilor de invatamint preuniversitar\nde stat pentru anul scolar 2012-2013"
+            },
+            "17": {
+                "class": "text",
+                "x": 524,
+                "y": 191,
+                "height": 24,
+                "width": 27,
+                "leftCorner": [
+                    524,
+                    191
+                ],
+                "rightCorner": [
+                    551,
+                    215
+                ],
+                "text": "16"
+            },
+            "18": {
+                "class": "text",
+                "x": 63,
+                "y": 191,
+                "height": 42,
+                "width": 422,
+                "leftCorner": [
+                    63,
+                    191
+                ],
+                "rightCorner": [
+                    485,
+                    233
+                ],
+                "text": "Il, Studiu privind efectele migrat strindtate\n\nasupra copiilor"
+            },
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 64,
+                "y": 159,
+                "height": 27,
+                "width": 421,
+                "leftCorner": [
+                    64,
+                    159
+                ],
+                "rightCorner": [
+                    485,
+                    186
+                ],
+                "text": "|. Studiu privind abandonul scolar la nivelul judetului lagi 2011-2012"
+            },
+            "21": {
+                "class": "text",
+                "x": 266,
+                "y": 87,
+                "height": 26,
+                "width": 84,
+                "leftCorner": [
+                    266,
+                    87
+                ],
+                "rightCorner": [
+                    350,
+                    113
+                ],
+                "text": "CUPRINS"
+            },
+            "22": {}
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "23": {},
+            "24": {}
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "25": {
+                "class": "text",
+                "x": 63,
+                "y": 562,
+                "height": 133,
+                "width": 491,
+                "leftCorner": [
+                    63,
+                    562
+                ],
+                "rightCorner": [
+                    554,
+                    695
+                ],
+                "text": "Grupul tinta\n\nPentru identiticarea situatilor de abandon scolar grupul tint\u00e9 a cuprins un numar de\n151 unitati gcolare de la nivelul judetului care au clase de Invatamant obligatoriu din care\n69 unitati de invatamant din mediul urban, respectiv 82 din mediul rural. Din totalul\nunitatilor din grupul fit un numar de 95 unitai) gcolare au raportat situafii de abandon\n\nscolar, din care 65 din mediul rural si 30 din mediul urban,\n\n\u2018in vederea identiicdril elevilor aflali in situate de risc de abandon scolar a fost\nutiizat un egantion format din 17 020 elevi de clasele | \u2014 IX din 73 unitati scolare, 33 din\n\u2018mediul urban respectiv 40 din mediul rural."
+            },
+            "26": {
+                "class": "text",
+                "x": 63,
+                "y": 413,
+                "height": 147,
+                "width": 491,
+                "leftCorner": [
+                    63,
+                    413
+                ],
+                "rightCorner": [
+                    554,
+                    560
+                ],
+                "text": "Obiective\n\u2018Studiul privind abandonul gcotar la nivelul judetulul lagi a vizat:\nfundamentarea cu date statistice relevante a decizilor de politics educational\norientate spre prevenirea i diminuarea fenomenul\noferirea unei diagnoze privind cauzele de manifestare a fenomenului de parasire\n\ntimpurie a scoli,identificarea factorilor care genereaza o rata scazuta de retentie a\nelevilor in sistemul scolar;\n\n\u2018dentiicarea unor masuri eficiente privind prevenirea si combaterea abandonului;\nevidentierea riscurlor asociate acestui fenomen, a consecinjelor negative ale\npracticilor pasive, noninterventioniste."
+            },
+            "27": {
+                "class": "text",
+                "x": 254,
+                "y": 385,
+                "height": 23,
+                "width": 103,
+                "leftCorner": [
+                    254,
+                    385
+                ],
+                "rightCorner": [
+                    357,
+                    408
+                ],
+                "text": "METODOLOGIA"
+            },
+            "28": {
+                "class": "text",
+                "x": 63,
+                "y": 142,
+                "height": 228,
+                "width": 491,
+                "leftCorner": [
+                    63,
+                    142
+                ],
+                "rightCorner": [
+                    554,
+                    370
+                ],
+                "text": "Abandonul scolar reprezinta pentru sistemul de Invatamant, o problema care, prin\nconsecintele sale semnificative si prin dimensiunile sale, necesita atentia decidentior,\npracticienilor gi beneficiailor din sistemul educatjonal.\n\nPentru a raspunde acestei nevoi preocuparea Inspectoratului $colar al Judetului lasi\n\u2018sa Indreptat spre realizarea unor studi anuale asupra evolutiet abandonului scolar. Studiul\nde fala vizeaza nu doar extinderea bazei de date in ce priveste abandonul scolar gi factori\nde risc, dar, In acelagi timp, testeaza gio serie de solu realiste de abordare prin programe\ni proiecte initiate de scoli. Rezultatele acestora constituie repere in identiicarea si\ndemararea de programe specifice de intervente,\n\nDezideratele unui sistem educational modem presupun existenta unor abordari noi,\ninovatoare care s8 recunoasca diferitele cerinte educationale cu masuri adecvate la\nacestea si care s& asigure o educatie de calitate pentru tof.\n\nIn studiul de fata se considera abandon .cazul unui elev care nu frecventeaza\ncursurile de zi ale unei clase de invatamant obligatoriu, depasind cu mai mult de 2 ani\nvarsta clasei respective\u2019, conform Regulamentului de Organizare si functionare a unitalor\nde invaamant preuniversitar- ar.68 (5)."
+            },
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 63,
+                "y": 51,
+                "height": 47,
+                "width": 434,
+                "leftCorner": [
+                    63,
+                    51
+                ],
+                "rightCorner": [
+                    497,
+                    98
+                ],
+                "text": "ID ABANDONUL S$COLAR LA NIVELUL\nJUDETULUI IASI 2011-2012"
+            },
+            "31": {}
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "32": {
+                "class": "text",
+                "x": 63,
+                "y": 294,
+                "height": 429,
+                "width": 491,
+                "leftCorner": [
+                    63,
+                    294
+                ],
+                "rightCorner": [
+                    554,
+                    723
+                ],
+                "text": "_ __ A2. Cauzalitatea specifica\nin fteratura de specialtate privind abandonul scolar si cauzele acestuia, acestea sunt\nplasate In general la tri nivele ciferte\n~ Elevul gi familia de provenienfa: resursele familie, prin absenta lor pot actiona ca\nPiedica in continuarea educate in plus elevi cu nevoi speciale (de exemplu cei cu\nizabilt) prezinta o probabiltate mai rdcatd de a abandona prematur studile\nComuritatea de provenient\u00e9: normele comunitare pot determina renuntarea la\neducatje; de exempl, in unele comuniti exists norma ca fetele sa se cAsatoreasc\u00e9\nla varste foarte mic, acest fapt asociindu-se adesea cu renuntarea la studi alte\nrnorme similare incid intrarea timpurie pe piata munci,implicarea in actvitajaflate\nla limita sau in afara leg (munca la negru, prostitute, apartenenta la gst de cartier\netc). Alteor, este importanta chiar prezenta sau absenja in comunicare a. unor\nmodele de urmat in ce priveste traiecoria educational\u00e9. Localzarea geograica a\n\u2018comunitaii poate influenta negati continuarea educatjei atunci cand, spre exemplu\nUnitatea scolar in care elevul poate urma clasa a IXa este situa la distanta mare\n\u2018Scoala: poate descuraja elevul s8 continue educatja sau poate preveni abandonul\nScolar. Capacitatea de integrare si adaptare la cerintele scoli, flexbiltatea\nprogramelor scolar, climatul educational, relaile pedagogice sunt factori important\nIn acest sens.\nConform acestor abordsri teoretice instrumentul de investigare solicit\u00e9 identiicarea pentru\nflecare caz a cauzelor, dupa urmatoarele crite:\n._Cauze_individuale ~ ex: probleme medicale severe (diabet, infestarea cu HIV,\nneumoniy, integritatea anatomofunctionala etc), elevi cu CES, comportament deviant!\nviolent, comunicare deficitara/izolare, probleme de relationare, motivaie scolar redusa\n\n1, Cauze familiale - ex: nivelul redus de educate al parinflor, dezinteresul/atitudinea\nnegativa a familliei fal de scoal dezorganizat\u2019 (incomplet, conflictual,\ndezmembrata), parin{iplecafi la munca in strdinatate, copiinstitutionalizai/n plasament,\nfamili de rom;\n\nIIL Cauze gcolare ~ ex: difcultati de invajare, absenteism ridicat, egec scolar (corigent\nrepetentie);"
+            },
+            "33": {
+                "class": "text",
+                "x": 63,
+                "y": 227,
+                "height": 65,
+                "width": 490,
+                "leftCorner": [
+                    63,
+                    227
+                ],
+                "rightCorner": [
+                    553,
+                    292
+                ],
+                "text": "Itemii elaborati au vizat urmatoarele aspecte:\n\u2018A. Elevi deciarati in situatie de abandon la inceputul anulul gcolar 2011-2012.\n\nA 4. Situatia numeric lor declarafi in abandon in anul scolar 2011-2012,\nSituatia cuprinde numarul de elevi declarati in abandon in funciie de ultima clasa absolvita"
+            },
+            "34": {
+                "class": "text",
+                "x": 63,
+                "y": 145,
+                "height": 79,
+                "width": 378,
+                "leftCorner": [
+                    63,
+                    145
+                ],
+                "rightCorner": [
+                    441,
+                    224
+                ],
+                "text": "Instrumentul de investigare a fost conceput pe doua componente:\n\u2018A. Situatia numerica a elevilor dectarati in abandon\nB. Situatia numeric\u00e9 a eleviloraflai in situalie de risc de abandon\n\nC. Programele implementate de unitafle gcolare privind reducerea\n\u2018abandonului scolar."
+            },
+            "35": {
+                "class": "text",
+                "x": 63,
+                "y": 51,
+                "height": 90,
+                "width": 471,
+                "leftCorner": [
+                    63,
+                    51
+                ],
+                "rightCorner": [
+                    534,
+                    141
+                ],
+                "text": "Perioada de derulare\n\n\u2018Studiul s-a derulat, conform graficelor stabilite,respectand urmatoarele etape:\nElaborarea instrumentului de analizd statisticd a datelor: 24 - 31 octombrie 2011;\n\nAplicarea instrumentului: 1- 25 noiembrie 2011;\nCentralizarea datelor: 25 noiembrie - 23 decembrie 2011\nElaborarea concluzilor: 16 - 23 ianuarie 2012"
+            },
+            "36": {}
+        }
+    },
+    "img_099": {
+        "page": "99",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 490,
+                "y": 723,
+                "height": 22,
+                "width": 27,
+                "leftCorner": [
+                    490,
+                    723
+                ],
+                "rightCorner": [
+                    517,
+                    745
+                ],
+                "text": "101"
+            },
+            "38": {},
+            "39": {},
+            "40": {},
+            "41": {},
+            "42": {},
+            "43": {},
+            "44": {},
+            "45": {},
+            "46": {},
+            "47": {},
+            "48": {},
+            "49": {},
+            "50": {
+                "class": "text",
+                "x": 105,
+                "y": 66,
+                "height": 620,
+                "width": 413,
+                "leftCorner": [
+                    105,
+                    66
+                ],
+                "rightCorner": [
+                    518,
+                    686
+                ],
+                "text": "si munca, rolul invat\ndobandite.\n\u2018Ameliorarea managementulul si organiza serviillor de consiliere prin:\nclarificarea denumini ocupatiei\n\nelaborarea de fige ale postulul unitare Ia nivelul refelei MECTS pentru\nevitarea suprasolicitari si preluarii unor sarcini nespecifice\n\ndezvoltarea unui sistem de comunicare mai eficient Intre practicienii din\njudet, regiune, zona (pagina web a fiecarui CJAPP, adresa e-mail pentru\nfiecare consilier, parola pentru un forum de discutii comun, dotarea\ncabinetelor sau accesul consilierului la telefon)\n\nIntalnirieficiente ale coordonatorilor CJAPP\n\nbaze de date cu adresele de contact ale tuturor practicienilor din rejea\nIntocmirea de statistic cu privire la beneficiari servicilor de consiliere\n\u2018manualul bunelor practici\n\nImbunataitiea accesulul la informati cu privire la oportunitatjle de implicare\nin proiecte prin:\n\npartciparea la cursuri de formare privind elaborarea si managementul unui\nproiect sau a unei cereri de finantare\n\ndezvoltarea abiltatior de cautare cu ajutorul Internet-ului a surselor de\nfinanare\n\nasigurarea transparentel informatilor cu privre la finantatori si apeluri la\npropuneri de proiecte (distribuirea in scoli a ghidului participantului la\nproiecte, anunturi publice in mass-mediu gi pe Intemet).\n\nTransparenta informatilor cu privire la furnizorii de formare prin\n\nafige, pliante\n\n\u2018ampanii de informare in gcoli cu privite la oferta de formare (publicarea unui\ncatalog al ofertantilor, baza de date electronica accesibil\u00e9 pe Internet cu\nofertanti de formare).\n\nCresterea implicdri institutilor gcolare in informarea consilieilor, sprijinul\nCconduceril pentru formarea profesionala a acestora (implicarea consilierulul\nin consili de administrate, diseminarea eficienta a informatio).\n\nCresterea viziblitai ISE \u2014 Euroguidance / CNROP, a universitailor si CCD\na ofertanti de formare.\n\nReducerea deficitul de informagii despre piata muncil, mobilitatea pentru\nstudi sau muncd cu care se confrunt\u00e9 practicienii si care _impun\nImbunataitiea colaboraril cu instituti de profil: AJOFM, Centre de Informare\nsi Orientare, institute de cercetare, sursele potentiale de finantare,\npracticieni din institutile publice sau intemationale.\n\nRealizarea de actiuni concrete precum:\n\ninvitarea.unor reprezentan{i ai consilierlor din mediul privat la intalnirile\nconsilirilor scolar\n\natragerea practicienilor ca parteneri in diverse proiecte in derulare\ntransparenta mai mare a informatilor (diseminarea pe Internet, pagini web,\nalcatuirea unor forumuri de discutii care sa aiba in vedere si practicienii din\n\u2018mediul privat)\n\nii informale gi certificarea competentelor astfel"
+            },
+            "51": {}
+        }
+    },
+    "img_100": {
+        "page": "100",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "52": {
+                "class": "text",
+                "x": 490,
+                "y": 723,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    490,
+                    723
+                ],
+                "rightCorner": [
+                    518,
+                    745
+                ],
+                "text": "102"
+            },
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 81,
+                "y": 65,
+                "height": 337,
+                "width": 437,
+                "leftCorner": [
+                    81,
+                    65
+                ],
+                "rightCorner": [
+                    518,
+                    402
+                ],
+                "text": "4. | organizarea si gestionarea mai bund a informatilor prin crearea unui birou /\noft / cena cu tuncje de prluare ainfonmafior de interes 3 diseminarea\nlor dio practiien\nParicparea practienlor la diverse ac informale gi non formale bazate\npe munca n ecipg gl tnvalare pin coleborare, care e8 conduc la\n\u2018imbun\u00e9atatirea relatiilor (uneori tensionate) dintre practicienii din retea\nrecunoasterea competontlor profesonale\ntiralorarea comune\nCanstruirea unor protec comune,\n\nValeriicarea compelenilor de formar ale conllerlor oolad pn curse\nde formare dentate de GIRAEIGJAPP, CCD sau Informal, pen pregatirea\nconstr debulan.\n\nOrgarizaree de no! slag de formers pentru ameorrea infomatitor cu\nprivet\n\nmetodo gl instumentele de ru\n\napical practice\n\nresureee$ cadulorganizatorc\n\ncenticaes competenelor.\n\nDezbate ps problematceepecilli cu dere catogri de cadre didacice\n(Care nv au pregtire de speciaiale) 31 oferrea unel paete do. activi\npractice gia unui fundament teorete adeplatconospual nivel de\nIntlogere a eursanior\n\nStimulates Malefald mal bund a consleruld gcolr, ca modaliale de\nprevenire e migrate profesionao"
+            },
+            "55": {}
+        }
+    },
+    "img_101": {
+        "page": "101",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "56": {
+                "class": "text",
+                "x": 490,
+                "y": 723,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    490,
+                    723
+                ],
+                "rightCorner": [
+                    518,
+                    745
+                ],
+                "text": "103"
+            },
+            "57": {
+                "class": "text",
+                "x": 287,
+                "y": 658,
+                "height": 34,
+                "width": 135,
+                "leftCorner": [
+                    287,
+                    658
+                ],
+                "rightCorner": [
+                    422,
+                    692
+                ],
+                "text": "IASI, Str. Socola, nr. 51\n53"
+            },
+            "58": {
+                "class": "text",
+                "x": 434,
+                "y": 656,
+                "height": 24,
+                "width": 97,
+                "leftCorner": [
+                    434,
+                    656
+                ],
+                "rightCorner": [
+                    531,
+                    680
+                ],
+                "text": "CLAUDIA CALIN"
+            },
+            "59": {
+                "class": "text",
+                "x": 434,
+                "y": 633,
+                "height": 22,
+                "width": 107,
+                "leftCorner": [
+                    434,
+                    633
+                ],
+                "rightCorner": [
+                    541,
+                    655
+                ],
+                "text": "\u2018SIMONA MORARU"
+            },
+            "60": {
+                "class": "text",
+                "x": 287,
+                "y": 633,
+                "height": 24,
+                "width": 127,
+                "leftCorner": [
+                    287,
+                    633
+                ],
+                "rightCorner": [
+                    414,
+                    657
+                ],
+                "text": "IASI, Bd. Poitiers, nr. 41"
+            },
+            "61": {
+                "class": "text",
+                "x": 287,
+                "y": 606,
+                "height": 26,
+                "width": 258,
+                "leftCorner": [
+                    287,
+                    606
+                ],
+                "rightCorner": [
+                    545,
+                    632
+                ],
+                "text": "IASI, Str. Manta Rogie, nr.5 MIHAELA CENUSA,"
+            },
+            "62": {
+                "class": "text",
+                "x": 434,
+                "y": 577,
+                "height": 24,
+                "width": 111,
+                "leftCorner": [
+                    434,
+                    577
+                ],
+                "rightCorner": [
+                    545,
+                    601
+                ],
+                "text": "TATIANA PANTIRU"
+            },
+            "63": {
+                "class": "text",
+                "x": 287,
+                "y": 577,
+                "height": 25,
+                "width": 129,
+                "leftCorner": [
+                    287,
+                    577
+                ],
+                "rightCorner": [
+                    416,
+                    602
+                ],
+                "text": "IASI, Str. Bucium, nr. 17."
+            },
+            "64": {
+                "class": "text",
+                "x": 434,
+                "y": 552,
+                "height": 22,
+                "width": 126,
+                "leftCorner": [
+                    434,
+                    552
+                ],
+                "rightCorner": [
+                    560,
+                    574
+                ],
+                "text": "\u2018AUREL HODOROGEA"
+            },
+            "65": {
+                "class": "text",
+                "x": 434,
+                "y": 525,
+                "height": 22,
+                "width": 117,
+                "leftCorner": [
+                    434,
+                    525
+                ],
+                "rightCorner": [
+                    551,
+                    547
+                ],
+                "text": "GEORGETA CADAR"
+            },
+            "66": {
+                "class": "text",
+                "x": 52,
+                "y": 500,
+                "height": 194,
+                "width": 225,
+                "leftCorner": [
+                    52,
+                    500
+                ],
+                "rightCorner": [
+                    277,
+                    694
+                ],
+                "text": "\u2018SCOALA NORMALA VASILE LUPU\"\n\nCOLEGIUL TEHNIC DIMITRIE\nLEONIDA\"\n\nCOLEGIUL TEHNIC GHEORGHE\nASACHI\"\n\nLICEUL TEHNOLOGIC ANGHEL\nSALIGNY\u2122\n\nLICEUL TEHNOLOGIC CONSTANTIN,\nBRANCUST\n\nLICEUL TEHNOLOGIC ,DUMITRU\nMANGERON\"\n\nCOLEGIUL TEHNIC IOAN C.\n\u2018STEFANESCU\""
+            },
+            "67": {
+                "class": "text",
+                "x": 434,
+                "y": 499,
+                "height": 24,
+                "width": 120,
+                "leftCorner": [
+                    434,
+                    499
+                ],
+                "rightCorner": [
+                    554,
+                    523
+                ],
+                "text": "CATALINA ROTARIU"
+            },
+            "68": {
+                "class": "text",
+                "x": 434,
+                "y": 463,
+                "height": 22,
+                "width": 107,
+                "leftCorner": [
+                    434,
+                    463
+                ],
+                "rightCorner": [
+                    541,
+                    485
+                ],
+                "text": "MIHAELA ALIMAN"
+            },
+            "69": {
+                "class": "text",
+                "x": 434,
+                "y": 439,
+                "height": 22,
+                "width": 119,
+                "leftCorner": [
+                    434,
+                    439
+                ],
+                "rightCorner": [
+                    553,
+                    461
+                ],
+                "text": "DANA DUMITRACHE"
+            },
+            "70": {
+                "class": "text",
+                "x": 286,
+                "y": 439,
+                "height": 137,
+                "width": 148,
+                "leftCorner": [
+                    286,
+                    439
+                ],
+                "rightCorner": [
+                    434,
+                    576
+                ],
+                "text": "IASI, Str. Cuza Voda, nr. 29\n\nIASI, Str Aleea Gr.Ghica\n\u2018Voda nr. 28\nStrada Libertine. 24-26\n\nIASI, Str. M. Sadoveanu, or.\n46\n\nIASI, Str. Socola, nr. 188\n~ 190\n\nIASI, Str. Sarde, ar. 189"
+            },
+            "71": {
+                "class": "text",
+                "x": 52,
+                "y": 439,
+                "height": 21,
+                "width": 22,
+                "leftCorner": [
+                    52,
+                    439
+                ],
+                "rightCorner": [
+                    74,
+                    460
+                ],
+                "text": "1\""
+            },
+            "72": {},
+            "73": {
+                "class": "text",
+                "x": 434,
+                "y": 395,
+                "height": 43,
+                "width": 118,
+                "leftCorner": [
+                    434,
+                    395
+                ],
+                "rightCorner": [
+                    552,
+                    438
+                ],
+                "text": "MIRELA PINTILIE,\nCLAUDIA CARAUSU"
+            },
+            "74": {
+                "class": "text",
+                "x": 434,
+                "y": 371,
+                "height": 22,
+                "width": 133,
+                "leftCorner": [
+                    434,
+                    371
+                ],
+                "rightCorner": [
+                    567,
+                    393
+                ],
+                "text": "MAGDALENA IOACHIM"
+            },
+            "75": {
+                "class": "text",
+                "x": 287,
+                "y": 346,
+                "height": 49,
+                "width": 142,
+                "leftCorner": [
+                    287,
+                    346
+                ],
+                "rightCorner": [
+                    429,
+                    395
+                ],
+                "text": "IASI, Str. M. Kogailniceanu,\n10.\n\n \n\nIASI, Str. C. Negri, nr. 50"
+            },
+            "76": {
+                "class": "text",
+                "x": 51,
+                "y": 346,
+                "height": 154,
+                "width": 235,
+                "leftCorner": [
+                    51,
+                    346
+                ],
+                "rightCorner": [
+                    286,
+                    500
+                ],
+                "text": "\u2018COLEGIUL NATIONAL .MIHAI\nEMINESCU\"\n\nLICEUL TEORETIC. VASILE\nALECSANDRI\"\n\nLICEUL TEORETIC MIRON COSTIN\u2122\n\nLICEUL DE INFORMATICA ,GRIGORE\nMOISIL\u201d\n\nCCOLEGIUL NATIONAL DE ARTA\nOCTAV BANCILA\"\n\nLICEUL CU PROGRAM SPORTIV IASI +\nSCOALA ALECU RUSSO\""
+            },
+            "77": {
+                "class": "text",
+                "x": 287,
+                "y": 310,
+                "height": 24,
+                "width": 117,
+                "leftCorner": [
+                    287,
+                    310
+                ],
+                "rightCorner": [
+                    404,
+                    334
+                ],
+                "text": "IASI, Str. Oastei, nr. 1"
+            },
+            "78": {
+                "class": "text",
+                "x": 434,
+                "y": 309,
+                "height": 59,
+                "width": 136,
+                "leftCorner": [
+                    434,
+                    309
+                ],
+                "rightCorner": [
+                    570,
+                    368
+                ],
+                "text": "OANA-CRISTINA CHIRU\nAURA TABARA\nCRISTINA PALIMARIU"
+            },
+            "79": {
+                "class": "text",
+                "x": 434,
+                "y": 279,
+                "height": 22,
+                "width": 111,
+                "leftCorner": [
+                    434,
+                    279
+                ],
+                "rightCorner": [
+                    545,
+                    301
+                ],
+                "text": "IOAN CUCUTEANU"
+            },
+            "80": {
+                "class": "text",
+                "x": 287,
+                "y": 279,
+                "height": 24,
+                "width": 132,
+                "leftCorner": [
+                    287,
+                    279
+                ],
+                "rightCorner": [
+                    419,
+                    303
+                ],
+                "text": "IASI, Str. Decebal, nr. 13"
+            },
+            "81": {
+                "class": "text",
+                "x": 434,
+                "y": 254,
+                "height": 22,
+                "width": 116,
+                "leftCorner": [
+                    434,
+                    254
+                ],
+                "rightCorner": [
+                    550,
+                    276
+                ],
+                "text": "CRISTIAN IONESCU"
+            },
+            "82": {
+                "class": "text",
+                "x": 287,
+                "y": 254,
+                "height": 24,
+                "width": 140,
+                "leftCorner": [
+                    287,
+                    254
+                ],
+                "rightCorner": [
+                    427,
+                    278
+                ],
+                "text": "IASI, Str. LCreanga, nr. 37"
+            },
+            "83": {
+                "class": "text",
+                "x": 75,
+                "y": 254,
+                "height": 90,
+                "width": 210,
+                "leftCorner": [
+                    75,
+                    254
+                ],
+                "rightCorner": [
+                    285,
+                    344
+                ],
+                "text": "LICEUL TEORETIC ALEXANDRU IOAN\ncuz\"\nLICEUL TEORETIC .DIMITRIE\n\nCANTEMIR\u00ae\n\nCOLEGIUL NATIONAL GARABET\nIBRAILEANU\""
+            },
+            "84": {},
+            "85": {
+                "class": "text",
+                "x": 75,
+                "y": 205,
+                "height": 42,
+                "width": 196,
+                "leftCorner": [
+                    75,
+                    205
+                ],
+                "rightCorner": [
+                    271,
+                    247
+                ],
+                "text": "\u2018COLEGIUL ,COSTACHE NEGRUZZ!\nCCOLEGIUL .NATIONAL\""
+            },
+            "86": {
+                "class": "text",
+                "x": 434,
+                "y": 150,
+                "height": 97,
+                "width": 131,
+                "leftCorner": [
+                    434,
+                    150
+                ],
+                "rightCorner": [
+                    565,
+                    247
+                ],
+                "text": "ALINA PAVILIUC\nCRISTINA VAMESU\nGENOVEVA FARCAS\n\nCAMELIA TAMAS\nFLORIN TATARUSANU"
+            },
+            "87": {
+                "class": "text",
+                "x": 287,
+                "y": 150,
+                "height": 34,
+                "width": 146,
+                "leftCorner": [
+                    287,
+                    150
+                ],
+                "rightCorner": [
+                    433,
+                    184
+                ],
+                "text": "ASI, Str. Aleea Nicolina, nr.\n4"
+            },
+            "88": {
+                "class": "text",
+                "x": 452,
+                "y": 117,
+                "height": 25,
+                "width": 102,
+                "leftCorner": [
+                    452,
+                    117
+                ],
+                "rightCorner": [
+                    554,
+                    142
+                ],
+                "text": "Consilier scolar"
+            },
+            "89": {
+                "class": "text",
+                "x": 335,
+                "y": 117,
+                "height": 23,
+                "width": 53,
+                "leftCorner": [
+                    335,
+                    117
+                ],
+                "rightCorner": [
+                    388,
+                    140
+                ],
+                "text": "Adresa"
+            },
+            "90": {
+                "class": "text",
+                "x": 75,
+                "y": 117,
+                "height": 70,
+                "width": 171,
+                "leftCorner": [
+                    75,
+                    117
+                ],
+                "rightCorner": [
+                    246,
+                    187
+                ],
+                "text": "psihopedagogics\n\nCCOLEGIUL NATIONAL MIL\nRACOVITA\u2019"
+            },
+            "91": {
+                "class": "text",
+                "x": 52,
+                "y": 117,
+                "height": 54,
+                "width": 25,
+                "leftCorner": [
+                    52,
+                    117
+                ],
+                "rightCorner": [
+                    77,
+                    171
+                ],
+                "text": "Ne\nen"
+            },
+            "92": {
+                "class": "text",
+                "x": 82,
+                "y": 64,
+                "height": 49,
+                "width": 430,
+                "leftCorner": [
+                    82,
+                    64
+                ],
+                "rightCorner": [
+                    512,
+                    113
+                ],
+                "text": "IX. RETEAUA CABINETELOR $COLARE DE ASISTENTA\nPSIHOPEDAGOGICA ~ an scolar 2011 - 2012"
+            },
+            "93": {}
+        }
+    },
+    "img_102": {
+        "page": "102",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "94": {},
+            "95": {
+                "class": "text",
+                "x": 51,
+                "y": 622,
+                "height": 79,
+                "width": 203,
+                "leftCorner": [
+                    51,
+                    622
+                ],
+                "rightCorner": [
+                    254,
+                    701
+                ],
+                "text": "\u2018SCOALA ,PETRU PONT\"\nSCOALA GEORGE CALINESCU\"\n\nSCOALA ,NICOLAE IORGA\u00ae\nSCOALA ,DIMITRIE STURDZA\""
+            },
+            "96": {
+                "class": "text",
+                "x": 434,
+                "y": 620,
+                "height": 79,
+                "width": 134,
+                "leftCorner": [
+                    434,
+                    620
+                ],
+                "rightCorner": [
+                    568,
+                    699
+                ],
+                "text": "\u2018ANA MARIA IBANESCU\nCRISTINA DOBRE\n\nALINA CIOBOTARU\nRAMONA FLORESCU"
+            },
+            "97": {
+                "class": "text",
+                "x": 287,
+                "y": 560,
+                "height": 141,
+                "width": 145,
+                "leftCorner": [
+                    287,
+                    560
+                ],
+                "rightCorner": [
+                    432,
+                    701
+                ],
+                "text": "IASI, Aleea Decebal, Nr. 10\nIASI, Calea Galata Nr. 42\n\nIASI, Str. Gheorghe Doja,\nNe\n\nIASI, Str. Pacurari Nr 112\n|ASI, Str. Amurgulul, Ne. 21\nIASI, Str Hincea Nr. 7\nIASI, Str. Cetatul, Ne. 3"
+            },
+            "98": {
+                "class": "text",
+                "x": 51,
+                "y": 560,
+                "height": 61,
+                "width": 183,
+                "leftCorner": [
+                    51,
+                    560
+                ],
+                "rightCorner": [
+                    234,
+                    621
+                ],
+                "text": "38 \u00a7$COALA ,TITU MAIORESCU\"\n38 SCOALA. ION SIMIONESCU\"\n\n \n\n40 SCOALA ,VASILE CONTA"
+            },
+            "99": {
+                "class": "text",
+                "x": 434,
+                "y": 511,
+                "height": 108,
+                "width": 112,
+                "leftCorner": [
+                    434,
+                    511
+                ],
+                "rightCorner": [
+                    546,
+                    619
+                ],
+                "text": "ELENA MANUELA\nVLASIE\n\nDIANA MARIAN\n\nIRINA DUMITRU\nROXANA DUMITRU\nLOREDANA STIUJ"
+            },
+            "100": {
+                "class": "text",
+                "x": 52,
+                "y": 511,
+                "height": 25,
+                "width": 198,
+                "leftCorner": [
+                    52,
+                    511
+                ],
+                "rightCorner": [
+                    250,
+                    536
+                ],
+                "text": "37 $COALA ,BOGDAN P, HASDEU\""
+            },
+            "101": {},
+            "102": {
+                "class": "text",
+                "x": 434,
+                "y": 430,
+                "height": 60,
+                "width": 128,
+                "leftCorner": [
+                    434,
+                    430
+                ],
+                "rightCorner": [
+                    562,
+                    490
+                ],
+                "text": "PETRUTA MATASARU\nALINA AMARIEI\nMARILENA CRACIUN"
+            },
+            "103": {
+                "class": "text",
+                "x": 287,
+                "y": 389,
+                "height": 157,
+                "width": 145,
+                "leftCorner": [
+                    287,
+                    389
+                ],
+                "rightCorner": [
+                    432,
+                    546
+                ],
+                "text": "IASI, Str. Zugrav, nr.12A\nIASI, Stradela Canta, nr. 10\nIASI, Str. Cult ne. 178,\nIASI, Str. Sooola, nr. 84\nIASI, Str. Primaveri Nr. 8\n\nIASI, Str. Romana Nr. 30\nIASI, St. Prof.\nSimionescu, nr. 16\n\nIASI, St. lon Creanga, Nr\n27"
+            },
+            "104": {
+                "class": "text",
+                "x": 52,
+                "y": 387,
+                "height": 80,
+                "width": 218,
+                "leftCorner": [
+                    52,
+                    387
+                ],
+                "rightCorner": [
+                    270,
+                    467
+                ],
+                "text": "SCOALA STEFAN BARSANESCU\"\nSCOALA ,ELENA CUZA + SCOALA\n\nSION CREANGA\"\nSCOALA .G.MARZESCU' + SCOALA\nION GHICA"
+            },
+            "105": {
+                "class": "text",
+                "x": 287,
+                "y": 358,
+                "height": 24,
+                "width": 133,
+                "leftCorner": [
+                    287,
+                    358
+                ],
+                "rightCorner": [
+                    420,
+                    382
+                ],
+                "text": "IASI, Str. Mugatini, nr. 53"
+            },
+            "106": {
+                "class": "text",
+                "x": 52,
+                "y": 358,
+                "height": 24,
+                "width": 206,
+                "leftCorner": [
+                    52,
+                    358
+                ],
+                "rightCorner": [
+                    258,
+                    382
+                ],
+                "text": "32. SCOALA ALEXANDRU CEL BUN\""
+            },
+            "107": {
+                "class": "text",
+                "x": 434,
+                "y": 309,
+                "height": 120,
+                "width": 136,
+                "leftCorner": [
+                    434,
+                    309
+                ],
+                "rightCorner": [
+                    570,
+                    429
+                ],
+                "text": "\u2018CORINA SANDU\n\nTEODORA TANASA\nDIANA MARIAN\n\nANA NICOLETA\n\nGRIGORE\nANAMARIA SURUBARU\nCORINA BARLADEANU"
+            },
+            "108": {
+                "class": "text",
+                "x": 434,
+                "y": 282,
+                "height": 22,
+                "width": 95,
+                "leftCorner": [
+                    434,
+                    282
+                ],
+                "rightCorner": [
+                    529,
+                    304
+                ],
+                "text": "AGNES HRISCU"
+            },
+            "109": {
+                "class": "text",
+                "x": 434,
+                "y": 257,
+                "height": 22,
+                "width": 81,
+                "leftCorner": [
+                    434,
+                    257
+                ],
+                "rightCorner": [
+                    515,
+                    279
+                ],
+                "text": "OANA URSU"
+            },
+            "110": {
+                "class": "text",
+                "x": 434,
+                "y": 232,
+                "height": 22,
+                "width": 95,
+                "leftCorner": [
+                    434,
+                    232
+                ],
+                "rightCorner": [
+                    529,
+                    254
+                ],
+                "text": "\u2018CLAUDIA RUSU"
+            },
+            "111": {
+                "class": "text",
+                "x": 434,
+                "y": 208,
+                "height": 22,
+                "width": 128,
+                "leftCorner": [
+                    434,
+                    208
+                ],
+                "rightCorner": [
+                    562,
+                    230
+                ],
+                "text": "ANA NICOLETA LUCA"
+            },
+            "112": {
+                "class": "text",
+                "x": 287,
+                "y": 208,
+                "height": 143,
+                "width": 140,
+                "leftCorner": [
+                    287,
+                    208
+                ],
+                "rightCorner": [
+                    427,
+                    351
+                ],
+                "text": "IASI, Str. Sf, Andrei, nr. 70\nIASI, Str. Milcoy, nr. 14\nIASI, B-dul Socola, nr. 82\n\nIASI, Alea M.\nSadoveanu, nr. 44\nIASI, Str. Buridava, ne. 10\n\n \n\nIASI, Bd. Socota Ne. 13"
+            },
+            "113": {
+                "class": "text",
+                "x": 287,
+                "y": 183,
+                "height": 24,
+                "width": 130,
+                "leftCorner": [
+                    287,
+                    183
+                ],
+                "rightCorner": [
+                    417,
+                    207
+                ],
+                "text": "IASI, Str. Sardriei, nr. 35"
+            },
+            "114": {
+                "class": "text",
+                "x": 434,
+                "y": 181,
+                "height": 26,
+                "width": 130,
+                "leftCorner": [
+                    434,
+                    181
+                ],
+                "rightCorner": [
+                    564,
+                    207
+                ],
+                "text": "CRISTINA MORARASU"
+            },
+            "115": {
+                "class": "text",
+                "x": 434,
+                "y": 156,
+                "height": 26,
+                "width": 123,
+                "leftCorner": [
+                    434,
+                    156
+                ],
+                "rightCorner": [
+                    557,
+                    182
+                ],
+                "text": "NICOLETA PASALAU"
+            },
+            "116": {
+                "class": "text",
+                "x": 434,
+                "y": 109,
+                "height": 46,
+                "width": 110,
+                "leftCorner": [
+                    434,
+                    109
+                ],
+                "rightCorner": [
+                    544,
+                    155
+                ],
+                "text": "ELENA LEUSTEAN\nFELICIA BRANZA,"
+            },
+            "117": {
+                "class": "text",
+                "x": 51,
+                "y": 108,
+                "height": 243,
+                "width": 233,
+                "leftCorner": [
+                    51,
+                    108
+                ],
+                "rightCorner": [
+                    284,
+                    351
+                ],
+                "text": "LICEUL TEHNOLOGIC ,RADU\nCERNATESCU\n\nLICEUL TEHNOLOGIC STEFAN\nPROCOPIU\"\n\nCOLEGIUL TEHNIC DE ELECTRONICA\nSITELECOMUNICATI\n\nCOLEGIUL ECONOMIC\nADMINISTRATIV\n\nLICEUL TEHNOLOGIC, VIRGIL\nMADGEARU\"\n\nLICEUL TEHNOLOGIC ECONOMIC DE\nTuRISM\n\nCOLEGIUL TEHNIC DE\nTRANSPORTURI\n\nCOLEGIUL AGRICOL $I DE IND.\nALIMENTARA , VASILE ADAMACHI\n\u2018SCOALA ALEXANDRU VLAHUTA\"\n\n \n\n\u2018SCOALA ,OTILIA CAZINI"
+            },
+            "118": {
+                "class": "text",
+                "x": 434,
+                "y": 65,
+                "height": 41,
+                "width": 111,
+                "leftCorner": [
+                    434,
+                    65
+                ],
+                "rightCorner": [
+                    545,
+                    106
+                ],
+                "text": "IRINA SANDU\nDANIELA ROBOTA"
+            },
+            "119": {
+                "class": "text",
+                "x": 287,
+                "y": 65,
+                "height": 117,
+                "width": 139,
+                "leftCorner": [
+                    287,
+                    65
+                ],
+                "rightCorner": [
+                    426,
+                    182
+                ],
+                "text": "IASI, Str. M. Sturdza, nr.2\nIASI, Str. 13 Decembrie,\nnba\n\nIASI, Str. Sooola, nr. 41\n\n|SI, Str. Chisindulu,\n132\nIASI, Str. MSturdza.nr. 43,"
+            },
+            "120": {
+                "class": "text",
+                "x": 51,
+                "y": 65,
+                "height": 42,
+                "width": 235,
+                "leftCorner": [
+                    51,
+                    65
+                ],
+                "rightCorner": [
+                    286,
+                    107
+                ],
+                "text": "20 COLEGIUL TEHNIC.\n21 LICEUL TEHNOLOGIC\n\n \n\nHAIL STURDZA\u2019\nICOLINA\u2019"
+            },
+            "121": {}
+        }
+    },
+    "img_103": {
+        "page": "103",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "122": {
+                "class": "text",
+                "x": 490,
+                "y": 723,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    490,
+                    723
+                ],
+                "rightCorner": [
+                    518,
+                    745
+                ],
+                "text": "105"
+            },
+            "123": {
+                "class": "text",
+                "x": 434,
+                "y": 597,
+                "height": 22,
+                "width": 90,
+                "leftCorner": [
+                    434,
+                    597
+                ],
+                "rightCorner": [
+                    524,
+                    619
+                ],
+                "text": "ELENA SANDU"
+            },
+            "124": {
+                "class": "text",
+                "x": 287,
+                "y": 597,
+                "height": 22,
+                "width": 68,
+                "leftCorner": [
+                    287,
+                    597
+                ],
+                "rightCorner": [
+                    355,
+                    619
+                ],
+                "text": "GRAJDURI"
+            },
+            "125": {
+                "class": "text",
+                "x": 287,
+                "y": 566,
+                "height": 22,
+                "width": 101,
+                "leftCorner": [
+                    287,
+                    566
+                ],
+                "rightCorner": [
+                    388,
+                    588
+                ],
+                "text": "LUNCA CETATUI!"
+            },
+            "126": {
+                "class": "text",
+                "x": 434,
+                "y": 564,
+                "height": 24,
+                "width": 91,
+                "leftCorner": [
+                    434,
+                    564
+                ],
+                "rightCorner": [
+                    525,
+                    588
+                ],
+                "text": "LIVIA CAILEAN"
+            },
+            "127": {
+                "class": "text",
+                "x": 287,
+                "y": 536,
+                "height": 24,
+                "width": 61,
+                "leftCorner": [
+                    287,
+                    536
+                ],
+                "rightCorner": [
+                    348,
+                    560
+                ],
+                "text": "TOMESTI"
+            },
+            "128": {
+                "class": "text",
+                "x": 51,
+                "y": 534,
+                "height": 87,
+                "width": 221,
+                "leftCorner": [
+                    51,
+                    534
+                ],
+                "rightCorner": [
+                    272,
+                    621
+                ],
+                "text": "SCOALA ,D. D. PATRASCANU\u2122\nTomesti\n\nSCOALA CIUREA + SCOALA LUNCA,\n\nCETATUI\n\u2018SCOALA GRAJDURI"
+            },
+            "129": {
+                "class": "text",
+                "x": 434,
+                "y": 486,
+                "height": 71,
+                "width": 109,
+                "leftCorner": [
+                    434,
+                    486
+                ],
+                "rightCorner": [
+                    543,
+                    557
+                ],
+                "text": "NICOLETA TAMAS\nELENA LARISA\n\nONEATA\nLILIANA ANTON"
+            },
+            "130": {},
+            "131": {
+                "class": "text",
+                "x": 434,
+                "y": 418,
+                "height": 60,
+                "width": 128,
+                "leftCorner": [
+                    434,
+                    418
+                ],
+                "rightCorner": [
+                    562,
+                    478
+                ],
+                "text": "DOINA MARIA TOANA\nIONUT MARDARE\nGETA MATASARU"
+            },
+            "132": {
+                "class": "text",
+                "x": 287,
+                "y": 389,
+                "height": 22,
+                "width": 76,
+                "leftCorner": [
+                    287,
+                    389
+                ],
+                "rightCorner": [
+                    363,
+                    411
+                ],
+                "text": "MIROSLAVA"
+            },
+            "133": {
+                "class": "text",
+                "x": 434,
+                "y": 358,
+                "height": 53,
+                "width": 110,
+                "leftCorner": [
+                    434,
+                    358
+                ],
+                "rightCorner": [
+                    544,
+                    411
+                ],
+                "text": "LILIANA ELENA\nHORDILA\n\nCARMEN BRADEA"
+            },
+            "134": {
+                "class": "text",
+                "x": 287,
+                "y": 357,
+                "height": 25,
+                "width": 68,
+                "leftCorner": [
+                    287,
+                    357
+                ],
+                "rightCorner": [
+                    355,
+                    382
+                ],
+                "text": "TIBANESTI"
+            },
+            "135": {
+                "class": "text",
+                "x": 433,
+                "y": 309,
+                "height": 40,
+                "width": 95,
+                "leftCorner": [
+                    433,
+                    309
+                ],
+                "rightCorner": [
+                    528,
+                    349
+                ],
+                "text": "IONELA ALEXA\nZINA BOUARU"
+            },
+            "136": {
+                "class": "text",
+                "x": 434,
+                "y": 284,
+                "height": 22,
+                "width": 116,
+                "leftCorner": [
+                    434,
+                    284
+                ],
+                "rightCorner": [
+                    550,
+                    306
+                ],
+                "text": "LILIANA BULGAGIU"
+            },
+            "137": {
+                "class": "text",
+                "x": 434,
+                "y": 259,
+                "height": 23,
+                "width": 82,
+                "leftCorner": [
+                    434,
+                    259
+                ],
+                "rightCorner": [
+                    516,
+                    282
+                ],
+                "text": "CRINA ANCA"
+            },
+            "138": {
+                "class": "text",
+                "x": 51,
+                "y": 258,
+                "height": 269,
+                "width": 326,
+                "leftCorner": [
+                    51,
+                    258
+                ],
+                "rightCorner": [
+                    377,
+                    527
+                ],
+                "text": "\u2018SCOALA ION CREANGA\u201d TG. FRUMOS, S|\nVoda, Nr 5\n\nCOLEGIUL NATIONAL .STEFAN CEL HARLAU, Str. M.\n\nMARE\u201d 5\n\nSCOALA PETRU RARES\" HARLAU\n\nLICEUL TEHNOLOGIC.HARALAMB _PODU ILOAIE!\n\nVASILIUT + SCOALA. AL. IOAN CUZA\"\n\nLICEUL TEHNOLOGIC,PETRE P\n\ncare\n\nLICEUL TEHNOLOGIC AGRICOL\n-MIAIL KOGALNICEANU\"\n\nLICEUL TEORETIC BOGDAN VODA\u2019 _-HALAUCESTI\nLICEUL TEORETIC,LASCAR ROSETT RADUCANENI\n\nLICEUL TEHNOLOGIC VICTOR BELCESTI\nMIMAILESCU CRAIU\"\n\nLICEUL TEHNOLOGIC VLADEN! VLADENI\nLICEUL TEHNOLOGIC VALEA SEACA | VALEA SEACA"
+            },
+            "139": {
+                "class": "text",
+                "x": 434,
+                "y": 216,
+                "height": 41,
+                "width": 137,
+                "leftCorner": [
+                    434,
+                    216
+                ],
+                "rightCorner": [
+                    571,
+                    257
+                ],
+                "text": "MARIANA ADAVIDOAIE!\nNINA ASPROIU"
+            },
+            "140": {
+                "class": "text",
+                "x": 434,
+                "y": 191,
+                "height": 23,
+                "width": 95,
+                "leftCorner": [
+                    434,
+                    191
+                ],
+                "rightCorner": [
+                    529,
+                    214
+                ],
+                "text": "\u2018CLAUDIA RADU"
+            },
+            "141": {
+                "class": "text",
+                "x": 434,
+                "y": 167,
+                "height": 24,
+                "width": 125,
+                "leftCorner": [
+                    434,
+                    167
+                ],
+                "rightCorner": [
+                    559,
+                    191
+                ],
+                "text": "PETRUTA CIOPRAGA"
+            },
+            "142": {
+                "class": "text",
+                "x": 434,
+                "y": 142,
+                "height": 22,
+                "width": 126,
+                "leftCorner": [
+                    434,
+                    142
+                ],
+                "rightCorner": [
+                    560,
+                    164
+                ],
+                "text": "MIHAELA COJOCARU"
+            },
+            "143": {
+                "class": "text",
+                "x": 434,
+                "y": 117,
+                "height": 25,
+                "width": 131,
+                "leftCorner": [
+                    434,
+                    117
+                ],
+                "rightCorner": [
+                    565,
+                    142
+                ],
+                "text": "EMANUELA NEMTANU"
+            },
+            "144": {
+                "class": "text",
+                "x": 51,
+                "y": 116,
+                "height": 142,
+                "width": 229,
+                "leftCorner": [
+                    51,
+                    116
+                ],
+                "rightCorner": [
+                    280,
+                    258
+                ],
+                "text": "COLEGIUL TEHNIC DE CAI FERATE\nsUNIREA\"\n\nLICEUL TEHNOLOGIC .MIHAI\nBUSUIOC\u2019\n\nLICEUL TEHNOLOGIC ECONOMIC\n:NIGOLAE IORGA\"\n\nSCOALA ,IORDACHE CANTACUZINO\u2122\n\n\u2018SCOALA LUNCA PASCANI\nLICEUL TEORETIC. ION NECULCE\""
+            },
+            "145": {
+                "class": "text",
+                "x": 434,
+                "y": 92,
+                "height": 22,
+                "width": 118,
+                "leftCorner": [
+                    434,
+                    92
+                ],
+                "rightCorner": [
+                    552,
+                    114
+                ],
+                "text": "ADRIANA APOSTOL"
+            },
+            "146": {
+                "class": "text",
+                "x": 434,
+                "y": 65,
+                "height": 23,
+                "width": 100,
+                "leftCorner": [
+                    434,
+                    65
+                ],
+                "rightCorner": [
+                    534,
+                    88
+                ],
+                "text": "ALINA CALINIUC"
+            },
+            "147": {
+                "class": "text",
+                "x": 287,
+                "y": 65,
+                "height": 284,
+                "width": 145,
+                "leftCorner": [
+                    287,
+                    65
+                ],
+                "rightCorner": [
+                    432,
+                    349
+                ],
+                "text": "PASCANI, Str. Sportului,\nrr. 12\nPASCANI Str. lzvoarelor,\nry. it\nPASCANI, St. Ceferi\nm3\nPASCANI, Str. 30\nDecombri, nr. 80\nPASCANI St. Eugen\nStamat, Nr. 12\nPASCANI, Str. Stefan col\nMaro, Ne 39\nLUNGA PASCANI\nTARGU FRUMOS,\n\nediy. 72\nTG, FRUMOS, Sf. Cuza\nVoda, Nr 5\n\n5\nHARLAU.\n\nPODU ILOAIE!"
+            },
+            "148": {
+                "class": "text",
+                "x": 51,
+                "y": 65,
+                "height": 51,
+                "width": 222,
+                "leftCorner": [
+                    51,
+                    65
+                ],
+                "rightCorner": [
+                    273,
+                    116
+                ],
+                "text": "45 COLEGIUL NATIONAL .MIHAIL\n\u2018SADOVEANU\"\n\n \n\n46 LICEUL TEORETIC .MIRON COSTIN\u201d"
+            },
+            "149": {}
+        }
+    },
+    "img_104": {
+        "page": "104",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "150": {
+                "class": "text",
+                "x": 490,
+                "y": 723,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    490,
+                    723
+                ],
+                "rightCorner": [
+                    519,
+                    745
+                ],
+                "text": "106,"
+            },
+            "151": {
+                "class": "text",
+                "x": 81,
+                "y": 449,
+                "height": 52,
+                "width": 437,
+                "leftCorner": [
+                    81,
+                    449
+                ],
+                "rightCorner": [
+                    518,
+                    501
+                ],
+                "text": "*** .Diminuarea inijiala a fenomenelor actuale intampinate in nesupravegherea\ncopillor singuri acas ~ Ghid pentru copili singuri acasa\" ~ proiect DIFAIN CSA,\n\n \n\nBucuresti, 2009,"
+            },
+            "152": {
+                "class": "text",
+                "x": 82,
+                "y": 422,
+                "height": 25,
+                "width": 352,
+                "leftCorner": [
+                    82,
+                    422
+                ],
+                "rightCorner": [
+                    434,
+                    447
+                ],
+                "text": "*** ,Profile ocupationale\u2019, ISE, CNROP, Ed, Afir, Bucuresti, 2008."
+            },
+            "153": {
+                "class": "text",
+                "x": 82,
+                "y": 381,
+                "height": 39,
+                "width": 436,
+                "leftCorner": [
+                    82,
+                    381
+                ],
+                "rightCorner": [
+                    518,
+                    420
+                ],
+                "text": "\u2018** Glosar ~ orientarea scolar\nBucuresti, 2002"
+            },
+            "154": {
+                "class": "text",
+                "x": 82,
+                "y": 341,
+                "height": 38,
+                "width": 436,
+                "leftCorner": [
+                    82,
+                    341
+                ],
+                "rightCorner": [
+                    518,
+                    379
+                ],
+                "text": "in Romania\u2019, Fundatia"
+            },
+            "155": {
+                "class": "text",
+                "x": 81,
+                "y": 300,
+                "height": 39,
+                "width": 437,
+                "leftCorner": [
+                    81,
+                    300
+                ],
+                "rightCorner": [
+                    518,
+                    339
+                ],
+                "text": "Voicu Bogdan (coord.), ,Renuntarea timpurie la educatje: posibile cai de\nprevenire\u201d, Ed. Vanemonde, Bucuresti, 2010."
+            },
+            "156": {},
+            "157": {
+                "class": "text",
+                "x": 82,
+                "y": 232,
+                "height": 25,
+                "width": 431,
+                "leftCorner": [
+                    82,
+                    232
+                ],
+                "rightCorner": [
+                    513,
+                    257
+                ],
+                "text": "Miailescu loan, Familia in societaile europene\", Universitatea Bucuresti, 1999."
+            },
+            "158": {
+                "class": "text",
+                "x": 82,
+                "y": 178,
+                "height": 52,
+                "width": 437,
+                "leftCorner": [
+                    82,
+                    178
+                ],
+                "rightCorner": [
+                    519,
+                    230
+                ],
+                "text": "Luca C., Gulei Al., .Asistenfa sociala, psihologica gi juridic\u00e9 a copiilor ramasi\nsinguri acasa_ca\u2019 urmare a plecarii p\u00e9rinflor la munca in strainatate ~\n\n \n\nmetodologie\u201d, Ed. Terra Nostra, lagi, 2007."
+            },
+            "159": {
+                "class": "text",
+                "x": 82,
+                "y": 138,
+                "height": 38,
+                "width": 436,
+                "leftCorner": [
+                    82,
+                    138
+                ],
+                "rightCorner": [
+                    518,
+                    176
+                ],
+                "text": "\u2018Comestean Daniela (coord.\n\u2018scolar\u2019, Ed. PIM, lagi, 2012,\n\nprevenirea abandonului"
+            },
+            "160": {
+                "class": "text",
+                "x": 238,
+                "y": 67,
+                "height": 25,
+                "width": 124,
+                "leftCorner": [
+                    238,
+                    67
+                ],
+                "rightCorner": [
+                    362,
+                    92
+                ],
+                "text": "BIBLIOGRAFIE"
+            },
+            "161": {}
+        }
+    }
+}
