@@ -1,0 +1,1819 @@
+{
+    "numberOfPages": 253,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 27,
+                "y": 734,
+                "height": 90,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    734
+                ],
+                "rightCorner": [
+                    573,
+                    824
+                ],
+                "text": "si Bucovinei"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 83,
+                "y": 692,
+                "height": 74,
+                "width": 443,
+                "leftCorner": [
+                    83,
+                    692
+                ],
+                "rightCorner": [
+                    526,
+                    766
+                ],
+                "text": "Volum de studii tiparit cu Binecuvantarea"
+            },
+            "4": {
+                "class": "text",
+                "x": 115,
+                "y": 564,
+                "height": 108,
+                "width": 383,
+                "leftCorner": [
+                    115,
+                    564
+                ],
+                "rightCorner": [
+                    498,
+                    672
+                ],
+                "text": "2014 \u2014 Anul Omagial Euharistic (al Sfintei\nSpovedanii si al Sfintei impartisanii)\n\n\u2014 Anul Comemorativ al Sfingilor Martiri\nBrancoveni"
+            },
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "class": "text",
+                "x": 179,
+                "y": 273,
+                "height": 31,
+                "width": 241,
+                "leftCorner": [
+                    179,
+                    273
+                ],
+                "rightCorner": [
+                    420,
+                    304
+                ],
+                "text": "SIMPOZION NATIONAL"
+            },
+            "9": {
+                "class": "text",
+                "x": 74,
+                "y": 213,
+                "height": 57,
+                "width": 451,
+                "leftCorner": [
+                    74,
+                    213
+                ],
+                "rightCorner": [
+                    525,
+                    270
+                ],
+                "text": "DIN SUFLET DE CRESTIN"
+            },
+            "10": {},
+            "11": {
+                "class": "text",
+                "x": 169,
+                "y": 78,
+                "height": 75,
+                "width": 343,
+                "leftCorner": [
+                    169,
+                    78
+                ],
+                "rightCorner": [
+                    512,
+                    153
+                ],
+                "text": "ilor Mitropolia Moldovei\nBucovinei\n\n \n\nInspectoratul Scolar Judetean Iasi"
+            },
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "Palatul Cop) Mitropolia Moldovei si\nIasi Bucovinei\n\nnspectoratul Scolar Judetean Lagi"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "14": {},
+            "15": {},
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 108,
+                "y": 556,
+                "height": 27,
+                "width": 139,
+                "leftCorner": [
+                    108,
+                    556
+                ],
+                "rightCorner": [
+                    247,
+                    583
+                ],
+                "text": "ISSN 2068-1593"
+            },
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 100,
+                "y": 376,
+                "height": 132,
+                "width": 350,
+                "leftCorner": [
+                    100,
+                    376
+                ],
+                "rightCorner": [
+                    450,
+                    508
+                ],
+                "text": "Editura OM\nEditurd acreditati CNCSIS ~ 6601.05,2006\n\nSoseaua Stefan cel Mare si Sfint nr. 4, Iasi ~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimcopy.ro"
+            },
+            "20": {},
+            "21": {
+                "class": "text",
+                "x": 74,
+                "y": 214,
+                "height": 72,
+                "width": 408,
+                "leftCorner": [
+                    74,
+                    214
+                ],
+                "rightCorner": [
+                    482,
+                    286
+                ],
+                "text": "Universitatea Alexandru Ioan Cuza lagi, Facultatea de\n\nTeologie Ortodoxa Dumitru Staniloae\nAsistent Pr. Dr. Gabriel Nastasi"
+            },
+            "22": {},
+            "23": {
+                "class": "text",
+                "x": 75,
+                "y": 101,
+                "height": 97,
+                "width": 258,
+                "leftCorner": [
+                    75,
+                    101
+                ],
+                "rightCorner": [
+                    333,
+                    198
+                ],
+                "text": "REFERENTI:\nBucovinei\n\n\u201c> Inspector invatamant\nPr. Dr. Prof. Bogdan Racu"
+            },
+            "24": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "Bucovinei"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "25": {},
+            "26": {},
+            "27": {},
+            "28": {
+                "class": "text",
+                "x": 75,
+                "y": 687,
+                "height": 52,
+                "width": 314,
+                "leftCorner": [
+                    75,
+                    687
+                ],
+                "rightCorner": [
+                    389,
+                    739
+                ],
+                "text": "Colegiul National ,,Mihai Eminescu\u201d, lasi\nProf. Daniela Lupig"
+            },
+            "29": {
+                "class": "text",
+                "x": 79,
+                "y": 596,
+                "height": 71,
+                "width": 290,
+                "leftCorner": [
+                    79,
+                    596
+                ],
+                "rightCorner": [
+                    369,
+                    667
+                ],
+                "text": "Palatul Copiilor, Iasi\n\nDirector, Prof. Constantin Serban\nProf. Adina Marcu"
+            },
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 75,
+                "y": 483,
+                "height": 93,
+                "width": 450,
+                "leftCorner": [
+                    75,
+                    483
+                ],
+                "rightCorner": [
+                    525,
+                    576
+                ],
+                "text": "Universitatea ,,Al. I. Cuza\u201d, Iasi, Facultatea de Teologie\nOrtodoxa ,,Dumitru Staniloae\u201d\n\n& Asistent Catedra Muzica Bisericeasca si Ritual\nPr. Dr. Gabriel Nastasa"
+            },
+            "32": {
+                "class": "text",
+                "x": 79,
+                "y": 369,
+                "height": 94,
+                "width": 434,
+                "leftCorner": [
+                    79,
+                    369
+                ],
+                "rightCorner": [
+                    513,
+                    463
+                ],
+                "text": "Inspectoratul Scolar Judetean Lasi\n\n\u201cInspector Scolar General- Prof. Dr. Camelia Gavrili\n\n\u201cInspector de Religie - Pr. Prof. Dr. Cristian-Alexandru\nBarnea"
+            },
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 79,
+                "y": 211,
+                "height": 139,
+                "width": 364,
+                "leftCorner": [
+                    79,
+                    211
+                ],
+                "rightCorner": [
+                    443,
+                    350
+                ],
+                "text": "Mitropolia Moldovei si Bucovinei\n\u201c  Sectorul Inv\u00e9jamant\nConsilier- Arhimandrit Hrisostom Radasanu\n\nInspector- Pr. Dr. Prof. Bogdan Racu\n% Sectorul Cultural si Comunicatii Media\n\n \n\nPr. Dr. Constantin Sturzu"
+            },
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 78,
+                "y": 132,
+                "height": 54,
+                "width": 443,
+                "leftCorner": [
+                    78,
+                    132
+                ],
+                "rightCorner": [
+                    521,
+                    186
+                ],
+                "text": "INSTITUTH COORDONATOARE SI ECHIPA DE\nPROIECTULUI"
+            },
+            "37": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "INSTITUTH COORDONATOARE $I ECHIPA DE"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "38": {},
+            "39": {},
+            "40": {},
+            "41": {},
+            "42": {},
+            "43": {
+                "class": "text",
+                "x": 78,
+                "y": 214,
+                "height": 117,
+                "width": 286,
+                "leftCorner": [
+                    78,
+                    214
+                ],
+                "rightCorner": [
+                    364,
+                    331
+                ],
+                "text": "Scoala Gimnaziala ,,lon Ghica\u201d, Iasi\n* Director, Prof. Carmen Tomescu\nProf. Geta Marcu\n\n\u201cProf. Vasilica Iloaia\n* Prof. Robert Rebenciuc"
+            },
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 75,
+                "y": 147,
+                "height": 48,
+                "width": 281,
+                "leftCorner": [
+                    75,
+                    147
+                ],
+                "rightCorner": [
+                    356,
+                    195
+                ],
+                "text": "Grupul Scolar ,,Anghel Saligny\u201d, I\nPr. Prof. Adrian Marcu"
+            },
+            "46": {
+                "class": "text",
+                "x": 75,
+                "y": 79,
+                "height": 48,
+                "width": 329,
+                "leftCorner": [
+                    75,
+                    79
+                ],
+                "rightCorner": [
+                    404,
+                    127
+                ],
+                "text": "Colegiul National ,,Costache\n\n \n\nProf. Dr. Denisa Manoiu"
+            },
+            "47": {}
+        }
+    },
+    "img_248": {
+        "page": "248",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "48": {
+                "class": "text",
+                "x": 281,
+                "y": 776,
+                "height": 26,
+                "width": 38,
+                "leftCorner": [
+                    281,
+                    776
+                ],
+                "rightCorner": [
+                    319,
+                    802
+                ],
+                "text": "248"
+            },
+            "49": {},
+            "50": {},
+            "51": {},
+            "52": {},
+            "53": {},
+            "54": {},
+            "55": {},
+            "56": {
+                "class": "text",
+                "x": 66,
+                "y": 78,
+                "height": 682,
+                "width": 469,
+                "leftCorner": [
+                    66,
+                    78
+                ],
+                "rightCorner": [
+                    535,
+                    760
+                ],
+                "text": "Premierea \u2014 Cuvantul de incheiere\nDirector Prof. Constantin Serban"
+            },
+            "57": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "__Editia a Va. 2014\n\n \n\n   \n\nDin suflet de crestin\n\n \n\nPremierea \u2014 Cuvantul de incheiere\nDirector Prof. Constantin Serban"
+            }
+        }
+    },
+    "img_249": {
+        "page": "249",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "58": {
+                "class": "text",
+                "x": 61,
+                "y": 753,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    753
+                ],
+                "rightCorner": [
+                    93,
+                    777
+                ],
+                "text": "12."
+            },
+            "59": {
+                "class": "text",
+                "x": 27,
+                "y": 734,
+                "height": 90,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    734
+                ],
+                "rightCorner": [
+                    573,
+                    824
+                ],
+                "text": "SFANTA TAINA A IMPARTASANIEI. 52\n\n \n\n[2] EUHARISTIA CA SACRAMENT AL UNITATII, Prof. Andreea\n249"
+            },
+            "60": {
+                "class": "text",
+                "x": 518,
+                "y": 730,
+                "height": 25,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    730
+                ],
+                "rightCorner": [
+                    547,
+                    755
+                ],
+                "text": "52"
+            },
+            "61": {
+                "class": "text",
+                "x": 61,
+                "y": 709,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    709
+                ],
+                "rightCorner": [
+                    93,
+                    733
+                ],
+                "text": "11."
+            },
+            "62": {},
+            "63": {
+                "class": "text",
+                "x": 517,
+                "y": 687,
+                "height": 24,
+                "width": 30,
+                "leftCorner": [
+                    517,
+                    687
+                ],
+                "rightCorner": [
+                    547,
+                    711
+                ],
+                "text": "44"
+            },
+            "64": {
+                "class": "text",
+                "x": 61,
+                "y": 642,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    642
+                ],
+                "rightCorner": [
+                    93,
+                    667
+                ],
+                "text": "10."
+            },
+            "65": {
+                "class": "text",
+                "x": 518,
+                "y": 620,
+                "height": 25,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    620
+                ],
+                "rightCorner": [
+                    547,
+                    645
+                ],
+                "text": "33"
+            },
+            "66": {},
+            "67": {
+                "class": "text",
+                "x": 518,
+                "y": 554,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    554
+                ],
+                "rightCorner": [
+                    547,
+                    578
+                ],
+                "text": "27"
+            },
+            "68": {},
+            "69": {},
+            "70": {
+                "class": "text",
+                "x": 518,
+                "y": 488,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    488
+                ],
+                "rightCorner": [
+                    547,
+                    512
+                ],
+                "text": "21"
+            },
+            "71": {},
+            "72": {
+                "class": "text",
+                "x": 518,
+                "y": 422,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    422
+                ],
+                "rightCorner": [
+                    547,
+                    446
+                ],
+                "text": "16"
+            },
+            "73": {},
+            "74": {},
+            "75": {
+                "class": "text",
+                "x": 518,
+                "y": 333,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    333
+                ],
+                "rightCorner": [
+                    547,
+                    357
+                ],
+                "text": "11"
+            },
+            "76": {},
+            "77": {
+                "class": "text",
+                "x": 518,
+                "y": 289,
+                "height": 25,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    289
+                ],
+                "rightCorner": [
+                    547,
+                    314
+                ],
+                "text": "10"
+            },
+            "78": {},
+            "79": {},
+            "80": {},
+            "81": {},
+            "82": {},
+            "83": {},
+            "84": {
+                "class": "text",
+                "x": 95,
+                "y": 154,
+                "height": 648,
+                "width": 408,
+                "leftCorner": [
+                    95,
+                    154
+                ],
+                "rightCorner": [
+                    503,
+                    802
+                ],
+                "text": "PPEFAJA - ,DIN SUFLET DE CRESTIN\u201d - UN PROJECT\nDINAMIC $1 STATORNIC, Pr. Prof. Dr. Bogdan RACU\nPREFATA, Pr. Dr. Gabriel NASTASA..\nGANDURI $I MARTURISIRI, Prof. Constantin SERBAN,\nDirector - Palatul Copiilor lasi..\nSECTIUNEA |\n\nSFANTA TAINA A SPOVEDANIEl........\nTAINA SPOVEDANIEI-CURATAREA SUFLETULUI, Prof. Edvica\nPOPA, Liceul Teoretic Negru Voddi, Jud. Constanta.....\nSFANTA SPOVEDANIE - TAINA SUFLETULUI NOSTRU, Prof.\nVeronica lonela CATANA, Liceul Tehnologic Stefan Anghel,\nBailesti, Dolj, Prof. Simona Elena COPACESCU, Colegiul\nNational Elena Cuza, Craiova, Jud. Dol\nTAINA POCAINTEI - FORMA DE ANALIZA A RESORTURILOR\nSPIRITUALE ALE OMULUI, Prof. Ana-Maria BODAI, Scoala\nGimnaziala Ruginoasa, Jud. |:\nVINDECAREA BOLILOR SUFLETESTI PRIN SFANTA TAINA A\nSPOVEDANIEI, Prof. Alexandra- Andreea AVRAM, Scoala\nGimnaziala Nr. 1 Baluseni, Jud. Botosar\nPOCAINTA ~ TAINA INVIERI SPIRITUALE, Prof. Vasile lulian\nTRANDAFIR, Scoala Generala cu clasele I-Vill, Helesteni,\nJud. tasi.\nCATEVA CUVINTE DESPRE SPOVEDANIE, Prof. Gabriela\nSTOICA, Scoala. Gimnaziali. ~\u2014Grajduri, Jud.\nlagi\nSECTIUNEA A I-A\n\n\u2018SFANTA TAINA A IMPARTASANIEl cscssvesves\nEUHARISTIA CA SACRAMENT AL UNITATI, Prof. Andreea\n\n249"
+            },
+            "85": {
+                "class": "text",
+                "x": 249,
+                "y": 108,
+                "height": 28,
+                "width": 101,
+                "leftCorner": [
+                    249,
+                    108
+                ],
+                "rightCorner": [
+                    350,
+                    136
+                ],
+                "text": "CUPRINS"
+            },
+            "86": {}
+        }
+    },
+    "img_250": {
+        "page": "250",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "87": {
+                "class": "text",
+                "x": 281,
+                "y": 776,
+                "height": 26,
+                "width": 38,
+                "leftCorner": [
+                    281,
+                    776
+                ],
+                "rightCorner": [
+                    319,
+                    802
+                ],
+                "text": "250"
+            },
+            "88": {
+                "class": "text",
+                "x": 27,
+                "y": 734,
+                "height": 90,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    734
+                ],
+                "rightCorner": [
+                    573,
+                    824
+                ],
+                "text": "(64 AOPECTE ALE VIET DOMOVINICED TT ALE\n\nSOCIAL- FILANTROPICE $1 EDUCATIONALE DIN PERIOADA"
+            },
+            "89": {
+                "class": "text",
+                "x": 61,
+                "y": 725,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    725
+                ],
+                "rightCorner": [
+                    93,
+                    750
+                ],
+                "text": "ca"
+            },
+            "90": {
+                "class": "text",
+                "x": 510,
+                "y": 703,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    703
+                ],
+                "rightCorner": [
+                    547,
+                    728
+                ],
+                "text": "136"
+            },
+            "91": {},
+            "92": {
+                "class": "text",
+                "x": 61,
+                "y": 659,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    659
+                ],
+                "rightCorner": [
+                    93,
+                    683
+                ],
+                "text": "23."
+            },
+            "93": {
+                "class": "text",
+                "x": 511,
+                "y": 637,
+                "height": 24,
+                "width": 36,
+                "leftCorner": [
+                    511,
+                    637
+                ],
+                "rightCorner": [
+                    547,
+                    661
+                ],
+                "text": "118"
+            },
+            "94": {
+                "class": "text",
+                "x": 61,
+                "y": 592,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    592
+                ],
+                "rightCorner": [
+                    93,
+                    617
+                ],
+                "text": "22."
+            },
+            "95": {
+                "class": "text",
+                "x": 510,
+                "y": 570,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    570
+                ],
+                "rightCorner": [
+                    547,
+                    595
+                ],
+                "text": "117"
+            },
+            "96": {
+                "class": "text",
+                "x": 61,
+                "y": 548,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    548
+                ],
+                "rightCorner": [
+                    93,
+                    573
+                ],
+                "text": "21."
+            },
+            "97": {
+                "class": "text",
+                "x": 510,
+                "y": 526,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    526
+                ],
+                "rightCorner": [
+                    547,
+                    550
+                ],
+                "text": "111"
+            },
+            "98": {},
+            "99": {
+                "class": "text",
+                "x": 61,
+                "y": 505,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    505
+                ],
+                "rightCorner": [
+                    93,
+                    529
+                ],
+                "text": "20."
+            },
+            "100": {
+                "class": "text",
+                "x": 511,
+                "y": 482,
+                "height": 25,
+                "width": 36,
+                "leftCorner": [
+                    511,
+                    482
+                ],
+                "rightCorner": [
+                    547,
+                    507
+                ],
+                "text": "106"
+            },
+            "101": {
+                "class": "text",
+                "x": 61,
+                "y": 460,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    460
+                ],
+                "rightCorner": [
+                    93,
+                    485
+                ],
+                "text": "19."
+            },
+            "102": {
+                "class": "text",
+                "x": 510,
+                "y": 438,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    438
+                ],
+                "rightCorner": [
+                    547,
+                    463
+                ],
+                "text": "102"
+            },
+            "103": {
+                "class": "text",
+                "x": 61,
+                "y": 394,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    394
+                ],
+                "rightCorner": [
+                    93,
+                    418
+                ],
+                "text": "18."
+            },
+            "104": {
+                "class": "text",
+                "x": 518,
+                "y": 372,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    372
+                ],
+                "rightCorner": [
+                    547,
+                    396
+                ],
+                "text": "95"
+            },
+            "105": {},
+            "106": {
+                "class": "text",
+                "x": 61,
+                "y": 328,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    328
+                ],
+                "rightCorner": [
+                    93,
+                    352
+                ],
+                "text": "17."
+            },
+            "107": {
+                "class": "text",
+                "x": 518,
+                "y": 306,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    306
+                ],
+                "rightCorner": [
+                    547,
+                    330
+                ],
+                "text": "89"
+            },
+            "108": {
+                "class": "text",
+                "x": 61,
+                "y": 284,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    284
+                ],
+                "rightCorner": [
+                    93,
+                    308
+                ],
+                "text": "16."
+            },
+            "109": {
+                "class": "text",
+                "x": 518,
+                "y": 262,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    262
+                ],
+                "rightCorner": [
+                    547,
+                    286
+                ],
+                "text": "79"
+            },
+            "110": {
+                "class": "text",
+                "x": 61,
+                "y": 218,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    218
+                ],
+                "rightCorner": [
+                    93,
+                    242
+                ],
+                "text": "15."
+            },
+            "111": {
+                "class": "text",
+                "x": 518,
+                "y": 195,
+                "height": 25,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    195
+                ],
+                "rightCorner": [
+                    547,
+                    220
+                ],
+                "text": "7"
+            },
+            "112": {
+                "class": "text",
+                "x": 61,
+                "y": 173,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    173
+                ],
+                "rightCorner": [
+                    93,
+                    197
+                ],
+                "text": "14,"
+            },
+            "113": {},
+            "114": {
+                "class": "text",
+                "x": 518,
+                "y": 151,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    151
+                ],
+                "rightCorner": [
+                    547,
+                    175
+                ],
+                "text": "61"
+            },
+            "115": {
+                "class": "text",
+                "x": 61,
+                "y": 129,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    129
+                ],
+                "rightCorner": [
+                    93,
+                    153
+                ],
+                "text": "13."
+            },
+            "116": {
+                "class": "text",
+                "x": 518,
+                "y": 107,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    518,
+                    107
+                ],
+                "rightCorner": [
+                    547,
+                    131
+                ],
+                "text": "53"
+            },
+            "117": {
+                "class": "text",
+                "x": 95,
+                "y": 85,
+                "height": 689,
+                "width": 407,
+                "leftCorner": [
+                    95,
+                    85
+                ],
+                "rightCorner": [
+                    502,
+                    774
+                ],
+                "text": "ZANFICU, Liceul Tehnologic Horia Vintild, Segarcea, Jud.\nDolj.\nHRISTOS EUHARISTIC, Prof. Marius Daniel DOBRIN, Colegiul\nTehnic Costin D. Nenitescu, Pitesti, Jud. Arges...\n\nDESPRE SFANTA EUHARISTIE, Prof. Maria IONESCU, Scoala\nGimnaziala Al. Macedonski, Craiova, Jud. Dol}...\nANAFORAUA EUHARISTICA \u2014 DE LA INSTITUIRE PANA\nASTAZI, Prof. Mihail lustin MITREA, Colegiul Tehnic ,Maria\nBaiulescu\u201d, Brasov.\nTAINA SFINTEI IMPARTASANI, Prof. Mariana PALAMARIU,\n$c. Gimn. Nr. 3 Lupeni, Hunedoara.\n\nSFANTA IMPARTASANIE IN RANDUL SFINTELOR TAINE, Prof.\nCoca STANA, Liceul Tehnologic Spiru Haret, Targoviste, Jud.\nD\u00e9mbovita. -\nEUHARISTIA - INDUMNEZEIREA OMULUI, Prof. Vasile\nSIMON, Liceul Tehnologic Stefan cel Mare Cotnari, jud.\nlasi\nSFANTA IMPARTASANIE - CALE SPRE MANTUIRE, Prof.\nCorina LAVRIC, Scoala Gimnaziala fon Neculce, asi...\nHRISTOS IN INIMA COPIILOR, Prof. Daniela LUPIS, Colegiul\nNational Mihai Eminescu, lasi\nSECTIUNEA A III-A\n\n\u2018SFINTI MARTIRI BRANCOVEN......\nMUZICA BISERICEASCA IN TIMPUL DOMINITORULUI\nCONSTANTIN BRANCOVEANU, Pr. Prof. Liviu BOTEZATU,\nLiceul cu Program Sportiv, Botosani\nSFANTUL CONSTANTIN BRANCOVEANU - ISCUSIT OM\nPOLITIC, CTITOR $1 MARTIR, Prof. Geta MARCU, Scoala fon\nGhica, lasi.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nSOCIAL- FILANTROPICE $1 EDUCATIONALE DIN PERIOADA"
+            },
+            "118": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "Din suflet de crestin Editia.a V-a, 2014\n\nZANFICU, Liceul Tehnologic Horia Vintil\u00e9, Segarcea, Jud,\nDolj.\n\n \n\n[13. | HRISTOS EUHARISTIC, Prof. Marius Daniel DOBRIN, Coley"
+            }
+        }
+    },
+    "img_251": {
+        "page": "251",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "119": {
+                "class": "text",
+                "x": 281,
+                "y": 776,
+                "height": 26,
+                "width": 36,
+                "leftCorner": [
+                    281,
+                    776
+                ],
+                "rightCorner": [
+                    317,
+                    802
+                ],
+                "text": "251"
+            },
+            "120": {
+                "class": "text",
+                "x": 510,
+                "y": 747,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    747
+                ],
+                "rightCorner": [
+                    547,
+                    771
+                ],
+                "text": "211"
+            },
+            "121": {
+                "class": "text",
+                "x": 27,
+                "y": 734,
+                "height": 90,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    734
+                ],
+                "rightCorner": [
+                    573,
+                    824
+                ],
+                "text": "Pauca, Jud. Sibiu."
+            },
+            "122": {
+                "class": "text",
+                "x": 61,
+                "y": 703,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    703
+                ],
+                "rightCorner": [
+                    93,
+                    728
+                ],
+                "text": "33."
+            },
+            "123": {},
+            "124": {
+                "class": "text",
+                "x": 510,
+                "y": 681,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    681
+                ],
+                "rightCorner": [
+                    547,
+                    705
+                ],
+                "text": "203"
+            },
+            "125": {
+                "class": "text",
+                "x": 60,
+                "y": 615,
+                "height": 24,
+                "width": 33,
+                "leftCorner": [
+                    60,
+                    615
+                ],
+                "rightCorner": [
+                    93,
+                    639
+                ],
+                "text": "32."
+            },
+            "126": {
+                "class": "text",
+                "x": 511,
+                "y": 592,
+                "height": 25,
+                "width": 36,
+                "leftCorner": [
+                    511,
+                    592
+                ],
+                "rightCorner": [
+                    547,
+                    617
+                ],
+                "text": "198"
+            },
+            "127": {
+                "class": "text",
+                "x": 61,
+                "y": 548,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    548
+                ],
+                "rightCorner": [
+                    93,
+                    573
+                ],
+                "text": "31."
+            },
+            "128": {
+                "class": "text",
+                "x": 510,
+                "y": 526,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    526
+                ],
+                "rightCorner": [
+                    547,
+                    551
+                ],
+                "text": "185"
+            },
+            "129": {},
+            "130": {
+                "class": "text",
+                "x": 60,
+                "y": 482,
+                "height": 25,
+                "width": 33,
+                "leftCorner": [
+                    60,
+                    482
+                ],
+                "rightCorner": [
+                    93,
+                    507
+                ],
+                "text": "30."
+            },
+            "131": {
+                "class": "text",
+                "x": 510,
+                "y": 460,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    460
+                ],
+                "rightCorner": [
+                    547,
+                    485
+                ],
+                "text": "180"
+            },
+            "132": {
+                "class": "text",
+                "x": 61,
+                "y": 416,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    416
+                ],
+                "rightCorner": [
+                    93,
+                    440
+                ],
+                "text": "29."
+            },
+            "133": {
+                "class": "text",
+                "x": 510,
+                "y": 394,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    394
+                ],
+                "rightCorner": [
+                    547,
+                    418
+                ],
+                "text": "170"
+            },
+            "134": {
+                "class": "text",
+                "x": 61,
+                "y": 350,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    350
+                ],
+                "rightCorner": [
+                    93,
+                    374
+                ],
+                "text": "28."
+            },
+            "135": {},
+            "136": {
+                "class": "text",
+                "x": 511,
+                "y": 328,
+                "height": 24,
+                "width": 36,
+                "leftCorner": [
+                    511,
+                    328
+                ],
+                "rightCorner": [
+                    547,
+                    352
+                ],
+                "text": "164"
+            },
+            "137": {
+                "class": "text",
+                "x": 61,
+                "y": 284,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    284
+                ],
+                "rightCorner": [
+                    93,
+                    308
+                ],
+                "text": "27."
+            },
+            "138": {
+                "class": "text",
+                "x": 511,
+                "y": 262,
+                "height": 24,
+                "width": 36,
+                "leftCorner": [
+                    511,
+                    262
+                ],
+                "rightCorner": [
+                    547,
+                    286
+                ],
+                "text": "158"
+            },
+            "139": {
+                "class": "text",
+                "x": 61,
+                "y": 217,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    217
+                ],
+                "rightCorner": [
+                    93,
+                    242
+                ],
+                "text": "26."
+            },
+            "140": {
+                "class": "text",
+                "x": 510,
+                "y": 195,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    195
+                ],
+                "rightCorner": [
+                    547,
+                    220
+                ],
+                "text": "149"
+            },
+            "141": {},
+            "142": {
+                "class": "text",
+                "x": 61,
+                "y": 151,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    151
+                ],
+                "rightCorner": [
+                    93,
+                    175
+                ],
+                "text": "25."
+            },
+            "143": {
+                "class": "text",
+                "x": 510,
+                "y": 129,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    129
+                ],
+                "rightCorner": [
+                    547,
+                    153
+                ],
+                "text": "143"
+            },
+            "144": {
+                "class": "text",
+                "x": 95,
+                "y": 82,
+                "height": 691,
+                "width": 408,
+                "leftCorner": [
+                    95,
+                    82
+                ],
+                "rightCorner": [
+                    503,
+                    773
+                ],
+                "text": "BRANCOVENEASCA, Prof. Cristina-Alina BARDOS-MICU,\nLiceul Teoretic George $t Marincu, Structurile Scoala nr\n14\u00a7coala nr 3, Poiana Mare, Dolj.\nPERSONALITATI, MODELE, EXEMPLE, Prof. Gabriela\nTANDEA, Colegiul Tehnic Alexandru Domsa, Alba lulia, Jud.\nAlba..\nSFINTI| MARTIRI BRANCOVENI - MODEL AL FAMILIE!\nCRESTINE, Prof. Georgiana ROTARU, $coala Gimnaziala\nHadimbu, com. Mogosesti, jud. las\nDISCURSUL PUTER). = \u00abiN BALADA_\u2014POPULARA\n\u00bbBRANCOVANUL CONSTANTIN\u2019, Prof. Florina-Oli\nLUPIS, Scoala Gimnaziala Nr. 1, Faraoani, jud. Bacau.\nINFLUENTA STILULUI_ \u2014- BRANCOVENESC IN ARTA\nROMANEASCA, Prof. Gabriela Petronela PUIU, Scoala\nGimnaziala Rediu, Jud. la\nTAINA UNEI VIETI MARTIRICE, Prof. Liana Valentina PASCA,\nColegiul National Petru Rares, Beclean, Jud. Bistrita \u2014\nNasdud...\nDOMINIA LUI CONSTANTIN BRANCOVEANU. ASPECTE\nGENERALE, Prof. Oana-Maria ACSINIE, Liceul Alexandru cel\nBun, Botosani\nCONSTANTIN BRANCOVEANU, OM POLITIC $1 MARTIR AL\nBISERICII ORTODOXE, Prof. loan-Mugurel SPATARU, Colegiul\nTehnic de Cai Ferate Unirea, Pascani, Jud. las...\nSFINTH MARTIRI BRANCOVENI - EXEMPLE DE TRAIRE\nCRESTINA, Prof. Mariana luliana OPROIU, Scoala Gimnaziala\nIsalnita, Prof. Magdalena Carmen DRAGUSIN, Scoala\nGimnaziala Mihai Viteazul, Craiova, Jud. Dolj.\nCONSTANTIN BRANCOVEANU, SPRIJINITOR $1 OCROTITOR\n\nPauca, Jud. Si"
+            },
+            "145": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "Din suflet de crestin Editia.a V-a, 2014\n\nBRANCOVENEASCA, Prof. Cristina-Alina BARDOS-MICU,\n\nLiceul Teoretic George $t Marincu, Structurile Scoala nr\n14$coala nr 3, Poiana Mare, Dolj"
+            }
+        }
+    },
+    "img_252": {
+        "page": "252",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "146": {
+                "class": "text",
+                "x": 281,
+                "y": 776,
+                "height": 26,
+                "width": 38,
+                "leftCorner": [
+                    281,
+                    776
+                ],
+                "rightCorner": [
+                    319,
+                    802
+                ],
+                "text": "252"
+            },
+            "147": {},
+            "148": {},
+            "149": {},
+            "150": {},
+            "151": {
+                "class": "text",
+                "x": 60,
+                "y": 341,
+                "height": 47,
+                "width": 33,
+                "leftCorner": [
+                    60,
+                    341
+                ],
+                "rightCorner": [
+                    93,
+                    388
+                ],
+                "text": "38.\n39."
+            },
+            "152": {
+                "class": "text",
+                "x": 510,
+                "y": 319,
+                "height": 69,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    319
+                ],
+                "rightCorner": [
+                    547,
+                    388
+                ],
+                "text": "238\n240\n249"
+            },
+            "153": {
+                "class": "text",
+                "x": 61,
+                "y": 297,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    297
+                ],
+                "rightCorner": [
+                    93,
+                    322
+                ],
+                "text": "37."
+            },
+            "154": {
+                "class": "text",
+                "x": 510,
+                "y": 276,
+                "height": 25,
+                "width": 36,
+                "leftCorner": [
+                    510,
+                    276
+                ],
+                "rightCorner": [
+                    546,
+                    301
+                ],
+                "text": "232"
+            },
+            "155": {
+                "class": "text",
+                "x": 60,
+                "y": 213,
+                "height": 25,
+                "width": 33,
+                "leftCorner": [
+                    60,
+                    213
+                ],
+                "rightCorner": [
+                    93,
+                    238
+                ],
+                "text": "36."
+            },
+            "156": {
+                "class": "text",
+                "x": 510,
+                "y": 173,
+                "height": 25,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    173
+                ],
+                "rightCorner": [
+                    547,
+                    198
+                ],
+                "text": "223"
+            },
+            "157": {},
+            "158": {
+                "class": "text",
+                "x": 61,
+                "y": 151,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    151
+                ],
+                "rightCorner": [
+                    93,
+                    175
+                ],
+                "text": "35."
+            },
+            "159": {
+                "class": "text",
+                "x": 510,
+                "y": 107,
+                "height": 24,
+                "width": 37,
+                "leftCorner": [
+                    510,
+                    107
+                ],
+                "rightCorner": [
+                    547,
+                    131
+                ],
+                "text": "216"
+            },
+            "160": {
+                "class": "text",
+                "x": 61,
+                "y": 85,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    61,
+                    85
+                ],
+                "rightCorner": [
+                    93,
+                    110
+                ],
+                "text": "34."
+            },
+            "161": {
+                "class": "text",
+                "x": 95,
+                "y": 82,
+                "height": 306,
+                "width": 408,
+                "leftCorner": [
+                    95,
+                    82
+                ],
+                "rightCorner": [
+                    503,
+                    388
+                ],
+                "text": "SFANTUL MARTIR CONSTANTIN BRANCOVEANU, Prof.\nStefania GEAMANU, C.N.V. Nicolae Titulescu, Slatina, Jud.\nOlt.\n\nJERTFA BRA!\n\nGavrili, Scoala Gimnaziala Nr.1, Com. Cuza-Voda, Jud.\nCilira\n\nSPIRITUALITATE $1 MORALA CRESTINA PENTRU.\n\nCOPII - Proiect educational derulat in cadrul Strategiei\nNationale de Actiune Comunitar\u00e9, Prof. Cristina POPA,\nScoala Gimnaziali Special Constantin Paunescu, la:\nPROIECTUL NATIONAL DIN SUFLET DE CRESTIN, IASI, 2014\n(fragment) Prof. Adina MARCU VASILIU..\n\nANEXE..\n\nCUPRINS.."
+            },
+            "162": {
+                "class": "text",
+                "x": 27,
+                "y": 27,
+                "height": 132,
+                "width": 546,
+                "leftCorner": [
+                    27,
+                    27
+                ],
+                "rightCorner": [
+                    573,
+                    159
+                ],
+                "text": "Din suflet de crestin_ Editia.a V-a, 2014\n\n[34.| SFANTUL MARTIR CONSTANTIN BRANCOVEANU, Prof.\n\nStefania GEAMANU, C.N.V. Nicolae Titulescu, Slatina, Jud. :"
+            }
+        }
+    },
+    "img_253": {
+        "page": "253",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "163": {},
+            "164": {},
+            "165": {},
+            "166": {
+                "class": "text",
+                "x": 66,
+                "y": 463,
+                "height": 71,
+                "width": 272,
+                "leftCorner": [
+                    66,
+                    463
+                ],
+                "rightCorner": [
+                    338,
+                    534
+                ],
+                "text": "COLECTIVUL DE REDACTIE:\nProf. Adina MARCU VASILIU\n\n \n\nProf. Vasilica ILOAIA"
+            },
+            "167": {},
+            "168": {
+                "class": "text",
+                "x": 118,
+                "y": 213,
+                "height": 49,
+                "width": 178,
+                "leftCorner": [
+                    118,
+                    213
+                ],
+                "rightCorner": [
+                    296,
+                    262
+                ],
+                "text": "Prof. Vasilica ILOAIA\nProf. Geta MARCU"
+            },
+            "169": {},
+            "170": {
+                "class": "text",
+                "x": 66,
+                "y": 165,
+                "height": 28,
+                "width": 270,
+                "leftCorner": [
+                    66,
+                    165
+                ],
+                "rightCorner": [
+                    336,
+                    193
+                ],
+                "text": "COORDONATORI VOLUM:"
+            },
+            "171": {}
+        }
+    }
+}

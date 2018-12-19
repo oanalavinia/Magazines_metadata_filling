@@ -1,0 +1,718 @@
+{
+    "numberOfPages": 78,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 267,
+                "y": 292,
+                "height": 25,
+                "width": 66,
+                "leftCorner": [
+                    267,
+                    292
+                ],
+                "rightCorner": [
+                    333,
+                    317
+                ],
+                "text": "Evocitri"
+            },
+            "3": {
+                "class": "text",
+                "x": 184,
+                "y": 247,
+                "height": 33,
+                "width": 231,
+                "leftCorner": [
+                    184,
+                    247
+                ],
+                "rightCorner": [
+                    415,
+                    280
+                ],
+                "text": "60 de ani de la inceputuri"
+            },
+            "4": {
+                "class": "text",
+                "x": 122,
+                "y": 199,
+                "height": 36,
+                "width": 355,
+                "leftCorner": [
+                    122,
+                    199
+                ],
+                "rightCorner": [
+                    477,
+                    235
+                ],
+                "text": "ZONA BALNEARA NICOLINA - IASI"
+            },
+            "5": {
+                "class": "text",
+                "x": 243,
+                "y": 88,
+                "height": 26,
+                "width": 113,
+                "leftCorner": [
+                    243,
+                    88
+                ],
+                "rightCorner": [
+                    356,
+                    114
+                ],
+                "text": "VLAD BEJAN"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "6": {
+                "class": "text",
+                "x": 122,
+                "y": 556,
+                "height": 25,
+                "width": 174,
+                "leftCorner": [
+                    122,
+                    556
+                ],
+                "rightCorner": [
+                    296,
+                    581
+                ],
+                "text": "ISBN 978-606-520-092-0"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "7": {}
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 360,
+                "y": 540,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    360,
+                    540
+                ],
+                "rightCorner": [
+                    392,
+                    564
+                ],
+                "text": "Jasi"
+            },
+            "9": {
+                "class": "text",
+                "x": 316,
+                "y": 516,
+                "height": 23,
+                "width": 116,
+                "leftCorner": [
+                    316,
+                    516
+                ],
+                "rightCorner": [
+                    432,
+                    539
+                ],
+                "text": "Prof. Dr. G. Tudoran"
+            },
+            "10": {},
+            "11": {},
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 320,
+                "y": 304,
+                "height": 205,
+                "width": 141,
+                "leftCorner": [
+                    320,
+                    304
+                ],
+                "rightCorner": [
+                    461,
+                    509
+                ],
+                "text": "Cluj- Napoca"
+            },
+            "14": {
+                "class": "text",
+                "x": 215,
+                "y": 304,
+                "height": 22,
+                "width": 59,
+                "leftCorner": [
+                    215,
+                    304
+                ],
+                "rightCorner": [
+                    274,
+                    326
+                ],
+                "text": "Bucuresti"
+            },
+            "15": {
+                "class": "text",
+                "x": 366,
+                "y": 280,
+                "height": 23,
+                "width": 109,
+                "leftCorner": [
+                    366,
+                    280
+                ],
+                "rightCorner": [
+                    475,
+                    303
+                ],
+                "text": "Prof. Marius Sturza"
+            },
+            "16": {
+                "class": "text",
+                "x": 180,
+                "y": 280,
+                "height": 25,
+                "width": 120,
+                "leftCorner": [
+                    180,
+                    280
+                ],
+                "rightCorner": [
+                    300,
+                    305
+                ],
+                "text": "Prof. Anibal Theohari"
+            },
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 147,
+                "y": 93,
+                "height": 180,
+                "width": 138,
+                "leftCorner": [
+                    147,
+                    93
+                ],
+                "rightCorner": [
+                    285,
+                    273
+                ],
+                "text": "Pas"
+            },
+            "19": {
+                "class": "text",
+                "x": 153,
+                "y": 53,
+                "height": 27,
+                "width": 294,
+                "leftCorner": [
+                    153,
+                    53
+                ],
+                "rightCorner": [
+                    447,
+                    80
+                ],
+                "text": "Inifiatorii invatmantului Superior de Balneologie"
+            }
+        }
+    },
+    "img_73": {
+        "page": "73",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "20": {
+                "class": "text",
+                "x": 288,
+                "y": 618,
+                "height": 22,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    618
+                ],
+                "rightCorner": [
+                    312,
+                    640
+                ],
+                "text": "B"
+            },
+            "21": {
+                "class": "text",
+                "x": 125,
+                "y": 387,
+                "height": 221,
+                "width": 367,
+                "leftCorner": [
+                    125,
+                    387
+                ],
+                "rightCorner": [
+                    492,
+                    608
+                ],
+                "text": "in ambianta creatoare determinati de intregul colectiv a\n\nfost posibila dezvoltarea zonei Nicolina intr-un timp record.\nSi astazi ined dupa un sfert de veac de la despartire primese\ninduri evocatoare emotionante: \u201cOrice an care trece sporeste\ndorul de vremurile cdnd erati cu noi la Nicolina, Va asiguram\nde recunostiinta noastra si va dorim sanitate, zile senine si\nfericite\u201d semneazi pe o splendid ilustrata de Anul Nou 2008\n\nun grup de nume cunoscute subscriind \u201cFostii salariati ai\n\n \n\nfostei Policlinici Balneare Nicolin:"
+            },
+            "22": {
+                "class": "text",
+                "x": 125,
+                "y": 258,
+                "height": 124,
+                "width": 367,
+                "leftCorner": [
+                    125,
+                    258
+                ],
+                "rightCorner": [
+                    492,
+                    382
+                ],
+                "text": "Tuturor acestor colaboratori_ medici, prof. C.F.M.\n\nregistratori, cadre medii pastrez un sentiment de adancd\n\napreciere si recunostiinti pentru aportul lor la zidirea si\n\nconsolidarea unui domeniu medical profund uman de alinare a\n\nsuferinfelor fizice si descurajarii"
+            },
+            "23": {
+                "class": "text",
+                "x": 126,
+                "y": 175,
+                "height": 75,
+                "width": 194,
+                "leftCorner": [
+                    126,
+                    175
+                ],
+                "rightCorner": [
+                    320,
+                    250
+                ],
+                "text": "65, Ciubotaru Popovici- medic\n66. Nutescu Oct. - medic\n\n \n\n67. Bejan Dorin- medic"
+            },
+            "24": {},
+            "25": {
+                "class": "text",
+                "x": 126,
+                "y": 53,
+                "height": 72,
+                "width": 231,
+                "leftCorner": [
+                    126,
+                    53
+                ],
+                "rightCorner": [
+                    357,
+                    125
+                ],
+                "text": "60, Agape Veronica- asistent medical\n\n61. Savin Mariana- asistent medical\n\n \n\n62. Postolache C. - asistent medical"
+            }
+        }
+    },
+    "img_74": {
+        "page": "74",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "26": {
+                "class": "text",
+                "x": 288,
+                "y": 619,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    619
+                ],
+                "rightCorner": [
+                    312,
+                    640
+                ],
+                "text": "74"
+            },
+            "27": {
+                "class": "text",
+                "x": 143,
+                "y": 527,
+                "height": 86,
+                "width": 309,
+                "leftCorner": [
+                    143,
+                    527
+                ],
+                "rightCorner": [
+                    452,
+                    613
+                ],
+                "text": "Oamintire de neuitat- Tinere talente din cadrul personatului"
+            },
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 162,
+                "y": 465,
+                "height": 72,
+                "width": 202,
+                "leftCorner": [
+                    162,
+                    465
+                ],
+                "rightCorner": [
+                    364,
+                    537
+                ],
+                "text": "pads"
+            },
+            "30": {
+                "class": "text",
+                "x": 292,
+                "y": 372,
+                "height": 22,
+                "width": 130,
+                "leftCorner": [
+                    292,
+                    372
+                ],
+                "rightCorner": [
+                    422,
+                    394
+                ],
+                "text": "Sanatoriului U.N.C.A.P."
+            },
+            "31": {
+                "class": "text",
+                "x": 314,
+                "y": 348,
+                "height": 22,
+                "width": 87,
+                "leftCorner": [
+                    314,
+                    348
+                ],
+                "rightCorner": [
+                    401,
+                    370
+                ],
+                "text": "La deschiderea"
+            },
+            "32": {},
+            "33": {
+                "class": "text",
+                "x": 144,
+                "y": 101,
+                "height": 23,
+                "width": 150,
+                "leftCorner": [
+                    144,
+                    101
+                ],
+                "rightCorner": [
+                    294,
+                    124
+                ],
+                "text": "Policlinii Balneare Nicolina"
+            },
+            "34": {
+                "class": "text",
+                "x": 173,
+                "y": 77,
+                "height": 23,
+                "width": 87,
+                "leftCorner": [
+                    173,
+                    77
+                ],
+                "rightCorner": [
+                    260,
+                    100
+                ],
+                "text": "La deschiderea"
+            },
+            "35": {}
+        }
+    },
+    "img_75": {
+        "page": "75",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "36": {
+                "class": "text",
+                "x": 288,
+                "y": 619,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    619
+                ],
+                "rightCorner": [
+                    312,
+                    640
+                ],
+                "text": "78"
+            },
+            "37": {
+                "class": "text",
+                "x": 212,
+                "y": 564,
+                "height": 24,
+                "width": 195,
+                "leftCorner": [
+                    212,
+                    564
+                ],
+                "rightCorner": [
+                    407,
+                    588
+                ],
+                "text": "Tinerefe, frumusefe, hirnicie, succese"
+            },
+            "38": {},
+            "39": {},
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 161,
+                "y": 270,
+                "height": 25,
+                "width": 296,
+                "leftCorner": [
+                    161,
+                    270
+                ],
+                "rightCorner": [
+                    457,
+                    295
+                ],
+                "text": "Bucuria succesului- La sfarsitul Cursurilor de specialitate"
+            },
+            "42": {}
+        }
+    },
+    "img_76": {
+        "page": "76",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "43": {
+                "class": "text",
+                "x": 288,
+                "y": 618,
+                "height": 22,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    618
+                ],
+                "rightCorner": [
+                    312,
+                    640
+                ],
+                "text": "76"
+            },
+            "44": {
+                "class": "text",
+                "x": 174,
+                "y": 550,
+                "height": 25,
+                "width": 270,
+                "leftCorner": [
+                    174,
+                    550
+                ],
+                "rightCorner": [
+                    444,
+                    575
+                ],
+                "text": "Corul - dup\u00e9 multe succese in lagi $i in alte localitii"
+            },
+            "45": {},
+            "46": {
+                "class": "text",
+                "x": 219,
+                "y": 319,
+                "height": 23,
+                "width": 162,
+                "leftCorner": [
+                    219,
+                    319
+                ],
+                "rightCorner": [
+                    381,
+                    342
+                ],
+                "text": "Ca la un concurs de frumusete"
+            },
+            "47": {},
+            "48": {},
+            "49": {},
+            "50": {}
+        }
+    },
+    "img_77": {
+        "page": "77",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "51": {
+                "class": "text",
+                "x": 288,
+                "y": 619,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    288,
+                    619
+                ],
+                "rightCorner": [
+                    312,
+                    640
+                ],
+                "text": "7"
+            },
+            "52": {},
+            "53": {
+                "class": "text",
+                "x": 108,
+                "y": 447,
+                "height": 27,
+                "width": 383,
+                "leftCorner": [
+                    108,
+                    447
+                ],
+                "rightCorner": [
+                    491,
+                    474
+                ],
+                "text": "Cap. VI\n\n \n\njectorul turi\n\n \n\n67"
+            },
+            "54": {
+                "class": "text",
+                "x": 108,
+                "y": 374,
+                "height": 52,
+                "width": 383,
+                "leftCorner": [
+                    108,
+                    374
+                ],
+                "rightCorner": [
+                    491,
+                    426
+                ],
+                "text": "Cap. V Angrenaje si aparate construite pentru\n\n \n\nterapie recuperatorie..."
+            },
+            "55": {
+                "class": "text",
+                "x": 108,
+                "y": 326,
+                "height": 27,
+                "width": 379,
+                "leftCorner": [
+                    108,
+                    326
+                ],
+                "rightCorner": [
+                    487,
+                    353
+                ],
+                "text": "Cap. IV Arsenalul teraperutic din zona balneat"
+            },
+            "56": {
+                "class": "text",
+                "x": 108,
+                "y": 253,
+                "height": 48,
+                "width": 382,
+                "leftCorner": [
+                    108,
+                    253
+                ],
+                "rightCorner": [
+                    490,
+                    301
+                ],
+                "text": "Cap. III Constructii si amenajari balneo - recuperator"
+            },
+            "57": {},
+            "58": {
+                "class": "text",
+                "x": 108,
+                "y": 131,
+                "height": 27,
+                "width": 382,
+                "leftCorner": [
+                    108,
+                    131
+                ],
+                "rightCorner": [
+                    490,
+                    158
+                ],
+                "text": "Cap. | Preliminarii"
+            },
+            "59": {
+                "class": "text",
+                "x": 274,
+                "y": 94,
+                "height": 29,
+                "width": 69,
+                "leftCorner": [
+                    274,
+                    94
+                ],
+                "rightCorner": [
+                    343,
+                    123
+                ],
+                "text": "Cuprins"
+            }
+        }
+    },
+    "img_78": {
+        "page": "78",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "60": {
+                "class": "text",
+                "x": 174,
+                "y": 622,
+                "height": 115,
+                "width": 225,
+                "leftCorner": [
+                    174,
+                    622
+                ],
+                "rightCorner": [
+                    399,
+                    737
+                ],
+                "text": "Tipar Digital realizat la Tipografia\nSoseaua $tefan cel Mare nr. 11\nTasi - 700498\n\nTel/fax: 0232-212740\ne-mail: editurapim@pimcopy.ro"
+            }
+        }
+    }
+}

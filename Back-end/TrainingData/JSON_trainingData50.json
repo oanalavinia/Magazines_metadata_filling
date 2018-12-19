@@ -1,0 +1,700 @@
+{
+    "numberOfPages": 116,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 81,
+                "y": 634,
+                "height": 66,
+                "width": 438,
+                "leftCorner": [
+                    81,
+                    634
+                ],
+                "rightCorner": [
+                    519,
+                    700
+                ],
+                "text": "Un reportaj cu poveste\n(experiment interactiv pentru copiii de toate varstele)"
+            },
+            "3": {},
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 156,
+                "y": 219,
+                "height": 48,
+                "width": 111,
+                "leftCorner": [
+                    156,
+                    219
+                ],
+                "rightCorner": [
+                    267,
+                    267
+                ],
+                "text": "Ticuta"
+            },
+            "6": {
+                "class": "text",
+                "x": 268,
+                "y": 218,
+                "height": 49,
+                "width": 174,
+                "leftCorner": [
+                    268,
+                    218
+                ],
+                "rightCorner": [
+                    442,
+                    267
+                ],
+                "text": "Reporterul"
+            },
+            "7": {
+                "class": "text",
+                "x": 178,
+                "y": 70,
+                "height": 36,
+                "width": 243,
+                "leftCorner": [
+                    178,
+                    70
+                ],
+                "rightCorner": [
+                    421,
+                    106
+                ],
+                "text": "Eugenia Grosu Popescu"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 80,
+                "y": 578,
+                "height": 24,
+                "width": 88,
+                "leftCorner": [
+                    80,
+                    578
+                ],
+                "rightCorner": [
+                    168,
+                    602
+                ],
+                "text": "821.135.1-32"
+            },
+            "9": {
+                "class": "text",
+                "x": 77,
+                "y": 472,
+                "height": 97,
+                "width": 450,
+                "leftCorner": [
+                    77,
+                    472
+                ],
+                "rightCorner": [
+                    527,
+                    569
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Romani\nGROSU POPESCU, EUGENIA\n\nTicut Reporterul : un reportaj cu poveste : (experiment interactiv\npentru copii de toate varstele) / Eugenia Grosu Popescu. - lagi : PIM, 2011\nISBN 978-606-13-0640-4"
+            },
+            "10": {
+                "class": "text",
+                "x": 369,
+                "y": 409,
+                "height": 25,
+                "width": 60,
+                "leftCorner": [
+                    369,
+                    409
+                ],
+                "rightCorner": [
+                    429,
+                    434
+                ],
+                "text": "700497"
+            },
+            "11": {
+                "class": "text",
+                "x": 77,
+                "y": 362,
+                "height": 113,
+                "width": 288,
+                "leftCorner": [
+                    77,
+                    362
+                ],
+                "rightCorner": [
+                    365,
+                    475
+                ],
+                "text": "itura OM\nditur acreditats CNCSIS - 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, Lagi\nTel.: 0730.086,676; Fax: 0332.440.730\nwww.pimeopy.ro"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "12": {
+                "class": "text",
+                "x": 142,
+                "y": 714,
+                "height": 51,
+                "width": 378,
+                "leftCorner": [
+                    142,
+                    714
+                ],
+                "rightCorner": [
+                    520,
+                    765
+                ],
+                "text": "(Dar sper cii le vor explica si copiilor-parinti cate ceva.\nuti"
+            },
+            "13": {
+                "class": "text",
+                "x": 132,
+                "y": 651,
+                "height": 49,
+                "width": 403,
+                "leftCorner": [
+                    132,
+                    651
+                ],
+                "rightCorner": [
+                    535,
+                    700
+                ],
+                "text": "Bineinfeles, cartea asta ein primul rand, pentru copiii-copii\nEi inteleg cel mai bine pisici"
+            },
+            "14": {
+                "class": "text",
+                "x": 142,
+                "y": 523,
+                "height": 66,
+                "width": 316,
+                "leftCorner": [
+                    142,
+                    523
+                ],
+                "rightCorner": [
+                    458,
+                    589
+                ],
+                "text": "Daca nu esti curios cao pisica,\nsa nu te faci jurnalist!"
+            },
+            "15": {
+                "class": "text",
+                "x": 108,
+                "y": 479,
+                "height": 32,
+                "width": 174,
+                "leftCorner": [
+                    108,
+                    479
+                ],
+                "rightCorner": [
+                    282,
+                    511
+                ],
+                "text": "Prima mea invataturdi:"
+            },
+            "16": {
+                "class": "text",
+                "x": 65,
+                "y": 369,
+                "height": 68,
+                "width": 466,
+                "leftCorner": [
+                    65,
+                    369
+                ],
+                "rightCorner": [
+                    531,
+                    437
+                ],
+                "text": "(Aici am cam exagerat: feriti-va, copii, s& scrieti cuvinte obisnuite cu\nlitere mari dacd nu va vine si le urlati. Mie, nu stiu de ce, tocmai imi\n\n \n\nvine.)"
+            },
+            "17": {
+                "class": "text",
+                "x": 65,
+                "y": 277,
+                "height": 76,
+                "width": 220,
+                "leftCorner": [
+                    65,
+                    277
+                ],
+                "rightCorner": [
+                    285,
+                    353
+                ],
+                "text": "Dacdi vrei sd fii reporter\nEu, Ticuta, te invat meserie\n\n \n\nprin EXEMPLU PERSONAL."
+            },
+            "18": {
+                "class": "text",
+                "x": 99,
+                "y": 85,
+                "height": 75,
+                "width": 402,
+                "leftCorner": [
+                    99,
+                    85
+                ],
+                "rightCorner": [
+                    501,
+                    160
+                ],
+                "text": "\u00bbNimic nu se pierde, nimic nu se castiga, totul se\n\nvaneazi, se tnhata sau intra sub dulap\u201d\n- Pisoiul Ticuta -"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_111": {
+        "page": "111",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 307,
+                "y": 786,
+                "height": 27,
+                "width": 108,
+                "leftCorner": [
+                    307,
+                    786
+                ],
+                "rightCorner": [
+                    415,
+                    813
+                ],
+                "text": "Ticufd reporterul"
+            },
+            "21": {
+                "class": "text",
+                "x": 96,
+                "y": 712,
+                "height": 34,
+                "width": 408,
+                "leftCorner": [
+                    96,
+                    712
+                ],
+                "rightCorner": [
+                    504,
+                    746
+                ],
+                "text": "fara Culorilor sa vind copi"
+            },
+            "22": {
+                "class": "text",
+                "x": 424,
+                "y": 284,
+                "height": 27,
+                "width": 32,
+                "leftCorner": [
+                    424,
+                    284
+                ],
+                "rightCorner": [
+                    456,
+                    311
+                ],
+                "text": "si"
+            },
+            "23": {
+                "class": "text",
+                "x": 79,
+                "y": 79,
+                "height": 624,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    79
+                ],
+                "rightCorner": [
+                    520,
+                    703
+                ],
+                "text": "luat vederi, nici aparat de fotografiat si\nnici talent la desen. Aga cd v-am spus o\npoveste f4r\u00e9 imagini. PAM crede ca\npoliticos era sa desenez si eu ceva. fnclin\ns4-i dau dreptate, dar dac\u00e9 m-ags fi\npriceput, ag fi desenat toatd cartea. Va\nrog din suflet, ajutati-m&, copii, desenati\nvoi in locul meu. De la voi pot nu numai sa\ncapa\u00e9t curaj ci si s& inva\u00e9t unele lucruri.\nDati unui pisoi nepriceput o pretioasa mand\nde ajutor, prieteni!\n\nDar iata\u00e9 c& Inventatorul Zana\nInventica afiseaz\u00e9, in sfarsit un\nperete foile mari cu PROIECTUL la care au\nducrat, pa\u00e9n\u00e9 la urm\u00e9, toti. Vedeti? Chiar\nsi ei au desenat. Au scris si au desenat.\nDar ei se pricep la scris si la desenat.\nEu stau mai prost cu desenul. Eu povestesc.\nDar astept cu neradbdare ajutorul vostru.\nTrimiteti-mi, va rog, $i mie desenele\nvoastre, pe adresa de pe ultima pagina.\n$i acum...\n\nincerc s\u00e9 va citesc ce scrie pe foile\nPROIECTULUI frumos agsezate pe pereti de\nInventator si de Zana Inventica. Iat\u00e9 ca\naici, in dreptul meu, sunt puse foile pe\ncare st\u00e9 scris un titlu grozav, care m-a\nlasat iar cu gura cascat&. Pentru ca nu e\nun titlu, ci o chemare. E o chemare pentru\nvoi, copii. Pentru voi $i pentru mine. Sper\nc\u00e9 n-ati uitat cd si eu sunt copil, am\nnumai patru luni si jumatate. Pe PROIECT\nscrie aga:"
+            }
+        }
+    },
+    "img_112": {
+        "page": "112",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 80,
+                "y": 788,
+                "height": 23,
+                "width": 32,
+                "leftCorner": [
+                    80,
+                    788
+                ],
+                "rightCorner": [
+                    112,
+                    811
+                ],
+                "text": "112"
+            },
+            "25": {
+                "class": "text",
+                "x": 307,
+                "y": 786,
+                "height": 27,
+                "width": 108,
+                "leftCorner": [
+                    307,
+                    786
+                ],
+                "rightCorner": [
+                    415,
+                    813
+                ],
+                "text": "Ticufd reporterul"
+            },
+            "26": {
+                "class": "text",
+                "x": 79,
+                "y": 79,
+                "height": 680,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    79
+                ],
+                "rightCorner": [
+                    520,
+                    759
+                ],
+                "text": "S& vedem ce vrea s\u00e9 insemne pentru cei\ndin Castel una ca asta. Asta vrea sa\n\n \n\ninsemne...Asteptati putin. Va citesc mai\ndeparte. Mda, citesc pe sdrite. Mai intai,\nceea ce am vazut cand am tras cu ochiul si\nm-a luat gura pe dinainte invitandu-v\u00e9 la\nun experiment: ,,Pentru ins\u00e9ndtosirea Tarii\nlui Verde imparat, se infiinteazd&, un grup\nde lucru al copiilor, care se numeste\nAsociatia ,Mesagerii Sandta\u00e9tii\u201d. Pe bune,\nprieteni. Nu-i vis. Dar stiti ceva?\nAsociatia asta exist\u00e9 deja. PAM nu face\naltceva acum deca\u00e9t s-o viseze pentru voi.\nS& citim mai departe. In continuare, sta\nscris: ,Copiii sunt cei mai buni mesageri\nai sandt\u00e9tii Pamantului, ai sandtatii\narborilor si ai s4ndt&tii oamenilor. Ei pot\ns& facd si vor s& facd multe lucruri\nextraordinare\u201d. Aici sunt insirate multe\nexemple, dintre care eu, Ticut\u00e9, va citesc\nacum numai ca\u00e9teva. Iat\u00e9: ,Copiii pot fi\ndetectivi, pot intocmi harti speciale, ale\nlocurilor pustiite de zmei si ale celor\naflate in primejdie din cauza zmeilor. Ei\npot ajuta oamenii bolnavi si bdtrani s\u00e9 se\nsimt\u00e9 bine, pe cei sandtosi ii pot ajuta\nsa-si pastreze s\u00e9ndtatea pa\u00e9nd la adanci\nbatranete. Copiii pot fi cei mai buni\nxeporteri. Ei au vederea clara, pot vedea\nand in adancul pam4ntului si pana departe\nin timp. Cei care vor avea norocul sa\nlucreze cu copiii, vor fi fericiti pentru\nc& vor avea prieteni de naddejde si vor\nobtine mari succese in tot ce fac\u201d.\n\n..-Ati inteles, prieteni? Acum PAM a\nvisat ceea ce mi gra\u00e9bisem si eu s\u00e9 visez,"
+            }
+        }
+    },
+    "img_113": {
+        "page": "113",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "27": {
+                "class": "text",
+                "x": 489,
+                "y": 788,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    489,
+                    788
+                ],
+                "rightCorner": [
+                    521,
+                    812
+                ],
+                "text": "113,"
+            },
+            "28": {
+                "class": "text",
+                "x": 307,
+                "y": 786,
+                "height": 27,
+                "width": 108,
+                "leftCorner": [
+                    307,
+                    786
+                ],
+                "rightCorner": [
+                    415,
+                    813
+                ],
+                "text": "Ticufd reporterul"
+            },
+            "29": {
+                "class": "text",
+                "x": 419,
+                "y": 135,
+                "height": 47,
+                "width": 100,
+                "leftCorner": [
+                    419,
+                    135
+                ],
+                "rightCorner": [
+                    519,
+                    182
+                ],
+                "text": "de facut\npoveste."
+            },
+            "30": {
+                "class": "text",
+                "x": 314,
+                "y": 79,
+                "height": 44,
+                "width": 205,
+                "leftCorner": [
+                    314,
+                    79
+                ],
+                "rightCorner": [
+                    519,
+                    123
+                ],
+                "text": "v-am adresat-o, sa\nceea ce inseamnd sa"
+            },
+            "31": {
+                "class": "text",
+                "x": 80,
+                "y": 79,
+                "height": 680,
+                "width": 440,
+                "leftCorner": [
+                    80,
+                    79
+                ],
+                "rightCorner": [
+                    520,
+                    759
+                ],
+                "text": "cu invitatia pe care\nintrati in experiment,\nintrati in poveste.\n\nS& vedem acum ce ar avea{de facut\naceia care doresc sd intre in| poveste\nPrecis s-au gandit si la asta.\nCaut raspunsul in Proiectul afisat de\nInventator si de Zana Inventica. Raspunsul\neste: Se va face un apel catre toti\ncopiii, de oriunde ar fi ei, sd se inscrie\nin Asociatia ,Mesagerii Sandtatii\u201d.\n\nS& va spund Ticut\u00e9, copii ce e cu\n,Mesagerii Sandtdtii\u201d. Asociatia exista,\nde-a dev\u00e9rat, nu in vis, de 20 de ani.\nPeste o mie de copii au fost membrii ei, au\nfacut lucruri extraordinare (despre care\nveti putea afla in curand si voi) dar intre\ntimp au crescut, adic& au devenit maestri\nsi lucreazd fiecare, cu spor, la proiectul\nsau, iar Asociatia cheami acum alti copi\ncare doresc sd intre in poveste. Pe aceia\ncare vor, deci, s& devind ,mesageri\u201d, ca\nimpreund cu Ana, cu Printul, cu feciori\nlui Verde imparat si cu imp\u00e9ratul insusi sa\nalunge pentru totdeauna zmeii, ii facem\natenti la urmatoarele:\n\n4 Se pot inscrie in Asociatia ,Mesagerii\nS\u00e9ndtatii\u201d toti copiii care stiu sa\nscrie si sd citeascd\u00e9, de la orice\nvarst& pana la orice varsta.\n\n4 Cei care doresc sd facd parte din\nAsociatia ,Mesagerii Sandta\u00e9tii\u201d vor\nlua imediat o foaie de hartie pe care\nigi vor scrie numele si prenumele, cu\nlitere mari de tipar. Sub nume $i\nprenume vor scrie data nasterii, ziua,"
+            }
+        }
+    },
+    "img_114": {
+        "page": "114",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "32": {
+                "class": "text",
+                "x": 80,
+                "y": 788,
+                "height": 23,
+                "width": 33,
+                "leftCorner": [
+                    80,
+                    788
+                ],
+                "rightCorner": [
+                    113,
+                    811
+                ],
+                "text": "114"
+            },
+            "33": {
+                "class": "text",
+                "x": 307,
+                "y": 786,
+                "height": 27,
+                "width": 108,
+                "leftCorner": [
+                    307,
+                    786
+                ],
+                "rightCorner": [
+                    415,
+                    813
+                ],
+                "text": "Ticufd reporterul"
+            },
+            "34": {
+                "class": "text",
+                "x": 78,
+                "y": 506,
+                "height": 239,
+                "width": 441,
+                "leftCorner": [
+                    78,
+                    506
+                ],
+                "rightCorner": [
+                    519,
+                    745
+                ],
+                "text": "Vedeti copii? La sfarsitul acestei povesti n-ati\naflat vestea bund, zmeii n-au fost alungati din Tara lui\nVerde impirat. fmi pare foarte rau ci povestea din\nvisul lui PAM nu se termina bine. Nu \u2018ned. Asta\n\u2018nseamn\u2019 ceva: tnseamnd, pe de o parte, ci nici in\n\nrealitate povestea asta nu s-a terminat, iar pe de alta\nparte tnseamna c& eroii cei mai asteptati ai acestei\npovesti adeviirate sunteti chiar voi, copiii, De la voi se\nasteapta sfarsitul cel bun, Dar mai intai urmeaza st\nmai aflati c\u00e9te ceva, Despre zmei, despre Tara lui"
+            },
+            "35": {
+                "class": "text",
+                "x": 79,
+                "y": 77,
+                "height": 403,
+                "width": 441,
+                "leftCorner": [
+                    79,
+                    77
+                ],
+                "rightCorner": [
+                    520,
+                    480
+                ],
+                "text": "luna, anul. fin continuare, adicd pe un\n\nalt rand, vor scrie adresa lor postala\n\n(numele localita\u00e9tii in care se afla,\n\njudetul, strada, numarul casei, codul\n\npostal si tot ce mai trebuie), iar\ndaca au - si adresa de e-mail.\n\nUrmeaz\u00e9 un rand deosebit de important\npe care copiii vor scrie cu mana proprie:\nSunt de acord s& fac parte din Asociatia\n,Mesagerii Sandt\u00e9tii\u201d. Voi lucra impreund\ncu prietenii mei ... (aici se scriu numele\nsi prenumele prietenilor - care pot fi:\nparinti, frati, surori, rude, colegi de\nscoala, de facultate, prieteni de joacd, de\ntimp liber, colegi de birou -) Ca Mesager\nal San\u00e9tatii, as vrea  sd-mi fie\nindrumator... (Aici se scrie numele unui\nindrumdtor dintre cei sapte existenti in\npoveste: Inventatorul, Artistul, Invdtdtorul,\nGradindrita, Ana, Printul Culorilor...si\nTicuta)"
+            }
+        }
+    },
+    "img_115": {
+        "page": "115",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "36": {
+                "class": "text",
+                "x": 489,
+                "y": 788,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    489,
+                    788
+                ],
+                "rightCorner": [
+                    521,
+                    812
+                ],
+                "text": "15"
+            },
+            "37": {
+                "class": "text",
+                "x": 307,
+                "y": 786,
+                "height": 27,
+                "width": 108,
+                "leftCorner": [
+                    307,
+                    786
+                ],
+                "rightCorner": [
+                    415,
+                    813
+                ],
+                "text": "Ticufd reporterul"
+            },
+            "38": {
+                "class": "text",
+                "x": 80,
+                "y": 444,
+                "height": 76,
+                "width": 272,
+                "leftCorner": [
+                    80,
+                    444
+                ],
+                "rightCorner": [
+                    352,
+                    520
+                ],
+                "text": "adresa postalai:\nTicufa reporterul\n\n \n\ncP 45 - 148 Bucuresti"
+            },
+            "39": {
+                "class": "text",
+                "x": 81,
+                "y": 397,
+                "height": 32,
+                "width": 290,
+                "leftCorner": [
+                    81,
+                    397
+                ],
+                "rightCorner": [
+                    371,
+                    429
+                ],
+                "text": "e-mail: ticutzareporterul@gmail.com"
+            },
+            "40": {
+                "class": "text",
+                "x": 78,
+                "y": 77,
+                "height": 311,
+                "width": 441,
+                "leftCorner": [
+                    78,
+                    77
+                ],
+                "rightCorner": [
+                    519,
+                    388
+                ],
+                "text": "Verde impirat, despre vazutul nevazutului si despre\n\u2018mplinirea viselor voastre.\n\nDar, pan\u2019 una-alta, mult succes la desene gi la\n\u2018nscriere!\n\nDeci scrieti cu mana voastra cererea de inscriere\nfn Asociatia .Mesagerii Sanatatii\" alegeti-va cu grija\n\n\u2018ndrum\u00e9torul si apoi semnafi cererea tot cu mdna\nvoastr\u00e9. fmpreuni cu cererea, astept si copiile\ndesenelor voastre. (Nu uitati sa scrieti data si s\u00e9 va\nsemnati pe fiecare desen.) Trimiteti totul fie prin\ne-mail (pe adresa de mai jos), fie prin posta (pe adresa\npostala de si mai jos - si, in acest caz, nu uitati s\u00e9\npuneti un timbru pe plic - )."
+            }
+        }
+    },
+    "img_116": {
+        "page": "116",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "41": {
+                "class": "text",
+                "x": 138,
+                "y": 650,
+                "height": 117,
+                "width": 314,
+                "leftCorner": [
+                    138,
+                    650
+                ],
+                "rightCorner": [
+                    452,
+                    767
+                ],
+                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua $tefan cel Mare gi Sfant nr. 4, Tagi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimeopy.t0\nwwwpimeopy.10"
+            },
+            "42": {
+                "class": "text",
+                "x": 241,
+                "y": 601,
+                "height": 44,
+                "width": 108,
+                "leftCorner": [
+                    241,
+                    601
+                ],
+                "rightCorner": [
+                    349,
+                    645
+                ],
+                "text": "20m"
+            },
+            "43": {
+                "class": "text",
+                "x": 208,
+                "y": 565,
+                "height": 31,
+                "width": 174,
+                "leftCorner": [
+                    208,
+                    565
+                ],
+                "rightCorner": [
+                    382,
+                    596
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "numberOfPages": 552,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 284,
+                "y": 534,
+                "height": 25,
+                "width": 46,
+                "leftCorner": [
+                    284,
+                    534
+                ],
+                "rightCorner": [
+                    330,
+                    559
+                ],
+                "text": "2012"
+            },
+            "2": {
+                "class": "text",
+                "x": 270,
+                "y": 324,
+                "height": 26,
+                "width": 73,
+                "leftCorner": [
+                    270,
+                    324
+                ],
+                "rightCorner": [
+                    343,
+                    350
+                ],
+                "text": "XXXII"
+            },
+            "3": {
+                "class": "text",
+                "x": 181,
+                "y": 182,
+                "height": 61,
+                "width": 252,
+                "leftCorner": [
+                    181,
+                    182
+                ],
+                "rightCorner": [
+                    433,
+                    243
+                ],
+                "text": "ACTA MOLDAVIAE\nMERIDIONALIS"
+            },
+            "4": {
+                "class": "text",
+                "x": 154,
+                "y": 57,
+                "height": 24,
+                "width": 305,
+                "leftCorner": [
+                    154,
+                    57
+                ],
+                "rightCorner": [
+                    459,
+                    81
+                ],
+                "text": "MUZEUL JUDETEAN STEFAN CEL MARE\u201d VASLUL"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 113,
+                "y": 606,
+                "height": 24,
+                "width": 264,
+                "leftCorner": [
+                    113,
+                    606
+                ],
+                "rightCorner": [
+                    377,
+                    630
+                ],
+                "text": "Editati de Muzeul Judetean Stefan cel Mare\u201d Vaslui"
+            },
+            "6": {
+                "class": "text",
+                "x": 111,
+                "y": 439,
+                "height": 61,
+                "width": 384,
+                "leftCorner": [
+                    111,
+                    439
+                ],
+                "rightCorner": [
+                    495,
+                    500
+                ],
+                "text": "\u2018Muzeul Judefean Stefan cel Mare\u201d Vaslui nu isi asuma rispunderea\npentru confinutul articolelor publiate, aceasta apartinind in totalitate\n\nAutorilor. In acest sens, rugim colaboratoril nostri si trimiti materiale\nredactate dupa normelesiinttie si numal in format electronic."
+            },
+            "7": {
+                "class": "text",
+                "x": 113,
+                "y": 255,
+                "height": 174,
+                "width": 388,
+                "leftCorner": [
+                    113,
+                    255
+                ],
+                "rightCorner": [
+                    501,
+                    429
+                ],
+                "text": "Independent ne. I, Vasu, teefonTax: 0238-311626, ema: muscunsayahoo.com:\n\nToute corespondance sera envoy\u00e9e A Vadrete: Muzeul Stefan cel Mare\u201d\nVaslui, Pata Independent ne. I, Vasiei~ Rowmanie tlfan: 0238311626, e-mail:\nsmuseumsa yahoo.com: muscumesiaeasynet.r0\n\n[Richton Sie bite jedwetehe Korrespondens an dle Adresse: Muzeu Stefan cl\nMare\u201d Vasil Pala Independenfel wr. 1, Vaslal = Roumnien, telifax: 0238311626,\nmas museums yahoo.com; museumvs@easynetro\n\nPlease send any mall othe folowing adress: Muzeu Stefan cel Mare\u201d Vasu\nPiaja Independentel_ar. 1, Vaslul~ Romania, telans 0235/311626, e-mail\nmuseums yahoo.com: mascumvv.teaxynet.r0"
+            },
+            "8": {
+                "class": "text",
+                "x": 184,
+                "y": 215,
+                "height": 22,
+                "width": 158,
+                "leftCorner": [
+                    184,
+                    215
+                ],
+                "rightCorner": [
+                    342,
+                    237
+                ],
+                "text": "LIVIU PREUTU-GRIGORE"
+            },
+            "9": {},
+            "10": {
+                "class": "text",
+                "x": 113,
+                "y": 187,
+                "height": 25,
+                "width": 321,
+                "leftCorner": [
+                    113,
+                    187
+                ],
+                "rightCorner": [
+                    434,
+                    212
+                ],
+                "text": "Traducere cuprins: Limba Englezi \u2014 profesor OANA RUSU"
+            },
+            "11": {
+                "class": "text",
+                "x": 113,
+                "y": 147,
+                "height": 38,
+                "width": 292,
+                "leftCorner": [
+                    113,
+                    147
+                ],
+                "rightCorner": [
+                    405,
+                    185
+                ],
+                "text": "Colegiul de redacti"
+            },
+            "12": {
+                "class": "text",
+                "x": 113,
+                "y": 120,
+                "height": 24,
+                "width": 228,
+                "leftCorner": [
+                    113,
+                    120
+                ],
+                "rightCorner": [
+                    341,
+                    144
+                ],
+                "text": "MARIAN ANTONIU"
+            },
+            "13": {
+                "class": "text",
+                "x": 246,
+                "y": 82,
+                "height": 24,
+                "width": 160,
+                "leftCorner": [
+                    246,
+                    82
+                ],
+                "rightCorner": [
+                    406,
+                    106
+                ],
+                "text": "COLEGIUL DE REDACTIE"
+            },
+            "14": {
+                "class": "text",
+                "x": 113,
+                "y": 57,
+                "height": 22,
+                "width": 217,
+                "leftCorner": [
+                    113,
+                    57
+                ],
+                "rightCorner": [
+                    330,
+                    79
+                ],
+                "text": "ACTA MOLDAVIAE MERIDIONALIS"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 113,
+                "y": 590,
+                "height": 21,
+                "width": 52,
+                "leftCorner": [
+                    113,
+                    590
+                ],
+                "rightCorner": [
+                    165,
+                    611
+                ],
+                "text": "Balcania"
+            },
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 113,
+                "y": 212,
+                "height": 40,
+                "width": 34,
+                "leftCorner": [
+                    113,
+                    212
+                ],
+                "rightCorner": [
+                    147,
+                    252
+                ],
+                "text": "AEH\nAER"
+            },
+            "18": {
+                "class": "text",
+                "x": 112,
+                "y": 100,
+                "height": 513,
+                "width": 387,
+                "leftCorner": [
+                    112,
+                    100
+                ],
+                "rightCorner": [
+                    499,
+                    613
+                ],
+                "text": "AARMSI = Analele Academiei Romine, Memoriile Sectiuni Istorice, Bucuresti\nACMI sual Comisiunii MonumentelorIstorice, Bucurest.\nACNSAS. shiva Constil National pentru StudiereaArhivelor Securit\nActa Arch = Acta Archaeologica Academiae Scientarum Hungarcae, Budapesta\nActaMM = eta Moldaviae Meridionais- Amuaral Muzeului Judean Stefan\ncol Maro\u201d Vaslui, Vash\n~ Anuarul Eparhei Husilor, Edtura Episcopiei Huy, Hui\n= Anuar Eparhiei Romanulu, Editura Episcopiet Romanuli,\nRoman,\n\nAGA = Anuarl de geografe yi antropogeograte, Bucuret\nAux AnuarulInstitutulu de Istorie ,A. D. Xenopot\u201d Iai\nAlAL = AnurulInsitutului de Istorie si Arheologie A.D. Xenopol\u201d\nAIIN ~ AnuarulInstituulu de Istorie National Cluj, Clu - Napoca.\nAN.CE. Prahova = Asociaiei Nationale Cull Erilr Prahova\nAMAE = Arhivele Ministeului Aficerilor de Externe.\n|A.M.R Pitesti = Arhivele Miltare Romane Pitesti\nDIAN. Vaslui ~ Arhivele Nationale - Diretia Judetean Vaslui\nAN-DMB_ = Athivole Nationale -Diteyia Municip Bucuresti\nANIC = Athivele Nationale Istorice Centrale.\n[AthModie = Arheologia Medieval, Uniunea Arheologilor Medievit, Resta\nArhMold = Arheologia Moldovei Institut de Arhoologe las, Bucuresti\n\nArheologiiaS. = Arheologiia Sofa, lnstittul de Atheologie si Academia de Stine,\nSofia,\n\n= Athivele Statulu Bucuresti.\n= Athivee Stati Ii\n\n= Ars Trasvonla, Revisit Naionl de sore tA\nay\nlca - Reve ntti de Sai Balai, Duce"
+            },
+            "19": {
+                "class": "text",
+                "x": 112,
+                "y": 100,
+                "height": 96,
+                "width": 59,
+                "leftCorner": [
+                    112,
+                    100
+                ],
+                "rightCorner": [
+                    171,
+                    196
+                ],
+                "text": "AARMSI\nACMI\nACNSAS.\n\nActa Arch\nActaMtM"
+            },
+            "20": {
+                "class": "text",
+                "x": 122,
+                "y": 67,
+                "height": 23,
+                "width": 365,
+                "leftCorner": [
+                    122,
+                    67
+                ],
+                "rightCorner": [
+                    487,
+                    90
+                ],
+                "text": "ABREVIERI ~ ABREVIATIONS ~ ABBREVIATION\n\n   \n\nBKORZUN"
+            },
+            "21": {
+                "class": "text",
+                "x": 112,
+                "y": 29,
+                "height": 31,
+                "width": 389,
+                "leftCorner": [
+                    112,
+                    29
+                ],
+                "rightCorner": [
+                    501,
+                    60
+                ],
+                "text": "ACTA MOLDAVIAE NERDICNALIS 00, 2012"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "22": {},
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 113,
+                "y": 410,
+                "height": 59,
+                "width": 38,
+                "leftCorner": [
+                    113,
+                    410
+                ],
+                "rightCorner": [
+                    151,
+                    469
+                ],
+                "text": "ca\ncL\nrisa"
+            },
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 113,
+                "y": 298,
+                "height": 22,
+                "width": 89,
+                "leftCorner": [
+                    113,
+                    298
+                ],
+                "rightCorner": [
+                    202,
+                    320
+                ],
+                "text": "Calitoristiin."
+            },
+            "27": {
+                "class": "text",
+                "x": 115,
+                "y": 261,
+                "height": 24,
+                "width": 48,
+                "leftCorner": [
+                    115,
+                    261
+                ],
+                "rightCorner": [
+                    163,
+                    285
+                ],
+                "text": "Carpica"
+            },
+            "28": {
+                "class": "text",
+                "x": 113,
+                "y": 150,
+                "height": 97,
+                "width": 54,
+                "leftCorner": [
+                    113,
+                    150
+                ],
+                "rightCorner": [
+                    167,
+                    247
+                ],
+                "text": "BO.\nBOR\nBR\nBSNR.\n\n \n\nBucuresti"
+            },
+            "29": {
+                "class": "text",
+                "x": 112,
+                "y": 29,
+                "height": 590,
+                "width": 406,
+                "leftCorner": [
+                    112,
+                    29
+                ],
+                "rightCorner": [
+                    518,
+                    619
+                ],
+                "text": "ACTA MOLDAVIAE NERDICNALIS 00, 2012\n\nBEM \u2018Buletinal Comisiunii Monumentelo Istorie, Bucuresti.\n\nBEH ~ Buletinal Episcopiei Husi, Futura Epscopiei Husi, Huy\n\nBibl Acad Rom. = Biblioteca Academiei Romine, Bucures.\n\nBMI ~ Buleinal MonumentelorIstorice, Bucuresti, Directia\n\u2018MonumentelorIstric, 1970-1975 si 1990-2002 (serie nous.\n\nBO. = Biroul Oficial\n\nBOR Biserica Ontodox\u2019 Roman Patrarhia Roman, Bucuresti\n\nBR = Buciumal rom\u00e9n, Bucuresti\n\nBSNR. ~ Buletinul Socictii Numismatice Romine, Bucuresti\n\nBucuresti = Bucurest- Revista Muzcului si Pinacotecii Municipiului\n\nBucuresti\n\n= Carpica ~ Anwatul Muzeului de Istorie ,lulian Antonescu\u201d\nBadu, Bac,\n\nCor str dese Tre Romine, vo. 1-1% cordon Maia\n\nHolban, Bucuresti, Editua Stine gi Eneielopediea, 1968 - 1996,\n=Comittal Central al Partidulsi Comunist Romn,\n= Catalogu! documentelor moldovenest din Arhiva Istoried\nCentra a Stanuui- Bucurest, vol. 1-V, Arhivele Statulut\nBucuresti, 198? - 1975\n= Cercetiiistorice, Complexul National Muzeal, Moldova\" lay\ncL ~ Convorbirliterare agi\nCisia = Cisia- Culegere de Material gi Studi, MuzeulCriurlor,\nOradea\n= Const Najonal pentru StudiereaArhivelor Securit\nComisia Superioari a Monumentelor Publice, Bucuresti\nDacia, Nouvelle Serie. Revue darch\u00e9ologic et histoire\nancienne, Bucuresti\n= Danubius ~ Anuarul Muzeului de Istorie Galati, Gala\n~ Dirootia de Informatie Exters\n\n \n\n= Documente privind istora Rom\u00e9nii, A. Moldova, veacurile"
+            }
+        }
+    },
+    "img_547": {
+        "page": "547",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "30": {},
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 105,
+                "y": 391,
+                "height": 234,
+                "width": 389,
+                "leftCorner": [
+                    105,
+                    391
+                ],
+                "rightCorner": [
+                    494,
+                    625
+                ],
+                "text": "La fel se procedeaz si in cazul inkiturarii componentelor verde si albastre\n(cyan) ale imaginii din stinga. Tot din meniul image ~ Adjusiments ~ Levels se\nselecteazd canalul Green si Blue apoi se modified valrie nivelelor din bara Oupur\nLevels de la 255 la 0. Aceasta devine mai inti magenta dup modifcareaparametior|\ncanalul Green si api rosie dupa modificarea in continuare a canalui Blue. Apoi, se\n\u2018alideaza datele modifica,"
+            },
+            "33": {},
+            "34": {
+                "class": "text",
+                "x": 106,
+                "y": 29,
+                "height": 359,
+                "width": 389,
+                "leftCorner": [
+                    106,
+                    29
+                ],
+                "rightCorner": [
+                    495,
+                    388
+                ],
+                "text": "ACTA NOLDAWAE NERDIONALS, 2008, 2012\n\nsod practi, elzarea an imaginal cu atonal progam Adobe\nPhotoShop presupune umaeaeitora psi\n\nDupit cinare i achiriionrea magi stercoscopis, aces se dessin\nprogrmal date PhotoShop dupa care se decupeneh imagines tna 9 imagines\nGreat. nana plicit opera de docpere, imagines general plant\nnepatv, rbuie rat in alli ate Inet se perfect orizntal, evils in\nacest fe probleel ep pe a mont imagine\n\nFrecae din cele doud iain, in vederea imbundaii, sunt supuse unor\ncoreei inime deunfermizare a gam tonale tn aa fel incl grafeu etograc\n\u2018fect mai eciliba, In continues nat defen de tpl freor de pra, a\nPurcclor, a ptelor saa zereturilorobservate pe supra agin\n\n\"Apo, din comexil programulise actvenl bara de tu imagint din\n\ndreapta $186 deschide meniul Image ~ Adjustments ~ Levels unde se selecteazi\ntanalul Red si se modifica valoareanivelului din bara Oufput Levels dela 255 la 0,\nre se confirsl modifcarea. in acest mod se anuleazd componenta rose din\n\nineyan"
+            }
+        }
+    },
+    "img_548": {
+        "page": "548",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 105,
+                "y": 191,
+                "height": 434,
+                "width": 389,
+                "leftCorner": [
+                    105,
+                    191
+                ],
+                "rightCorner": [
+                    494,
+                    625
+                ],
+                "text": "ln contnuare se deschite \u00a9 nou feeasri de gimensiuni mai mari eu\nsos Bie bogie ewe Sot RAD Haga\noe\n\nTed evox pep\ncri ical ge Ns mages [eo\nSP suites decease | meer\nil yer igindoa sstige os mas\neste imaginea din dreapta si Layer 2 care este aa |\ncitrus Ren temc ice | [aT\ntar tng consi Lea\nNamal seo in Soren. In asst fe | [9 es\nUa ngs Sve gre\nSipe acai auwior ao e t [See a\nSi Slog se ce Poe\nRec Ce na aye sec\ncn eh pnt in pen soe eb ee\nsean\n\nBop tine ef um di\nnnn arse aco oe er nae\npay eae mele Se Send\nTat Acq pt st\nwt tat pipe gee\nSibi igh cara Ueto oe\nSSPE ite hehe\nscesupce aime dy 0 po\ncago tab no\nacre pa pae a\nchr apse, LA we\nSeren pesien pe\n\ninte emi at naira oie <i\ncca spat phe top me pil\nwat c's inal ea Mapa wa\n\n \n\nSAMMONS ile The Wonldof LD Movies A Delphi Pablo, 1982, 3.2"
+            },
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 106,
+                "y": 29,
+                "height": 31,
+                "width": 388,
+                "leftCorner": [
+                    106,
+                    29
+                ],
+                "rightCorner": [
+                    494,
+                    60
+                ],
+                "text": "ACTA NOLDAWAE NERDIONALS, 2008, 2012"
+            }
+        }
+    },
+    "img_549": {
+        "page": "549",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "40": {
+                "class": "text",
+                "x": 124,
+                "y": 180,
+                "height": 309,
+                "width": 369,
+                "leftCorner": [
+                    124,
+                    180
+                ],
+                "rightCorner": [
+                    493,
+                    489
+                ],
+                "text": "ADOBE SYSTEMS INCORPORATED, - , Ulizarea Adobe\u00ae Photoshop\u00ae\n(C54 pentr Windows Mac OS\", 345 Park Avenue, San Jose, California\n95110, USA\nCHANIBERS,V. Frank, The Camera n iltsrted Magazin devoted 0\nthe Advancement of Photography vo. Xi, The Camerea Publishing\nCompany, Philadlphia, 1907\nDIKO. L. siIOFIS,E.\u2014 Telnic arta fotografia Et. Tenis,\nBucuresti 1961\nGALER, Mark si HORVAT, Les~Jmaginea Digital, Ad Li\nBucuresti, 2008\nHARRISON, W. Jerome - 4 Histon\u2019of Photography with an appendix by\ndh, Madoxx onthe dcovery ofthe Gelatin ~ Bromide Process\u201d, Petey Lund\nCo, The Couey Pres, Brand, 1888\nWARNER, Mary Marien Photography ~4 Culural History\u201d, Lawenee\ning Publishing, London, 2002\nSPOTTISWOODE, Raymond and Nigel - The theory of tereoseopic\n\u2018rasmission & its apleation othe motion pcre\u201d, University of Calon\nPress, Beteley & Los Angels, 1953\n\nSAMMONS, Eddie The Mord of 3D Movies\u201d A Delphi Publication\noon\nNEWHALL, Beaumont Hisory of Photography\u201d The Museum of\nModern Ar, New York, 1954\nMeKAY, C,, Herbert Three-Dimensional Photography Principles of\nSereoscopy\u00ae, APP.C,NY. 1983"
+            },
+            "41": {
+                "class": "text",
+                "x": 124,
+                "y": 156,
+                "height": 21,
+                "width": 93,
+                "leftCorner": [
+                    124,
+                    156
+                ],
+                "rightCorner": [
+                    217,
+                    177
+                ],
+                "text": "BIBLIOGRAFIE"
+            },
+            "42": {
+                "class": "text",
+                "x": 106,
+                "y": 29,
+                "height": 76,
+                "width": 388,
+                "leftCorner": [
+                    106,
+                    29
+                ],
+                "rightCorner": [
+                    494,
+                    105
+                ],
+                "text": "ACTA NOLDAWAE NERDIONALS, 2008, 2012 st\n\ndomeniul imaginii color din cauza aberailor cromatice derivate, in redarca\nstereoscopicd a imaginiialbinegra metoda anaglft a fost si rimane \u00a2 modalitate\npect aceeptabil"
+            }
+        }
+    },
+    "img_550": {
+        "page": "550",
+        "pageWidth": "600",
+        "pageHeight": "846",
+        "sections": {}
+    },
+    "img_551": {
+        "page": "551",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "43": {
+                "class": "text",
+                "x": 106,
+                "y": 343,
+                "height": 278,
+                "width": 388,
+                "leftCorner": [
+                    106,
+                    343
+                ],
+                "rightCorner": [
+                    494,
+                    621
+                ],
+                "text": "REDACTAREA LUCRARII:\n\n* Asezarea in paging se fice in urmitoarea ordne: (1) till, 2) numele autoruui\n\n{autorlor), (3) euvintele cheie, (4) rezumatul luraii, (5) textul uci, (6) note\n\nbibliogratice, (7) biblografe (8) lista Figur, abeelor, fotografi, ee\n\n* FORMATUL LUCRARIE: este partiularzat la dimensiunile 17 em lime si 24\n\n2m indlime,avnd urmatoarele margini ~ 2.2 cm sus 41,5 em jos, 1,75 cm stings -\n\n\u2018reap; si cw orentare tip pore sau orientate tip vedere pengu hi, abel, Figur\n\nslalteclementecuprinse in anexe\n\n* TITLUL: si fie scut si sugestv,redactat eu Times New Roman, caractere de 11,\n\nBold, Centrat gi cu majuscule.\n\n AUTORUL/AUTORH: redactat cu Times New Roman, 11, Normal, aliniere\n\nreap (Right), se poztioncaz la un rnd ft det.\n\n* CUVINTE CHEIE: se pozitioneazi la un rind fa de autor (autor, redactat cu\n\nTimes New Roman, 11, Stinga-Dreapta (Justify), spaiere la 1 rind; se aeg euvinte\n\nsugestive ntlnit fcevent intext her\n\n# REZUMATUL: se poztioncaz la dou rinduri faa de cuvintele chei, redactat cu\n\nTimes New Roman, 11, ital, aliniere Stinga-Dregpta (Justify), yi si contin\u2019 0\n\nprezentare succint a luctiri orignal, fri citi, prescurtii sin limba de circulate\n\nternational, acccai casi in cazul euvnteorcheic\n\n+ REDACTAREA TEXTULU! LUCRARI textl se povitioneaz Ia dows indi\n\u2018cu sptiee la | rind gi se edacteazi cu Times New Roman,"
+            },
+            "44": {
+                "class": "text",
+                "x": 106,
+                "y": 57,
+                "height": 286,
+                "width": 388,
+                "leftCorner": [
+                    106,
+                    57
+                ],
+                "rightCorner": [
+                    494,
+                    343
+                ],
+                "text": "\u2018Conditii de prezentare a manuscriselor pentru publicare\n\nOBSERVATH PRELIMINARI\n+ Sunt publicate materiale bine documentae sini cae nu au mai fst publica.\n\n+ Lucrirle vor fi rimise in vederea public pn a data de \u00a5 mal 2014,\n\n* Se accept doar lucrr originale, flat la prima publiare si care cuprind maximum\n25 de pagini (ext Iuranii, note bibliogratice, bibliografc, iguri, desene, shite,\ntabele et).\n\n+ Responsabilitatea asupraconfinutulul materialelorrevine in exclusvitate auorilor.\n\n# Textcleluririle vor fi redactate in imba romana cu disertce si vor fi insotite\nbligtoria-de-un rezumat rodatat in limba romins si int-o limbi de cirelaie\ninternational (englezi,francezi ~ dupi preferiniaautorlui)precum si de euvintele\n\u2018hele redactate atit in limba roman cit iin limba de eiculaieuzitat la realizarea\nrezumatuul (maxim 5 euvinte chee)\n\n* Lucrirle vor f trimise colegiulu de redacie pe hte si suport electronic fades:\nPia Independentei, Nr. Vaslui, judetul Vasu, cod postal ~ 730138, Romania; sau\npe e-mail la: museumvsi@yahoo.com museumesigmacom eu precizareapentra\n\u2018Anuarul muzeului Acta Moldaviae Meridionalis\u201d\n\n# Textele care nu respect cerinjele colectivul de redactc vor fl retrimise spre\n\u2018modifcare.\n\n* Lucriile care nu se inadreazi tn mormele de redactare cerute de colegiul de\nFedacie vor fi respinse dela publ"
+            }
+        }
+    },
+    "img_552": {
+        "page": "552",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "45": {
+                "class": "text",
+                "x": 106,
+                "y": 592,
+                "height": 34,
+                "width": 319,
+                "leftCorner": [
+                    106,
+                    592
+                ],
+                "rightCorner": [
+                    425,
+                    626
+                ],
+                "text": "COPERTA."
+            },
+            "46": {
+                "class": "text",
+                "x": 106,
+                "y": 56,
+                "height": 274,
+                "width": 388,
+                "leftCorner": [
+                    106,
+                    56
+                ],
+                "rightCorner": [
+                    494,
+                    330
+                ],
+                "text": "font 11, alinicre Stinga-Dreapta (Justified); orice aliniat al unui inceput de text se\nrealizeara eu Cul + Tab.\n\n* CITAREA AUTORILOR: se va face numai sub forma notelor de subse, si se\nredacteazi cu Times New Roman, font 9, dupi umitorul model: autor, lurare,\necdituri, ocaltae, an, pagini (loan Opts, Isoriit si Securitatea, Eitura\nEncilopedies, Bucuresti, 2004, p. 710). Pentru doi autori: Virgil Mibilescu-Bisiba,\noan Mica, Tezaurul de vase romane de la Muncelul de sus, in ,Carpica\", X, 1978,\n163-177, Pentru tet sau mat mulfi autor: Dumitrs Preds ef ali, tn\u2019 apairarea\nRom\u00e9niet Mari ~ Campania armatei romaine din 1918-1919, Edtura Enciclopeica,\nBucuresti, 1991, p. 100\n\n= Caracterul alle va fi uta penta abrevieri de genul: et ali, apud, cf Idem, op.\ncit Mem va aveaearater normal\n\n* BIRLIOGRAFIA: ttlul BIBLIOGRAFIE va fi redactt eu font 11 jn Times New\nRoman, centrat i cu majuscule si va cuprinde autor et in lucrare(autori figura,\nplangelor, ftogrfilor, ete.) in ordinealfabeticd, iar in azul unui autor eu mai multe\nIuerdi, acestea vor fi redacate in ordine cronologicd. Nu se admite prescurtarea\ntllurlorluerrilor,revstelo, ctor, encielopedilr gi eiturilor eta.\n\n+ FIGURILE, FOTOGRAFILE $1 TABELELE: se trimitinserate In cuprinsul\nAtcolului in format JPG iar fecare si congind indicat clare, precise asupra a coea ce\nreprezin. Figurle gi tabelele se vor indica pe o list separa iar eitarea lor in texte\nsca face dup modelul Fig 1, Tab 1. Hailes indice seara gi Nordul geograic."
+            }
+        }
+    }
+}

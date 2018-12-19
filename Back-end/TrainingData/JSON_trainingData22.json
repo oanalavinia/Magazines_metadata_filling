@@ -1,0 +1,573 @@
+{
+    "numberOfPages": 297,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "1": {},
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 99,
+                "y": 353,
+                "height": 87,
+                "width": 403,
+                "leftCorner": [
+                    99,
+                    353
+                ],
+                "rightCorner": [
+                    502,
+                    440
+                ],
+                "text": "ORGANE DE MASINI.\nREDUCTOARE DE TURATIE"
+            },
+            "4": {
+                "class": "text",
+                "x": 390,
+                "y": 118,
+                "height": 25,
+                "width": 148,
+                "leftCorner": [
+                    390,
+                    118
+                ],
+                "rightCorner": [
+                    538,
+                    143
+                ],
+                "text": "MIKLOS IMRE ZSOLT"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "5": {},
+            "6": {
+                "class": "text",
+                "x": 62,
+                "y": 118,
+                "height": 28,
+                "width": 209,
+                "leftCorner": [
+                    62,
+                    118
+                ],
+                "rightCorner": [
+                    271,
+                    146
+                ],
+                "text": "Conf. dr. ing. VASIU TEODOR"
+            },
+            "7": {}
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 465,
+                "y": 618,
+                "height": 27,
+                "width": 67,
+                "leftCorner": [
+                    465,
+                    618
+                ],
+                "rightCorner": [
+                    532,
+                    645
+                ],
+                "text": "Autorul,"
+            },
+            "9": {
+                "class": "text",
+                "x": 61,
+                "y": 257,
+                "height": 340,
+                "width": 478,
+                "leftCorner": [
+                    61,
+                    257
+                ],
+                "rightCorner": [
+                    539,
+                    597
+                ],
+                "text": "Activitatea de proiectare in constructia de masini are ca scop fie\nrealizarea unui produs nou, fie imbunatitirea unuia existent. Pentru ca\nactivitatea de proiectare, prin fazele de conceptie, de prelucrare a solutiei\nadoptate, respeetiv de constructie, si fie eat mai eficienta, este necesar ca\nproiectantul si aibit la dispozitie o tema care si contina cit mai multe\ndate privind produsul ce trebuie proiectat.\n\nIn acest sens Iucrarea Reductoare de turatie, este un indrumar de\nproiectare, destinat in primul rand viitorilor ingineri mecanici, dar si\ncelor cu alti specializare, in vederea elaborarii proiectului de an la\ndisciplinele Organe de masini, respectiv Mecanisme si organe de\nmasini, dar si pentru rezolvarea unor capitole din proiectul de diploma\nsau disertatie.\n\nLucrarea cuprinde modalitatea de proiectare a reductoarelor de\nturatie de diferite tipuri, respectiv a angrenajelor, arborilor, lagarelor cu\nrulmenti, carcasei dar si a prineipalelor elemente de fixare, asamblare,\netansare, ete.\n\nindrumarul de proiectare contine toate datele necesare - relatii de\ncalcul, coeficienti, factori de utilizare, elemente tipizate in conformitate\ncu standardele in vigoare din Romania, necesare rezolvarii temei de\nproiect propusi."
+            },
+            "10": {
+                "class": "text",
+                "x": 415,
+                "y": 99,
+                "height": 39,
+                "width": 125,
+                "leftCorner": [
+                    415,
+                    99
+                ],
+                "rightCorner": [
+                    540,
+                    138
+                ],
+                "text": "PREFATA"
+            },
+            "11": {}
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {}
+    },
+    "img_292": {
+        "page": "292",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 62,
+                "y": 787,
+                "height": 22,
+                "width": 33,
+                "leftCorner": [
+                    62,
+                    787
+                ],
+                "rightCorner": [
+                    95,
+                    809
+                ],
+                "text": "292,"
+            },
+            "12": {
+                "class": "text",
+                "x": 59,
+                "y": 94,
+                "height": 332,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    94
+                ],
+                "rightCorner": [
+                    541,
+                    426
+                ],
+                "text": "M\u00e9rimea cuplojului\n\nVariant\n\nn[ 8\n\nN\n\nVariant\n\n8\n\n \n\nPerechi de semicuploje\n\n \n\nP\u2014 Pr\nPct\nic Pr\nC-cr\n\nPret\nPEt\ncect\n\nPoP\nPc\nc-c|\n\nPPI\nPct\ncP\nc-cr\n\n \n\nL\n\nin\n\n \n\n \n\n \n\n357\n\n380\n\n364\n\n387\n\n \n\n398\n\n405\n\n428\n\n \n\n438\n\n445\n\n468\n\n \n\n \n\n486\n\n497\n\n521\n\n \n\n546\n\n\u2018S57\n\n581\n\n \n\n612\n\n622\n\n \n\n647\n\n \n\n \n\n692\n\n \n\n773\n\n \n\n \n\n855\n\n \n\n963\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n1066\n\n \n\n \n\n \n\n \n\n \n\n1166"
+            },
+            "13": {
+                "class": "text",
+                "x": 59,
+                "y": 38,
+                "height": 53,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    38
+                ],
+                "rightCorner": [
+                    541,
+                    91
+                ],
+                "text": "1...22: parametri\u2014s, z, M, Mi, m,n,"
+            }
+        }
+    },
+    "img_293": {
+        "page": "293",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "14": {},
+            "15": {},
+            "16": {
+                "class": "text",
+                "x": 77,
+                "y": 297,
+                "height": 40,
+                "width": 73,
+                "leftCorner": [
+                    77,
+                    297
+                ],
+                "rightCorner": [
+                    150,
+                    337
+                ],
+                "text": "Tolerante\nde forma"
+            },
+            "17": {
+                "class": "text",
+                "x": 63,
+                "y": 213,
+                "height": 383,
+                "width": 474,
+                "leftCorner": [
+                    63,
+                    213
+                ],
+                "rightCorner": [
+                    537,
+                    596
+                ],
+                "text": "Tipul\ntolerantei\n\nDenumirea tolerantei\n\n\u2018Simbolul\ntolerantei\n\n \n\nToleranta la reciilinitate\n\n \n\nToleranta Ia planitate\n\n \n\nToleranta [a circularitate\n\n \n\nToleranta la cilindricitate\n\n \n\nToleranta Ia forma data a profilulul\n\n \n\nToleranta Ia forma data a suprafet\n\n \n\nTolerante\nde\norientare\n\nToleranta la paralelism\n\n \n\nToleranta la perpendicularitate\nToleranta Ia inclinare\n\n \n\nTolerante\nde pozitie\n\nToleranta la pozifia nominal\u00e9\n\n \n\nToleranta la concentricitate si coaxialitate\n\nee NES Day |\n\n \n\nToleranta Ia simetie\n\n \n\n \n\nTolerante\nde bataie\n\nToleranta bata radiale\n\n \n\nincu\ncrculore frontale\n\n \n\n \n\nToleranta bataii radiale\n\n \n\n \n\ntotale frontale"
+            },
+            "18": {
+                "class": "text",
+                "x": 170,
+                "y": 163,
+                "height": 46,
+                "width": 259,
+                "leftCorner": [
+                    170,
+                    163
+                ],
+                "rightCorner": [
+                    429,
+                    209
+                ],
+                "text": "Simbolurile caracteristicilor tolerate\n(extras SR EN ISO 1101:2006)"
+            },
+            "19": {
+                "class": "text",
+                "x": 131,
+                "y": 82,
+                "height": 51,
+                "width": 337,
+                "leftCorner": [
+                    131,
+                    82
+                ],
+                "rightCorner": [
+                    468,
+                    133
+                ],
+                "text": "Anexa 70\nTolerante geometrice."
+            },
+            "20": {}
+        }
+    },
+    "img_294": {
+        "page": "294",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "21": {
+                "class": "text",
+                "x": 62,
+                "y": 787,
+                "height": 22,
+                "width": 33,
+                "leftCorner": [
+                    62,
+                    787
+                ],
+                "rightCorner": [
+                    95,
+                    809
+                ],
+                "text": "204"
+            },
+            "22": {
+                "class": "text",
+                "x": 59,
+                "y": 480,
+                "height": 215,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    480
+                ],
+                "rightCorner": [
+                    541,
+                    695
+                ],
+                "text": "[Dimensiunea| Clasa de precizie\nnominal\u00e9 [T [a [i> Tv [vw [vi vi? x) x] x |\n[mm] Toleranfe in ym,\npandas 8 30.\n3.6 10 40\n6.18 12 50\n50 16 60\n50...120 20 Es\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n260...500. 30. 120\n40, 160)\n50. 200,\n\n0 250,\n\n \n\n \n\n \n\n3\n4\n5\n\u00e9\n8\n129...260, Me 10 25 100,\n12\n16\n20\n25"
+            },
+            "23": {
+                "class": "text",
+                "x": 69,
+                "y": 449,
+                "height": 28,
+                "width": 462,
+                "leftCorner": [
+                    69,
+                    449
+                ],
+                "rightCorner": [
+                    531,
+                    477
+                ],
+                "text": "Tolerante la circularitate si cilindricitate (extras STAS 7391/2 - 74)"
+            },
+            "24": {
+                "class": "text",
+                "x": 59,
+                "y": 117,
+                "height": 308,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    117
+                ],
+                "rightCorner": [
+                    541,
+                    425
+                ],
+                "text": "[Dimensiuneo|\nnominal\u00e9\n[mm],\n\nClasa de precizie\n\n \n\nvi\n\nVil\n\nVill\n\n \n\nToleranie in ym\n\n \n\npana ia 10)\n\n25\n\n4\n\nS\n\n \n\n10.16\n\n5\n\n8\n\n \n\n16.25\n\n25...40\n40.63\n\n6\n\n10\n\n10\n12\n\n8 _|\n\n16\n\n \n\n63...100\n\n12\n\n20.\n\n \n\n100...160\n\n16\n\n25\n\n \n\n20\n\n30.\n\n \n\n25\n\n40.\n\n \n\n30\n\n50,\n\n \n\n40\n\n60\n\n \n\n50\n\n80,\n\n \n\n60 |\n\n80,\n\n100)\n120.\n\n \n\n100\n\n140)\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n120\n\n200"
+            },
+            "25": {
+                "class": "text",
+                "x": 65,
+                "y": 65,
+                "height": 45,
+                "width": 469,
+                "leftCorner": [
+                    65,
+                    65
+                ],
+                "rightCorner": [
+                    534,
+                    110
+                ],
+                "text": "Tolerante Ia rectilinitate, la planitate, la forma data a profilul\n\n \n\nsuprafetei (extras STAS 7391/1 - 74)"
+            },
+            "26": {}
+        }
+    },
+    "img_295": {
+        "page": "295",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "27": {},
+            "28": {
+                "class": "text",
+                "x": 59,
+                "y": 508,
+                "height": 200,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    508
+                ],
+                "rightCorner": [
+                    541,
+                    708
+                ],
+                "text": "[Dimensiunea|\nnominal\u00e9\n[mm]\n\nClasa de precizie\n\n \n\ni ee\n\nvill [1X\n\nx | xi | xi\n\n \n\nToleranfe in ym\n\n \n\npandla\u00e9\n\n12\n\n20\n\n30,\n\n50\n\nEn\n\n120,\n\n200\n\n \n\n&\n\n10\n\n| 12 |\n16\n\n16\n20\n25\n\n25 |\n\n30.\n40\n\n40,\n50.\n0\n\n60\n80\n100.\n\n100\n\n[120\n\n160.\n\n160)\n200,\n250,\n\n250\n300,\n400\n\n \n\n30.\n\n50\n\n80.\n\n120.\n\n300,\n\n\u2018500\n\n \n\n5\n6\n8\n10\n2\n16.\n\n25\n\n40,\n\n60\n\n100.\n\n160.\n\n400,\n\n600\n\n \n\n20.\n\nEd\n\n0,\n\n120.\n\n200,\n\n\u2018500,\n\n\"800,\n\n \n\n25\n\n60.\n\n100\n\n140.\n\n250\n\n\u2018600,\n\n1000\n\n \n\n \n\n \n\n30,\n\n \n\n \n\n \n\n \n\nED\n\n \n\n120\n\n200\n\n \n\n300)\n\n\u2018800,\n\n \n\n \n\n1200"
+            },
+            "29": {
+                "class": "text",
+                "x": 98,
+                "y": 456,
+                "height": 45,
+                "width": 403,
+                "leftCorner": [
+                    98,
+                    456
+                ],
+                "rightCorner": [
+                    501,
+                    501
+                ],
+                "text": "Tolerante la coaxialitate, la concentricitate\n\n \n\n(extras STAS 7391/4 - 74)"
+            },
+            "30": {
+                "class": "text",
+                "x": 59,
+                "y": 117,
+                "height": 308,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    117
+                ],
+                "rightCorner": [
+                    541,
+                    425
+                ],
+                "text": "[Dimensiuneo|\nnominal\u00e9\n[mm],\n\nClasa de precizie\n\n \n\nv1 vw\n\nVill\n\n \n\nToleranie in ym\n\n \n\npana ia 10)\n\n25 6\n\n10\n\n \n\n10.16\n\n8\n\n12\n\n \n\n16.25\n\n25...40\n40.63\n\n10\n12\n16\n\n16\n\n720\n\n25\n\n \n\n63...100\n\n20\n\n30,\n\n \n\n100...160\n\n25\n\n40\n\n \n\n30\n\n50\n\nBS B/S Sle}\n\n \n\n40\n\n60\n\n \n\n50\n\n80\n\n \n\n0\n\n100.\n\n \n\n80.\n\n120.\n\n \n\n120\n\n100 |\n\n160)\n\n \n\n160\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n200"
+            },
+            "31": {
+                "class": "text",
+                "x": 89,
+                "y": 65,
+                "height": 45,
+                "width": 422,
+                "leftCorner": [
+                    89,
+                    65
+                ],
+                "rightCorner": [
+                    511,
+                    110
+                ],
+                "text": "Tolerante Ia paralelism, la perpendicularitate\n(extras STAS 7391/3 - 74)"
+            },
+            "32": {}
+        }
+    },
+    "img_296": {
+        "page": "296",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 62,
+                "y": 785,
+                "height": 24,
+                "width": 33,
+                "leftCorner": [
+                    62,
+                    785
+                ],
+                "rightCorner": [
+                    95,
+                    809
+                ],
+                "text": "296"
+            },
+            "34": {
+                "class": "text",
+                "x": 59,
+                "y": 375,
+                "height": 262,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    375
+                ],
+                "rightCorner": [
+                    541,
+                    637
+                ],
+                "text": "[Dimensiunea|\nnominal\u00e9\nImm],\n\nClasa de preci\n\n \n\nviw\n\nVil\n\nvill\n\n=\n\n \n\nToleranfe in ym,\n\n \n\npang ia 10)\n\n25\n\n6\n\n10,\n\n \n\n10..18\n\n8\n\n12\n\n \n\n16..25\n\n25...40\n\n10\n12\n\n16\n20\n\n \n\n40.63\n\n16\n\n25\n\n \n\n63...100\n\n3\n\n| 4 |\nSs\n6\n8\n\n20\n\n30\n\n \n\n100...160\n\n10\n\n25\n\n40\n\n \n\n160...250\n\n12\n\n30\n\n50\n\n3/3/38 |S /e/3}\n\n \n\n7250...400\n\n16\n\n40\n\n60\n\n \n\n400...630,\n\n20\n\n50\n\n80,\n\n \n\n630...1000\n\n25\n\n0\n\n100.\n\n \n\n1000...1600\n\n30\n\n80,\n\n120\n\n \n\n1600...2500\n\n \n\n \n\n \n\n \n\n \n\n40\n\n \n\n \n\n \n\n100\n\n160"
+            },
+            "35": {
+                "class": "text",
+                "x": 208,
+                "y": 327,
+                "height": 46,
+                "width": 184,
+                "leftCorner": [
+                    208,
+                    327
+                ],
+                "rightCorner": [
+                    392,
+                    373
+                ],
+                "text": "Toleranta bataii frontale\n(extras STAS 7391/5 - 74)"
+            },
+            "36": {
+                "class": "text",
+                "x": 59,
+                "y": 117,
+                "height": 200,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    117
+                ],
+                "rightCorner": [
+                    541,
+                    317
+                ],
+                "text": "[Dimensiuneo|\nnominal\u00e9\n[mm],\n\nClasa de precizie\n\n \n\nVv.\n\nvi\n\nVil\n\nVill\n\n \n\nToleranie in ym\n\n \n\npandla\u00e9\n\n12\n\n20\n\n30,\n\n \n\n6.18\n\n16\n\n25\n\n40\n\n \n\n18...50\n\n50...120\n129...260\n\n12\n16\n20\n\n20\n25\n30.\n\n30\n\n50\n\n50\n60\n\n40 |\n\n80,\n\n \n\n7260...500\n\n40,\n\n60\n\n100.\n\n \n\n'500...800\n\n50.\n\n80,\n\n120\n\n \n\n800...1250\n\n60.\n\n100\n\n140.\n\n \n\n1250...2000\n\n \n\n \n\n \n\n \n\n \n\n \n\n80.\n\n \n\n \n\n120.\n\n200"
+            },
+            "37": {
+                "class": "text",
+                "x": 208,
+                "y": 65,
+                "height": 45,
+                "width": 184,
+                "leftCorner": [
+                    208,
+                    65
+                ],
+                "rightCorner": [
+                    392,
+                    110
+                ],
+                "text": "Toleranta bataii radiale\n(extras STAS 7391/5 - 74)"
+            },
+            "38": {}
+        }
+    },
+    "img_297": {
+        "page": "297",
+        "pageWidth": "600",
+        "pageHeight": "852",
+        "sections": {
+            "39": {},
+            "40": {},
+            "41": {},
+            "42": {},
+            "43": {},
+            "44": {},
+            "45": {},
+            "46": {},
+            "47": {},
+            "48": {
+                "class": "text",
+                "x": 75,
+                "y": 201,
+                "height": 512,
+                "width": 459,
+                "leftCorner": [
+                    75,
+                    201
+                ],
+                "rightCorner": [
+                    534,
+                    713
+                ],
+                "text": "1 Chisiu, A., $.a., Organe de masini, Editura Didactica si\nPedagogica, Bucuresti, 1981\n\n2 | Crudul. $.a., Atlas. Reductoare cu roti dintate, Editura Didactica si\nPedagogica, Bucuresti, 1981\n\n3 | Draahici, ., 5.0. Organe de masini. Probleme. Editura Didactic& si\nPedagogica, Bucuresti, 1980.\n\n4 | Draghici, I. s.a., Indrumar de proiectare in constructia de masini,\nvol |, Editura Tehnicd, Bucuresti, 1981\n\n5 | Draghici, |., \u00a7.a., Indrumar de proiectare in constructia de masini,\nvol ll, Editura Tehnic&, Bucuresti, 1982\n\n6 | Gafiteanu, M., .a., Organe de masini. Vol.1. Editura Tehnic\u00e9,\nBucuresti, 2001\n\n7 | Gafiteanu, M., s.a., Organe de masini. Vol. 2. Editura Tehnica,\nBucuresti, 2002\n\n8 | Manolescu. N.. \u00a7.., Manualu! inginerului mecanic, Editura Tehnica,\nBucuresti, 1976\n\n9] Miklos, |., Organe de masini. Organe de asamblare, Editura\nPolitehnica, Timisoara, 2001\n\n10 Miklos, I, Miklos, Zs., Organe de magini. Organe ale migc\u00e9ii de\nrotatie \u00a7isustinere ale acestora, Editura Politehnica Timisoara, 2002\n\n11 Miklos, I, Miklos, Zs., Organe de masini. Transmisii mecanice,\nEditura Mirton, Timisoara, 2005\n\n12 Muhs, D.. s.a., Roloff/Matek Organe de masini, Vol |,l, Editura\nMatrixRom, Bucuresti, 2008\n\n13 Musat, M., Stoica, G., Transmisii mecanice cu reductoare intr-0\nfreapta, indrumar de proiectare, 2004\n\n14 Radulescu, Gh., indrumar de proiectare in constructia de masini,\nvol Ill, Editura Tehnicd, Bucuresti, 1986\n\n15 *** Colectie de standarde in vigoare\n\n16 *** Reductoare de uz general, documentatie S.C. Neptun\n\nCampina S.A"
+            },
+            "49": {
+                "class": "text",
+                "x": 409,
+                "y": 110,
+                "height": 34,
+                "width": 128,
+                "leftCorner": [
+                    409,
+                    110
+                ],
+                "rightCorner": [
+                    537,
+                    144
+                ],
+                "text": "Bibliografie"
+            },
+            "50": {
+                "class": "text",
+                "x": 476,
+                "y": 38,
+                "height": 24,
+                "width": 62,
+                "leftCorner": [
+                    476,
+                    38
+                ],
+                "rightCorner": [
+                    538,
+                    62
+                ],
+                "text": "Bibliografie"
+            }
+        }
+    }
+}

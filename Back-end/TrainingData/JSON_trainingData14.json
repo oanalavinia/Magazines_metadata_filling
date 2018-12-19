@@ -1,0 +1,1032 @@
+{
+    "numberOfPages": 157,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 104,
+                "y": 613,
+                "height": 24,
+                "width": 400,
+                "leftCorner": [
+                    104,
+                    613
+                ],
+                "rightCorner": [
+                    504,
+                    637
+                ],
+                "text": "Obiectivtatea si corecttudinea comtinuturilorstinifice apartin in exclusivitate aworilor."
+            },
+            "2": {
+                "class": "text",
+                "x": 178,
+                "y": 548,
+                "height": 43,
+                "width": 253,
+                "leftCorner": [
+                    178,
+                    548
+                ],
+                "rightCorner": [
+                    431,
+                    591
+                ],
+                "text": "\u2018Omul nu poate deveni om decit daci este educat!\nJohn Amos Com"
+            },
+            "3": {},
+            "4": {
+                "class": "text",
+                "x": 263,
+                "y": 448,
+                "height": 26,
+                "width": 83,
+                "leftCorner": [
+                    263,
+                    448
+                ],
+                "rightCorner": [
+                    346,
+                    474
+                ],
+                "text": "Editia a I-a"
+            },
+            "5": {
+                "class": "text",
+                "x": 281,
+                "y": 406,
+                "height": 26,
+                "width": 48,
+                "leftCorner": [
+                    281,
+                    406
+                ],
+                "rightCorner": [
+                    329,
+                    432
+                ],
+                "text": "2013"
+            },
+            "6": {
+                "class": "text",
+                "x": 132,
+                "y": 346,
+                "height": 47,
+                "width": 135,
+                "leftCorner": [
+                    132,
+                    346
+                ],
+                "rightCorner": [
+                    267,
+                    393
+                ],
+                "text": "SCOALA"
+            },
+            "7": {
+                "class": "text",
+                "x": 270,
+                "y": 340,
+                "height": 52,
+                "width": 214,
+                "leftCorner": [
+                    270,
+                    340
+                ],
+                "rightCorner": [
+                    484,
+                    392
+                ],
+                "text": "PARINTILOR,"
+            },
+            "8": {
+                "class": "text",
+                "x": 226,
+                "y": 296,
+                "height": 35,
+                "width": 161,
+                "leftCorner": [
+                    226,
+                    296
+                ],
+                "rightCorner": [
+                    387,
+                    331
+                ],
+                "text": "PROIECTULUI"
+            },
+            "9": {
+                "class": "text",
+                "x": 224,
+                "y": 267,
+                "height": 26,
+                "width": 160,
+                "leftCorner": [
+                    224,
+                    267
+                ],
+                "rightCorner": [
+                    384,
+                    293
+                ],
+                "text": "DESFASURAT IN CADRUL."
+            },
+            "10": {
+                "class": "text",
+                "x": 155,
+                "y": 241,
+                "height": 26,
+                "width": 298,
+                "leftCorner": [
+                    155,
+                    241
+                ],
+                "rightCorner": [
+                    453,
+                    267
+                ],
+                "text": "SIMPOZIONULUI INTERJUDETEAN ONLINE"
+            },
+            "11": {
+                "class": "text",
+                "x": 150,
+                "y": 210,
+                "height": 25,
+                "width": 308,
+                "leftCorner": [
+                    150,
+                    210
+                ],
+                "rightCorner": [
+                    458,
+                    235
+                ],
+                "text": "(CULEGERE DE LUCRARI PREZENTATE iN CADRUL"
+            },
+            "12": {},
+            "13": {},
+            "14": {},
+            "15": {
+                "class": "text",
+                "x": 344,
+                "y": 157,
+                "height": 43,
+                "width": 130,
+                "leftCorner": [
+                    344,
+                    157
+                ],
+                "rightCorner": [
+                    474,
+                    200
+                ],
+                "text": "PARINTE"
+            },
+            "16": {
+                "class": "text",
+                "x": 91,
+                "y": 66,
+                "height": 87,
+                "width": 426,
+                "leftCorner": [
+                    91,
+                    66
+                ],
+                "rightCorner": [
+                    517,
+                    153
+                ],
+                "text": "INSPECTORATUL SCOLAR AL JUDETULUL LASL\nCENTRUL JUDETEAN DE RESURSE $I ASISTENTA EDUCATIONALA IASI\nSCOALA GIMNAZIALA JON SIMIONESCU LAS\n\n\u2018CASA CORPULUI DIDACTIC LAS\nASOCIATIA JON SIMIONESCU IASI"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 132,
+                "y": 652,
+                "height": 25,
+                "width": 156,
+                "leftCorner": [
+                    132,
+                    652
+                ],
+                "rightCorner": [
+                    288,
+                    677
+                ],
+                "text": "ISSN-L 2359 \u2014 8247"
+            },
+            "18": {
+                "class": "text",
+                "x": 133,
+                "y": 625,
+                "height": 25,
+                "width": 140,
+                "leftCorner": [
+                    133,
+                    625
+                ],
+                "rightCorner": [
+                    273,
+                    650
+                ],
+                "text": "ISSN 2359 - 8247"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "19": {
+                "class": "text",
+                "x": 64,
+                "y": 103,
+                "height": 594,
+                "width": 481,
+                "leftCorner": [
+                    64,
+                    103
+                ],
+                "rightCorner": [
+                    545,
+                    697
+                ],
+                "text": "Proiectul $coala paringilor conceput si implementat in Scoala fon Simionescu\nincepdnd cu anul scolar 2010 - 2011 vizeaz aplicarea unui program de interventie\n\nbazat pe activitati de sprijin socio-educativ, avand ca obiectiv principal consilierea\n\n      \n\npirintilor in vederea imbunatatirii relatiei parinte-copil, a relatiei scoali-familie,\n\n \n\nprecum si prevenirea situatiilor de eriz\u00e9 educationala.\nPentru ca societatea si fie umand si eficienti, are nevoie de grupuri sociale,\n\ncolectiviti\n\n \n\n \n\n \n\ncoopereaz, promovnd coeziunea si solidaritatea, in care\n\u2018membrii grupurilor si fie personalititi autonome, cu initiativa, care isi asuma\nresponsabilitati pentru ei insisi si pentru ceilali\n\nPrin infiintarea Scolii paringilor dorim si atragem atentia asupra beneficiilor\n\n \n\naduse de implicarea familiei in viaja scolard si extrascolard, asupra necesitigii\n\n \n\ninformatri, colaborarii_ si promovarii_strategiilor educative in paralel cu dezvoltarea\nunui sistem de atitudini reatiste ale pirintilor si ale elevilor fai de propriile\nposibilititi. Profesia de parinte este cea mai importantd din cdte avem in viata gi\ntotusi, foarte putini dintre noi suntem cu adevarat instruiti pentru ea. Avem impresia\ncA stim din nastere cum se crese copiii, cum si ne descuredm cu ei cdnd nu sunt\ncooperanti, cum s armonizim nevoile lor cu ale noastre, cum si-i ajutdim si creased\nfericit si implinit.\n\nPrima scoali a copilului este familia. Aceasta exercita o influenta atat de adanea,\nincat urmele ei rman, uneori, intiparite pentru toata viata in profilul moral-spiritual\nal acestuia,\n\nScoala gi familia sunt cei doi poli de rezistenta ai educatiei, care contribuie prin\n\nmijloace specifice la formarea tineretului. Desi, intr-o anumiti etapa a viet\n\n \n\ncopilului, rolul primordial il define scoala, este necesar ins ca familia si sprijine in\n\nisurilor\n\n   \n\ntivitatea educativa a scolii, Trebuie si existe \u00a9 unitate a"
+            },
+            "20": {
+                "class": "text",
+                "x": 257,
+                "y": 67,
+                "height": 24,
+                "width": 94,
+                "leftCorner": [
+                    257,
+                    67
+                ],
+                "rightCorner": [
+                    351,
+                    91
+                ],
+                "text": "ARGUMENT"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "21": {
+                "class": "text",
+                "x": 231,
+                "y": 564,
+                "height": 26,
+                "width": 146,
+                "leftCorner": [
+                    231,
+                    564
+                ],
+                "rightCorner": [
+                    377,
+                    590
+                ],
+                "text": "Prof. Nicoleta Prepelita"
+            },
+            "22": {
+                "class": "text",
+                "x": 62,
+                "y": 66,
+                "height": 453,
+                "width": 483,
+                "leftCorner": [
+                    62,
+                    66
+                ],
+                "rightCorner": [
+                    545,
+                    519
+                ],
+                "text": "educative, 0 concordanfi intre mijloacele de influentare pe care le utilizeaz\u2019 cele\ndoua institut.\n\nSimpozionul ,,Arta de a fi parinte\" s-a desfagurat in cadrul proiectului Seoala\n\u2018arintilor realizat in colaborare cu ISI Iasi, CIRAE lagi, CCD Iasi si Asociatia fon\nSimionescu.\n\n\u2018Acest simpozion si-a propus si ofere solutii la 0 parte dintre problemele cu care\n\nse confiunta un parinte in relaiile cu copiii\n\nin urma unor cercetiri evaluative efectuate sub egida Institutului de Stiinte ale\n\nEducatiei, s-a ajuns la concluzia cl \u201cmajoritatea profesorilor si parintilor\nconstientizeaz\u00e9 nevoia de educatie a parintilor, faptul ci unele comportamente ale\nparinjilor pot fifavorizabile prin dialog cu scoala.\u201d\n\nEducatia copiilor in familia contemporani nu se mai poate face empiric, dupa\n\u2018modelul exclusiv al traditiei, sau din instinct, ca act de competenta afectiva. Dac\naspitdim cu adevarat la 0 societate emancipata material, social si spiritual, rolurile\nparentale trebuie si fie si ele constiente, rationale si calificate.\n\nScoala paingilor reprezinta un concept modem ce isi propune intalniri\ninteractive intre parinti i specialisti cu scopul de a facilita comunicarea intre parinti\n\nsi copii, de a valorifica experientele acumulate de parinti in eresterea gi educarea\n\n \n\ncopiilor si de a cduta solutii la probleme care nu si-au gait ined rezolvarea."
+            }
+        }
+    },
+    "img_152": {
+        "page": "152",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 291,
+                "y": 710,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    291,
+                    710
+                ],
+                "rightCorner": [
+                    319,
+                    732
+                ],
+                "text": "152"
+            },
+            "24": {
+                "class": "text",
+                "x": 64,
+                "y": 66,
+                "height": 497,
+                "width": 480,
+                "leftCorner": [
+                    64,
+                    66
+                ],
+                "rightCorner": [
+                    544,
+                    563
+                ],
+                "text": "Multi vreme s-a crezut ca satisfactia si performanta in munca sunt doud aspecte\ndivergente, sau altfel spus cd o crestere a insatisfactiei este preful platit pentru o\ncrestere a randamentutui in munca,\n\nMunca este necesarii si trebuie ficuta din simul datoriei sau din necesitatea de\na asigura reusita actiunilor noastre. Munca poate fi obligatie exterioara, bazata pe 0\nmotivatie extrinsecd dar, la fel de bine poate fi si o sursa de adainca satisfactie, atunci\nind are la bazai 0 motivatie intrinseca..\n\nDupa Herzberg satisfactia actioneazd asupra _performanfei/randamentului\nmuneii pe baza motivatiei fiecdrui individ si apare in procesul raportarii individului\nla munca, la particularitiyile de desfisurare ale acesteia. Munca devine astfel un\nmijloc prin care se asigura satisfacerea unor trebuinte sau chiar un scop in sine, fiind\n\ngeneratoare de satisfactii sau insatisfactii in functie de factori ce fin de individ,\n\ncoroborafi cu factori ce tin de strategiile manageriale adoptate\n\nSatisfactia este generati de finalitatea muncii care se coneretizeazi\nrezultatele muncii, Conceptia privind divergenta mune\u00e9-satisfactie a fost combat\nin ultimele decenii. Cercetarile demonstreaza ci, cele doua aspecte nu numai c& nu\nsunt divergente dar intre ele exist o stransd interdependenta,\n\nStrategiile manageriale utilizate de citre adulti asupra copiilor trebuie si tind\ncont de personalitatea, de motivatiile si trebuinele copiilor, de crearea unor conditit\n\npropice care s4 permiti aparitia performantelor si progresului scolar, a satisfactiei\n\n \n\nmun"
+            }
+        }
+    },
+    "img_153": {
+        "page": "153",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "25": {
+                "class": "text",
+                "x": 291,
+                "y": 710,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    291,
+                    710
+                ],
+                "rightCorner": [
+                    319,
+                    732
+                ],
+                "text": "153"
+            },
+            "26": {},
+            "27": {},
+            "28": {
+                "class": "text",
+                "x": 64,
+                "y": 107,
+                "height": 125,
+                "width": 483,
+                "leftCorner": [
+                    64,
+                    107
+                ],
+                "rightCorner": [
+                    547,
+                    232
+                ],
+                "text": "1, James Y. Shah, dr., Catedra de Psihologie, Universitatea Duke, SUA si Wendi Gardner,\ndoctor, Catedra de Psihologie, Universitatea de nond-vest, SUA, Guilford Press, Handbock of\n\n\u2018motivation science, 2012;\n\n2. Robert Pritchard, Elissa Ashwood, A Manager's Guide to Diagnosing and Improving\n\nMotivation , Routledge / Psyehpres, 14 mai 2008;\n3. Victor. HL Vroom, Work and Motivation, John Wiley & Sons, New York, 1984"
+            },
+            "29": {
+                "class": "text",
+                "x": 91,
+                "y": 66,
+                "height": 25,
+                "width": 75,
+                "leftCorner": [
+                    91,
+                    66
+                ],
+                "rightCorner": [
+                    166,
+                    91
+                ],
+                "text": "Bibliografie:"
+            }
+        }
+    },
+    "img_154": {
+        "page": "154",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "30": {
+                "class": "text",
+                "x": 291,
+                "y": 710,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    291,
+                    710
+                ],
+                "rightCorner": [
+                    320,
+                    732
+                ],
+                "text": "154,"
+            },
+            "31": {
+                "class": "text",
+                "x": 502,
+                "y": 672,
+                "height": 23,
+                "width": 24,
+                "leftCorner": [
+                    502,
+                    672
+                ],
+                "rightCorner": [
+                    526,
+                    695
+                ],
+                "text": "61"
+            },
+            "32": {
+                "class": "text",
+                "x": 502,
+                "y": 629,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    629
+                ],
+                "rightCorner": [
+                    528,
+                    653
+                ],
+                "text": "53"
+            },
+            "33": {
+                "class": "text",
+                "x": 501,
+                "y": 578,
+                "height": 23,
+                "width": 27,
+                "leftCorner": [
+                    501,
+                    578
+                ],
+                "rightCorner": [
+                    528,
+                    601
+                ],
+                "text": "49"
+            },
+            "34": {
+                "class": "text",
+                "x": 56,
+                "y": 567,
+                "height": 33,
+                "width": 151,
+                "leftCorner": [
+                    56,
+                    567
+                ],
+                "rightCorner": [
+                    207,
+                    600
+                ],
+                "text": "Relatia scoali-familie"
+            },
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 501,
+                "y": 523,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    501,
+                    523
+                ],
+                "rightCorner": [
+                    526,
+                    546
+                ],
+                "text": "41"
+            },
+            "37": {
+                "class": "text",
+                "x": 502,
+                "y": 471,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    471
+                ],
+                "rightCorner": [
+                    528,
+                    495
+                ],
+                "text": "35"
+            },
+            "38": {
+                "class": "text",
+                "x": 56,
+                "y": 467,
+                "height": 66,
+                "width": 223,
+                "leftCorner": [
+                    56,
+                    467
+                ],
+                "rightCorner": [
+                    279,
+                    533
+                ],
+                "text": ", Trecnd prin adolescent\u00e9 akituri de\nparingi\n\n \n\n \n\nStilul in care ne educim copilul"
+            },
+            "39": {},
+            "40": {
+                "class": "text",
+                "x": 502,
+                "y": 401,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    401
+                ],
+                "rightCorner": [
+                    528,
+                    425
+                ],
+                "text": "25"
+            },
+            "41": {
+                "class": "text",
+                "x": 74,
+                "y": 391,
+                "height": 26,
+                "width": 206,
+                "leftCorner": [
+                    74,
+                    391
+                ],
+                "rightCorner": [
+                    280,
+                    417
+                ],
+                "text": "jArta de fi parinte - stiluri educative"
+            },
+            "42": {},
+            "43": {
+                "class": "text",
+                "x": 56,
+                "y": 251,
+                "height": 30,
+                "width": 221,
+                "leftCorner": [
+                    56,
+                    251
+                ],
+                "rightCorner": [
+                    277,
+                    281
+                ],
+                "text": "2., indrumarea si autoritatea parentala"
+            },
+            "44": {
+                "class": "text",
+                "x": 32,
+                "y": 175,
+                "height": 531,
+                "width": 514,
+                "leftCorner": [
+                    32,
+                    175
+                ],
+                "rightCorner": [
+                    546,
+                    706
+                ],
+                "text": "Cadrul didactic \u2014 un mode! model\n1. pozitiv de personalitate si\n\u2018comportament pentru elevi si parinti\n\nProf, Prepeliti Nicoleta\nScoala Gimnaziala lon Simionescu\nlagi\n\n \n\n2. indrumarea si autoritatea parentala\n\nProf. Ciocoiu Alina\nScoala Gimnaziala ,,lon Simionescu\u201d 11\nIasi\n\n \n\nProvocati reale ale relatiei parinte \u2014\n3. copil\n\nProf. inv. primar, Paviliue Cristina\nElena\n\nScoala Gimnaziala ,.lon\nSimioneseu\u201d, Iasi\n\n \n\n \n\n[ely 2 of pisinte stir educative\n\n  \n\nMirela-Anca\nProfesor pentru\nprescolar\nScoala Gimnaziala ,lon\nSimionescu\u201d, lagi\n\n \n\n, Trecdnd prin adolescenfi alituri de\nparing\n\nProf. Georgiana ~ Livia Antoci\nScoala ,,Elena Cuza\u201d, lagi\n\n \n\n \n\nStilul in care ne educim copilul\n\n \n\nProf. inv. Primar, Tudosi Mihaicla\nScoala Gimnaziald lon\nSimionescu\u201d, lagi\n\n \n\n \n\n7, Relatia seoala-familie\n\nProf. Mihaela Cojocaru\nScoala Gimnaziald lon\nSimionescu\u201d, lagi\n\n \n\nParteneriatul educational\nscoala familie\n\nrelatia\n\n \n\nProf. Tataru Alina Mihaela\nProf. Puiu Mirela Mihaela\n\n \n\n \n\n9, Comunicarea, punte intr paring si\ncopii\n\n \n\n \n\n \n\nProfesor\nCamelia,\n\n \n\nv. primar Acatrinei"
+            },
+            "45": {
+                "class": "text",
+                "x": 343,
+                "y": 137,
+                "height": 24,
+                "width": 103,
+                "leftCorner": [
+                    343,
+                    137
+                ],
+                "rightCorner": [
+                    446,
+                    161
+                ],
+                "text": "AutoruV/autorii"
+            },
+            "46": {
+                "class": "text",
+                "x": 134,
+                "y": 137,
+                "height": 24,
+                "width": 93,
+                "leftCorner": [
+                    134,
+                    137
+                ],
+                "rightCorner": [
+                    227,
+                    161
+                ],
+                "text": "Titlul lucrarii"
+            },
+            "47": {
+                "class": "text",
+                "x": 32,
+                "y": 118,
+                "height": 51,
+                "width": 514,
+                "leftCorner": [
+                    32,
+                    118
+                ],
+                "rightCorner": [
+                    546,
+                    169
+                ],
+                "text": "\u2018Autorul/autorii"
+            },
+            "48": {
+                "class": "text",
+                "x": 267,
+                "y": 67,
+                "height": 24,
+                "width": 74,
+                "leftCorner": [
+                    267,
+                    67
+                ],
+                "rightCorner": [
+                    341,
+                    91
+                ],
+                "text": "\u2018CUPRINS"
+            }
+        }
+    },
+    "img_155": {
+        "page": "155",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "49": {},
+            "50": {
+                "class": "text",
+                "x": 504,
+                "y": 648,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    504,
+                    648
+                ],
+                "rightCorner": [
+                    535,
+                    671
+                ],
+                "text": "134"
+            },
+            "51": {
+                "class": "text",
+                "x": 57,
+                "y": 637,
+                "height": 33,
+                "width": 227,
+                "leftCorner": [
+                    57,
+                    637
+                ],
+                "rightCorner": [
+                    284,
+                    670
+                ],
+                "text": "19 Rolul parintilor in educarea copiilor"
+            },
+            "52": {
+                "class": "text",
+                "x": 279,
+                "y": 624,
+                "height": 70,
+                "width": 155,
+                "leftCorner": [
+                    279,
+                    624
+                ],
+                "rightCorner": [
+                    434,
+                    694
+                ],
+                "text": "Prof. Honciue Bogdan\nScoala Gimnaziala ,.lon\n\nSimionescu\u201d, lagi"
+            },
+            "53": {
+                "class": "text",
+                "x": 504,
+                "y": 592,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    504,
+                    592
+                ],
+                "rightCorner": [
+                    533,
+                    616
+                ],
+                "text": "131"
+            },
+            "54": {
+                "class": "text",
+                "x": 504,
+                "y": 537,
+                "height": 24,
+                "width": 31,
+                "leftCorner": [
+                    504,
+                    537
+                ],
+                "rightCorner": [
+                    535,
+                    561
+                ],
+                "text": "120"
+            },
+            "55": {
+                "class": "text",
+                "x": 57,
+                "y": 526,
+                "height": 42,
+                "width": 226,
+                "leftCorner": [
+                    57,
+                    526
+                ],
+                "rightCorner": [
+                    283,
+                    568
+                ],
+                "text": "linarea pozitiva a copilului in"
+            },
+            "56": {
+                "class": "text",
+                "x": 504,
+                "y": 482,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    504,
+                    482
+                ],
+                "rightCorner": [
+                    535,
+                    505
+                ],
+                "text": "112"
+            },
+            "57": {},
+            "58": {
+                "class": "text",
+                "x": 504,
+                "y": 431,
+                "height": 23,
+                "width": 31,
+                "leftCorner": [
+                    504,
+                    431
+                ],
+                "rightCorner": [
+                    535,
+                    454
+                ],
+                "text": "108"
+            },
+            "59": {},
+            "60": {
+                "class": "text",
+                "x": 502,
+                "y": 315,
+                "height": 24,
+                "width": 24,
+                "leftCorner": [
+                    502,
+                    315
+                ],
+                "rightCorner": [
+                    526,
+                    339
+                ],
+                "text": "1"
+            },
+            "61": {},
+            "62": {
+                "class": "text",
+                "x": 502,
+                "y": 251,
+                "height": 23,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    251
+                ],
+                "rightCorner": [
+                    528,
+                    274
+                ],
+                "text": "84"
+            },
+            "63": {},
+            "64": {
+                "class": "text",
+                "x": 502,
+                "y": 187,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    187
+                ],
+                "rightCorner": [
+                    528,
+                    211
+                ],
+                "text": "B"
+            },
+            "65": {
+                "class": "text",
+                "x": 57,
+                "y": 168,
+                "height": 44,
+                "width": 213,
+                "leftCorner": [
+                    57,
+                    168
+                ],
+                "rightCorner": [
+                    270,
+                    212
+                ],
+                "text": "Influent\n\n \n\n11 asupra"
+            },
+            "66": {
+                "class": "text",
+                "x": 502,
+                "y": 123,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    502,
+                    123
+                ],
+                "rightCorner": [
+                    528,
+                    147
+                ],
+                "text": "70"
+            },
+            "67": {},
+            "68": {
+                "class": "text",
+                "x": 32,
+                "y": 67,
+                "height": 559,
+                "width": 514,
+                "leftCorner": [
+                    32,
+                    67
+                ],
+                "rightCorner": [
+                    546,
+                    626
+                ],
+                "text": "Scoala Gimnaziala \u201cIon\nSimioneseu\u201d, lagi\n\n \n\nInstitutor Buesai Liliana\nScoala Gimnaziala Buznea\nCom. Ion Neculce, jud.lasi\n\n \n\n \n\nEducator Alemniritei Petronela,\nScoala ,Constantin Teodorescu\u201d,\nRarboieni, comuna fon Neculce, jud\nIasi\n\n \n\n \n\n\u2018vadrupla educati\n12 Cvadrupla educatie\n\nProf. inv. primarPagca Magda\nScoala Gimnaziala ,.lon\nSimionescu\u201d, lagi\n\n \n\n \n\n13 Rolul de parinte\n\nProf. inv. primar Morirasu Mihaela\nIrina,\n\nScoala Gimnaziala.,,lon Simionesew\nIasi\n\n \n\n \n\nStrategii de gestionare a conflictelor\n\n \n\n \n\nProfesor Tudori Tatiana,\n\nScoala Gimnaziala \"Ion Creanga\u201d\n\n \n\n1g Rolul parintlor in educatia copiilor\n\nProf. Dima Margareta Tulia\nScoala ,,lon Simionescu\u201d lagi\n\nTg, Frumos\n\n \n\n \n\nArta de a fi pari\nalegerilor noastre\n\n \n\nie. Dualitatea\n\nProf. Creu Diana\nScoala Primari P:\n\u201cToana\u201d, Lagi\n\nard\n\n \n\n \n\n17 Disciplinarea pozitiva a copilului in\nfamilie\n\nProfesor inv. primar Chinan Ramona\nScoala Gimnaziala \u201clon\nSimionescu\u201d, lagi\n\n  \n \n\n \n\nExemplul paringilor - mijloc de\n18 educatie\n\n \n\n \n\n \n\n   \n\n \n\ninv. Hriscu Libelula\nScoala Gimnaziala lon Simionescu\""
+            }
+        }
+    },
+    "img_156": {
+        "page": "156",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "69": {
+                "class": "text",
+                "x": 291,
+                "y": 710,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    291,
+                    710
+                ],
+                "rightCorner": [
+                    320,
+                    732
+                ],
+                "text": "156,"
+            },
+            "70": {
+                "class": "text",
+                "x": 56,
+                "y": 142,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    56,
+                    142
+                ],
+                "rightCorner": [
+                    79,
+                    164
+                ],
+                "text": "a"
+            },
+            "71": {
+                "class": "text",
+                "x": 279,
+                "y": 118,
+                "height": 66,
+                "width": 256,
+                "leftCorner": [
+                    279,
+                    118
+                ],
+                "rightCorner": [
+                    535,
+                    184
+                ],
+                "text": "Psiholog Georgiana Prepelita\nVolunteer therapist - Pace University | 148\nof New York"
+            },
+            "72": {},
+            "73": {
+                "class": "text",
+                "x": 504,
+                "y": 94,
+                "height": 24,
+                "width": 31,
+                "leftCorner": [
+                    504,
+                    94
+                ],
+                "rightCorner": [
+                    535,
+                    118
+                ],
+                "text": "142,"
+            },
+            "74": {
+                "class": "text",
+                "x": 286,
+                "y": 85,
+                "height": 27,
+                "width": 126,
+                "leftCorner": [
+                    286,
+                    85
+                ],
+                "rightCorner": [
+                    412,
+                    112
+                ],
+                "text": "Rita Burduja-parinte"
+            },
+            "75": {
+                "class": "text",
+                "x": 56,
+                "y": 67,
+                "height": 45,
+                "width": 232,
+                "leftCorner": [
+                    56,
+                    67
+                ],
+                "rightCorner": [
+                    288,
+                    112
+                ],
+                "text": "20; esential in educatia tinerei generatii"
+            }
+        }
+    },
+    "img_157": {
+        "page": "157",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {}
+    }
+}

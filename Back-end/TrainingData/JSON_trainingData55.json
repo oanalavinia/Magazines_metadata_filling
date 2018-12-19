@@ -1,0 +1,604 @@
+{
+    "numberOfPages": 236,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 85,
+                "y": 396,
+                "height": 32,
+                "width": 429,
+                "leftCorner": [
+                    85,
+                    396
+                ],
+                "rightCorner": [
+                    514,
+                    428
+                ],
+                "text": "Cunoastere, dezvoltare si valorificare economica"
+            },
+            "3": {
+                "class": "text",
+                "x": 71,
+                "y": 343,
+                "height": 45,
+                "width": 458,
+                "leftCorner": [
+                    71,
+                    343
+                ],
+                "rightCorner": [
+                    529,
+                    388
+                ],
+                "text": "CARPATIT MERIDIONALI"
+            },
+            "4": {
+                "class": "text",
+                "x": 197,
+                "y": 293,
+                "height": 47,
+                "width": 206,
+                "leftCorner": [
+                    197,
+                    293
+                ],
+                "rightCorner": [
+                    403,
+                    340
+                ],
+                "text": "TURISM iN"
+            },
+            "5": {
+                "class": "text",
+                "x": 73,
+                "y": 81,
+                "height": 25,
+                "width": 87,
+                "leftCorner": [
+                    73,
+                    81
+                ],
+                "rightCorner": [
+                    160,
+                    106
+                ],
+                "text": "Ton Talaba"
+            },
+            "6": {
+                "class": "text",
+                "x": 363,
+                "y": 80,
+                "height": 29,
+                "width": 164,
+                "leftCorner": [
+                    363,
+                    80
+                ],
+                "rightCorner": [
+                    527,
+                    109
+                ],
+                "text": "Raluca-Maria Apetrei"
+            },
+            "7": {}
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 90,
+                "y": 694,
+                "height": 57,
+                "width": 196,
+                "leftCorner": [
+                    90,
+                    694
+                ],
+                "rightCorner": [
+                    286,
+                    751
+                ],
+                "text": "1. Masterand Liviu Lungu\n2. Masterand Gabriela lacob\n\n \n\n3. Asist. univ, drd. Mihai Bulai"
+            },
+            "9": {
+                "class": "text",
+                "x": 53,
+                "y": 662,
+                "height": 27,
+                "width": 187,
+                "leftCorner": [
+                    53,
+                    662
+                ],
+                "rightCorner": [
+                    240,
+                    689
+                ],
+                "text": "Tehnoredactare computerizata:"
+            },
+            "10": {
+                "class": "text",
+                "x": 57,
+                "y": 545,
+                "height": 25,
+                "width": 188,
+                "leftCorner": [
+                    57,
+                    545
+                ],
+                "rightCorner": [
+                    245,
+                    570
+                ],
+                "text": "'796.5(498)(23 Carpatii Meridionali)"
+            },
+            "11": {},
+            "12": {
+                "class": "text",
+                "x": 56,
+                "y": 390,
+                "height": 183,
+                "width": 390,
+                "leftCorner": [
+                    56,
+                    390
+                ],
+                "rightCorner": [
+                    446,
+                    573
+                ],
+                "text": "Deserierea CIP a Bibliotecii Nationale a Rominiet\n\u2018TALABA, ION\n\nTurism in Carpatii Meridionali : cunoastere, dezvoltare si\nvvaloroficare economica / lon Talabi, Elena Monica Talabi, Raluca-Maria\n[Apette.- lagi: PIM, 2011\n\nBibliogr,\n\nISBN 978-606-13-0392-2\n\n1. Talaba, Elena Moni\nI Apetrei, Raluc\n\n796,5(498)(23 Carpatii Meridionali)"
+            },
+            "13": {},
+            "14": {
+                "class": "text",
+                "x": 54,
+                "y": 273,
+                "height": 26,
+                "width": 301,
+                "leftCorner": [
+                    54,
+                    273
+                ],
+                "rightCorner": [
+                    355,
+                    299
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Romanici"
+            },
+            "15": {
+                "class": "text",
+                "x": 90,
+                "y": 127,
+                "height": 75,
+                "width": 426,
+                "leftCorner": [
+                    90,
+                    127
+                ],
+                "rightCorner": [
+                    516,
+                    202
+                ],
+                "text": "Prof. univ. dr, Viorel Rusu, Facultatea de Geografie-Geologie,\nUniversitatea \u201cAl. I. Cuza\u201d, lagi\n\nfr. Puiu Nistoreanu, A.S.E, Bucuresti\nfr. Jon Ignat, F.E.A.A., Universitatea \u201cAl, 1. Cuza\u201d, lagi"
+            },
+            "16": {
+                "class": "text",
+                "x": 54,
+                "y": 94,
+                "height": 27,
+                "width": 123,
+                "leftCorner": [
+                    54,
+                    94
+                ],
+                "rightCorner": [
+                    177,
+                    121
+                ],
+                "text": "Referenti st"
+            },
+            "17": {
+                "class": "text",
+                "x": 219,
+                "y": 35,
+                "height": 25,
+                "width": 164,
+                "leftCorner": [
+                    219,
+                    35
+                ],
+                "rightCorner": [
+                    383,
+                    60
+                ],
+                "text": "Turism in Carpatii Meridionali"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 53,
+                "y": 555,
+                "height": 222,
+                "width": 485,
+                "leftCorner": [
+                    53,
+                    555
+                ],
+                "rightCorner": [
+                    538,
+                    777
+                ],
+                "text": "CAP. IIL, STADIUL ATINS IN DEZVOLTAREA TURISMULUI IN CARPATIL\nMERIDIONALL..\n3.1, NIVELUL RELATIV AL DEZVOLTARIITURISMULU! IN CARPATH MERIDIONALL\n3.2. CAUZE ~ SCURTE INSERAR,\n3.3, MODUL CUM S-A DEZVOLTAT TURISMUL IN CARPATI MERIDIONALL\n3.4 SMUATA ACTUALA A N.MARULLLSTRLCTUISIDOTARILEDINSTAIUNLENOASTREBALNEOCLMATEUCE\n3.5. BAZA TEHNICO-MATERIALA A TURISMULUI DIN CARPATI MERIDIONALL.,\n3.6. BAZA MATERIALA GASTRONOMICK A CARPATILOR MERIDIONALL\n3.7. RETEAUA CAILOR DE ACCES A CARPATILOR MERIDIONALL\n37.1. Rejeaua de sosele asfaltat.\n3.7.2. Refeaua de lini forte\n3.7.3. Marcaje ristice montane.\n3.8, MULOACE DE TRANSPORT.\n3.9, BAZA MATERIALA PENTRU AGREMENT\n3.1O.MISCAREA TURISTICA IN CARPATI MERIDIONALL"
+            },
+            "19": {
+                "class": "text",
+                "x": 53,
+                "y": 305,
+                "height": 248,
+                "width": 485,
+                "leftCorner": [
+                    53,
+                    305
+                ],
+                "rightCorner": [
+                    538,
+                    553
+                ],
+                "text": "\u2018CAP. II EVALUAREA RESURSELOR TURISTICE ALE CARPATILOR MERIDIONALLI .....35\n2.1, RESURSA, SURSA SI POTENTIAL TURISTIC. oss \u2014 35\n2.11 Suceinta caracterizarea celor tre terment 36\n2.1.2. Cespun dictionarele?. 37\n2.1.3, Asemindri i deosebirtinire resurse si potential twist: 30\n2.2. RESURSELE TURISTICE, PARTE COMPONENTA A AVUTIEI NATIONALE 41\n2.3. STADIUL MACTUAL ALEVALLARIRESLRSELOR TURSTICEDNTARANOASTRAIINSPETALDONCAROATIMEREONAL 43\n23.1. Seurt istore seleetivasupra evaluat resuselorturistice 43\n23.2 Sitatia actual a evaluiri resurselor triste. 45\n2.4. PUNCTE DE VEDERE PRO\u201d SI ,CONTRA\u201d ASUPRA EVALUAR si\n2.5. NECESITATEA OBIECTIVA A EVALIUARIERESURSELOR TURISTICE. ss\n2.6. METODE DE EVALUARE A RESURSELOR TURISTICE 58\n2.7. EVALLAREAININDCATORIFICIS\\CALITATIIARESLRSELO8TURSTICE ALECARPATILOR MERDDONAL. 65\n22.1. Probleme metodologice. 665\n27.2. Citeva caracteristict ale resurselorturistice ale Carpatilor Meriionall 07\n273. Situatia resurselor turistce de ordi natural. 69\n274. Situatia resurselr turstice de ordi antropic din Carpati Meridional, %"
+            },
+            "20": {
+                "class": "text",
+                "x": 53,
+                "y": 65,
+                "height": 226,
+                "width": 491,
+                "leftCorner": [
+                    53,
+                    65
+                ],
+                "rightCorner": [
+                    544,
+                    291
+                ],
+                "text": "TURISM IN CARPATI MERIDIONALI\nCunoastere, dezvoltare si valorificare economic\u2019\n\nCUPRINS,\n\nCAP. L INTRODUCERE iN PROBLEMATICA..\nLL INSEMN DE RECUNOSTINTA SI MEREU ADUCERE AMINTE\n1.1.1. Emmanuel de Martonne si Carpait Meridionali\n1.1.2. Contibuticominest la cunoasterea Carpatilor Meridionali\n1.2 carPaTil\n1.2.1, Detimitarea Carpatilor Romanesti\n1.2.2 Delimitarea Carpatilor Meridionali\n1.3 CARPATILSIEUROPA,\n1.3.1 Carpatiromnesi i reprezemarea lor.\n1.3.2.Carpati in actualele reglementar legale\n1.3.3. Capat in comer european"
+            },
+            "21": {
+                "class": "text",
+                "x": 139,
+                "y": 34,
+                "height": 24,
+                "width": 322,
+                "leftCorner": [
+                    139,
+                    34
+                ],
+                "rightCorner": [
+                    461,
+                    58
+                ],
+                "text": "Jon TALABA, Elena-Monica TALABA, Raluca-Maria APETREL"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 53,
+                "y": 591,
+                "height": 22,
+                "width": 485,
+                "leftCorner": [
+                    53,
+                    591
+                ],
+                "rightCorner": [
+                    538,
+                    613
+                ],
+                "text": "ANEXE \u00ab,"
+            },
+            "23": {
+                "class": "text",
+                "x": 54,
+                "y": 564,
+                "height": 23,
+                "width": 484,
+                "leftCorner": [
+                    54,
+                    564
+                ],
+                "rightCorner": [
+                    538,
+                    587
+                ],
+                "text": "BIBLIOGRAFIE SELECTIV."
+            },
+            "24": {},
+            "25": {
+                "class": "text",
+                "x": 53,
+                "y": 325,
+                "height": 208,
+                "width": 485,
+                "leftCorner": [
+                    53,
+                    325
+                ],
+                "rightCorner": [
+                    538,
+                    533
+                ],
+                "text": "\u2018CAP.V. PERSPECTIVELE DEZVOLTARH TURISMULUL IN CARPATH MERIDIONALL...\n\nSS. TRASATURI DE ORDIN GENERAL. 158,\n\n\u20185.2. TRASATURI DE ORDIN SPECIAL $1 PERSPECTIVELE DEZVOLTARI TURISMULUL 158,\n\n'5.3, DEZVOLTAREA INTENSIVA SAU EXTENSIVA A TURISMULUL 161\n\n53.4, CALITATEA, IMPERATIV MAJOR AL DEZVOLTARI TURISMULUI IN CARPATI MERIDIONALE 163\n\n\u20185.5. PRSPECINELEDEZ\\OLTARIIALNEOL GI, OOH NSIVACANTEIINCARPAE MERDINALSIMASLRLECESEDMPLNI 6S\n5.31. In loc de istric. 165\n\n532. Cains ~ Ciciata~ Cacia spine cap cian Napoleon efi atone. 168\n553. Biwina noua doanna a baleologie romney ~ Ble Herulane m\nS84 Bile Olney \u2014 wind de diolut pete 181\n55.3. Basen\u2019 saw salad de la Caml Apin la hoe Siva 183\n58.6 Poiana Brayoy ~ Poiana Soareli~ Poiana Turismulul 13\n5.5.7 bn imparatia sporaiorde iar la Predea. 187\n5.5.8 Sinaia pera Carpatlor. 190"
+            },
+            "26": {
+                "class": "text",
+                "x": 53,
+                "y": 87,
+                "height": 236,
+                "width": 485,
+                "leftCorner": [
+                    53,
+                    87
+                ],
+                "rightCorner": [
+                    538,
+                    323
+                ],
+                "text": "\u2018CAP.V. FACTORI $1 DIRECTILE DE DEZVOLTARE A TURISMULUL IN ZONA LUA\u2019\nSTUDI,\n\n4.1, FACTORN DEZVOLTARI TURISMULUI\n44.1. Factor de ordin general\n41.2. Factor particular\n\n4.2. DIRECTIILE DE DEZVOLTARE A TURISMULUIIN ZONA LUATA IN STUDIU\n42.1. Problema investor in turism.\n\n42.2. Baza material de cazare.\n\n42.3 Agrementl\n\n424. Lueritora in turism, cunostngle gi apttudinile sale.\n\n425. Factoral residual\u201d turism.\n\n42.6 Amenajareatursticd si pregitireateritoriului penta primireaturistilor.\n427. Ameliorarea si modernizarea elo de aces.\n\n4258. Faclitii necesare, facilis dort, fail posbile?\n\n429. Propaganda si reclam tristied adeevat\u00e9\n\n42.10. Proteca mediului inconjurdtor si turismul,o problem curenta si arzitoare"
+            },
+            "27": {
+                "class": "text",
+                "x": 219,
+                "y": 35,
+                "height": 25,
+                "width": 164,
+                "leftCorner": [
+                    219,
+                    35
+                ],
+                "rightCorner": [
+                    383,
+                    60
+                ],
+                "text": "Turism in Carpatii Meridionali"
+            }
+        }
+    },
+    "img_231": {
+        "page": "231",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "28": {
+                "class": "text",
+                "x": 65,
+                "y": 276,
+                "height": 134,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    276
+                ],
+                "rightCorner": [
+                    535,
+                    410
+                ],
+                "text": "VAIDEENI.\n\u2018m. ath. biserca de lemn din satul Marita;\n\u2018m. arh. pop. casa de lem Ton Jinaru;\n'm, m.: monument in cinsteaeroilor neamului\n\ncentr etnografie gi folclore:  vatr foleloricd;\ncexpozitie permanenti de arta popular\u2019, port popular si producearea de costume, formatie\nde fluierasi, mesteri de instrumente populare:fluiere, arta ciopliri lemnului;\n\nsirbatoare foleloried Invirtita Dorului\u201d (pistoreasca),serbare interjudefeand (prima\ndduminicd din tunic."
+            },
+            "29": {
+                "class": "text",
+                "x": 65,
+                "y": 95,
+                "height": 178,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    95
+                ],
+                "rightCorner": [
+                    535,
+                    273
+                ],
+                "text": "VOINEASA.\n= math: biserica de lemn, see. XIX, cu pictur, in satul Ciunget;\n\n\u2018m,n. eataractele Lotruluis\n\n\u2018manu: rezervatie de Jneapin;\n\nStatiune balneoclimatericd de interes nayional;\n\nhoteluri, vile, eabane (Obirgia Lotrului), restaurante, pensiuni, baze de agrement, sald de\n\nSport, ete\nloc de practicare a sporturilor de iam\u2019;\nbarajul silacul de acumulare Viera;\ncabana Obirsia Lotruli;\npensiuni: Andreea, Popasul Haiducului, Piatra Lotrutui, Giulia, Anauk, Antuanela, Valea\nHaiducilor, Casa Verde Alin gi Ema, Casa Apollo, Daria"
+            },
+            "30": {
+                "class": "text",
+                "x": 83,
+                "y": 67,
+                "height": 25,
+                "width": 399,
+                "leftCorner": [
+                    83,
+                    67
+                ],
+                "rightCorner": [
+                    482,
+                    92
+                ],
+                "text": "\u2018etnografie si folclor: port popular si confectionarea de costume, vatri follorica."
+            },
+            "31": {
+                "class": "text",
+                "x": 504,
+                "y": 36,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    504,
+                    36
+                ],
+                "rightCorner": [
+                    533,
+                    58
+                ],
+                "text": "231"
+            },
+            "32": {
+                "class": "text",
+                "x": 140,
+                "y": 34,
+                "height": 25,
+                "width": 322,
+                "leftCorner": [
+                    140,
+                    34
+                ],
+                "rightCorner": [
+                    462,
+                    59
+                ],
+                "text": "Jon TALABA, Elena-Monica TALABA, Raluca-Maria APETREL"
+            }
+        }
+    },
+    "img_232": {
+        "page": "232",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    },
+    "img_233": {
+        "page": "233",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 74,
+                "y": 125,
+                "height": 595,
+                "width": 27,
+                "leftCorner": [
+                    74,
+                    125
+                ],
+                "rightCorner": [
+                    101,
+                    720
+                ],
+                "text": "uses ap pmyods 16 9y101 seas uy LoIEULLOFUT v azEWUDZaId 9p [POT"
+            },
+            "34": {
+                "class": "text",
+                "x": 42,
+                "y": 44,
+                "height": 94,
+                "width": 24,
+                "leftCorner": [
+                    42,
+                    44
+                ],
+                "rightCorner": [
+                    66,
+                    138
+                ],
+                "text": "T\u201clU VXANV"
+            },
+            "35": {
+                "class": "text",
+                "x": 105,
+                "y": 43,
+                "height": 768,
+                "width": 429,
+                "leftCorner": [
+                    105,
+                    43
+                ],
+                "rightCorner": [
+                    534,
+                    811
+                ],
+                "text": "anopaayoq\n18 sodod ap\n\njoo] waseaypat\nareseydap ap\nnjmpout v 18 Siow 9p\n\n   \n\naanaaigo\n2193p wep ansooe oj pupd\nip \u00a9 ep nssinox ~\n\n \n\n \n\n     \n\n \n\nIM sT-0r\naSndOud ad VZVaL\nAOLISRINL (0 dd HINALLVIS\narvana TMAAL Nid\nURAY.LSAAINVIN ALLOVALY ad\nsraraas_ | | | xo1aALLoaII0,\n\u2018ANINVADONd VIVE\n\n \n\nanpstim ofeareut\n\n \n\nTIVRIOEAAAWT\nNIG\n8 ANALY.\nINIG ADLISRAAL\nYOTALVOAVIN\nVLNVH\n\n \n\n \n\n \n\na\n\njoureayes wo ~\npo10081p =\nayeypunuioa spurun ~\nposed -\n\nunoed-\n\noem \u201c90\n\n \n\n \n\n \n\nTINOLLVLS\nV YOLLSRIAL\nVIRVH\n\nAVIGNOW NVTd\nAd AC INALLVIS\n\n\u2018arAND IS,\nox\" VANALLVLS\nLLNIC\nINIGALIUNIS\n\n \n \n\n \n\naudsop suns\n\n9p thenqeuosiad\n2ou018t\n\nsupsosur ona -\n\n \n\n \n\nwyo| 2p pees 0\n\n \n\n\u2018up soqunaey\ni\n\n \n\n \n\n \n\nDRIOLST\nNLADTAL NIG\n\nw\n\n1a TaN\nTOOIOWLA"
+            }
+        }
+    },
+    "img_234": {
+        "page": "234",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "36": {
+                "class": "text",
+                "x": 74,
+                "y": 65,
+                "height": 712,
+                "width": 471,
+                "leftCorner": [
+                    74,
+                    65
+                ],
+                "rightCorner": [
+                    545,
+                    777
+                ],
+                "text": "PikISIO vaowvag\n\n \n\n \n\n \n\nSNVIHIVdYVD SIGGIW SO dVW SILSIUNOL X31IdWOD"
+            },
+            "37": {
+                "class": "text",
+                "x": 42,
+                "y": 44,
+                "height": 94,
+                "width": 24,
+                "leftCorner": [
+                    42,
+                    44
+                ],
+                "rightCorner": [
+                    66,
+                    138
+                ],
+                "text": "\u20ac \u201clu VXANV"
+            }
+        }
+    },
+    "img_235": {
+        "page": "235",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_236": {
+        "page": "236",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "38": {
+                "class": "text",
+                "x": 182,
+                "y": 611,
+                "height": 129,
+                "width": 224,
+                "leftCorner": [
+                    182,
+                    611
+                ],
+                "rightCorner": [
+                    406,
+                    740
+                ],
+                "text": "digital realizat Ia:\n\nEDITURA $1 TIPOGRAFIA PIM\n\nSoveaua Stefan cel Mare Sint. 4 Lyi ~ 700897\nEmail: ediearvapimeopy20\nSrmpacopy"
+            }
+        }
+    }
+}

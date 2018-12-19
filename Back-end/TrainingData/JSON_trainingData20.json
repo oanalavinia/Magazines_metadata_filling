@@ -1,0 +1,983 @@
+{
+    "numberOfPages": 64,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 225,
+                "y": 583,
+                "height": 25,
+                "width": 149,
+                "leftCorner": [
+                    225,
+                    583
+                ],
+                "rightCorner": [
+                    374,
+                    608
+                ],
+                "text": "- 17 martie 2012 -"
+            },
+            "3": {
+                "class": "text",
+                "x": 276,
+                "y": 555,
+                "height": 25,
+                "width": 47,
+                "leftCorner": [
+                    276,
+                    555
+                ],
+                "rightCorner": [
+                    323,
+                    580
+                ],
+                "text": "Nr."
+            },
+            "4": {
+                "class": "text",
+                "x": 196,
+                "y": 429,
+                "height": 24,
+                "width": 206,
+                "leftCorner": [
+                    196,
+                    429
+                ],
+                "rightCorner": [
+                    402,
+                    453
+                ],
+                "text": "Revista nationala de specialitate"
+            },
+            "5": {
+                "class": "text",
+                "x": 172,
+                "y": 396,
+                "height": 32,
+                "width": 257,
+                "leftCorner": [
+                    172,
+                    396
+                ],
+                "rightCorner": [
+                    429,
+                    428
+                ],
+                "text": "CORONITA PRIETENIEI"
+            },
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 64,
+                "y": 81,
+                "height": 53,
+                "width": 469,
+                "leftCorner": [
+                    64,
+                    81
+                ],
+                "rightCorner": [
+                    533,
+                    134
+                ],
+                "text": "Realizatorii Iucrarii_nu-si asuma raspunderea pentru corectitudinea\nredactarii materialelor colaboratorilor, au fost copiate intocmai de pe\n\n \n\nsuportul electronic trimis."
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {},
+            "9": {
+                "class": "text",
+                "x": 65,
+                "y": 769,
+                "height": 22,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    769
+                ],
+                "rightCorner": [
+                    535,
+                    791
+                ],
+                "text": "MICUL ECOLOGIST .."
+            },
+            "10": {
+                "class": "text",
+                "x": 65,
+                "y": 725,
+                "height": 44,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    725
+                ],
+                "rightCorner": [
+                    535,
+                    769
+                ],
+                "text": "MODALITAT! DE REALIZARE A EDUCATI\n\n \n\nProf. nv preprimar Carcea Mariana, Gr\u00e9dnita Cozmestl com. Stoniceni-Prajescu, jd laf... 28"
+            },
+            "11": {
+                "class": "text",
+                "x": 65,
+                "y": 666,
+                "height": 60,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    666
+                ],
+                "rightCorner": [
+                    535,
+                    726
+                ],
+                "text": "\u2018DO! BUNI PRIETENI.... \u201c\nEleva Tanasa loana, Scoala cu clasole (Vl Sef, judas), Casa a V2 A\n\n \n\nCoordonator inv. Apetrei Simona,"
+            },
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 65,
+                "y": 560,
+                "height": 62,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    560
+                ],
+                "rightCorner": [
+                    535,
+                    622
+                ],
+                "text": "DRAGA MEA PRIETENA.\nTorok Cosmin, asa aC, Grp Solar Romo, Neamt\n\n \n\nCoordonator: Monica Dringu"
+            },
+            "14": {
+                "class": "text",
+                "x": 65,
+                "y": 501,
+                "height": 60,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    501
+                ],
+                "rightCorner": [
+                    535,
+                    561
+                ],
+                "text": "DRAGUL MEU PRIETEN. -\nApotrei Leonard, Ciasa aiika C, Grup Scolar Roznoy, jud. Neamt.\n\n \n\nCoordonator: Monica Dringu"
+            },
+            "15": {
+                "class": "text",
+                "x": 65,
+                "y": 440,
+                "height": 60,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    440
+                ],
+                "rightCorner": [
+                    535,
+                    500
+                ],
+                "text": "PRIETENIA...\nAparaschivel Diana, casa alka C, Grup Scolar Roznov, jud. Neamt,\n\n \n\nCoordonator: Monica Dringu"
+            },
+            "16": {
+                "class": "text",
+                "x": 65,
+                "y": 395,
+                "height": 44,
+                "width": 469,
+                "leftCorner": [
+                    65,
+                    395
+                ],
+                "rightCorner": [
+                    534,
+                    439
+                ],
+                "text": "1 SPRE \u00a9 EDUCATIE INCLUZIVA,\n\n \n\nE:ducatoare: Pantaz Viorica , Gradina cu Program Normal Lunca Pages"
+            },
+            "17": {
+                "class": "text",
+                "x": 65,
+                "y": 293,
+                "height": 103,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    293
+                ],
+                "rightCorner": [
+                    535,
+                    396
+                ],
+                "text": "PRIETENA MEA, BRENDA.\neva Tops Elona casa ata A Scoala cu case Vl Sie, asi\nCCoordonator, prof. nv. primar, Mariana Dulghery\n\nPRIETENIE FARA MARGIN! - PROIECT EDUCATIONAL...\nInv. Angholu Foca, Scoala cu clase I-VI Muncolu de Sus, Mogogeq Sie"
+            },
+            "18": {
+                "class": "text",
+                "x": 65,
+                "y": 249,
+                "height": 44,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    249
+                ],
+                "rightCorner": [
+                    535,
+                    293
+                ],
+                "text": "PROIECT DIDACTIC (SECVENTIAL): PRIETENIA ESTE 0 ARTA.\n\n \n\nlv. Constantinescu Adriana, Scoala cu clasele I-VI, Sirol, jc. lai"
+            },
+            "19": {
+                "class": "text",
+                "x": 65,
+                "y": 208,
+                "height": 42,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    208
+                ],
+                "rightCorner": [
+                    535,
+                    250
+                ],
+                "text": "PROIECT DIDACTIC: PRIETENIA.\nProf. nv. primar, Marina Dulgheru, Scoala cu clasole"
+            },
+            "20": {
+                "class": "text",
+                "x": 65,
+                "y": 109,
+                "height": 98,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    109
+                ],
+                "rightCorner": [
+                    535,
+                    207
+                ],
+                "text": "EDUCATIA INCLUZIVA - PROCES DE IMBUNATATIRE IN ACTIVITATEA DIDACTICA..\nlnv Apetei Simona, Scoala cu clasele | Vil, Sie, judo\n\nVEVERITA RITA $1 RILA -IEPURILA. 10\n\na: Naf\u2019 Cosmin Mara, caso aka A, Scoaac clsee Vl Sef, Locata Sebo, ud\nlas, Coordonator, prot. inv. primar, Viorica Matti. 10"
+            },
+            "21": {
+                "class": "text",
+                "x": 252,
+                "y": 68,
+                "height": 28,
+                "width": 96,
+                "leftCorner": [
+                    252,
+                    68
+                ],
+                "rightCorner": [
+                    348,
+                    96
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 65,
+                "y": 778,
+                "height": 41,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    778
+                ],
+                "rightCorner": [
+                    535,
+                    819
+                ],
+                "text": "PROIECT DE ACTIVITATE INTEGRAT/"
+            },
+            "23": {
+                "class": "text",
+                "x": 65,
+                "y": 719,
+                "height": 58,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    719
+                ],
+                "rightCorner": [
+                    535,
+                    777
+                ],
+                "text": "DEFINITE enn\nlev: Triteu Denisa, Cis.a Va B, Scoala cu cls. V-VIl, Sirfel, Jud. lai\n\n \n\nProt. coordonator: Wan Paula Mibaola"
+            },
+            "24": {
+                "class": "text",
+                "x": 65,
+                "y": 658,
+                "height": 58,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    658
+                ],
+                "rightCorner": [
+                    535,
+                    716
+                ],
+                "text": "PRIETENIA.. -\niev-Cojocaru Florine, Cs. A Va B, $coala cu cls V-VI Srfel, Jud 1a\n\n \n\nProt. coordonator: wan Pavia Moola"
+            },
+            "25": {
+                "class": "text",
+                "x": 65,
+                "y": 615,
+                "height": 42,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    615
+                ],
+                "rightCorner": [
+                    535,
+                    657
+                ],
+                "text": "NEMURITOARE - Eset\n\n \n\nProf. limba $ iteratura romana: Wan Paula Minaola, Scoala cu cis.!-Vi, Stef, Judas"
+            },
+            "26": {
+                "class": "text",
+                "x": 65,
+                "y": 553,
+                "height": 59,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    553
+                ],
+                "rightCorner": [
+                    535,
+                    612
+                ],
+                "text": "PRIETENIE...\nElev: Pricop Petrone, Cis. Va B, $coala cu cls. V-Vl Siete, Judas.\n\n \n\nProt. coordonstor: van Paula Mihaela"
+            },
+            "27": {
+                "class": "text",
+                "x": 65,
+                "y": 509,
+                "height": 44,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    509
+                ],
+                "rightCorner": [
+                    535,
+                    553
+                ],
+                "text": "\u2018SCOALA DE VARA - PADUREA - PROIECT EDUCATION/\n\n \n\nProf. nv. Pimar Gavils Miaela ustina, $c. cu cl. -VIN, V. Aleesandh\u2019, Bil"
+            },
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 65,
+                "y": 425,
+                "height": 42,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    425
+                ],
+                "rightCorner": [
+                    535,
+                    467
+                ],
+                "text": "PROIECT DIDACTIC:\n\n \n\nlv Zabullea leana, Scoala cu clasele I-VI Heci,locaia Bursuc Dea, jd. lai"
+            },
+            "30": {
+                "class": "text",
+                "x": 65,
+                "y": 371,
+                "height": 51,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    371
+                ],
+                "rightCorner": [
+                    535,
+                    422
+                ],
+                "text": "PRIETENIAnntnnnn neces ST\n\neva Mogian Cosmina, Casa a il-a, $coala cu clasele Vil Hei, ocafia Bursuc Deal, jd lai\nCoordonator ine. Zabuica lleana, 7"
+            },
+            "31": {
+                "class": "text",
+                "x": 65,
+                "y": 317,
+                "height": 51,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    317
+                ],
+                "rightCorner": [
+                    535,
+                    368
+                ],
+                "text": "PE VECIE nnn - 36\n\neva Duhon Oana ara. Clas aka B. Scat cu closole HIN Stl ula -Coodoator\nInv. Constantinescu Adriana, 36"
+            },
+            "32": {
+                "class": "text",
+                "x": 65,
+                "y": 255,
+                "height": 61,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    255
+                ],
+                "rightCorner": [
+                    535,
+                    316
+                ],
+                "text": "PRIETENIE...\nProf Vasile Maria, Grad P.P. Nord 2, Rm Vacea.\n\n \n\nProt Popescu Claudia, Grad. PP. Nord 2. Rm Valcea."
+            },
+            "33": {
+                "class": "text",
+                "x": 65,
+                "y": 152,
+                "height": 102,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    152
+                ],
+                "rightCorner": [
+                    535,
+                    254
+                ],
+                "text": "SFATUL NOSTRU PENTRU PRIETENI.....cconunnnnnnnn\nTugui Catalina -Scoala cu clasele |-Vil, DraganestiNeamt, coordonator:Trofin Laura\n\nPRIETENIE...\n\nProt. Vasile Mara, Grad PP. Nord 2 Rm Valeo\nProt Popescu Claudia Grad. P P. Nord 2, Rm Valcea."
+            },
+            "34": {
+                "class": "text",
+                "x": 65,
+                "y": 91,
+                "height": 58,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    91
+                ],
+                "rightCorner": [
+                    535,
+                    149
+                ],
+                "text": "MAMA, PRIETENA MEA. \u201c\nAnciies Mingela - Scoala cu clasele LVI, Draganest-Neamt\n\n \n\nCoordonator: Trin Laura,"
+            },
+            "35": {
+                "class": "text",
+                "x": 77,
+                "y": 66,
+                "height": 24,
+                "width": 458,
+                "leftCorner": [
+                    77,
+                    66
+                ],
+                "rightCorner": [
+                    535,
+                    90
+                ],
+                "text": "Prof. Inv. preprimar :Vasile Janina-Florentina, $colala special\u00e9 \u201cSf. Vasile\u2019, Craiova,"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "36": {},
+            "37": {
+                "class": "text",
+                "x": 65,
+                "y": 364,
+                "height": 43,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    364
+                ],
+                "rightCorner": [
+                    535,
+                    407
+                ],
+                "text": "\u2018COPIII SE JOACA PRETUTINDENI,\n\n \n\nGradina cu program normal Humosu, judas"
+            },
+            "38": {
+                "class": "text",
+                "x": 64,
+                "y": 323,
+                "height": 41,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    323
+                ],
+                "rightCorner": [
+                    535,
+                    364
+                ],
+                "text": "Ed. Nemfanu Anigoara, Gradinta nr. 1 Cristesti Grup Scolar Cristo"
+            },
+            "39": {
+                "class": "text",
+                "x": 65,
+                "y": 278,
+                "height": 44,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    278
+                ],
+                "rightCorner": [
+                    535,
+                    322
+                ],
+                "text": "EDUCATIA INCLUZIVA."
+            },
+            "40": {
+                "class": "text",
+                "x": 64,
+                "y": 217,
+                "height": 62,
+                "width": 471,
+                "leftCorner": [
+                    64,
+                    217
+                ],
+                "rightCorner": [
+                    535,
+                    279
+                ],
+                "text": "JOCURI DIDACTICE FOLOSITE IN CADRUL ACTIVITATILOR DE EDUCATIE ECOLOGICA......60\n\nPip. Lazar Mihaela, Pp. Lazdr Luigi ~ Cristian, 0\n\u2018Scoala cu Clase I~ Vil, Net Daun 60"
+            },
+            "41": {
+                "class": "text",
+                "x": 65,
+                "y": 176,
+                "height": 42,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    176
+                ],
+                "rightCorner": [
+                    535,
+                    218
+                ],
+                "text": "DREPTURILE COPILULUI.\n\n \n\nEcducatoare Istrato Gabriola, Gradina P/N ry. 12 lagi"
+            },
+            "42": {
+                "class": "text",
+                "x": 65,
+                "y": 91,
+                "height": 84,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    91
+                ],
+                "rightCorner": [
+                    535,
+                    175
+                ],
+                "text": "MICH AFACERISTI\" -Proiect de educatie economica si antreprenorial\nEd. Sofronia Voiea, Grinte cu program normal nr. 6~ Pageant, jud. fs\n\n\u2018SCOALA INCLUZIVA - 0 SCOALA PENTRU TOT], Proiect educational.\nProf. Nemtanu Sorina $e. Chirl\u00e9 Maria ~ Grup $colar Stoliceni-Prajescu, jd. lai"
+            },
+            "43": {
+                "class": "text",
+                "x": 77,
+                "y": 66,
+                "height": 24,
+                "width": 458,
+                "leftCorner": [
+                    77,
+                    66
+                ],
+                "rightCorner": [
+                    535,
+                    90
+                ],
+                "text": "Inst. Cumpats luiiana, Gradina cu program normal Contest, juc lag."
+            }
+        }
+    },
+    "img_59": {
+        "page": "59",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 59,
+                "y": 556,
+                "height": 224,
+                "width": 481,
+                "leftCorner": [
+                    59,
+                    556
+                ],
+                "rightCorner": [
+                    540,
+                    780
+                ],
+                "text": "JOC DIDACTIC\nUNDE TRALESTE FIECARE VIETUITOARE\nSCOPUL\nVerificarea si consolidarea cunostinjelor despre naturi,\nConsolidarea deprinderilor de orientae,\nSARCINA DIDACTICA:\n\u2018\u00a9 Recunoasterea locului sau mediului in care triese diferite vieuitoare gi\n\nformulareaacestor reli in propoziti dezvoltate\nMATERIAL DIDACTIC:\n\u2018\u00a9 coal mare de desen la care se vor face 4-5 pliuri prin indoirea in sus a\nhart\n\u2018\u00a9 cartonase cu imagin reprezentnd diferite vieuitoare(animale, pir ete.)\nDESFASURAREA JOCULUL\nJocul se desfisoari individual. Se amesteci imagine si se ageazi pe eatedr. Un elev\nvine la cated, ia un cartons, il priveste si denumesteviefuitoarea reprezentatd de imagine,"
+            },
+            "46": {
+                "class": "text",
+                "x": 59,
+                "y": 68,
+                "height": 485,
+                "width": 481,
+                "leftCorner": [
+                    59,
+                    68
+                ],
+                "rightCorner": [
+                    540,
+                    553
+                ],
+                "text": "\u2018* _ Identificarea si gruparea imaginilor in functie de urmirile acestora asupra\n\u2018mediului (protejarea sau distrugerea lui)\n\u2018* Alegerea unor cuvinte cu sens opus si utilizarea lor corecta in propoziti,\n4\u00a2Interpretarea adecvata a unui c\u00e9ntec cunoscut\nREGULI DE JOC:\nRaspunsurile bune sunt aplaudate, cele gresite sunt corectate de cole.\n\u2018Cistiga echipa care agea7i prima jetoanele corect\nELEMENTE DE JOC:\nMiscarea, manuirea materialelor, aplauzelor, surpriza,\nDESFASURAREA JOCULUL\nGrupa va fi imparjti in doua subgrupe, fecare si le ageze pe care trebuie\nsi le ageze pe panou dupa urmitoarele crteri\n= pe panoul alb se ageaza imaginile care reprezinta acfiuni de ingrijire a\n\u2018mediului(sAdirea pomilor, adunarea yi aruncarea gunoaielor in locuri special amenajate, ete.)\n= pe panoul gr se ageaza imaginile care reprezint\u00e9 aetiuni de deteriorare &\n\u2018mediulu:(tiere polo, foc in padure, aruncarea gunoaiclor pe jos).\n\u2018Dupi ce fiecare echipi ageaza imaginile se verified eu intreaga grup\nacd au fost corect asezate, Casligi echipa care nu a ficut nici o greseal\nVARIANTA:\nElevii au doud albume:\n1. Si ocrotim natura,\n2. Nu distruget natura\nAnterior planificdrii si desfigurariijocului, clevii au drept sarcind de a decupa acasi din\nreviste sau din cirti imagini cu actiuni ale omului asupra mediului. Fiecare copil va lipi\n\u2018maginea sa in albumul la care crede ca se potriveste, motivind alegerea\n\u2018In partea a doua a jocului se va desfigura un exerctiu de limba lise vor\nspune elevilor cuvinte, iar ei vor gsi opusul lui (antonimul) si va formula propoziti cu cele\ndou antonime.\nCuvintelealese trebuie si corespunds temei jocului si si puna elevii in\nsituatia de a constientiza cele dou\u2019 modaltati de actiune asupra mediului: una\nbenefica si alta daundtoare.\nExemplu: curat ~ murdar, poluat ~ nepoluat, bun ~ ru ete\n{in ultima parte a jocului vor interpreta un edntee cunoscut in care este\ncevidenfiata dragostea si gria fay de natur: ,Frumoasi-i strada noastr"
+            }
+        }
+    },
+    "img_60": {
+        "page": "60",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "47": {
+                "class": "text",
+                "x": 57,
+                "y": 386,
+                "height": 432,
+                "width": 484,
+                "leftCorner": [
+                    57,
+                    386
+                ],
+                "rightCorner": [
+                    541,
+                    818
+                ],
+                "text": "Grridinita constituie \u00a9 tapi fundamental in dezvoltarea copilului, mu doar prin\ncontinutul singfic al procesuuiinsructiv ~ educatv, ci si prin hieratea de acjiune a\nPrescolaru, care-i stimuleaza interessle de cunoastere si contribu la Tigivea cimpulut de\nreli sociale\n\nAdes, cind explo universul fist umane ne confuntim cu 6 mare diverse.\nCopii care ne tree pragul grupelor noastre ne pun in situafa de a cite merew solu le\nproblemele ridcate. De cele mai multe ori gisim soluile cele mai bune penta copi. Uncori\nSuntem ined puse in difeutate de complexitatea problemelor. Ce este bine penta copii in\ncai? Dar pent ceili capi din grup? Avem resursesufiiente pentru a depisiproblemele\nspire?\n\nrice copil se conffunt, la un moment dat cu o situatie speciala care necesitd 0\nIntervent personalizat.Educatia pena toi poate si fe un mijloe de imbunitre a educate\nin general prin reconsierarea sprijnulu ce se acorda anumitorcopi. In orice institute exist 0\nmanier\u00e9 de a impari copii in eategori determinate, dtortaparculartilor de dezvolare si\nInvajare a acetora, Edvcatia pentru tti pomeste de la premisac@ orice copl este 0 persoand\ncae inva it-un ana rit itil i dec poate ave nevoia de un spin deri.\n\nin Declarata de la Salamanca se spune e& Scoala obignita cu o orentare ineluzivi\nreprezintt milocul cel mai efcient de combatere a attudinilor de disriminare, un mile care\ncreeazi comunit primitoare,consrueseo societate inclzivi oer educate petra tot: mai\n\u2018mul, cle asigur o educatieefcientS pentra majoitateacopior st imbundtaeseefiiena 3,\npin a ued, chia irentabiltata sister de ivan\n\nPentra a se adtesa tuturor copilor si a deveni deschisa, flexi, adapta 5 orienta\nspre fecare si penira toi, educaiatrebuie si presupuna in practic 0 schimbare de optic i\nanume 9 noua orientare care pune accentul pe cooperae, parteneria, invtare social. 5\n\u2018aloriare a relator pozitive, umaniste in educate:\n\neducatia pena toi coresunde in edcafagcolarascoliineluve\n\nScoala incliziv\u00e9 se refers in sens restrins Ia nfegrrcalinclodereatuturor copillor\nindiferent de capaciatile si competenfele de adaptare si deci de invstae, into formi de\n\n \n\ngina 2"
+            },
+            "48": {
+                "class": "text",
+                "x": 59,
+                "y": 351,
+                "height": 25,
+                "width": 337,
+                "leftCorner": [
+                    59,
+                    351
+                ],
+                "rightCorner": [
+                    396,
+                    376
+                ],
+                "text": "Manole Constanta, colar Stolnic"
+            },
+            "49": {
+                "class": "text",
+                "x": 214,
+                "y": 308,
+                "height": 29,
+                "width": 171,
+                "leftCorner": [
+                    214,
+                    308
+                ],
+                "rightCorner": [
+                    385,
+                    337
+                ],
+                "text": "EDUCATIA INCLU"
+            },
+            "50": {
+                "class": "text",
+                "x": 59,
+                "y": 178,
+                "height": 70,
+                "width": 478,
+                "leftCorner": [
+                    59,
+                    178
+                ],
+                "rightCorner": [
+                    537,
+                    248
+                ],
+                "text": "Bibliografie:\n\u2018\u00a2  VIORICA TOMESCU, FLORENTINA POPA, GHEORGHE ALEXANDRU, LU\n\nSTAN ~ \u201c METODICA PREDARII GEOGRAFIEI $I STIINTELOR NATURI IN\nCICLUL PRIMAR\u201d Editura \u201cGHEORGHE ALEXANDRU\u201d, CRAIOVA, 1999"
+            },
+            "51": {
+                "class": "text",
+                "x": 59,
+                "y": 67,
+                "height": 108,
+                "width": 481,
+                "leftCorner": [
+                    59,
+                    67
+                ],
+                "rightCorner": [
+                    540,
+                    175
+                ],
+                "text": "\u2018apoi se ageazai in dreptul imaginii de pe plans care arata mediul de viaf\u00e9 al animalului respectiv.\nSe intoaree eitre clasi si formuleazi propovitia. Se fice aprecierea si se acordi cate dow\u2019\npuncte(c\u00e9te unul din cele doua) pentru ambele rispunsuri corecte(unul pentru asociere si unul\npentru formularea propozitilr)\n\nElevii care nu reusese si faci \u00a9 asociere intre vifuitoare si locul ei de trai au dreptul si\n\u2018mai traga un cartonas si daca raspund bine, lise mai acorda doar un punct.\nDupi rezolvarea sarcinii de etre elev se comunic\u2019 aprecierea de etre invititor."
+            }
+        }
+    },
+    "img_61": {
+        "page": "61",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "52": {},
+            "53": {
+                "class": "text",
+                "x": 59,
+                "y": 64,
+                "height": 570,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    64
+                ],
+                "rightCorner": [
+                    541,
+                    634
+                ],
+                "text": "\u2018nvamant. in sens larg, ea inseamna ca fiecae copil si fie sprijinit sisi se lucreze in beneficiul\ntuturra.Fiecare copil este ineles ca un participant activ ln vitae gi predare pentru ef aduce\ncu sine: 0 experient un stil de invtare, un model socal, 0 interactune specifi, un itm\npersonal, un mod de abordare, un context cultural eiruia i aparine. Specifcul itegriei\ninseam\na educa copii cu cernte speciale in sco obisuite, altri de copi normal\n- a asigura servicii de specialitate (recuperare, terapie educational, consiliere scolard, asistenta\nmedical si social, et.)\n\u201ca acorde sprijn personal didactic i managerilor seo\nAl programelor scolar:\na permite actesul efetv al copilor cu cernje speciale In programa gi resusele gcolt\nbignite (bibliotee, terenuri despot, te.)\n\u201ca incuraja eaile de pietene si comunicarea inte toi cop din clastscoal;\n= educa si juta to cop entra inflegera si acceptareadiferenelor dinte ei;\na fine cont de problemele si apni primi, incurajini sis implice invita seois,\n\u201ca asigura programe de spin individalizate pentru copii cu cern speciale:\n\u201ca accepa schimbir in onganizareaactivttilrinstrutv-cdcative\n\nDe la cea mai aged vist constina copier trebue format si dezvott,invikindy-i\ncf primizeacelor sient\u201d altri de engi tebuie Feud nu doar din obligate sau mil, ci\nentra ci fccare individ are dreptul de a participa la aetiuni comune care s conduct la\nGezvoltarea lui ulterioard i la dezvokarea comuntii in cae ties. Tot copit tebuie si\ninfeleagi ci o persoand instru reo gansiinplos pent o vif mai bund, mai sindtoas,c\u00e9nd\nse vaafa in situatia de a hia propre deci 9-5 decide singur drum in vat\n\nIncluziunea prescolara vizeazi implementaea unorstrateitcocrente de dezvolare \u00ab\nconstinjei si formare @ comportamentelorcopilr in sprijinu tolerant si neiserimini, at\naccept ofr de sanse ezale pentru tol. Accastapresupune prezitirea celorati copii in\n\u2018ederea accep copilor cu cerinte speciale side alte etnit in mod Frese, penta a ma fe\ndiferente in manifestarea comportamental sav verbal\n\nPalem spune ci munca noasrh a avut succes, daci se implie\u00e9 i familia in propria\nformare a copier. La orice copl, in mod particular ta copii cu cerinte speciale, gradal de\ninteres si de colaborare al pinilor este direct proportional cu rezulatele st evoliacopilor.\nPsihopedagogia modem, centrat\u00e9 pe copil, se bazeazh pe convingerea ci familia este primal\neviuator sare cel mai mare potential de modelare. Rolul nostra foarte important este acela de a\nSprint famille si aiba inctedere in resurselepropri, si fad fathgreutjilor cu care ele se\nconfrunta\n\nin concluze: dacd avem intebir in legturd cu cop de la grupele noasre este bine si\nne adresim orgineorabltte. Este malt mai bine si cerem informati i sprijn atunc cin este\nnevoie,dedt si evitim copii cu probleme sau mi gray, it indepirtam de a grapele noste\nEste bine al ne alegem cele mai eficiete strate in actvitateninstructv ~ educti ind cont\nde particularitaile indviduae side vara ale copior\n\n \n\n \n\nprocesul de proiectare gi aplicare"
+            }
+        }
+    },
+    "img_62": {
+        "page": "62",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "54": {},
+            "55": {
+                "class": "text",
+                "x": 59,
+                "y": 320,
+                "height": 456,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    320
+                ],
+                "rightCorner": [
+                    541,
+                    776
+                ],
+                "text": "= Copilul are dreptul la stabilirea si paistrarea identitifii sale, dreptul de a avea un nume\nsio cetifenie,\n= Copilul are dreptul de a-si cunoaste rudele si de a intrejine reli personale cu acestea,\nprecum si eu alte petsoane alaturi de care copilul s-a bucurat de viata de familie, in masura in\ncare acest lueru nu contravine interesului sau superior.\n= Copilul are dreptul la protejarea imaginii sale publice sia vieti sale imtime, private si\nfamilial,\n= Copilul are dreptul la Tibertate de exprimare; copilul este liber sa primeasca si sa dea\n\u2018mai departe orice informatie care corespunde interesului lui. Parinii sau persoanele care au\ncopii in ingrijire sunt obligati sd ofere informati, sfaturi i explicatii copiilor sisi le permita sa\nisi exprime proprileidei si pare\n~ Copilul are dreptul la libertate de gandire, de constinja si de religie. Paringitindruma\ncopilul, potrvit proprilor convingeri, in alegerea unei religi, in conditile leg, tindnd seama de\nopinia, varsta si de gradul de maturtate a acestuia, ira a-I putea obliga sa adere Ia o anumita\nreligie sau la un anumit cult religios.\n= Copilul are dreptul sa creasca alaturi de parinti sai si sa fle erescut in condi care sa\npermita dezvoltarea sa fizica, mentala,spirtuala, morala si sociale\n= Copilul are dreptul de a se bucura de cea mai buna stare de sanatate pe care \u00a9 poate\natinge si de a beneficia de serviiile medicale si de recuperare necesare pentru asigurarea\nrealizariiefective a acestu drept.\n= Copilul are dreptul de a primi o edueatic care sa ii permita dezvoltarea, in conditi\nnediscriminatorii, a apttudinilor si personalitati sale. Parintii copilului au cu prioritate dreptul\nde a alege felul educatici care urmeaza sa fie data copiilor lor si au obligatia sa inscrie copilul la\nscoala sisi asigure freeventarea cu regularitate de edtre acesta a cursurilor scolare,\n= Copilul cu dizabilityi are dreptul la ingrijire speciala pentru a indeparta barierele sociale\nsi economice din calea copiilor cu dizabilitati si pentru a crea un mediu in care acesti copii sunt\nacceplati de copiti de virsta lor si in viata comunity\n= Copilul are dreptul la protectie speciald. Copiii au dreptul sa fie protejati si dreptul la\nasistenta din partea autoritiilor locale.\n= Copilul aflat in conflict cu legea are dreptul la asistenta, Pana la virsta de 14 ani copii\n\u2018hu rispund in fata legii. Dupa virsta de 14 ani daca fapta previzuta de legea penala sivirsit\u00e9 de\ncopilul care nu raspunde penal, prezintd un grad ridicat de pericol social, comisia pentru"
+            },
+            "56": {
+                "class": "text",
+                "x": 59,
+                "y": 126,
+                "height": 203,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    126
+                ],
+                "rightCorner": [
+                    541,
+                    329
+                ],
+                "text": "Drepturile copilului sunt acum lege. Legea urmireste sprijinirea familiei si comunitat\ncare exista in jurl fiecirui copil, incercdnd sa le ofere sprijin in procesul atat de complex care\neste cresterea unui copil. O mai buna cunoastere a drepturilor copilului va conduce la\nrespectarea acestora sil 0 viata mai bund pentru tofi copii. De aceea, este foarte important ca\ndin ce in ce mai multe persoane din Rominia sa aiba cunostinye despre drepturile copiluli\nInjelegind ce inseamna in practica aceste drepturi, cu toit vom fi mai avizaji despre felul in care\n\u2018rebuie sa ne purtam cu copii\n\nDrepturile copilului sunt stabilite foarte clar. Pentru prima data, ca principala responsabilitate de\n\n\u2018a creste un copil revine mai inti de toate parintlor naturali ai acestuia, Legea obliga de\n\n\u2018asemenea comunitatea locali si sprijine copilul si fami\n\nTati cateva din drepturle copiilor ce ar trebui respectate cu sfintenie de etre noi toi si anume:\nfri discriminare, indiferent de rasd, culoare, sex, nafionalitate sau etnie,\n\nreligie, opinii politice, stare materiala sau pozitie social\u00e9, dizabiitti din nastere sau de orice"
+            },
+            "57": {
+                "class": "text",
+                "x": 59,
+                "y": 68,
+                "height": 48,
+                "width": 370,
+                "leftCorner": [
+                    59,
+                    68
+                ],
+                "rightCorner": [
+                    429,
+                    116
+                ],
+                "text": "AU DREPTURI EGALE"
+            }
+        }
+    },
+    "img_63": {
+        "page": "63",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "58": {
+                "class": "text",
+                "x": 59,
+                "y": 630,
+                "height": 25,
+                "width": 61,
+                "leftCorner": [
+                    59,
+                    630
+                ],
+                "rightCorner": [
+                    120,
+                    655
+                ],
+                "text": "partener\u2019;"
+            },
+            "59": {
+                "class": "text",
+                "x": 57,
+                "y": 485,
+                "height": 333,
+                "width": 484,
+                "leftCorner": [
+                    57,
+                    485
+                ],
+                "rightCorner": [
+                    541,
+                    818
+                ],
+                "text": "partener\n\n \n\npagina 65"
+            },
+            "60": {
+                "class": "text",
+                "x": 59,
+                "y": 276,
+                "height": 222,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    276
+                ],
+                "rightCorner": [
+                    541,
+                    498
+                ],
+                "text": "inurma destiguririi actiunii cercului pedagogic la Gridinita Humosu, com. Sirefel, sa\nivitideea derulrit unui parteneriat eu Gridinita cu program prelungit ar. 2 Pageant, jud, Iasi,\ncoordonat de citte educatoarele Veronica Pantelimon si Florica long. Interesul comun pent\nobiceuri si tradi. dorinja de promovare a prietenei inte copi,precum si dorinja cadrelor\ndidactice , a pirinlor de la Pageani de @ pune in contact nemijlocit copii cu elemente ale\nrediuli, ne-au determinat s& gandim realizaea unui parteneria. In acest scop am proiectat un\nparteneriatul smanifestat prin :vizite reciproce si corespondenta periodied prin care ne\n\n\u2018mpartasim experienfele cele mai interesante ,noutaiaflate ,confinuturile abordate de fiecare in\ndesfigurarea procesului didactic in gridiniti, imbinind activityile curriculare cu cele\nextracutriculae si extraycolare.\nScopul proiectului a fost de cunoastere reciproci a activititii din cele dowd gridinite\npartenere side a lega prietenii intr copiti de la sat gi cei de la ora.\nintalirile s-au desfagurat astiel\n\u00a5 Siaict invatd copii prescotari! -vizitarea Gridinijei Humosu, cunoasterea"
+            },
+            "61": {
+                "class": "text",
+                "x": 59,
+                "y": 218,
+                "height": 51,
+                "width": 362,
+                "leftCorner": [
+                    59,
+                    218
+                ],
+                "rightCorner": [
+                    421,
+                    269
+                ],
+                "text": "let Geta, Griidinita cu program normal Humosu, jud.Jasi"
+            },
+            "62": {
+                "class": "text",
+                "x": 59,
+                "y": 67,
+                "height": 122,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    67
+                ],
+                "rightCorner": [
+                    541,
+                    189
+                ],
+                "text": "protectia copilului poate decide plasamentul copilului intr-un serviciu de tip rezidential\nspecializat e supraveghere a copiilor cate au comis infractiun,\n= Copilul are dreptul de a fi protejat impotriva exploatirii economice.\nDaca drepturile fi sunt incileate, copilul este expus unor mari riscuri: dezvoltare fizica si\n\n\u2018mentala anormal, sdntate precara, neinscriee tn sistemul de invajamant, abandon scolar, lipsa\n\u2018unui adapost. Este de datoria noastra, a tuturor, si prevenim inedlearea drepturilor copilului si sa\nfacem posibila aplicarea acestei noi legi, care isi propune sa promoveze respectarea drepturilor\ntuturor copiilor din Romania"
+            }
+        }
+    },
+    "img_64": {
+        "page": "64",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "63": {},
+            "64": {
+                "class": "text",
+                "x": 59,
+                "y": 619,
+                "height": 78,
+                "width": 481,
+                "leftCorner": [
+                    59,
+                    619
+                ],
+                "rightCorner": [
+                    540,
+                    697
+                ],
+                "text": "Prin parteneriatul desfigurat am urmart ca prescolarii si invete c& toti copii indiferent\nin ce localitate triese, de ce nationalitate sunt , trebuie si fie prieteni gi sunt egali in drepturi.\n\nAu invajat si fie mai buni, au stabiltrelaii de prietenie, au invatat si ajute pe cei nevoiasi, iar\npiringi copiilor implicayi au infeles valoarea parteneriatelr gi c& impreund pot fiuri o lume mai\nbuna."
+            },
+            "65": {},
+            "66": {
+                "class": "text",
+                "x": 59,
+                "y": 433,
+                "height": 53,
+                "width": 481,
+                "leftCorner": [
+                    59,
+                    433
+                ],
+                "rightCorner": [
+                    540,
+                    486
+                ],
+                "text": "\u00a5 in humea ta, copile; Dragi prieteni la revedere - intanire la Gr\u00e9dinita Humosu si\n\n\u2018excursie in pidurea secular din jurul satului Humosu, expozitie cu luerit ale copilor, oferirea\nde cadouris"
+            },
+            "67": {
+                "class": "text",
+                "x": 59,
+                "y": 264,
+                "height": 169,
+                "width": 482,
+                "leftCorner": [
+                    59,
+                    264
+                ],
+                "rightCorner": [
+                    541,
+                    433
+                ],
+                "text": "Y Drag mi-i portul si graiul romiinesc ~amenajarea unui colt folcloric in sala de\n\u2018grup, eu fiecare gridiniti parteneri, invitarea unui dans popular pentru intalnirea din iunie:"
+            },
+            "68": {},
+            "69": {},
+            "70": {}
+        }
+    }
+}

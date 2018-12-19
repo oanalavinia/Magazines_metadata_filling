@@ -1,0 +1,677 @@
+{
+    "numberOfPages": 57,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 240,
+                "y": 719,
+                "height": 24,
+                "width": 120,
+                "leftCorner": [
+                    240,
+                    719
+                ],
+                "rightCorner": [
+                    360,
+                    743
+                ],
+                "text": "Editura Pro-Didact"
+            },
+            "2": {
+                "class": "text",
+                "x": 65,
+                "y": 615,
+                "height": 51,
+                "width": 450,
+                "leftCorner": [
+                    65,
+                    615
+                ],
+                "rightCorner": [
+                    515,
+                    666
+                ],
+                "text": "O raz de lumin\u2019 in tinut gosmanead"
+            },
+            "3": {},
+            "4": {
+                "class": "text",
+                "x": 216,
+                "y": 121,
+                "height": 29,
+                "width": 212,
+                "leftCorner": [
+                    216,
+                    121
+                ],
+                "rightCorner": [
+                    428,
+                    150
+                ],
+                "text": "An Il, Nr. 2 / Septembrie 2010"
+            },
+            "5": {
+                "class": "text",
+                "x": 163,
+                "y": 89,
+                "height": 28,
+                "width": 319,
+                "leftCorner": [
+                    163,
+                    89
+                ],
+                "rightCorner": [
+                    482,
+                    117
+                ],
+                "text": "Revista Scolii cu clasele I-Vill Gosmani, Neamt"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "6": {
+                "class": "text",
+                "x": 223,
+                "y": 651,
+                "height": 23,
+                "width": 109,
+                "leftCorner": [
+                    223,
+                    651
+                ],
+                "rightCorner": [
+                    332,
+                    674
+                ],
+                "text": "ISSN 2065 - 5665"
+            },
+            "7": {
+                "class": "text",
+                "x": 315,
+                "y": 502,
+                "height": 29,
+                "width": 173,
+                "leftCorner": [
+                    315,
+                    502
+                ],
+                "rightCorner": [
+                    488,
+                    531
+                ],
+                "text": "Inv. Verginia Ursache"
+            },
+            "8": {
+                "class": "text",
+                "x": 315,
+                "y": 459,
+                "height": 26,
+                "width": 113,
+                "leftCorner": [
+                    315,
+                    459
+                ],
+                "rightCorner": [
+                    428,
+                    485
+                ],
+                "text": "Coordonator:"
+            },
+            "9": {
+                "class": "text",
+                "x": 208,
+                "y": 329,
+                "height": 29,
+                "width": 133,
+                "leftCorner": [
+                    208,
+                    329
+                ],
+                "rightCorner": [
+                    341,
+                    358
+                ],
+                "text": "Inv. Aurica Rosu"
+            },
+            "10": {
+                "class": "text",
+                "x": 208,
+                "y": 286,
+                "height": 29,
+                "width": 171,
+                "leftCorner": [
+                    208,
+                    286
+                ],
+                "rightCorner": [
+                    379,
+                    315
+                ],
+                "text": "Inv. Ecaterina Cuptor"
+            },
+            "11": {
+                "class": "text",
+                "x": 208,
+                "y": 242,
+                "height": 30,
+                "width": 164,
+                "leftCorner": [
+                    208,
+                    242
+                ],
+                "rightCorner": [
+                    372,
+                    272
+                ],
+                "text": "Prof. Mioara Dr\u00e9goi"
+            },
+            "12": {
+                "class": "text",
+                "x": 208,
+                "y": 199,
+                "height": 29,
+                "width": 172,
+                "leftCorner": [
+                    208,
+                    199
+                ],
+                "rightCorner": [
+                    380,
+                    228
+                ],
+                "text": "Prof. Mariana Cozma"
+            },
+            "13": {
+                "class": "text",
+                "x": 208,
+                "y": 155,
+                "height": 27,
+                "width": 179,
+                "leftCorner": [
+                    208,
+                    155
+                ],
+                "rightCorner": [
+                    387,
+                    182
+                ],
+                "text": "Colectivul de redactie:"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "14": {},
+            "15": {
+                "class": "text",
+                "x": 65,
+                "y": 415,
+                "height": 94,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    415
+                ],
+                "rightCorner": [
+                    535,
+                    509
+                ],
+                "text": "Prin activititile desfiisurate in cadrul proiectului, s-a urmarit dezvoltarea\ninteresului pentru cunoasterea, pstrarea si transmiterea portului popular rominesc, a\n\ntradiiilor si obiceiurilor specifice poporului nostru, dezvoltarea dragostei fata de fara\n\n \n\nside tot ce are valoros poporul nostru."
+            },
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 65,
+                "y": 65,
+                "height": 96,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    65
+                ],
+                "rightCorner": [
+                    535,
+                    161
+                ],
+                "text": "{in acest numar al revistei \"O raza de lumind in tinut gosmanean\u201d vi prezentam\n\naspecte dintr-un eveniment deosebit care a avut loc in satul nostru: Int\u00e9lnirea fiilor\n\nsatului Gosmani, 0 activitate din cadrul Proiectului Educational \u201cNu uita ed esti\n\n \n\nroman!\u201d, proiect cuprins in C.A.E. 2010,"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "18": {
+                "class": "text",
+                "x": 10,
+                "y": 37,
+                "height": 767,
+                "width": 559,
+                "leftCorner": [
+                    10,
+                    37
+                ],
+                "rightCorner": [
+                    569,
+                    804
+                ],
+                "text": "CUPRINS\n\nDate arheologice referitoare la satul Gosmani, Neamy\nScolile din satul Gosmani, de-a lungul timpului\nScoala cu clasele I-IV Barcu\n\nScoala din Barcu dupa al Il lea rzboi mondial\nElevi de ieri si de azi la Scoala Bireu-Goymani\nIstoricul Bisericii \u201c Sfintii Apostoli Petru si Pavel\u201d\nintalnirea fiilor satului - 11 septembrie 2010\nInima satului meu\n\nRegisire\n\nintoarcerea in sat\n\nGanduri din inima\n\nBine ati venit acasd, dragi oaspeti!\n\nBine afi revenit pe meleagurile copilariei!\n\nBucuria revederii\n\n \n\nCopilarie fericita\n\nAmintiri despre sat\n\n  \n\nOpinea - Debut\n\n    \n   \n\nMeteor\n\nlata faptete!"
+            }
+        }
+    },
+    "img_52": {
+        "page": "52",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "19": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "52"
+            },
+            "20": {},
+            "21": {},
+            "22": {},
+            "23": {
+                "class": "text",
+                "x": 175,
+                "y": 527,
+                "height": 26,
+                "width": 220,
+                "leftCorner": [
+                    175,
+                    527
+                ],
+                "rightCorner": [
+                    395,
+                    553
+                ],
+                "text": "Aranjarea meselor in curtea Biserici"
+            },
+            "24": {},
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 232,
+                "y": 311,
+                "height": 26,
+                "width": 121,
+                "leftCorner": [
+                    232,
+                    311
+                ],
+                "rightCorner": [
+                    353,
+                    337
+                ],
+                "text": "Sfatul gospodarilor"
+            },
+            "27": {
+                "class": "text",
+                "x": 249,
+                "y": 279,
+                "height": 23,
+                "width": 67,
+                "leftCorner": [
+                    249,
+                    279
+                ],
+                "rightCorner": [
+                    316,
+                    302
+                ],
+                "text": "Din culise"
+            },
+            "28": {
+                "class": "text",
+                "x": 65,
+                "y": 122,
+                "height": 117,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    122
+                ],
+                "rightCorner": [
+                    535,
+                    239
+                ],
+                "text": "Aci inchei frinturile mele de amintiri cu felicitarile pentru organizatori, pentru\ntoficei prezenti urindu-le sindtate si putere ca asemenea intalniri si devini o traditie si\nlun exemplu de urmat iar pentru mine tog pe BUNUL DUMNEZEU si-mi dea viata gi\n\nputere si mai particip la asemenea evenimente care au darul si uneasc\u2019 trecutul cu\n\n \n\nprezentul,"
+            },
+            "29": {
+                "class": "text",
+                "x": 65,
+                "y": 65,
+                "height": 51,
+                "width": 469,
+                "leftCorner": [
+                    65,
+                    65
+                ],
+                "rightCorner": [
+                    534,
+                    116
+                ],
+                "text": "IATA FAPTELE care ne adund, ne unese si ne fac viata mai frumoasi i mai"
+            }
+        }
+    },
+    "img_53": {
+        "page": "53",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "30": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "53"
+            },
+            "31": {},
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 101,
+                "y": 297,
+                "height": 25,
+                "width": 390,
+                "leftCorner": [
+                    101,
+                    297
+                ],
+                "rightCorner": [
+                    491,
+                    322
+                ],
+                "text": "Bucate traditionale pentru oaspeti: sarmale, pilaf cu friptura, malai"
+            },
+            "37": {},
+            "38": {},
+            "39": {
+                "class": "text",
+                "x": 186,
+                "y": 68,
+                "height": 25,
+                "width": 228,
+                "leftCorner": [
+                    186,
+                    68
+                ],
+                "rightCorner": [
+                    414,
+                    93
+                ],
+                "text": "Pregatirea darurilor pentru fii satului"
+            }
+        }
+    },
+    "img_54": {
+        "page": "54",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "40": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "54"
+            },
+            "41": {
+                "class": "text",
+                "x": 305,
+                "y": 709,
+                "height": 25,
+                "width": 212,
+                "leftCorner": [
+                    305,
+                    709
+                ],
+                "rightCorner": [
+                    517,
+                    734
+                ],
+                "text": "Elevi de la scolile din comuna noastra"
+            },
+            "42": {
+                "class": "text",
+                "x": 65,
+                "y": 709,
+                "height": 48,
+                "width": 203,
+                "leftCorner": [
+                    65,
+                    709
+                ],
+                "rightCorner": [
+                    268,
+                    757
+                ],
+                "text": "Doamna profesoara Mariana Barcan\n\n \n\nClubul Copiilor Buhusi"
+            },
+            "43": {},
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 208,
+                "y": 479,
+                "height": 23,
+                "width": 174,
+                "leftCorner": [
+                    208,
+                    479
+                ],
+                "rightCorner": [
+                    382,
+                    502
+                ],
+                "text": "Muzeul satului in sirbitoare"
+            },
+            "46": {},
+            "47": {
+                "class": "text",
+                "x": 65,
+                "y": 266,
+                "height": 26,
+                "width": 332,
+                "leftCorner": [
+                    65,
+                    266
+                ],
+                "rightCorner": [
+                    397,
+                    292
+                ],
+                "text": "Cosurile au fost umplute cu gogosi si plicinte moldovenesti."
+            },
+            "48": {},
+            "49": {}
+        }
+    },
+    "img_55": {
+        "page": "55",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "50": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "55"
+            },
+            "51": {},
+            "52": {
+                "class": "text",
+                "x": 228,
+                "y": 367,
+                "height": 26,
+                "width": 125,
+                "leftCorner": [
+                    228,
+                    367
+                ],
+                "rightCorner": [
+                    353,
+                    393
+                ],
+                "text": "Inv Verginia Ursache"
+            },
+            "53": {
+                "class": "text",
+                "x": 173,
+                "y": 342,
+                "height": 25,
+                "width": 246,
+                "leftCorner": [
+                    173,
+                    342
+                ],
+                "rightCorner": [
+                    419,
+                    367
+                ],
+                "text": "Formatia de dansuri Romanasii din Gosmani"
+            },
+            "54": {}
+        }
+    },
+    "img_56": {
+        "page": "56",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "55": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "56"
+            },
+            "56": {},
+            "57": {},
+            "58": {
+                "class": "text",
+                "x": 207,
+                "y": 67,
+                "height": 25,
+                "width": 175,
+                "leftCorner": [
+                    207,
+                    67
+                ],
+                "rightCorner": [
+                    382,
+                    92
+                ],
+                "text": "TE-DEUM Biserica Gosmani"
+            }
+        }
+    },
+    "img_57": {
+        "page": "57",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "59": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 21,
+                "width": 24,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    535,
+                    804
+                ],
+                "text": "37"
+            },
+            "60": {},
+            "61": {},
+            "62": {},
+            "63": {},
+            "64": {
+                "class": "text",
+                "x": 65,
+                "y": 67,
+                "height": 26,
+                "width": 203,
+                "leftCorner": [
+                    65,
+                    67
+                ],
+                "rightCorner": [
+                    268,
+                    93
+                ],
+                "text": "Ospitalitatea rom\u00e9neasca la ea acasi"
+            }
+        }
+    }
+}

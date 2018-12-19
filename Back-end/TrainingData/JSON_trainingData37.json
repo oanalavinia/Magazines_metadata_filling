@@ -1,0 +1,640 @@
+{
+    "numberOfPages": 44,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 160,
+                "y": 69,
+                "height": 73,
+                "width": 283,
+                "leftCorner": [
+                    160,
+                    69
+                ],
+                "rightCorner": [
+                    443,
+                    142
+                ],
+                "text": "DIALOG INTRE GENERATII"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "2": {
+                "class": "text",
+                "x": 67,
+                "y": 701,
+                "height": 23,
+                "width": 105,
+                "leftCorner": [
+                    67,
+                    701
+                ],
+                "rightCorner": [
+                    172,
+                    724
+                ],
+                "text": "ISSN: 2247-5929"
+            },
+            "3": {
+                "class": "text",
+                "x": 65,
+                "y": 381,
+                "height": 31,
+                "width": 243,
+                "leftCorner": [
+                    65,
+                    381
+                ],
+                "rightCorner": [
+                    308,
+                    412
+                ],
+                "text": "Coperta: Scutarasu Madalina"
+            },
+            "4": {
+                "class": "text",
+                "x": 65,
+                "y": 319,
+                "height": 29,
+                "width": 367,
+                "leftCorner": [
+                    65,
+                    319
+                ],
+                "rightCorner": [
+                    432,
+                    348
+                ],
+                "text": "Oana Felicia Alexe, Cristina Mihaela Ursache"
+            },
+            "5": {
+                "class": "text",
+                "x": 65,
+                "y": 277,
+                "height": 30,
+                "width": 189,
+                "leftCorner": [
+                    65,
+                    277
+                ],
+                "rightCorner": [
+                    254,
+                    307
+                ],
+                "text": "Colectivul redactional:"
+            },
+            "6": {
+                "class": "text",
+                "x": 65,
+                "y": 173,
+                "height": 68,
+                "width": 138,
+                "leftCorner": [
+                    65,
+                    173
+                ],
+                "rightCorner": [
+                    203,
+                    241
+                ],
+                "text": "Coordonatori:\n\nMaria Acsinte\nCristian Acsinte"
+            },
+            "7": {
+                "class": "text",
+                "x": 65,
+                "y": 89,
+                "height": 31,
+                "width": 178,
+                "leftCorner": [
+                    65,
+                    89
+                ],
+                "rightCorner": [
+                    243,
+                    120
+                ],
+                "text": "Dialog intre generatii"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 429,
+                "y": 315,
+                "height": 27,
+                "width": 53,
+                "leftCorner": [
+                    429,
+                    315
+                ],
+                "rightCorner": [
+                    482,
+                    342
+                ],
+                "text": "pag.28"
+            },
+            "9": {
+                "class": "text",
+                "x": 427,
+                "y": 234,
+                "height": 76,
+                "width": 54,
+                "leftCorner": [
+                    427,
+                    234
+                ],
+                "rightCorner": [
+                    481,
+                    310
+                ],
+                "text": "pag.17\npag.19\npag.21\npag.23"
+            },
+            "10": {
+                "class": "text",
+                "x": 427,
+                "y": 121,
+                "height": 108,
+                "width": 53,
+                "leftCorner": [
+                    427,
+                    121
+                ],
+                "rightCorner": [
+                    480,
+                    229
+                ],
+                "text": "pag.7\npags\n\npag.10\npag.l2\npag.15\npag.16"
+            },
+            "11": {
+                "class": "text",
+                "x": 100,
+                "y": 105,
+                "height": 318,
+                "width": 381,
+                "leftCorner": [
+                    100,
+                    105
+                ],
+                "rightCorner": [
+                    481,
+                    423
+                ],
+                "text": "1: Noi , dascal\nNOUA GENERATIE..esessccsssssecesceseseeeeeeteees \u00a2\nPRIV\n\nPASIUNI $I PERFORMANTE.\nORA DE COMPUNERE.\nBIBLIOTECA AZI..\n\nROLUL $I OBIECTIVEL!\n\nIN INSTITUTHLE DE INVATAMA\nSA IN CORP SANATOS\n\nCONCURS LITERAR wessssssssssssssssssssssensenvsnse +\nTHE CANADIAN SCHOOL SYSTEM..\n\nROLUL ACTIVITATILOR EXTRASCOLARE iN\nFORMAREA PERSONALITATI ELEVULUL...\n\nPASIUNEA NOASTI\nSTIATICA"
+            },
+            "12": {
+                "class": "text",
+                "x": 255,
+                "y": 68,
+                "height": 26,
+                "width": 89,
+                "leftCorner": [
+                    255,
+                    68
+                ],
+                "rightCorner": [
+                    344,
+                    94
+                ],
+                "text": "CUPRINS:"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    },
+    "img_39": {
+        "page": "39",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 510,
+                "y": 794,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    510,
+                    794
+                ],
+                "rightCorner": [
+                    535,
+                    816
+                ],
+                "text": "39"
+            },
+            "14": {
+                "class": "text",
+                "x": 65,
+                "y": 634,
+                "height": 159,
+                "width": 463,
+                "leftCorner": [
+                    65,
+                    634
+                ],
+                "rightCorner": [
+                    528,
+                    793
+                ],
+                "text": "I: in scoala noastra, aceasta retinere de a merge la\n\nparte depasita. Aceastd refinere nu poate fi depasita oricat de mult te-ar incuraja\nceilalti\n\nCea mai bund modalitate de a invinge aceasta retinere este si mergi la psiholog,\n\nsi vezi ce are de spus psihologul, sii mergi in cabinetul siu, si vezi cum te simti\nin acel spatiu. Abia apoi poti decide, in functie de cum te-ai simtit, daca vei\n\u2018merge sau nu la consiliere psihologica.\n\nE bine si apelati la psiholog atunci cnd va confruntati cu 0 problem\npentu cd, impreund puteti clarifica problema, puteti gisi solutii alternative,"
+            },
+            "15": {},
+            "16": {},
+            "17": {
+                "class": "text",
+                "x": 65,
+                "y": 345,
+                "height": 221,
+                "width": 469,
+                "leftCorner": [
+                    65,
+                    345
+                ],
+                "rightCorner": [
+                    534,
+                    566
+                ],
+                "text": "De ce unii copii sau unii parinti manifesta rezerve in sitatia in\n\ncare sunt indrumati de catre profesorul diriginte sa solicite\n\najutorul psihologului in incercarea de a-si rezolva anumite\n\nprobleme?\nI Aceasti intrebare ar fi bine sa fie adresata celor care manifesta o anumita\nrefinere in a merge la psiholog . Din ceea ce am observat pana acum acest refuz\nsau reticen{a vine din cunoasterea insuficientd a activititi psihologului. Este\n\nvorba despre acea team de necunoscut. ,,Oare ce o si-mi spun?\u201d ,Ce se\nintampla in cabinet?\u201d aceste intrebiri sunt cele care inhibi dorinta sau nevoia de\na merge la psiholog. Mai sunt persoane care cred ca isi pot rezolva singuri\nproblemele si atunci e in regula, Cand vor avea nevoie de ajutor il vor solicita .\nExistd o a treia categorie de persoane care refuz ajutorul unui psiholog din\ncauza fricii de a-si ,deschide sufletul\u201d in fata unei persoane aparent strane"
+            },
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 65,
+                "y": 166,
+                "height": 157,
+                "width": 466,
+                "leftCorner": [
+                    65,
+                    166
+                ],
+                "rightCorner": [
+                    531,
+                    323
+                ],
+                "text": "I: Rolul profesorului psihopedagog este unul extrem de complex.\nPrincipala activitate a acestuia este aceea de consiliere psihologica individual,\nde grup sau colectiva, Deseori, psihologul scolar are rolul de mediator atat\ncazul unor conflicte; eat si in cazul unei comunicari deficitare.\n\nDaca ne referim la tipurile de probleme pe care le abordeaz un\n\npsiholog scolar in activitatea sa, putem aminti: cunoastere si imagine de sine,\ndezvolatrea unor abilitati de comunicare, prevenirea consumului de alcool, tutun\nsi droguri, prevenirea anxietati, controlul stresului, tehnici de invatare eficieta,\negec gi abandon scolar, consiliere vocationalietc."
+            },
+            "20": {
+                "class": "text",
+                "x": 101,
+                "y": 102,
+                "height": 59,
+                "width": 413,
+                "leftCorner": [
+                    101,
+                    102
+                ],
+                "rightCorner": [
+                    514,
+                    161
+                ],
+                "text": "Dumneavoastra, in calitate de consilier scolar al scolii cu clasele I-VIIT\nPetru Rares Hirlau, ce ne puteti spune despre rolul pe care il are un\n\n \n\npsiholog in viata scolii?"
+            },
+            "21": {},
+            "22": {
+                "class": "text",
+                "x": 187,
+                "y": 54,
+                "height": 27,
+                "width": 226,
+                "leftCorner": [
+                    187,
+                    54
+                ],
+                "rightCorner": [
+                    413,
+                    81
+                ],
+                "text": "REPORTER PENTRU O ZI"
+            }
+        }
+    },
+    "img_40": {
+        "page": "40",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 510,
+                "y": 794,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    510,
+                    794
+                ],
+                "rightCorner": [
+                    535,
+                    816
+                ],
+                "text": "40"
+            },
+            "24": {
+                "class": "text",
+                "x": 284,
+                "y": 664,
+                "height": 44,
+                "width": 238,
+                "leftCorner": [
+                    284,
+                    664
+                ],
+                "rightCorner": [
+                    522,
+                    708
+                ],
+                "text": "Prof. psihopedagog, lonela O\nReporter: Ciobanu Giorgiana,"
+            },
+            "25": {
+                "class": "text",
+                "x": 65,
+                "y": 535,
+                "height": 91,
+                "width": 464,
+                "leftCorner": [
+                    65,
+                    535
+                ],
+                "rightCorner": [
+                    529,
+                    626
+                ],
+                "text": "a Meseria de parinti\u201d nu \u00a2 0 joaca, eo chestiune mai mult decat\nimportanta, iar eu cred ci profesorii scolii noastre manifesta un interes deosebit\nina menfine legatura scoala-familie, ins deschiderea trebuie si vind si din\n\npartea parintilor.\n\u2018Acestea au fost intrebarile mele pentru dumneavoastri"
+            },
+            "26": {
+                "class": "text",
+                "x": 65,
+                "y": 389,
+                "height": 140,
+                "width": 461,
+                "leftCorner": [
+                    65,
+                    389
+                ],
+                "rightCorner": [
+                    526,
+                    529
+                ],
+                "text": "I: Aceasta chestiune sunt de parere c& e bine si fie discutata cu parintii .\nCazurile sunt particulare si difera foarte mult intre ele. Sunt parinti implicati in\nviata copiilor lor, in activititile scolare desfiigurate si sunt si paringi care aleg si\nnu se implice activ. Cauzele neimplicarii pot fi multiple: indiferenfa, lipsa\n\ntimpului sau gestiunea ineficienta a acestuia, plecarea la munca in straindtate ar\nputea fi doar cdteva exemple.\n\n1\\ Cum i-am putea convinge pe parinti si se implice mai mult in educatia\ncopiilor lor?"
+            },
+            "27": {
+                "class": "text",
+                "x": 65,
+                "y": 259,
+                "height": 124,
+                "width": 468,
+                "leftCorner": [
+                    65,
+                    259
+                ],
+                "rightCorner": [
+                    533,
+                    383
+                ],
+                "text": "R:  Dezinteresul fata de scoala si lipsa de respect fata de colegi si\nfata de cadrele didactice cum se explica?\n\ni Ei...aceasta \u00a2 o problema foarte delicati, Raspunsul la aceasta intrebare\n\neste foarte simplu:educatia pe care o primeste fiecare in familia sa; respectul fata\n\nde ceilalti si bunul simt ar trebui si-si aiba ridacinile in familia fiecdruia,\nR\\ Care ar fi in opinia dumneavoastrd cauzele neimplicdrii unor parinti in viata\nscolard a copiilor lor?"
+            },
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 65,
+                "y": 113,
+                "height": 124,
+                "width": 468,
+                "leftCorner": [
+                    65,
+                    113
+                ],
+                "rightCorner": [
+                    533,
+                    237
+                ],
+                "text": "I: Acesta e un subiect foarte complex, greu de clasificat in cateva cuvinte. As\nputea si prezint, pe scurt, c\u00e9teva cauze ale comportementului si limbajului\nagresiv.in primul rand, e bine de stiut cd agresivitatea se invata, De unde\ninvatam sa fim agresivi? Din familie, din grupul de prieteni, de la colegii de\n\nscoala, ete.\nSfatul meu, in ceea ce priveste agresivitatea de orice fel ar fi ea, este si nu\nraspundem agresivitati"
+            },
+            "30": {
+                "class": "text",
+                "x": 65,
+                "y": 32,
+                "height": 73,
+                "width": 441,
+                "leftCorner": [
+                    65,
+                    32
+                ],
+                "rightCorner": [
+                    506,
+                    105
+                ],
+                "text": "specialistul va poatd oferi o alti viziune asupra dificultatilor cu care vi\nconfruntati\n\nR: _ Compotamentul gi limbajul agresiv folosit astizi de ci\nfactori se datoreaza?"
+            }
+        }
+    },
+    "img_41": {
+        "page": "41",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "31": {
+                "class": "text",
+                "x": 510,
+                "y": 794,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    510,
+                    794
+                ],
+                "rightCorner": [
+                    533,
+                    816
+                ],
+                "text": "41"
+            },
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 130,
+                "y": 62,
+                "height": 31,
+                "width": 340,
+                "leftCorner": [
+                    130,
+                    62
+                ],
+                "rightCorner": [
+                    470,
+                    93
+                ],
+                "text": "PASIUNEA NOASTRA ESTE TEATRUL"
+            }
+        }
+    },
+    "img_42": {
+        "page": "42",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 510,
+                "y": 794,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    510,
+                    794
+                ],
+                "rightCorner": [
+                    535,
+                    816
+                ],
+                "text": "42"
+            },
+            "38": {
+                "class": "text",
+                "x": 216,
+                "y": 683,
+                "height": 59,
+                "width": 202,
+                "leftCorner": [
+                    216,
+                    683
+                ],
+                "rightCorner": [
+                    418,
+                    742
+                ],
+                "text": "Onisteanu Gabriela,\nClasa a VIII-a C\n\n \n\nProfesor indrumator - Lupu Dana"
+            },
+            "39": {
+                "class": "text",
+                "x": 65,
+                "y": 148,
+                "height": 513,
+                "width": 467,
+                "leftCorner": [
+                    65,
+                    148
+                ],
+                "rightCorner": [
+                    532,
+                    661
+                ],
+                "text": "\u00abprima incercare stiinfificd de determinare a vitezei luminii in aer, apartine Tui\nGalileo Galilei (1607)?\n\nluminii solare ii trebuie aproximativ 8 minute si ajunga pe Pimant?\n\nlumina se propaga in vid cu aproximativ 300.000 km/s, de dowd milioane de\nori mai repede decat un glont?\n..fezervele de api ale Terrei se menfin constante datorita circuitului permanent\nal apei in natura, in care pidurile au un rol important?\n\nrice suprafata de teren poate fi reprezentatd cartographic?\n-..0 atmosfera lipsita de vapori de apa se realizeaza intr-un vas special de\naborator numit exsicator?\n--la inceputul fazei de constituire a imperiilor coloniale, Columb intuieste\nexistenta unui nou continent?\n\n-lumina reflectata de o oglinda poate fi vazutd de la 40 km?\n-.-umbra iti poate indica momentul zilei? Umbrele sunt lungi dimineata si seara,\nsi sunt scurte le prinz c\u2019nd Soarele este deasupra capului\n\n-notatia unui vector printr-o literd supraliniata cu  sigeati a fost compusd de\nL.Brillouin si P.Langevin,in 1912?\n\nregula paralelogramului pentru compunerea vectorilor a fost pusd in evident\u2019\nempiric, pentru forte, de catre Heron (sec. .i.e.n.) si stabilita axperimental de\nSStevin, in 1600?\n\nproductia secundara este real\necosi\n\n \n\n \n\n \n\n \n\n8 de energia acumulata in biomasa unui\n(em ca urmare a asimilatiei organismelor heterotrofe?\n..eficienta ecologica exprima echilibrul numeric dintre diferitele specii dintr-un\necosistem, in stransa legatura cu productia nivelurile trofice?\n\nfn see. XV-XVI au apiirut tratate de athitectura civild si militard, de tehnica\nminierd, metalurgie si pirotehnica?\nirculatia permanenta si reversibild a elementelor chimice intre mediul abiotic\nsi organismele vii ale biocenezei si din organismelor vii din now in biotop se\nnumesc circuit biogeochimi\n--introducdnd lupa in apa, imaginile nu vor fila fel de mari ca in aer, ele find\naproape egale cu obiectul?"
+            },
+            "40": {
+                "class": "text",
+                "x": 234,
+                "y": 77,
+                "height": 33,
+                "width": 132,
+                "leftCorner": [
+                    234,
+                    77
+                ],
+                "rightCorner": [
+                    366,
+                    110
+                ],
+                "text": "STIATICA...?"
+            }
+        }
+    },
+    "img_43": {
+        "page": "43",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "41": {
+                "class": "text",
+                "x": 510,
+                "y": 794,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    510,
+                    794
+                ],
+                "rightCorner": [
+                    535,
+                    816
+                ],
+                "text": "43"
+            },
+            "42": {
+                "class": "text",
+                "x": 337,
+                "y": 636,
+                "height": 44,
+                "width": 194,
+                "leftCorner": [
+                    337,
+                    636
+                ],
+                "rightCorner": [
+                    531,
+                    680
+                ],
+                "text": "Scutiirasu Mi"
+            },
+            "43": {
+                "class": "text",
+                "x": 65,
+                "y": 166,
+                "height": 449,
+                "width": 469,
+                "leftCorner": [
+                    65,
+                    166
+                ],
+                "rightCorner": [
+                    534,
+                    615
+                ],
+                "text": "materialele plastice sunt folosite pentru constructia lentilelor ochelarilor de\nprotectie?\nih cuvant pronuntat intre cele dou aripi ale cladirii castelului Simioneta de\nJang Milano este repetat de 40 de ori?\nmorile de vant nu sunt poluante, dar sunt mari si fac mult zgomot?\n--sunetul parcurge 340m/s\n---Pielea este cel mai greu organ din corp? Ea cantareste 4ke.\n{in 24 ore,cantitatea de urina primara formata este de 180 I, in vreme ce urina\neliminata insumeaza doar 1,5 1?\n bucatd de ciocolat\u00e9 de 125g are un continut energetic de 240k, ceea\ninseamna ca prin consumarea ei se obtine 0 cantitate de energie suficienta pentru\n\u00a9 partida de tenis cu 0 durata de 0 ora?\n--intr-un punet minuscul ficut cu creionul sunt 30.000.000,000.000.000 atom?\n\u2018numele celui mai rar element de pe Pamant este astatin (69g in toata scoarta\nPamantului )?\n..-oamenii sunt obignuiti si recicleze din cele mai vechi timpuri?\n---pe parcursul unei vieti de 70 de ani, inima unui om bate de 3 miliarde de ori\n\u2018un copil nou-nascut, dupa eateva zile dupa nastere,isi cunoaste mama dupa\nmiros?\n\u2018veninul unor anumite specii de scorpioni poate ucide un cdine in 7 minute gi\nde om in cateva ore?\n...cel mai hranitor fruct din lume este avocado?\n--balena albastra este cel mai mare animal viu,c\u00e9ntdrind pana la 160 tone?\ncele mai grele pisdri care pot s& sustind zborul cu batai din aripi pentru\nperioade lungi de timp sunt lebedele, care cdntaresc pana la 15kg si au o\naverguri a aripilor de 2,5 metri?\n.. toatd cantitatea de aur din lume poate fi stransd intr-un cub cu latura de 18 m?"
+            },
+            "44": {
+                "class": "text",
+                "x": 234,
+                "y": 62,
+                "height": 34,
+                "width": 132,
+                "leftCorner": [
+                    234,
+                    62
+                ],
+                "rightCorner": [
+                    366,
+                    96
+                ],
+                "text": "STIATICA...2"
+            }
+        }
+    },
+    "img_44": {
+        "page": "44",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    }
+}

@@ -1,0 +1,576 @@
+{
+    "numberOfPages": 154,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 212,
+                "y": 919,
+                "height": 38,
+                "width": 166,
+                "leftCorner": [
+                    212,
+                    919
+                ],
+                "rightCorner": [
+                    378,
+                    957
+                ],
+                "text": "editura pm, 2014"
+            },
+            "2": {
+                "class": "text",
+                "x": 213,
+                "y": 457,
+                "height": 36,
+                "width": 158,
+                "leftCorner": [
+                    213,
+                    457
+                ],
+                "rightCorner": [
+                    371,
+                    493
+                ],
+                "text": "Proza scurta"
+            },
+            "3": {
+                "class": "text",
+                "x": 348,
+                "y": 397,
+                "height": 52,
+                "width": 110,
+                "leftCorner": [
+                    348,
+                    397
+                ],
+                "rightCorner": [
+                    458,
+                    449
+                ],
+                "text": "poteu"
+            },
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 130,
+                "y": 394,
+                "height": 49,
+                "width": 178,
+                "leftCorner": [
+                    130,
+                    394
+                ],
+                "rightCorner": [
+                    308,
+                    443
+                ],
+                "text": "Dougzeci"
+            },
+            "6": {
+                "class": "text",
+                "x": 295,
+                "y": 155,
+                "height": 47,
+                "width": 113,
+                "leftCorner": [
+                    295,
+                    155
+                ],
+                "rightCorner": [
+                    408,
+                    202
+                ],
+                "text": "Lovin"
+            },
+            "7": {
+                "class": "text",
+                "x": 176,
+                "y": 151,
+                "height": 58,
+                "width": 119,
+                "leftCorner": [
+                    176,
+                    151
+                ],
+                "rightCorner": [
+                    295,
+                    209
+                ],
+                "text": "Virgil"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 94,
+                "y": 737,
+                "height": 22,
+                "width": 77,
+                "leftCorner": [
+                    94,
+                    737
+                ],
+                "rightCorner": [
+                    171,
+                    759
+                ],
+                "text": "(821,135.1-32"
+            },
+            "9": {
+                "class": "text",
+                "x": 94,
+                "y": 663,
+                "height": 67,
+                "width": 291,
+                "leftCorner": [
+                    94,
+                    663
+                ],
+                "rightCorner": [
+                    385,
+                    730
+                ],
+                "text": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nLOVIN, VIRGIL\n\nDouazeci si patru / Virgil Lovin. - lagi: PIM, 2014\nISBN 978-606-13-1801-8"
+            },
+            "10": {
+                "class": "text",
+                "x": 379,
+                "y": 479,
+                "height": 25,
+                "width": 59,
+                "leftCorner": [
+                    379,
+                    479
+                ],
+                "rightCorner": [
+                    438,
+                    504
+                ],
+                "text": "700497"
+            },
+            "11": {
+                "class": "text",
+                "x": 96,
+                "y": 458,
+                "height": 67,
+                "width": 279,
+                "leftCorner": [
+                    96,
+                    458
+                ],
+                "rightCorner": [
+                    375,
+                    525
+                ],
+                "text": "Editura acreditata CNCSIS \u2014 66/2010\n\nSoseaua Stefan cel Mare si Sfint nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.715"
+            },
+            "12": {
+                "class": "text",
+                "x": 86,
+                "y": 189,
+                "height": 33,
+                "width": 405,
+                "leftCorner": [
+                    86,
+                    189
+                ],
+                "rightCorner": [
+                    491,
+                    222
+                ],
+                "text": "Coperta: Gris \u2014 Portretul Juanei Gris"
+            },
+            "13": {
+                "class": "text",
+                "x": 86,
+                "y": 149,
+                "height": 33,
+                "width": 334,
+                "leftCorner": [
+                    86,
+                    149
+                ],
+                "rightCorner": [
+                    420,
+                    182
+                ],
+                "text": "Tehnoredactare: Codrut Lovin"
+            },
+            "14": {}
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 212,
+                "y": 919,
+                "height": 38,
+                "width": 166,
+                "leftCorner": [
+                    212,
+                    919
+                ],
+                "rightCorner": [
+                    378,
+                    957
+                ],
+                "text": "editura pm, 2014"
+            },
+            "16": {
+                "class": "text",
+                "x": 348,
+                "y": 404,
+                "height": 52,
+                "width": 110,
+                "leftCorner": [
+                    348,
+                    404
+                ],
+                "rightCorner": [
+                    458,
+                    456
+                ],
+                "text": "patra"
+            },
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 130,
+                "y": 401,
+                "height": 48,
+                "width": 178,
+                "leftCorner": [
+                    130,
+                    401
+                ],
+                "rightCorner": [
+                    308,
+                    449
+                ],
+                "text": "Douazeci"
+            },
+            "19": {
+                "class": "text",
+                "x": 295,
+                "y": 162,
+                "height": 46,
+                "width": 113,
+                "leftCorner": [
+                    295,
+                    162
+                ],
+                "rightCorner": [
+                    408,
+                    208
+                ],
+                "text": "Lovin"
+            },
+            "20": {
+                "class": "text",
+                "x": 176,
+                "y": 157,
+                "height": 59,
+                "width": 119,
+                "leftCorner": [
+                    176,
+                    157
+                ],
+                "rightCorner": [
+                    295,
+                    216
+                ],
+                "text": "Virgil"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {}
+    },
+    "img_149": {
+        "page": "149",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "21": {
+                "class": "text",
+                "x": 87,
+                "y": 692,
+                "height": 283,
+                "width": 433,
+                "leftCorner": [
+                    87,
+                    692
+                ],
+                "rightCorner": [
+                    520,
+                    975
+                ],
+                "text": "imbuibatii din vest cu masinile lor luxoase,\nse vaitau de drumurile comuniste. De peste 20\nde ani suntem mai capitalisti decat ei, in sensul\nacumularii, dar nu mai vad pe litoralul romanesc\nnici urma de Bugatti sau Ferrari cu numar strain.\nDe ce? Nu le plac drumurile noastre capitaliste?\n\nEu nu va inteleg, domnilor evoluati! Acum avem\nde toate pentru a va simti ca la voi acasa: dro-\nguri si drogati, arme si impuscaturi, civilizatia\nstrazii de tip occidental - este ucis omul in plina\nstrada si nu intervine nimeni - mancare manipu-\n\n149"
+            },
+            "22": {
+                "class": "text",
+                "x": 87,
+                "y": 89,
+                "height": 612,
+                "width": 433,
+                "leftCorner": [
+                    87,
+                    89
+                ],
+                "rightCorner": [
+                    520,
+                    701
+                ],
+                "text": "invitatie portiera din dreapta. insa, multe din\nsubnutritele noastre, speriate de bombe, se re-\nfugiau in rudimentarele Dacii. Uneori, samarite-\nnilor vestici le reusea. Numai ca, dupa aceea, de\nmulte ori, dezamagirea era reciproca. Ca sa in-\ntelegeti, imaginati-va urmatorul dialog :\n\n- Ciao! Cum te cheama?\n\n- Maria.\n\n- Maria inocenta?\n\n- Nu! Maria duo centa! Dar pe tine?\n\n- Luigi.\n\n- Luigi Longo?\n\n- No! Luigi normale.\n\nlar la sfrsitul sejurului, folosind cuvinte hi-\nbridizate:\n\n- Ciao, Maria...Mia dolari falso\n- No fa niente Luigi \u2014 mia sifiliso certo!\n\nCred ca fetele care refuzau, desi li se pro-\nmitea raiul vestic, daruri ametitoare, sufereau de\nimbecila educatie comunista, de a nu-si trada ta-\nra parasind-o sau culcandu-se cu strainii, imbra-\ntisand saracia impregnata cu iz patriotic. Cine\nnaiba o fi formulat paguboasa expresie: ,Sarac\nsi curat!\u201d Adica, boschetarii care, in curand, vor\najunge la paritate, numeric vorbind, cu acei ca-\nre-si mai pot permite o locuinta, tipa de curate-"
+            },
+            "23": {}
+        }
+    },
+    "img_150": {
+        "page": "150",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "24": {
+                "class": "text",
+                "x": 79,
+                "y": 92,
+                "height": 883,
+                "width": 434,
+                "leftCorner": [
+                    79,
+                    92
+                ],
+                "rightCorner": [
+                    513,
+                    975
+                ],
+                "text": "lata genetic, supermarketuri pline si muritori de\nfoame, absolventi de liceu care nu au auzit de\nEminescu. Avem zeci de posturi tv romanesti\ncare promoveaza agresivitatea, senzationalul,\nincultura, kitsch-ul. Cu siguranta, nu ati avea\ntimp sa va plictisiti. Nu mai exista nici pericolul\nde a va rataci prin muntii nostri impaduriti pana\nin 89. Cat de originale sunt astazi fostele dealuri\nimpadurite, devenite acum cocoase golase, in\ncurand nemaifiind nevoie sa dati alti bani pentru\nEgipt sau Sahara. Nu va luati dupa gurile rele\ncare spun ca multi dintre romanii de odinioara\ns-au metamorfozat peste noapte. Nu este ade-\nvarat ca economia subterana submineaza buge-\ntul tari. Guvernul are subsolul sub control! Veniti\nla noi, domnilor investitori straini! Salvati-ne de\nlucrurile de prisos! De atata surplus ce avem,\noferim ajutor social chiar si celor care au vile de\niti iau ochii si masini de-ti iau picioarele! Avem si\njocuri nationale postdecembriste, cum ar fi alba-\nneagra, germinatorul giumbuslucurilor elitiste din\ntribunale. Scuze! La tribunal nu se practica alba-\nneagra, ci din alb, negru! Si invers!\n\nAm scapat de Bau-baul comunismului ca-\nre ne dadea caldura cu taraita. Acum este atat\nde multa ca ne debransam singuri! Cat priveste\ncurentul electric, avem berechet si daca nu mai\navem chef sa-l platim, nici nu este nevoie sa\nalergam - ne debranseaza ei. Nu pe toti! O sa fiti\nun pic dezamagiti, occidentalilor - fetele noastre\nnu mai sunt impresionate de masinile voastre!\nRom\u00e9nii sarguinciosi se inscriu din timp pe liste-\nle celor mai tari bolizi de fabricatie vest. La noi,\ndoamnele au obtinut ce au ravnit de-o viata: sa\nparcurga cei 50-100 de metri cat au pana in pia-\nta sau la firma, intr-un luxos 4x4, barbatul, aflat\npe scaunul din dreapta, savurand fericirea si vo-\ncabularul manivelist al nepretuitei lui consoarte.\n\n150"
+            },
+            "25": {}
+        }
+    },
+    "img_151": {
+        "page": "151",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "26": {
+                "class": "text",
+                "x": 86,
+                "y": 92,
+                "height": 883,
+                "width": 434,
+                "leftCorner": [
+                    86,
+                    92
+                ],
+                "rightCorner": [
+                    520,
+                    975
+                ],
+                "text": "Veniti la noi, dragii nostri de pretutindeni si cum-\nparati cu o suta de dolari ceea ce prostul de\nCeausescu a construit cu milioane. Faceti-ne\ndependenti de voi, ca tare v-am mai dus dorul!\nVeniti si va alegeti stejarii si brazii cei mai se-\nmeti, asteapta de secole. Dupa care, bucura-\nti-ne cu mobile ultra, pe care sa dam atatia bani\nincat sa le iubim toata viata! Luati, pe un leu sau\ngratis tot ce ne aminteste de comunism. depo-\nsedati-ne de telefonie, petrol, aluminiu, cupru,\naur (ochiul dracului!), de inteligenta romaneas-\nca... Epatati-ne cu vinurile voastre care sunt mai\nfeteasca decat feteasca noastra, mai Sauvignon\ndecat al nostru, asa ca merita sa fie de zece ori\nmai scumpe. Aveti dreptate sa fiti revoltati pe\nsoiurile noastre autohtone, primitive, care dupa\ntimpul lui Burebista au ramas neimbunatatite,\narhaismul din noi refuzand binecuvantatele tra-\ntamente cu tot felul de chimicale, izvor de sana-\ntate! Faceti-ne praf podgoriile monopolizatoare\npana nu demult de premii internationale. invata-\ntine sa sc4pam de aceste preocupari comunis-\nte, lipsite de modestie. Ce ne trebuie noua pod-\ngorie, agricultura sau industrie? Cu asta ne-a\nmaltratat Ceausescu si uite unde am ajuns! No-\nroc de caritabilul FMI! Noi avem nevoie de pla-\niuri mioritice, unde sa zburde mieii, iar ciobanasii\nimbracati traditional, in blugi si geaca de fas sa\nconserve traditia, producand deliciosul cas de\noaie din lapte de vaca. In rest, de nutritia sana-\ntoasa, stiintific\u00e9 a romanului, are cine sa se ocu-\npe. Mustrati de constiinta\u00e9 ca sute de ani au golit\nde aur visteriile tarilor romane, in compensatie,\nunele natii ne umplu galantarele marketurilor cu\nproduse care de care mai aratoase.\n\nAsta-noapte am avut un cosmar. O sa ma\nintrebati daca am sarit din somn? Nu prea. Se\nfacea ca revenise Ceausescu la putere si ca re-\n\n151"
+            },
+            "27": {}
+        }
+    },
+    "img_152": {
+        "page": "152",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "28": {
+                "class": "text",
+                "x": 277,
+                "y": 947,
+                "height": 28,
+                "width": 41,
+                "leftCorner": [
+                    277,
+                    947
+                ],
+                "rightCorner": [
+                    318,
+                    975
+                ],
+                "text": "152"
+            },
+            "29": {
+                "class": "text",
+                "x": 80,
+                "y": 92,
+                "height": 346,
+                "width": 433,
+                "leftCorner": [
+                    80,
+                    92
+                ],
+                "rightCorner": [
+                    513,
+                    438
+                ],
+                "text": "instituise Legea18. Un utopic individul, ce mai!\nLegea opera doar pe teritoriul Romaniei! Apoi,\nnaivul, voia ca tot romanul sa fie obligat sa mun-\nceasca, sai se asigure loc de munca, sa i se\ndea locuinta gratuita, sa nationalizeze tot ce era\nprofitabil pentru tara, sa termine cu imprumuturi-\nle etc. Ce mai, nu a uitat nici de canalele de iri-\ngatie, navigabile, pe care le incepuse, consi-\nderandu-le ca fiind coloana vertebral\u00e9 a unei\ntari. Se facea ca a ajuns si la mine acasa si s-a\ndus direct la frigider. M-a intrebat de ce este gol\ncand magazinele sunt pline. |-am dat un raspuns\npe masura: ,Fiindca pe timpul dumitale, frigide-\nrele romanilor erau pline cand magazinele erau\ngoale!\u201d"
+            },
+            "30": {}
+        }
+    },
+    "img_153": {
+        "page": "153",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "31": {
+                "class": "text",
+                "x": 283,
+                "y": 947,
+                "height": 28,
+                "width": 41,
+                "leftCorner": [
+                    283,
+                    947
+                ],
+                "rightCorner": [
+                    324,
+                    975
+                ],
+                "text": "153"
+            },
+            "32": {
+                "class": "text",
+                "x": 135,
+                "y": 749,
+                "height": 179,
+                "width": 352,
+                "leftCorner": [
+                    135,
+                    749
+                ],
+                "rightCorner": [
+                    487,
+                    928
+                ],
+                "text": "PARTEA A IITA\nJoaca..\nDormitorul 6.\n\nCe mica-i lumea!"
+            },
+            "33": {
+                "class": "text",
+                "x": 135,
+                "y": 481,
+                "height": 248,
+                "width": 350,
+                "leftCorner": [
+                    135,
+                    481
+                ],
+                "rightCorner": [
+                    485,
+                    729
+                ],
+                "text": "PARTEA A ILA\nGhilotina.\nIntalnirea.\nBijutierul.\nTransplantul\n\nAsigurarea.\nJurnalul...\nCamera de pe bei"
+            },
+            "34": {
+                "class": "text",
+                "x": 135,
+                "y": 213,
+                "height": 252,
+                "width": 352,
+                "leftCorner": [
+                    135,
+                    213
+                ],
+                "rightCorner": [
+                    487,
+                    465
+                ],
+                "text": "PARTEA I COGITO...\nOrologiul.\n\nAmfifobie\nNuferi..\nConsonante.\nTimpul."
+            },
+            "35": {
+                "class": "text",
+                "x": 258,
+                "y": 165,
+                "height": 28,
+                "width": 107,
+                "leftCorner": [
+                    258,
+                    165
+                ],
+                "rightCorner": [
+                    365,
+                    193
+                ],
+                "text": "CUPRINS"
+            },
+            "36": {}
+        }
+    },
+    "img_154": {
+        "page": "154",
+        "pageWidth": "600",
+        "pageHeight": "1043",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 150,
+                "y": 825,
+                "height": 124,
+                "width": 299,
+                "leftCorner": [
+                    150,
+                    825
+                ],
+                "rightCorner": [
+                    449,
+                    949
+                ],
+                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua Stefan cel Mare gi Sfint nr. 4, lagi ~ 700497\n\u2018Tel. 0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimeopy.c0\nwwwpimcopy.r0"
+            },
+            "38": {
+                "class": "text",
+                "x": 249,
+                "y": 771,
+                "height": 47,
+                "width": 102,
+                "leftCorner": [
+                    249,
+                    771
+                ],
+                "rightCorner": [
+                    351,
+                    818
+                ],
+                "text": "20m"
+            },
+            "39": {
+                "class": "text",
+                "x": 217,
+                "y": 733,
+                "height": 32,
+                "width": 166,
+                "leftCorner": [
+                    217,
+                    733
+                ],
+                "rightCorner": [
+                    383,
+                    765
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

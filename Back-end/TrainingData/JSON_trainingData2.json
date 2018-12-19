@@ -1,0 +1,860 @@
+{
+    "numberOfPages": 28,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 5,
+                "y": 723,
+                "height": 121,
+                "width": 590,
+                "leftCorner": [
+                    5,
+                    723
+                ],
+                "rightCorner": [
+                    595,
+                    844
+                ],
+                "text": "GRUPUL SCOLAR INDUSTRIAL\n\u00bbNICOLAE IORGA\u201d,\n\nNEGRESTI, JUDETUL VASLUI"
+            },
+            "2": {},
+            "3": {
+                "class": "text",
+                "x": 145,
+                "y": 189,
+                "height": 31,
+                "width": 302,
+                "leftCorner": [
+                    145,
+                    189
+                ],
+                "rightCorner": [
+                    447,
+                    220
+                ],
+                "text": "revista bianuala de cultura gi educatie"
+            },
+            "4": {
+                "class": "text",
+                "x": 1,
+                "y": 8,
+                "height": 170,
+                "width": 598,
+                "leftCorner": [
+                    1,
+                    8
+                ],
+                "rightCorner": [
+                    599,
+                    178
+                ],
+                "text": "ARCADIA"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 54,
+                "y": 797,
+                "height": 22,
+                "width": 142,
+                "leftCorner": [
+                    54,
+                    797
+                ],
+                "rightCorner": [
+                    196,
+                    819
+                ],
+                "text": "ARCADIA, NRA, MAL 2011"
+            },
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 70,
+                "y": 365,
+                "height": 118,
+                "width": 461,
+                "leftCorner": [
+                    70,
+                    365
+                ],
+                "rightCorner": [
+                    531,
+                    483
+                ],
+                "text": "stacojie ..\nFabula .\n\nStiagi\n\nMon ami imaginaire .....\n\nAccente .."
+            },
+            "8": {
+                "class": "text",
+                "x": 542,
+                "y": 188,
+                "height": 149,
+                "width": 28,
+                "leftCorner": [
+                    542,
+                    188
+                ],
+                "rightCorner": [
+                    570,
+                    337
+                ],
+                "text": "14\n\n16"
+            },
+            "9": {
+                "class": "text",
+                "x": 71,
+                "y": 188,
+                "height": 177,
+                "width": 460,
+                "leftCorner": [
+                    71,
+                    188
+                ],
+                "rightCorner": [
+                    531,
+                    365
+                ],
+                "text": "Argument\nNegresti-scurt istoric ..\n\nMaresalul Constantin Prezan si Schinetea ...\nBaschetul\u2014marea mea dragoste\n\nCupa liceelor\u201d la Negresti ...\n\nRezultate foarte bune pentru baschetbalistele liceului nostru\n\n \n\nHester Prynne \u2014 imaginea rusinii, Nathaniel Hawthorne ~ Litera"
+            },
+            "10": {
+                "class": "text",
+                "x": 250,
+                "y": 115,
+                "height": 28,
+                "width": 84,
+                "leftCorner": [
+                    250,
+                    115
+                ],
+                "rightCorner": [
+                    334,
+                    143
+                ],
+                "text": "SUMAR"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 48,
+                "y": 786,
+                "height": 35,
+                "width": 518,
+                "leftCorner": [
+                    48,
+                    786
+                ],
+                "rightCorner": [
+                    566,
+                    821
+                ],
+                "text": "MAL 2011.3"
+            },
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 103,
+                "y": 419,
+                "height": 27,
+                "width": 58,
+                "leftCorner": [
+                    103,
+                    419
+                ],
+                "rightCorner": [
+                    161,
+                    446
+                ],
+                "text": "Traim"
+            },
+            "14": {
+                "class": "text",
+                "x": 51,
+                "y": 418,
+                "height": 278,
+                "width": 508,
+                "leftCorner": [
+                    51,
+                    418
+                ],
+                "rightCorner": [
+                    559,
+                    696
+                ],
+                "text": "intr-o societate in care valorile morale sunt\ndistruse treptat, in care oamenii isi uita propria origine, isi\nam fi, nu\n\n   \n\npierd felurile existentiale insd, oricat de nenoroci\nuitdm, nu ne permitem, deci sperdim la mai bine, la mai mult, la\no lume ideald, utopica, valoroasa. Fiecare are lumea sa,\n, Arcadia\u201d sa, un t\u00e9rdm al ideilor pure, un t\u00e9r\u00e9m al inocenjei si\nal speranjei.\n\nArcadia este revista oricarui tanar care isi doreste sa-si\ndepiseasc\u00e9 limitele, sa descopere noi valori, s\u00e9-si scoat\u00e9 la\n\nlumind talentul, sub indrumarea cadrelor didactice."
+            },
+            "15": {},
+            "16": {
+                "class": "text",
+                "x": 169,
+                "y": 226,
+                "height": 31,
+                "width": 138,
+                "leftCorner": [
+                    169,
+                    226
+                ],
+                "rightCorner": [
+                    307,
+                    257
+                ],
+                "text": "concretizata pe"
+            },
+            "17": {
+                "class": "text",
+                "x": 458,
+                "y": 171,
+                "height": 26,
+                "width": 64,
+                "leftCorner": [
+                    458,
+                    171
+                ],
+                "rightCorner": [
+                    522,
+                    197
+                ],
+                "text": "nevoia"
+            },
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 52,
+                "y": 170,
+                "height": 276,
+                "width": 507,
+                "leftCorner": [
+                    52,
+                    170
+                ],
+                "rightCorner": [
+                    559,
+                    446
+                ],
+                "text": "Trdind intr-o societate informationala, | nevoia\n\ncunoastere este acerbda, atat la nivelul educatului, cat si al\neducatorului, [concretizatii pe] toate planurile viefii social-\nculturale.\n\n, Nasterea\u201d revistei este rezultatul nevoii de cunoastere,\n\n     \n\ndar si al necesitatii de a populariza, de a scoate dintr-un con\nde umbri: activitajile care se desfagoara, an de an, in cadrul\n\nliceului nostru.\n\n  \n   \n\nDe ce acest tithi?!\n\n| [Traim| intr-o societate | in| care valorile morale sunt}"
+            },
+            "20": {
+                "class": "text",
+                "x": 172,
+                "y": 170,
+                "height": 27,
+                "width": 56,
+                "leftCorner": [
+                    172,
+                    170
+                ],
+                "rightCorner": [
+                    228,
+                    197
+                ],
+                "text": "intr-o"
+            },
+            "21": {
+                "class": "text",
+                "x": 104,
+                "y": 170,
+                "height": 27,
+                "width": 64,
+                "leftCorner": [
+                    104,
+                    170
+                ],
+                "rightCorner": [
+                    168,
+                    197
+                ],
+                "text": "Traind"
+            },
+            "22": {
+                "class": "text",
+                "x": 48,
+                "y": 44,
+                "height": 48,
+                "width": 516,
+                "leftCorner": [
+                    48,
+                    44
+                ],
+                "rightCorner": [
+                    564,
+                    92
+                ],
+                "text": "Argument"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 54,
+                "y": 797,
+                "height": 22,
+                "width": 142,
+                "leftCorner": [
+                    54,
+                    797
+                ],
+                "rightCorner": [
+                    196,
+                    819
+                ],
+                "text": "ARCADIA, NRA, MAL 2011"
+            },
+            "24": {},
+            "25": {},
+            "26": {},
+            "27": {},
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 251,
+                "y": 70,
+                "height": 692,
+                "width": 307,
+                "leftCorner": [
+                    251,
+                    70
+                ],
+                "rightCorner": [
+                    558,
+                    762
+                ],
+                "text": "Aflat la distanta de circa 50 de\n\nkilometri de municipiile Roman\nsi lasi si la circa 35 de kilometri de munici-\npiul Vaslui, orasul Negresti reprezinta 0 lo-\ncalitate bogata in vestigii arheologice. Ast-\nfel, zona Negresti este atestatii arheologic\ndin timpuri vechi, fapt demonstrat de s\nturile ficute inainte de anul 1955 de catre\ncercetitorii_Institutului de Arheologie si\nIstorie A. D. Xenopol\u201d din Iasi, Cercet\nrile au scos la iveal o asezare, in zona Ne-\ngresti \u2014cimitirul evreiesc, care prezinti 0\nindelungati perioada de  locuire, din\nHallstattul timpuriu pani in perioada feuda-\nlismului dezvoltat.\n\nStatiunea arheologicd ce data din\nanul 1955 continea sdpaturi de suprafata.\nDupa aceasti data, profesorul Ghenuta\nComan semnaleazi o bogati asezare\nprefeudali si feudal\u2019. Datoriti construirii\ncomplexului zootehnic in. stinga soselei\nBuhdiesti \u2014 Negresti, la intrarea in orasul\nNegresti, stafiunea arheologicd a fost\nderanjat partial. In anul 1978, Directia\nApelor Prut a  inceput lucririle de\nregularizare a raului Barlad in sectorul\nNegresti-Drigesti_ ce au distrus in mare\nparte zona ocupati de statiunea arheologica.\nAstizi nu se mai vad urme arheologice, ci\ndoar constructiile parisite ale  fostului\ncomplex zootehnic.\n\nAsezarea si numele localitatii Negresti\ndateaza de mai bine de 500 de ani, aga cum\nprecizeazi profesorul universitar Mircea\nCiubotaru in articolul __,,Negrestii\nrecuperiiri ale memoriei istorice\u201d."
+            },
+            "30": {
+                "class": "text",
+                "x": 74,
+                "y": 31,
+                "height": 36,
+                "width": 234,
+                "leftCorner": [
+                    74,
+                    31
+                ],
+                "rightCorner": [
+                    308,
+                    67
+                ],
+                "text": "Negresti-scurt istoric"
+            }
+        }
+    },
+    "img_23": {
+        "page": "23",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "31": {
+                "class": "text",
+                "x": 396,
+                "y": 796,
+                "height": 21,
+                "width": 171,
+                "leftCorner": [
+                    396,
+                    796
+                ],
+                "rightCorner": [
+                    567,
+                    817
+                ],
+                "text": "ARCADIA, NR I, MAI 2011."
+            },
+            "32": {
+                "class": "text",
+                "x": 299,
+                "y": 751,
+                "height": 26,
+                "width": 207,
+                "leftCorner": [
+                    299,
+                    751
+                ],
+                "rightCorner": [
+                    506,
+                    777
+                ],
+                "text": "Suna Claudia, clasa a XII-a E"
+            },
+            "33": {
+                "class": "text",
+                "x": 63,
+                "y": 701,
+                "height": 48,
+                "width": 442,
+                "leftCorner": [
+                    63,
+                    701
+                ],
+                "rightCorner": [
+                    505,
+                    749
+                ],
+                "text": "Bibliografie: G. Calin .Viata lui Mihai Eminescu\u201d, Editura\n\n \n\nCartex , Bucuresti, 2005"
+            },
+            "34": {},
+            "35": {
+                "class": "text",
+                "x": 65,
+                "y": 619,
+                "height": 49,
+                "width": 449,
+                "leftCorner": [
+                    65,
+                    619
+                ],
+                "rightCorner": [
+                    514,
+                    668
+                ],
+                "text": "in urma autopsiei, s-a descoperit ca al siu creier cAntarea peste\n\n \n\n1000 de grame?;"
+            },
+            "36": {
+                "class": "text",
+                "x": 65,
+                "y": 588,
+                "height": 29,
+                "width": 429,
+                "leftCorner": [
+                    65,
+                    588
+                ],
+                "rightCorner": [
+                    494,
+                    617
+                ],
+                "text": "--. a fost asociat cu o nobila familie poloneza, ,,Eminowicz\u201d?."
+            },
+            "37": {
+                "class": "text",
+                "x": 64,
+                "y": 537,
+                "height": 49,
+                "width": 458,
+                "leftCorner": [
+                    64,
+                    537
+                ],
+                "rightCorner": [
+                    522,
+                    586
+                ],
+                "text": "poreclei pe care o primeste de la"
+            },
+            "38": {
+                "class": "text",
+                "x": 65,
+                "y": 506,
+                "height": 30,
+                "width": 468,
+                "leftCorner": [
+                    65,
+                    506
+                ],
+                "rightCorner": [
+                    533,
+                    536
+                ],
+                "text": "in urma plecdrii la Cernauti, acesta devine un romantic incurabil?"
+            },
+            "39": {
+                "class": "text",
+                "x": 65,
+                "y": 475,
+                "height": 29,
+                "width": 433,
+                "leftCorner": [
+                    65,
+                    475
+                ],
+                "rightCorner": [
+                    498,
+                    504
+                ],
+                "text": "Henrieta |-a ingrijit in timpul bolii, desi aceasta era infirma?;"
+            },
+            "40": {},
+            "41": {
+                "class": "text",
+                "x": 63,
+                "y": 393,
+                "height": 46,
+                "width": 473,
+                "leftCorner": [
+                    63,
+                    393
+                ],
+                "rightCorner": [
+                    536,
+                    439
+                ],
+                "text": "\u2018opii eram noi amandoi...\u201d\"evoca momentele de joacd"
+            },
+            "42": {
+                "class": "text",
+                "x": 65,
+                "y": 363,
+                "height": 29,
+                "width": 470,
+                "leftCorner": [
+                    65,
+                    363
+                ],
+                "rightCorner": [
+                    535,
+                    392
+                ],
+                "text": "1u strapunsi de boala?"
+            },
+            "43": {},
+            "44": {
+                "class": "text",
+                "x": 63,
+                "y": 280,
+                "height": 49,
+                "width": 477,
+                "leftCorner": [
+                    63,
+                    280
+                ],
+                "rightCorner": [
+                    540,
+                    329
+                ],
+                "text": "i s-au atribuit diferite nationalitati ca: tured, albaneza, persana, sue-\n\n \n\ndez, rus, bulgara, ruteana, polond si armean"
+            },
+            "45": {
+                "class": "text",
+                "x": 64,
+                "y": 211,
+                "height": 68,
+                "width": 470,
+                "leftCorner": [
+                    64,
+                    211
+                ],
+                "rightCorner": [
+                    534,
+                    279
+                ],
+                "text": ".- cunostea 16 limbi straine, acestea find : latina, italiana, spaniola,\nrom\u00e9na, franceza, germana, engleza, albaneza, lituaniana, paleoslava,\n\n \n\nusa, polona, sarba, greaca, neogreaca si tured\u2019"
+            },
+            "46": {},
+            "47": {
+                "class": "text",
+                "x": 423,
+                "y": 126,
+                "height": 29,
+                "width": 97,
+                "leftCorner": [
+                    423,
+                    126
+                ],
+                "rightCorner": [
+                    520,
+                    155
+                ],
+                "text": "Eminescu"
+            },
+            "48": {},
+            "49": {
+                "class": "text",
+                "x": 119,
+                "y": 56,
+                "height": 60,
+                "width": 223,
+                "leftCorner": [
+                    119,
+                    56
+                ],
+                "rightCorner": [
+                    342,
+                    116
+                ],
+                "text": "Sttaze"
+            }
+        }
+    },
+    "img_24": {
+        "page": "24",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "50": {
+                "class": "text",
+                "x": 53,
+                "y": 799,
+                "height": 22,
+                "width": 142,
+                "leftCorner": [
+                    53,
+                    799
+                ],
+                "rightCorner": [
+                    195,
+                    821
+                ],
+                "text": "ARCADIA, NR I, MAL 2011"
+            },
+            "51": {},
+            "52": {
+                "class": "text",
+                "x": 33,
+                "y": 109,
+                "height": 632,
+                "width": 533,
+                "leftCorner": [
+                    33,
+                    109
+                ],
+                "rightCorner": [
+                    566,
+                    741
+                ],
+                "text": "Chacun a son ami imaginaire, j\u2019en suis\nsire, Beaucoup d\u2019entre vous diriez que c\u2019est\nquelque chose de d\u00e9pass\u00e9e et, peut-\u00e9tre, vous\navez raison : je suis vieux jeux. Mais pourquoi\nne pourra-t-on pas r\u00e9ver durant son enfance,\nprofiter de toutes les avantages que cet age lui\noffre? On est d\u00e9ja grands ? Ce n\u2019est pas vrai.\n\nJe voulais vous pr\u00e9senter un cher ami. Il est Koso !\n\n- ..Koso , salue mon public !\n\n- Ah, bonjour les gars\n\nTout le monde a des r\u00e9ves que puisse confier 4 un ami. Je corresponds\nchaque jour avec lui et, croyez-moi, j\u2019en recois les meilleurs conseils !\n\nPar exemple, un jour je lui ai demand\u00e9 sur une ville oi je voyage.\nQu\u2019est-ce que vous croyez qu'il m\u2019a dit? : Beijing. Pensez-vous pourquoi\nBeijing ? C\u2019est la m\u00e9me question que je lui ai pos\u00e9e. II m\u2019a r\u00e9pondu :\n\n~ Pourquoi pas Beijing? C\u2019est une grande ville chinoise, avec beau-\ncoup de monuments a visiter. La Ville Interdite, c\u2019est l'un des plus myst\u00e9rieux\ndentre eux. Imaginez les grands palais qui abritent la tradition chinoise et sa\nculture. La Chine est un pays tr\u00e9s sp\u00e9cial par son peuple, son h\u00e9ritage, l\u2019intel-\nligence et la sagesse de ses habitants. Chacun sait que la majorit\u00e9 des rem\u00e9des\nmiraculeux y ont la source ; l\u2019acupuncture, par exemple, ne croyez-vous pas\nquelle soit magnifique ? N\u2019oublions pas qu\u2019 Beijing ont eu lieu les Jeux\nOlympiques de l'ann\u00e9e 2008 ?\n\n-Oh ! Ilya beaucoup d\u2019arguments qui m\u2019encouragent d\u2019y voyager !\n\n- Tuas oubli\u00e9 a dire qu\u2019a Beijing il y a aussi l\u2019Op\u00e9ra de Beijing. Sais-\ntu qu\u2019elle a plus de 200 ans ? Qu\u2019est-ce que tu en dis ?\n\n- ... Oui, c\u2019est merveilleux ! Ma m\u00e9re aimerait aller avec moi. Elle\nadore la musique et les spectacles de \u2019op\u00e9ra.\n\n-Mais vous, les gars, avez-vous un ami imaginaire ?\n\nPattends vos r\u00e9ponses dans le prochain num\u00e9ro de la revue.\n\nEleva,\nRotila Loredana,\nclasa a XI-aD"
+            },
+            "53": {
+                "class": "text",
+                "x": 297,
+                "y": 72,
+                "height": 29,
+                "width": 171,
+                "leftCorner": [
+                    297,
+                    72
+                ],
+                "rightCorner": [
+                    468,
+                    101
+                ],
+                "text": "Mon ami imaginaire..."
+            },
+            "54": {},
+            "55": {
+                "class": "text",
+                "x": 44,
+                "y": 47,
+                "height": 151,
+                "width": 31,
+                "leftCorner": [
+                    44,
+                    47
+                ],
+                "rightCorner": [
+                    75,
+                    198
+                ],
+                "text": "Maw"
+            }
+        }
+    },
+    "img_25": {
+        "page": "25",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "56": {
+                "class": "text",
+                "x": 408,
+                "y": 799,
+                "height": 22,
+                "width": 163,
+                "leftCorner": [
+                    408,
+                    799
+                ],
+                "rightCorner": [
+                    571,
+                    821
+                ],
+                "text": "ARCADIA, NRA, MAL 2011. 25"
+            },
+            "57": {
+                "class": "text",
+                "x": 424,
+                "y": 691,
+                "height": 26,
+                "width": 143,
+                "leftCorner": [
+                    424,
+                    691
+                ],
+                "rightCorner": [
+                    567,
+                    717
+                ],
+                "text": "Prof. Rotila Viorica"
+            },
+            "58": {
+                "class": "text",
+                "x": 75,
+                "y": 654,
+                "height": 25,
+                "width": 95,
+                "leftCorner": [
+                    75,
+                    654
+                ],
+                "rightCorner": [
+                    170,
+                    679
+                ],
+                "text": "Mult succes!"
+            },
+            "59": {
+                "class": "text",
+                "x": 25,
+                "y": 123,
+                "height": 521,
+                "width": 542,
+                "leftCorner": [
+                    25,
+                    123
+                ],
+                "rightCorner": [
+                    567,
+                    644
+                ],
+                "text": "Viata omului are mai multe planuri care se intrepatrund si se armor\n\n \n\n      \n\nzeazi, facind-o si fie frumoa: merite traiesti cu intensitate fiecare\nclipa. Avem anumite trdiri deosebite pe care nu le putem uita nici chiar la\nultima suflare si care ne puncteaza viata intr-un anume fel. Inocenta copilariei,\ncAsitoria, nasterea copiiilor, primul nepot, casa ficuti de tine, pomii saditi,\nanimalele iubite, oamenii deosebiti si valorosi pe care ii  intalnesti,\nresponsabilitatea meseriei pe care {i-ai ales-o, toate sunt accente puse pe firul\nvietii tale pe care le indragesti si le aduni cu fiecare an care trece din viata ta.\nAnul 2010 a fost un an care a adaugat inci un accent vietii mele de\nprofesor si pe care |-am asteptat indelung. Sunt Viorica Rotila, profesoara de\nlimba francezi si ma consider norocoasa cd am intalnit oamenii potriviti pentru\na evolua. Find preocupata mereu si mi \u00ab desavarsese \u00bb profesional, am fost\nsfituita si indrumata de cdtre inspectorul responsabil cu programele europene\npe parcursul unor inspectii de grad, si aplic pentru un stagiu. Ghidindu-mi\npasii, am reusit si ob4in un grant pentru doud siptim\u00e9ni la Montpellier,\nregiunea Languedoc Roussillon in prima decada a lunii ianuarie 2010. Stagiul s-\na numit \u201cInnover pour motiver\u201d si a corespuns exact cerindelor mele, A fost 0\nexperien{& extraordinar, mai ales pentru ca eram la prima iesire din tard. Am\nintlnit profesori si inspectori din Finlanda, China, Cehia, Italia, Germania,\nRomania etc. Am aflat multe lucruri interesante, am fost regina pentru o zi (de\nBoboteaza), am vizitat Marsillia, Nimes, S\u00e9te, muzee multe alte locuri\ndeosebite. Aceste mobilititi individuale iti dau ocazia si intalnesti oameni\ninteresan{i, alte culturi, alte mentalitati si te conduc la introspectia viefii tale.\n\n \n\n   \n\n \n\n \n\n \n\n \n \n\n \n\n   \n\n \n\nSunt barometrul formarii tale profesionale, culturii i experientei acumulate\npana atunci.\n\nOrice cadru didactic poate si aplice pentru un grant si si se bucure de\naceasta sansa (poate unica) doar tastind Comenius si va afla cea ce doreste"
+            },
+            "60": {
+                "class": "text",
+                "x": 255,
+                "y": 67,
+                "height": 25,
+                "width": 81,
+                "leftCorner": [
+                    255,
+                    67
+                ],
+                "rightCorner": [
+                    336,
+                    92
+                ],
+                "text": "Accente..."
+            }
+        }
+    },
+    "img_26": {
+        "page": "26",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "61": {
+                "class": "text",
+                "x": 60,
+                "y": 799,
+                "height": 22,
+                "width": 142,
+                "leftCorner": [
+                    60,
+                    799
+                ],
+                "rightCorner": [
+                    202,
+                    821
+                ],
+                "text": "ARCADIA, NR I, MAL 2011"
+            },
+            "62": {
+                "class": "text",
+                "x": 33,
+                "y": 799,
+                "height": 21,
+                "width": 23,
+                "leftCorner": [
+                    33,
+                    799
+                ],
+                "rightCorner": [
+                    56,
+                    820
+                ],
+                "text": "26"
+            },
+            "63": {},
+            "64": {},
+            "65": {
+                "class": "text",
+                "x": 56,
+                "y": 47,
+                "height": 24,
+                "width": 161,
+                "leftCorner": [
+                    56,
+                    47
+                ],
+                "rightCorner": [
+                    217,
+                    71
+                ],
+                "text": "Arenele romane din Nimes"
+            }
+        }
+    },
+    "img_27": {
+        "page": "27",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "66": {
+                "class": "text",
+                "x": 36,
+                "y": 32,
+                "height": 787,
+                "width": 532,
+                "leftCorner": [
+                    36,
+                    32
+                ],
+                "rightCorner": [
+                    568,
+                    819
+                ],
+                "text": "Imagine din Montpellier\n\n\u2018COORDONATORI:\n\nMaria-TeodoraVargan ISSA 227 - 5222\n\nteodoravargan@yahoo.c\n\noy EDITURA PIM\n\nLucica Vargan\n\nGRUP REDACTIONAR:\nGeorgeta Boitan\nDoina Baza\n\u2018Alexandru Mariciuc\n\nADRESA:\nStr. 1 Decembrie, nr 3,\nNegresti, Vaslui\nTEL/FAX\n\n0235457582"
+            }
+        }
+    },
+    "img_28": {
+        "page": "28",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "67": {
+                "class": "text",
+                "x": 4,
+                "y": 9,
+                "height": 831,
+                "width": 591,
+                "leftCorner": [
+                    4,
+                    9
+                ],
+                "rightCorner": [
+                    595,
+                    840
+                ],
+                "text": "ISSN 2247 - 5222"
+            }
+        }
+    }
+}

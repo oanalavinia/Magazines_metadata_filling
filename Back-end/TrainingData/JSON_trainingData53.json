@@ -1,0 +1,656 @@
+{
+    "numberOfPages": 284,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 98,
+                "y": 507,
+                "height": 32,
+                "width": 370,
+                "leftCorner": [
+                    98,
+                    507
+                ],
+                "rightCorner": [
+                    468,
+                    539
+                ],
+                "text": "BOLILE APARATULUI DIGESTIV"
+            },
+            "3": {
+                "class": "text",
+                "x": 220,
+                "y": 459,
+                "height": 26,
+                "width": 104,
+                "leftCorner": [
+                    220,
+                    459
+                ],
+                "rightCorner": [
+                    324,
+                    485
+                ],
+                "text": "VOLUMUL"
+            },
+            "4": {
+                "class": "text",
+                "x": 278,
+                "y": 343,
+                "height": 52,
+                "width": 218,
+                "leftCorner": [
+                    278,
+                    343
+                ],
+                "rightCorner": [
+                    496,
+                    395
+                ],
+                "text": "NATURISTA"
+            },
+            "5": {
+                "class": "text",
+                "x": 75,
+                "y": 307,
+                "height": 87,
+                "width": 243,
+                "leftCorner": [
+                    75,
+                    307
+                ],
+                "rightCorner": [
+                    318,
+                    394
+                ],
+                "text": "DE\nMEDICINA | N."
+            },
+            "6": {
+                "class": "text",
+                "x": 212,
+                "y": 260,
+                "height": 47,
+                "width": 153,
+                "leftCorner": [
+                    212,
+                    260
+                ],
+                "rightCorner": [
+                    365,
+                    307
+                ],
+                "text": "TRATAT"
+            },
+            "7": {
+                "class": "text",
+                "x": 133,
+                "y": 127,
+                "height": 29,
+                "width": 298,
+                "leftCorner": [
+                    133,
+                    127
+                ],
+                "rightCorner": [
+                    431,
+                    156
+                ],
+                "text": "drd. ing. CAMELIA NICOLETA ROMAN"
+            },
+            "8": {
+                "class": "text",
+                "x": 144,
+                "y": 92,
+                "height": 31,
+                "width": 277,
+                "leftCorner": [
+                    144,
+                    92
+                ],
+                "rightCorner": [
+                    421,
+                    123
+                ],
+                "text": "prof. univ. dr. CONSTANTIN MILICA"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 85,
+                "y": 492,
+                "height": 25,
+                "width": 174,
+                "leftCorner": [
+                    85,
+                    492
+                ],
+                "rightCorner": [
+                    259,
+                    517
+                ],
+                "text": "ISBN: 978-606-13-0409-7"
+            },
+            "10": {
+                "class": "text",
+                "x": 355,
+                "y": 415,
+                "height": 25,
+                "width": 57,
+                "leftCorner": [
+                    355,
+                    415
+                ],
+                "rightCorner": [
+                    412,
+                    440
+                ],
+                "text": "700497"
+            },
+            "11": {
+                "class": "text",
+                "x": 85,
+                "y": 370,
+                "height": 109,
+                "width": 268,
+                "leftCorner": [
+                    85,
+                    370
+                ],
+                "rightCorner": [
+                    353,
+                    479
+                ],
+                "text": "Editura OM\nEditurd acreditata CNCSIS ~ 66/2010\n\nSoseaua Stefan cel Mare gi Sfant nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimeopy.r0"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 90,
+                "y": 526,
+                "height": 153,
+                "width": 367,
+                "leftCorner": [
+                    90,
+                    526
+                ],
+                "rightCorner": [
+                    457,
+                    679
+                ],
+                "text": "Cap. 13. Gastritele\nCap. 14. Boala ulceroasi\n\nCap. 15. Bacteria Helicobacter pylo\nCap. 16. Greata si voma ..\n\nCap. 17. Aerofagia si meteorismul\n\nCap. 18. PirOZa ssessssoseeesunseeeeesnneeeeernnnseennnsceesenssns\nCap. 19. Halena ssssececsnssseeesennsseeennnseeeennnnseeeennseeene\nCap. 20. Indigestii si crampe stomacale"
+            },
+            "14": {
+                "class": "text",
+                "x": 180,
+                "y": 471,
+                "height": 48,
+                "width": 249,
+                "leftCorner": [
+                    180,
+                    471
+                ],
+                "rightCorner": [
+                    429,
+                    519
+                ],
+                "text": "Partea Il-a\nTratamentele bolilor de stomac"
+            },
+            "15": {
+                "class": "text",
+                "x": 90,
+                "y": 358,
+                "height": 105,
+                "width": 366,
+                "leftCorner": [
+                    90,
+                    358
+                ],
+                "rightCorner": [
+                    456,
+                    463
+                ],
+                "text": "Cap. 7. Colecistitele\nCap. 8. Angiocolitele -sssssseeesesssseeeensnseeerennanseeiereene\nCap. 9.\n\nCap. 10. C\n\n \n\nCap. 12. Pancreatita-boala greselilor de aliment:"
+            },
+            "16": {},
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 90,
+                "y": 189,
+                "height": 105,
+                "width": 366,
+                "leftCorner": [
+                    90,
+                    189
+                ],
+                "rightCorner": [
+                    456,
+                    294
+                ],
+                "text": "Cap. 1. Steatoza hepatic\nCap. 2, Hepatita sescccsssssseesennnseeeennnseeeeennnseeeeennneees\nCap.\n\nCap.\nCap. 5. Ci\nCap. 6, Ascita \u2014o boali tratabi"
+            },
+            "19": {
+                "class": "text",
+                "x": 477,
+                "y": 188,
+                "height": 103,
+                "width": 50,
+                "leftCorner": [
+                    477,
+                    188
+                ],
+                "rightCorner": [
+                    527,
+                    291
+                ],
+                "text": "Pag. 13\nPag. 23\nPag. 35,\nPag. 39\nPag. 45,\nPag. 83"
+            },
+            "20": {
+                "class": "text",
+                "x": 186,
+                "y": 131,
+                "height": 48,
+                "width": 237,
+                "leftCorner": [
+                    186,
+                    131
+                ],
+                "rightCorner": [
+                    423,
+                    179
+                ],
+                "text": "Part\nTratamentele b yr hepatice"
+            },
+            "21": {
+                "class": "text",
+                "x": 203,
+                "y": 82,
+                "height": 28,
+                "width": 159,
+                "leftCorner": [
+                    203,
+                    82
+                ],
+                "rightCorner": [
+                    362,
+                    110
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 90,
+                "y": 552,
+                "height": 30,
+                "width": 152,
+                "leftCorner": [
+                    90,
+                    552
+                ],
+                "rightCorner": [
+                    242,
+                    582
+                ],
+                "text": "Bib grafie"
+            },
+            "23": {},
+            "24": {
+                "class": "text",
+                "x": 90,
+                "y": 425,
+                "height": 89,
+                "width": 365,
+                "leftCorner": [
+                    90,
+                    425
+                ],
+                "rightCorner": [
+                    455,
+                    514
+                ],
+                "text": "Cap. 34. Cancerul hepat\nCap. 35. Cancerul pancreati\nCap. 36. Cancerul gastric\n\nCap. 37. Cancerul intestinelor .\nCap. 38. Cancerul colorectal vasssseeesessseeeerns"
+            },
+            "25": {
+                "class": "text",
+                "x": 187,
+                "y": 367,
+                "height": 48,
+                "width": 236,
+                "leftCorner": [
+                    187,
+                    367
+                ],
+                "rightCorner": [
+                    423,
+                    415
+                ],
+                "text": "Partea\nCancerele aparatului digesti"
+            },
+            "26": {},
+            "27": {
+                "class": "text",
+                "x": 90,
+                "y": 141,
+                "height": 200,
+                "width": 366,
+                "leftCorner": [
+                    90,
+                    141
+                ],
+                "rightCorner": [
+                    456,
+                    341
+                ],
+                "text": "Cap. 22. Duodenita ...\nCap. 23. Colitele\n\nCap. 25. Enteritele si enterocolitele\nCap. 26, Rectocolita ulcero-hemoragicd ....ssssssssrseeeeesene\n\n \n\nCap. 33. Parazitozele intestinale"
+            },
+            "28": {
+                "class": "text",
+                "x": 231,
+                "y": 86,
+                "height": 48,
+                "width": 147,
+                "leftCorner": [
+                    231,
+                    86
+                ],
+                "rightCorner": [
+                    378,
+                    134
+                ],
+                "text": "Partea IV-a\nBolile intestinelor"
+            }
+        }
+    },
+    "img_279": {
+        "page": "279",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "29": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 31,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    298,
+                    731
+                ],
+                "text": "279"
+            },
+            "30": {
+                "class": "text",
+                "x": 46,
+                "y": 445,
+                "height": 263,
+                "width": 473,
+                "leftCorner": [
+                    46,
+                    445
+                ],
+                "rightCorner": [
+                    519,
+                    708
+                ],
+                "text": "pentru  prevenirea instalirii bolii cat si pentru  evitarea\n\n\u2018metastazirii spre alte organe se impun o serie de actiuni bine coordonate:\n\n-evitarea factorilor poluanti si stresanti\n\n-stimularea factorilor alimentari nocivi;\n\n-renunfarea fotali la fumat si la excesul de biuturi taris\n\n-evitarea constipatiei cronice;\n\n-normalizarea greutitii corporale;\n\n-aplicarea unei riguroase igiene locale prin spilare cu api si sipun,\nrespectind astfel regulile de asepsie si antisepsie;\n\n-activarea metabolismului prin miseare in aer liber si activitati\nsportives\n\n-respectarea regimului de odihna si somn;\n\n-intirirea stirii psihice prin autosugestie si ganduri pozitive.\n\n\u2018Tratamentul cancerului pe cale chirurgicali consti din rezecarea\nsegmentului intestinal bolnay precum si a unei zone adiacente cu ganglionii\nlimfatici afectati. Operatia chirurgicala ar avea caracter curativ si profilactic,"
+            },
+            "31": {},
+            "32": {
+                "class": "text",
+                "x": 46,
+                "y": 67,
+                "height": 342,
+                "width": 473,
+                "leftCorner": [
+                    46,
+                    67
+                ],
+                "rightCorner": [
+                    519,
+                    409
+                ],
+                "text": "La aceste alimente cu efecte favorabile se pot adiuga paine integral,\ntrate, orez, soia, iaurt, brinzeturi nefermentate, ou proaspete, carne slaba\nde peste si pui, miere de albine, drojdie (30-40 g pe zi), uleiuri vegetale.\nFoarte bune rezultate di uleiul de misline (20-30 ml inghitit pe stomacul gol),\nbogat grasi mononesaturati, vita substanfe antioxidante, care\nintirese sistemul imunitar si reduc riseul bolilor cancerigene. De asemenea\ncomprimatele cu Omega-3 reduc riscul cancerului colonorectal.\n\ncancerigene din intestine este indicat si se prepare hrana vie, conform\nrefetelor din bucatirie fird foc.\nVitaminele naturale au efecte deosebite in prevenirea si combaterea\n\ncancerului de colon, rect, stomac si ficat. in primul rind sunt benefice\nvitaminele antioxidante (C, E, A) care distrug radicalii liberi, dectanyatori ai\n\nE, K) care mirese viabilitatea organismului si capacitatea de rezistentit fati de\nagentii imbolnavirii cu cancer.\n\nLa bolnavii cu cancer de colon este foarte important si se evite\nconstipatia si diareea. Contra constipatiei se recomanda consumul de prune\nsau eaise uscate, tirdte de grau, seminte de in sau mei pasirese, sucuri de\nJegume si fructe (castraveti, spanac, pepene galben, dude). Contra diareci este\nindicat sucul de afine, afinata si polenul."
+            }
+        }
+    },
+    "img_280": {
+        "page": "280",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 31,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    298,
+                    731
+                ],
+                "text": "280"
+            },
+            "34": {
+                "class": "text",
+                "x": 46,
+                "y": 64,
+                "height": 153,
+                "width": 472,
+                "leftCorner": [
+                    46,
+                    64
+                ],
+                "rightCorner": [
+                    518,
+                    217
+                ],
+                "text": "prevenind adesea aparitia metastazelor sau a recidivelor. in cazuri\ninoperabile se face un tratament simptomatic cu antispastice, respectiv\nopiacee.\n\nChimioterapia se poate aplica in completarea tratamentului\n\nchirurgical pentru a distruge celulele canceroase si a bloca metastazarea,\nRoentgenterapia si radioterapia dau rezultate tranzitorii, mai ales in\ncancerul rectal.\nMai recent a fost propus tratamentul cu celebrex, timp de 6 luni, care\nreduce riseul cancerului colorectal cu 28%."
+            }
+        }
+    },
+    "img_281": {
+        "page": "281",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "35": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    296,
+                    731
+                ],
+                "text": "281"
+            },
+            "36": {
+                "class": "text",
+                "x": 90,
+                "y": 139,
+                "height": 562,
+                "width": 420,
+                "leftCorner": [
+                    90,
+                    139
+                ],
+                "rightCorner": [
+                    510,
+                    701
+                ],
+                "text": "Iasi, Editura Polirom, 2000\n-BALCH A. PHYLLIS \u2014 Nutritie si Biotratamente. voLI-IV\nBucuresti, Editura Litera-Felicia, 2009\n\n-BANU C. sicolab. ~ Alimente functionale, suplimente alimentare gi\nplante medicinale.\n\nBucuresti, Editura ASAB, 2010\n\n-BARNEA M. - Factorii de mediu si profilaxia cancerului.\nBucuresti, Editura Medicali, 1983\n\n-BASDEKIS J.C. \u2014 Ghid de dietetics.\nIasi, Editura Polirom, 1999\n-BERDONCES J.L. - Manual de medi\nBucuresti, Editura All, 2010\n-BISHOP BEATA \u2014 Vremea vindeciri\nBucuresti, Editura For You, 2005\n-BOJOR O. si colab. - Medicina si terapia naturala. vol. [-I\nBucuresti, Editura Ulpia Traiana, 1998\n\n-BOJOR O., POPESCU O. - Fitoterapia traditional si moderna.\nBucuresti, Editura Fiat Lux, 2005\n\n-BULIGESCU L. - Bolile ficatului, cdilor biliare si pancreasului.\nBucuresti, Editura Medical, 1981\n\n-CALINESCU A: - Sinitatea prin farmacia naturi\nBucuresti, Editura Forum, 2000\n\n-CARSTEA M. - Colecistoza nelitiazica.\nBucuresti, Editura Medical, 1997\n-CONSTANTINESCU M., PRISTAVU A.G. - Fitoterapie\n\nOradea, Editura Antet, 1999\n\n-CRACIUN F., BOJOR O., ALEXAN M. ~ Farmacia naturii, vol. IL\nBucuresti, Editura Ceres, 1976, 1977\n\n-DUCHAMEL CHATERINE \u2014 Deschideti poarta sinitatii\ndin farmacia lui Dumnezeu.\n\nBucuresti, Editura Z-2000, 2000\n\n-DUTA V.\u2014 Tratat de medicina naturists.\n\nBucuresti, Editura ersal, 1995"
+            },
+            "37": {
+                "class": "text",
+                "x": 209,
+                "y": 99,
+                "height": 27,
+                "width": 191,
+                "leftCorner": [
+                    209,
+                    99
+                ],
+                "rightCorner": [
+                    400,
+                    126
+                ],
+                "text": "BIBLIOGRAFIE"
+            }
+        }
+    },
+    "img_282": {
+        "page": "282",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "38": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 30,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    297,
+                    731
+                ],
+                "text": "282"
+            },
+            "39": {
+                "class": "text",
+                "x": 90,
+                "y": 64,
+                "height": 644,
+                "width": 420,
+                "leftCorner": [
+                    90,
+                    64
+                ],
+                "rightCorner": [
+                    510,
+                    708
+                ],
+                "text": "-DUTA V. - Farmacia natu\n\nBucuresti, Editura Stefan, 2005\n\n-FAURON R. si colab. - Guide pratique de phtoth\u00e9rapie.\nParis, Editura Maloine, 1985\n\n-GEICULESCU TV. - Bioterapie.\n\nBucuresti, Editura Stiintificd si Enciclopedicd, 1986\n-GEIGER F. -Retete de sinitate cu plante.\n\nBucuresti, Editura Gemma Pres, 2002\n-GHERMAN I. - Medicina alternativi tra\nBucuresti, Editura Vestala, 2001\n-GHIRCOIASIU M., POGACEANU V. \u2014 Alimentatia rational.\nCluj-Napoca, Editura Dacia, 1983\n\n-GIURGIU E. - Cancerul. Tratamente naturiste,\n\nBucuresti, Editura Tritonic, 2008\n\n-HIRSCH Y., DUMITRU I. - Sinitate prin plante medicinale.\nBucuresti, Editura Urania, 1946\n-IBURG ANNE ~ Remedi naturiste,\nBucuresti, Editura Allfa, 2006\n\n-IVAN S. ~ Natura ~ un mediu pentru toti.\nBucuresti, Editura \u00bbCoresi\u201d, 1999\n-IVAN S. ~ Medicina naturist pentru ti\nBucuresti, Editura C.N.L. ,Coresi\u201d, 2002\n\n-JARVIS D.C. ~ Mierea si alte produse naturale.\nBucuresti, Editura Apimondia, 1976\n\n-KING J.E.\u2014 Clinica Majo despre bolile digestive.\nBucuresti, Editura Big All, 2007\n\n-KNEIFF S. - Farmacia verde.\n\nBucuresti, Editura Edinter, 1995\n\n-LECLERC H. \u2014 Pr\u00e9cis de phytoth\u00e9rapie.\n\nParis, Editura Masson, 1976\n\nLUCIAN OTILIA -\nBucuresti, Editura Academic\n-MARKARIAN KARINE \u2014Secretele vindecdtorilor ru\nBucuresti, Editura Gemma Print, 2002\n\n-MATHIEU G.\u2014 La sant\u00e9 grace aux plantes.\nMontvilliers, Editura CEDS, 19\n-MC WHIRTER A., CLASEN LIZ.~ Manearea\nBucuresti, Editura Reader\u2019s Digest, 2006\n-MILICA C., BAVARU ELENA \u2014 Plantele medicinale\nfitofarmacie si terapie medicala."
+            }
+        }
+    },
+    "img_283": {
+        "page": "283",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "40": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 30,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    297,
+                    731
+                ],
+                "text": "283"
+            },
+            "41": {
+                "class": "text",
+                "x": 90,
+                "y": 67,
+                "height": 639,
+                "width": 420,
+                "leftCorner": [
+                    90,
+                    67
+                ],
+                "rightCorner": [
+                    510,
+                    706
+                ],
+                "text": "Constanta, Editura Ex Ponto, 2001\n\n-MILICA C, ~ Trtamente naturiste in bolile aparatului digestiv. I-11\nIasi, Editura Ton Tonescu de la Brad, 2002\n\n-MILICA C,, BAVARU ELENA \u2014 Izvoare de sinatate din flora\nmedicinal.\n\nConstanta, Editura Ovidius University Press, 2004\n\n-MILICA C.- Tratamente naturiste in serviciul sinititii\n\n   \n\n \n\n  \n \n  \n\n_ ROXANA - Sinitate din po\n\nIasi, Editura Doxologia, 2011\n\n-MOGOS V.L. \u2014 Regimul alimentar in bolile digestive.\n\nBucuresti, Editura Militar, 1997\n\n-MOHAN GH. -Mica enciclopedie de plante medicinale si fitoterapie.\n\nBucuresti, Editura All, 2000\n\n-NITA-IBRIAN ELENA \u2014 Hrana vie in prevenirea si vindecarea\n\ncancerului\n\nBucuresti, Editura Miracol, 2001\n\n-PARVU C.- Universul plantelor.\n\nBucuresti, Editura Enciclopedici, 1991\n\n-PASCANU V.O. \u2014 Tratament naturist integral.\n\nIasi, Editura Moldova, 1996\n\n-PASSABECQ A. - Traitements naturelles des troubles digestives.\nJean de Brage, Editura Dangles, 1984\n\n-POP MARIA, OLOS ELISABETA \u2014 Remedi din farmacia naturii,\n\nul Domnului,\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n   \n\nBucuresti, Editura\n-ROULE ANNE-MARIE ~ Secretele timiduitoare ale plantelor.\nBucuresti, Editura Bogdana, 2001\n\n\u2018SCARLAT M.A. TOHANEANU MONICA - Mie tratat de\n\n   \n \n \n \n\nEditura World Galaxy, 2003,\n\n-SIMINICIUC IULLA si colab. ~ Fitoterapia pentru tofi. vol. 1\nBacau, Editura Bunavestire, 2000\n\n-TELPHON TH. \u2014 ABC des tisanes.\n\nParis, Editura Grancher, 2006\n\n-TREBEN MARIA - Sinitate din farmacia Domnul\nBudapesta, Editura Hungalibri, 1999\n\n-VALNET J. ~ Traitement des maladies par les legumes, les fruits et\nles c\u00e9r\u00e9ales."
+            }
+        }
+    },
+    "img_284": {
+        "page": "284",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "42": {
+                "class": "text",
+                "x": 267,
+                "y": 709,
+                "height": 22,
+                "width": 31,
+                "leftCorner": [
+                    267,
+                    709
+                ],
+                "rightCorner": [
+                    298,
+                    731
+                ],
+                "text": "284"
+            },
+            "43": {
+                "class": "text",
+                "x": 90,
+                "y": 67,
+                "height": 215,
+                "width": 403,
+                "leftCorner": [
+                    90,
+                    67
+                ],
+                "rightCorner": [
+                    493,
+                    282
+                ],
+                "text": "Paris, Editura Maloine, 1982\n-VALNET J. \u2014 Fitoth\u00e9rapie.\n\nParis, Editura Garamond, 2003,\n\n-VITHOULKAS G.\u2014 Un nou model de vindecare pe cale natural.\nIasi, Editura Polirom, 1999\n\n-VOICULESCU M.~ Hepatita virali.\n\nBucuresti, Editura Medical, 1977\n\n-VOINEA-ENE F. ~ Ghid de terapie naturisti.\nBucuresti, Editura All, 2009\n\n-WEISS F-R. ~ Lehrbuch des Phytotherapie.\nStuttgart, Editura Hippocrates, 1982\n-WILKINSON J.- Farmacia Naturii.\nBucuresti, Editura Reader\u2019s Digest, 2007"
+            }
+        }
+    }
+}

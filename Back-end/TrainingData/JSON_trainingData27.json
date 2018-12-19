@@ -1,0 +1,929 @@
+{
+    "numberOfPages": 60,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 69,
+                "y": 442,
+                "height": 55,
+                "width": 201,
+                "leftCorner": [
+                    69,
+                    442
+                ],
+                "rightCorner": [
+                    270,
+                    497
+                ],
+                "text": "Studenti: Tudosi Andreea\n(Universitatea ,.Lucian Blaga\u201d\n\n \n\nnul I Teatrologie)"
+            },
+            "2": {
+                "class": "text",
+                "x": 316,
+                "y": 417,
+                "height": 25,
+                "width": 190,
+                "leftCorner": [
+                    316,
+                    417
+                ],
+                "rightCorner": [
+                    506,
+                    442
+                ],
+                "text": "BIBLIOTECAR: Hluscu Mariana"
+            },
+            "3": {
+                "class": "text",
+                "x": 316,
+                "y": 359,
+                "height": 55,
+                "width": 188,
+                "leftCorner": [
+                    316,
+                    359
+                ],
+                "rightCorner": [
+                    504,
+                    414
+                ],
+                "text": "PROFESORE: Pavel Daniela\nCucoereanu Gretti\n\nVoloc Ci"
+            },
+            "4": {
+                "class": "text",
+                "x": 316,
+                "y": 330,
+                "height": 23,
+                "width": 158,
+                "leftCorner": [
+                    316,
+                    330
+                ],
+                "rightCorner": [
+                    474,
+                    353
+                ],
+                "text": "REDACTOR: Avram Cristi"
+            },
+            "5": {
+                "class": "text",
+                "x": 69,
+                "y": 326,
+                "height": 110,
+                "width": 221,
+                "leftCorner": [
+                    69,
+                    326
+                ],
+                "rightCorner": [
+                    290,
+                    436
+                ],
+                "text": "Elevi: Aram Cristi, Dupu Diana, Lungu\nAndreea-Loredana, Hutanu Madalina,\nDragistan Isabela, Gherman Silviu,\n\nGorgan Adina Maria, Ursuleanu\nSmaranda-loana, Padurariu Simona,\n\u2018Cernused Lavinia, Iucob Diana, Viziteu\nDiana, Sandu Larisa"
+            },
+            "6": {
+                "class": "text",
+                "x": 69,
+                "y": 297,
+                "height": 25,
+                "width": 117,
+                "leftCorner": [
+                    69,
+                    297
+                ],
+                "rightCorner": [
+                    186,
+                    322
+                ],
+                "text": "Colectiv de redactie:"
+            },
+            "7": {
+                "class": "text",
+                "x": 243,
+                "y": 81,
+                "height": 58,
+                "width": 120,
+                "leftCorner": [
+                    243,
+                    81
+                ],
+                "rightCorner": [
+                    363,
+                    139
+                ],
+                "text": "Adoua oard unw\n-Revista literara-\nmartie 2012"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "8": {
+                "class": "text",
+                "x": 66,
+                "y": 704,
+                "height": 40,
+                "width": 221,
+                "leftCorner": [
+                    66,
+                    704
+                ],
+                "rightCorner": [
+                    287,
+                    744
+                ],
+                "text": "Tata\n\n  \n\nDorohoiul_primei\n\njum XX, apare revista"
+            },
+            "9": {
+                "class": "text",
+                "x": 312,
+                "y": 666,
+                "height": 98,
+                "width": 222,
+                "leftCorner": [
+                    312,
+                    666
+                ],
+                "rightCorner": [
+                    534,
+                    764
+                ],
+                "text": "Acum eram hotir\u00e9ti. Vom scoate\n\u00a9 revist\u00e9, deocamdatii in formatul\n\nBilerelor de papagal. li vom zice zice\n\nAvangarda literari, Dar aceste cuvinte\nsi fie culese cu un corp de liter\nobignuit. in sckimb, pentru mumdrul"
+            },
+            "10": {},
+            "11": {
+                "class": "text",
+                "x": 67,
+                "y": 356,
+                "height": 344,
+                "width": 221,
+                "leftCorner": [
+                    67,
+                    356
+                ],
+                "rightCorner": [
+                    288,
+                    700
+                ],
+                "text": "Am invijat un urlet, inci \u00a2\nprimitv sunetul lui, notele muzicale nu s-\nau defenit ined. Asa suntem noi, cei care\nne destelenim de morala dogmatic\u2019,\nPriviji cum incepem si ne schimbam\nregimulalimentar, priviti cum ne\ndezintoxicdm, priviti cum se scurge din\nnoi toatd otrava pe care ne-au injectato\ndoctorii!\n\nDati-ne voie si nu mancim salati\nproaspatd, lasafi-ne si m\u00e9nedm legumele\ndin conserve si si vedem cit de\nfrumoasi ni se face piclea! Vrem si\nvedem cum mersul nostru incepe si\ndevin din ce in ce mai drept. Am\ninceput reinventarea CFR-ul si edutim\n\u2018materialul potrivit pentru cdile ferate, un\nmaterial pe care nul rugineste vremea,\ntun material pe care nu-! fur nici cel mai\nsrac si nici cel mai bogat, un material\npe care daci vrea si si insusease\u2019\ncineva e nevoie sa stie sisi lipeasea\nTimba de el chiar si-n iarna,"
+            },
+            "12": {
+                "class": "text",
+                "x": 310,
+                "y": 210,
+                "height": 228,
+                "width": 224,
+                "leftCorner": [
+                    310,
+                    210
+                ],
+                "rightCorner": [
+                    534,
+                    438
+                ],
+                "text": "Curdind, intr-una din zilele cdind\n\u2018maaflam in trenul care ma ducea din\nasi la Dorohoi- cam pe ta mijlocul tui\n\u2018martie 1928, in hurducdturile vagonului\n\u2018am redactat u n text cu care gdndeam\ndeschidem proiectatul festival de arti\noui. Acest text,fari\u00e9 vreo modificare, a\n\ndevenit manifestul cu care se va\ndeschide revista proiectatd. Nu-mi\n\u2018amintese ce bolovani s-au pus in calea\nserii de literatura, care vroia si fie si un\nlinerese protest pentru cea ce\nconsideram anchilozd si sablon; acel\n{festival sau sezitoare, sau sear literar\u2019\nnea avut (atunci) loc.[.-)"
+            },
+            "13": {
+                "class": "text",
+                "x": 312,
+                "y": 138,
+                "height": 69,
+                "width": 221,
+                "leftCorner": [
+                    312,
+                    138
+                ],
+                "rightCorner": [
+                    533,
+                    207
+                ],
+                "text": "\u2018avangardisti UNU, din dorinfa poctului\n\u2018Sasa Pand (pseudonimul literar al lui\n\n\u2018Alexandru Binder, n, Saugust 1902,\nBucuresti, d, 22 august1981, Bucuresti):"
+            },
+            "14": {
+                "class": "text",
+                "x": 60,
+                "y": 135,
+                "height": 218,
+                "width": 234,
+                "leftCorner": [
+                    60,
+                    135
+                ],
+                "rightCorner": [
+                    294,
+                    353
+                ],
+                "text": "\u2018Au inceput si urle lupii ef vor\ncarne proaspit\u00e9. Li sa amirit\nstomacul de trupul mortilor. S-au\npornit la vanat la marginea orasului\nin cdutare de carne tnira, s-au pornit\nsi devoreze copii de zece-doisprezece\nani, au inceput si sfasie moynegi\n\ncocosati pe care fi lasi la poalele vi\nbitaia soarelui pentru a le intra sub\npiele useiciunea. Oameni bun,\nsacrificati-vd copii pentru binele\nvostru, fiti egoisti, dati-i hrand lupilor\nsi privifi-i cu riceala cum sunt\ndevorafi! Oameni buni, saly"
+            },
+            "15": {
+                "class": "text",
+                "x": 264,
+                "y": 78,
+                "height": 27,
+                "width": 72,
+                "leftCorner": [
+                    264,
+                    78
+                ],
+                "rightCorner": [
+                    336,
+                    105
+                ],
+                "text": "PREFATA"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "16": {
+                "class": "text",
+                "x": 107,
+                "y": 616,
+                "height": 139,
+                "width": 182,
+                "leftCorner": [
+                    107,
+                    616
+                ],
+                "rightCorner": [
+                    289,
+                    755
+                ],
+                "text": "ccetitor, deparaziteazi-ficreierul!\nstrigdt de timpan\n\ntff-radio\n\nteleviziune\n\n75 hp.\nmarinetti\nbreton"
+            },
+            "17": {
+                "class": "text",
+                "x": 70,
+                "y": 572,
+                "height": 40,
+                "width": 213,
+                "leftCorner": [
+                    70,
+                    572
+                ],
+                "rightCorner": [
+                    283,
+                    612
+                ],
+                "text": "Jat\na drum nu\n\n \n\nifestul cu care a pornit"
+            },
+            "18": {
+                "class": "text",
+                "x": 315,
+                "y": 514,
+                "height": 226,
+                "width": 221,
+                "leftCorner": [
+                    315,
+                    514
+                ],
+                "rightCorner": [
+                    536,
+                    740
+                ],
+                "text": "Istoria vietii literare dorohoiene se leagi\nde primele zece numete ale revistei,\naceasta apdrind ulterior in Bucuresti. La\nineeputuri, tirajul cuprindea 100 de\ncexemplare, pentru ca la ultimele numere\nsi se ajungi la 500 de exemplare.\nNum\u00e9rul 18 al revistei n-a fost niciodata\npublicat, iar numarul 51 a fost distribuits\nin sub\u2019 50 de exemplare la nunta\nlui Moldov, Dea Tungul timpului,\nrevista a cuprins texte si desene de autori\nprecum SasaPand, \u2014 Moldov, Madda\nHolda,Urmuz, VietorBrauner,Geo Bogza\nRoll, larie \"Voronea,Tristan Tzara, V.\nDobrian, B.Fondane, Aurel"
+            },
+            "19": {
+                "class": "text",
+                "x": 353,
+                "y": 456,
+                "height": 54,
+                "width": 168,
+                "leftCorner": [
+                    353,
+                    456
+                ],
+                "rightCorner": [
+                    521,
+                    510
+                ],
+                "text": "(Fragmente din lucrarea\n\nautobiografica Nascut in \u201c02 a\nui Sasa Pand.)"
+            },
+            "20": {
+                "class": "text",
+                "x": 352,
+                "y": 428,
+                "height": 25,
+                "width": 110,
+                "leftCorner": [
+                    352,
+                    428
+                ],
+                "rightCorner": [
+                    462,
+                    453
+                ],
+                "text": "guttenberg reinvit\u201d"
+            },
+            "21": {
+                "class": "text",
+                "x": 352,
+                "y": 355,
+                "height": 69,
+                "width": 162,
+                "leftCorner": [
+                    352,
+                    355
+                ],
+                "rightCorner": [
+                    514,
+                    424
+                ],
+                "text": "combina verb\nabedefghijklmnopgrstuvwxyz\n\n= arta ritm vitezii neprevzut\ngranit"
+            },
+            "22": {
+                "class": "text",
+                "x": 352,
+                "y": 181,
+                "height": 168,
+                "width": 182,
+                "leftCorner": [
+                    352,
+                    181
+                ],
+                "rightCorner": [
+                    534,
+                    349
+                ],
+                "text": "arde maculatura bibliotecilor\n\u2018et p. Chr. .\n123456789000000000000000 kg.\nSerena\n\nacibilduri\nsterilitate\n\namanita muscaria\neftimihalachisme\nbrontozauri\nhuoe0000000000000"
+            },
+            "23": {
+                "class": "text",
+                "x": 353,
+                "y": 82,
+                "height": 93,
+                "width": 166,
+                "leftCorner": [
+                    353,
+                    82
+                ],
+                "rightCorner": [
+                    519,
+                    175
+                ],
+                "text": "tara\nribemont-dessaignes\narghezi\n\nbraincusi\ntheo van doesburg"
+            },
+            "24": {
+                "class": "text",
+                "x": 67,
+                "y": 80,
+                "height": 489,
+                "width": 224,
+                "leftCorner": [
+                    67,
+                    80
+                ],
+                "rightCorner": [
+                    291,
+                    569
+                ],
+                "text": "revistei, unu, si se foloseasc\u00e9 litere de\nafig si i simuleze ci acesta ar fi capul\nreviste. Dar luna urm\u00e9toare vom culege\ncu aceleasi caractere vocabula doi\nsama. 0 micd mistficare, o guna.\nDar cand cu primul numar si cu\nrecomandarea Ii lon Cilugaru, mam\nprezentat (era in primele zile ale lunit\n\u2018prilie, revista aparuse in 4) la liptaria\ndin Bardjeni 37, Roll m-a consiliat si\npastram ca numje al revise: cuvintul\n\u2018un ~bine sd avem o firma si sa putem fi\ngisiti~ miva spus. Tilul care nici mie\nmu-mi era neplicut, doar eram, de\nc\u00e9teva luni, fa 1 CF. L-am ascultat\nFestivalul planuit Iam dat mai\ntarzin, dupa ce eateva mumere din unu\n\u2018aparuseri, urmate de oarecare scandal.\nJnar-adevir, aparita fiecirui now numar\nsuscita valuri de invective, glume si\npseudoglume si rareori c\u00e9te un cuvint\ninelegior. Ostilitatea era explicabila\nin primul rind inertia, opunera la\ninnoire, ghiuleaua care tage inapoi,\nintrsun cuvtint conservatorismul, marele\ndugman_ al mersului inainte. Dar i\ncominutul era provocator. lati ce\ncomunica lon Cilugdra intr-un mesaj\ntadresat concetitenilor sii dorohoient si\ndat in resedinga sa de var\u00e9, la 30 mai\n1928: Suntetiraci-aluzie\u2019 la stema\nJudefuli Dorohoi, un rac. Sunteti gusat\netc [.-]"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 67,
+                "y": 533,
+                "height": 24,
+                "width": 134,
+                "leftCorner": [
+                    67,
+                    533
+                ],
+                "rightCorner": [
+                    201,
+                    557
+                ],
+                "text": "Prof. Daniela Pavel"
+            },
+            "27": {
+                "class": "text",
+                "x": 192,
+                "y": 499,
+                "height": 24,
+                "width": 90,
+                "leftCorner": [
+                    192,
+                    499
+                ],
+                "rightCorner": [
+                    282,
+                    523
+                ],
+                "text": "Cristi Avram"
+            },
+            "28": {
+                "class": "text",
+                "x": 67,
+                "y": 246,
+                "height": 246,
+                "width": 191,
+                "leftCorner": [
+                    67,
+                    246
+                ],
+                "rightCorner": [
+                    258,
+                    492
+                ],
+                "text": "Pagina de ttlu a revistei unu"
+            },
+            "29": {
+                "class": "text",
+                "x": 67,
+                "y": 123,
+                "height": 96,
+                "width": 221,
+                "leftCorner": [
+                    67,
+                    123
+                ],
+                "rightCorner": [
+                    288,
+                    219
+                ],
+                "text": "Ati vazut, astfel, cum a luat fling\nrevista wu si de asemenea cum a fost\nprimit\u00e9 aceasta de catre public. Acum\n\nimine la aprecierea dumneavoastrd\nscopul revistei noastre- A doua oard"
+            },
+            "30": {
+                "class": "text",
+                "x": 312,
+                "y": 111,
+                "height": 646,
+                "width": 222,
+                "leftCorner": [
+                    312,
+                    111
+                ],
+                "rightCorner": [
+                    534,
+                    757
+                ],
+                "text": "Zi de zi, mintea si sufletul intrd\nin polemic. Rafiunea si emofia se ceartt\nsi se lupt care s& ajungs prima pe seens,\njn fafa unui auditoriu format din dou\ntabere: unl critic, iar celalalt sensiil\nUneori,e grew si ne exprimam iluziie in\nfafa cuiva, De accea, hotirim si le\nprezentim cu ajutorul penite\n\nLa un moment dat tofi rem si\nddevenim seritri, O mica parte din\nmulttudinea \u201cde condeie reuseste si\nreach pragul prea inalt al afirmari\nSurpinzdtor, inspiraia se iveste din toate\nlungherele vifii. Trecutul, prezentul si\nviitorul dispar si renase intr-un singur\ntimp, ce al proriului EU.\n\nInvijieei ai Colegiului Nayional\n\u00abGrigore Ghica\u201d, Dorohoi, au incercat si\nSe afirme prin izle astemute pe hirtc\nia diferite concursuri de eteaje literar\nUnii au reusit in acest ocean al\n\u2018oportunitiilor si au continua, Alt, nu\nau putt treee peste sentimental\ndezamagint si au renuntat. Ins, merew\npar sentei noi care vor si danseze pe\nscenaseritur\n\n\u2018AW Iuatatitudine in seris sia\nsurprins prin profunzimea gindurilor,\nprin. insolitalsentimentelor i prin\nfragilitatea ming, Varsta le permite si\nse deseatuseze din finja care invcleste\nsufletul si si strige tuturor ,Privfi cdtre\nnoi ca int-o oginda\n\nMA inclin in fafa lor si le\nrultumese, deoarece in cuvintele\nadunate into poezie, prozi sau\ndramaturgie am descoperit frumustea $i\npuritates,macabrul si disperarca,\ndezamigitea, impliitea.\n\naifletle aun fel special al lor\ndle a se infelege, de intra in intimitate,\npind la a se tui, in timp ce fiingele\nhoasire sunt incurcate cit schimbl\ncuvintelor comune.\u201d"
+            },
+            "31": {
+                "class": "text",
+                "x": 313,
+                "y": 81,
+                "height": 24,
+                "width": 147,
+                "leftCorner": [
+                    313,
+                    81
+                ],
+                "rightCorner": [
+                    460,
+                    105
+                ],
+                "text": "Labirintul condeielor"
+            },
+            "32": {}
+        }
+    },
+    "img_55": {
+        "page": "55",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    536,
+                    806
+                ],
+                "text": "55"
+            },
+            "34": {
+                "class": "text",
+                "x": 69,
+                "y": 596,
+                "height": 170,
+                "width": 221,
+                "leftCorner": [
+                    69,
+                    596
+                ],
+                "rightCorner": [
+                    290,
+                    766
+                ],
+                "text": "\u2018Cu: Ofelia Popii\nScenografia & Light Design:\nDragos Buhagiar\nCoregrafia: Florin Fieroiu\nMuzica: Viaicu Goleea,\nScrise de femeie pentru femeie,\n\n-Felii\"-le se consuma singure. Lia\nBugnar reugeste si aduci in prim-plan\nchintesenta femeii, element regenerator,\nadapost al vietii, prin raportare la teme\nprecum \u2014implacabilitatea\u2014trecerii"
+            },
+            "35": {},
+            "36": {
+                "class": "text",
+                "x": 107,
+                "y": 567,
+                "height": 24,
+                "width": 173,
+                "leftCorner": [
+                    107,
+                    567
+                ],
+                "rightCorner": [
+                    280,
+                    591
+                ],
+                "text": "Teatrul National \"Radu Stanca\u201d"
+            },
+            "37": {
+                "class": "text",
+                "x": 70,
+                "y": 524,
+                "height": 40,
+                "width": 216,
+                "leftCorner": [
+                    70,
+                    524
+                ],
+                "rightCorner": [
+                    286,
+                    564
+                ],
+                "text": "to: \u201cFemeia este al cincilea\n\u201d (Grigore Vieru)"
+            },
+            "38": {
+                "class": "text",
+                "x": 81,
+                "y": 481,
+                "height": 39,
+                "width": 199,
+                "leftCorner": [
+                    81,
+                    481
+                ],
+                "rightCorner": [
+                    280,
+                    520
+                ],
+                "text": "\u2018\u00bbFelii\u201d (de Lia Bugnar) sau despre\nreacfia la plinitate; dezbinare."
+            },
+            "39": {
+                "class": "text",
+                "x": 70,
+                "y": 452,
+                "height": 24,
+                "width": 107,
+                "leftCorner": [
+                    70,
+                    452
+                ],
+                "rightCorner": [
+                    177,
+                    476
+                ],
+                "text": "Invitatie la teatru"
+            },
+            "40": {
+                "class": "text",
+                "x": 315,
+                "y": 364,
+                "height": 387,
+                "width": 222,
+                "leftCorner": [
+                    315,
+                    364
+                ],
+                "rightCorner": [
+                    537,
+                    751
+                ],
+                "text": "Un singur barbat, clement\nperturbator, si 7 femei pe care acelasi act\ndramatic le influenteazi in moduri\ndiametral \u2014opuse, _pricinuindu-le\ndezechilibrul psihie sau emotional,\naduednd haos si pierdere de sine. Toate\nacestea sunt create de o echipi format\ndin 5 oameni, echipa care are un singur\nexponent, purtitor de cuvant, emifitor\nprincipal actrta Ofelia Popii\n\nPentru a contura in lini mari\nactiunea, dar si pentru a stabil contextul,\ntrebuie si pomim de la singurul fapt\ndine radacinat in real, in stare bruta,\n\nie strict de trdirea in material, sau\nnefiinfare, cum este in cazul de fai, i\nanume moartea unui persona, Marcel,\nAcesta definea un statut respectabil. in\ndomeniul politicii, acela de senator, si\nindeplinea totodata dublul rol de tata si\nsol, pentru Clea, respective Ela,\nIncadrim aceste doud responsabilitii\nalaturi de functia ocupat\u00e9 deoarece poate\nfi considerat acest portret de familie ca\nfiind unul convenabil si formal, tindnd\ncont de faptul c& Marcel isi traieste"
+            },
+            "41": {},
+            "42": {
+                "class": "text",
+                "x": 69,
+                "y": 81,
+                "height": 367,
+                "width": 203,
+                "leftCorner": [
+                    69,
+                    81
+                ],
+                "rightCorner": [
+                    272,
+                    448
+                ],
+                "text": "Tudosi Andreea"
+            },
+            "43": {
+                "class": "text",
+                "x": 475,
+                "y": 80,
+                "height": 23,
+                "width": 61,
+                "leftCorner": [
+                    475,
+                    80
+                ],
+                "rightCorner": [
+                    536,
+                    103
+                ],
+                "text": "adulterul,"
+            },
+            "44": {
+                "class": "text",
+                "x": 315,
+                "y": 80,
+                "height": 40,
+                "width": 147,
+                "leftCorner": [
+                    315,
+                    80
+                ],
+                "rightCorner": [
+                    462,
+                    120
+                ],
+                "text": "timpului, _sexualitatea,\npolaritatca Rai-lad."
+            }
+        }
+    },
+    "img_56": {
+        "page": "56",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "45": {
+                "class": "text",
+                "x": 508,
+                "y": 783,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    508,
+                    783
+                ],
+                "rightCorner": [
+                    533,
+                    806
+                ],
+                "text": "56"
+            },
+            "46": {
+                "class": "text",
+                "x": 312,
+                "y": 261,
+                "height": 504,
+                "width": 222,
+                "leftCorner": [
+                    312,
+                    261
+                ],
+                "rightCorner": [
+                    534,
+                    765
+                ],
+                "text": "Emifitorul, in acest caz, Ofelia\nPopii, metamorfozata in 7 personaje, sau\n7 Ofelii miniaturale amplificate, poate fi\nidentificat cu sursa mesajului, deoarece\ndincolo de textul ca atare, cumulul de\nsemnificajie este dat_mesajului prin\nsubiectivism si prin prelucrarea\ninformatiei astfel incat cuvintele si se\ndsprinda litera cu litera din propriul eu.\n\u2018Aceasti septd femininii pune bazele unei\nsituajii de comunicare, prin\nexteriorizarea tuturor stirilor, emotiilor,\nvalorile, care si fie puse in\u2019 comun cu\nreceptorul vizat, emigitorului revenindd-i\nfunctia emotiva,\n\nInevitabil, relajia actor-spectator\neste una strict simpatetica, acestia\nformand o dualitate si revelindu-se unul\nprin altul, Altfel-spus, mesajul transmis\neste valorificat prin\u2019 intermediul unui\nsemifitor-oglinda\u201d, care si asimileze\ninformatia la toate nivelurile, cognitiv,\npsihologie si social. In mod evident, este\nimperativ ca actul de comunicare Si se\nddesfagoare intr-un mod edt mai coerent\ncu puting\u2019, iar pomind de la cei tei\nfactori care favorizeazi 0 bun\u2019\ntransmitere a informatici, stabilirea unui\ncontact cu persoanele vizate trebuie si se\nfaci printr-o materializare et mai\naccesibili a mesajului, Odati stabilit\ncontactul, cdruia ii revine functia fatica,\ntrebuie si menfina si si elimine factorii\nperturbatori"
+            },
+            "47": {
+                "class": "text",
+                "x": 67,
+                "y": 80,
+                "height": 631,
+                "width": 221,
+                "leftCorner": [
+                    67,
+                    80
+                ],
+                "rightCorner": [
+                    288,
+                    711
+                ],
+                "text": "ultimele clipe algturi de fosta servitoare\na casei, respectiv amanta, Margareta\n\nCa reactie a acestui fapt nefericit\n\n\u2018moartea lui Marcel - Margareta refuz\n\nSi infrunte realitatea, eizind in\nderizoriu, Clea igi giseste refugiul in\nroguri, iar Ela in alcool. Daca Clea,\najuns\u00e9 la spital in coma, le introduce pe\nasistenta medical, ce comunied situatia\nsa, $i pe bunica din partea tatalui, ce se\nbucurd astfel de un moment de intimitate\nalituri de nepoata sa, mamei ii revine\natributia de a se ocupa de aspecte ce tin\nde formalitate, si anume, conferinte de\npresi, receptii, dar si consilierea\nangajatilor, mai exact a-manichiuristei\nBela, ce asigur\u00e9 amplificarea fluxului\nemotional, dar i trecerea_catre\npersonajul bunicii mentionat anterior,\npeersonaj ce readuce in discutie subectul\niniial, marea drama a familie\n\nInevitabil, sentimentele variazi\nde la disperate, ridate, regret, la revolt\nsi pang la acceptare, iar intervenia unui\npersona) detasat de intreaga situatie\ndramatic\u2019, si care este rezultatul unei\nsituatii speciale, bunica Cleei a\ncorespondat cu o prietend a acesteia din\n<copitirie, Nbamira din Niger, in numele\nnepoatei sale, are rolul de a marca\nindicele in care se desfigoara oscilatia\nintema apersonajelor, prin stablirea\nunui punet de reper. Finalul tragic\nrespecta lanful dramelor, moartea Cleei\ndovedind ci o femeie este definit\u00e9 de\niubire, ceea ce ii di fort si slabiciune,\nnebunie si coerenti. Actiunea operei are\nccaracteratemporal, iar etalarea\ndiferitelor tipologii feminine are rolul de\n\u00a9 oferi posibilitatea identificarit cu un\npeersonaj, sau crearea unor asocieri cu\npersonaje conexe, din realitatea\nimediat."
+            },
+            "48": {}
+        }
+    },
+    "img_57": {
+        "page": "57",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "49": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    536,
+                    806
+                ],
+                "text": "57"
+            },
+            "50": {
+                "class": "text",
+                "x": 315,
+                "y": 80,
+                "height": 677,
+                "width": 221,
+                "leftCorner": [
+                    315,
+                    80
+                ],
+                "rightCorner": [
+                    536,
+                    757
+                ],
+                "text": "nemultumire. Acelasi lucru se va\nintimpla si cu aprecierea, ce isi are\nccorespondent in ropotul de aplauze.\n\n\u2018Teatrul, fiind o arta ce lucreazd\nstrict cu omul si stabileste un contact\nsubiectiv, este expus riscului de a nu se\nplia pe structura interna a unui individ.\nInsi acest spectacol este persuasiv si\nchiar convinge; altemeaza ritmul alert cu\n\u2018momente de linigte mortuard, reusind si\ntransmit emotie; de asemenea, textul,\nplin de semnificatie, sensibilizeaza prin\ninocenta si prin simplitatea sa. Sunt\nconfruntate situafii autentice, de multe\nori ignorate pentru daunele morale pe\ncare le adue. Desi tema adulterului este\ntratati adeseori, aceasti viziune propune\n\u00a9 deculpabilizare a defunctului, axindu-\nse pe haosul produs de femeie siesi, sau\npe modul in care last aceasta rupturi din\nrutind si-i modeleze existenta, sufletul\n\nConform \u2014 teoretizarilor de\nactualitate, intr-o situatie de comunicare,\ncei doi actangi, emipatorul si receptorul,\nsunt intrun proces de identitate si\ncomplementaritate, intruc\u00e9t fluxul de\ninformatie este simultan. In acest caz,\ndesi spectacolul nu are momente de\nimprovizatie, _reactia \u2014_publicului\ninfluenfeaza rolul scenic, atmostera este\n\u2018maleabild prin schimbul de energie care\nare loc, pentru, asa cum afirma\nOctavian Paler, ,Orice viati e un\nspectacol. De fapt, un dublu spectacol\n{Unul jucat pentru alii, Altul jueat pentru\nsine.\u201d in \u201cFelil\", pentru Ofelia Popii\ncuplul de termini \u201calit-sine\u201d are clstig\nde cauzi, deoarece aceasta este asemeni\nunui boomerang \u2014 ajunge in spatiu,\ninvaluie totul, pentru ase intoarce in sine\nsi pentru a oferi mai mult\n\nLa nivelul coregrafiei propuse de\nFlorin Ficroiu se disting  elemente\napartindnd dansului_contemporan, ce\nreusese si transforme orice miscare in\nvoluptuozitate, in frumos, astfel inca"
+            },
+            "51": {
+                "class": "text",
+                "x": 68,
+                "y": 80,
+                "height": 677,
+                "width": 223,
+                "leftCorner": [
+                    68,
+                    80
+                ],
+                "rightCorner": [
+                    291,
+                    757
+                ],
+                "text": "Codul folosit este limba romani\norali, la care se adaugi elemente de\naralimbaj, mimic si__gestic\u2019,\nmanipularea obiectelor din jur,\nspatiului sia timpului. Ultimele trei\ntribute enumerate sunt cele mai vizibil\nprezente in spectacolul ,Felii\u201d. in primul\nrind, tranzitia de la un personaj la altul\nse face print-un portal imaginar,\ntranspus in diferite obiecte, precum usa,\nsau peretele mobil, transformat in dulap\nrotativ. in al doilea rind, acestor glisari\n<dintr-un plan in altul le sunt atribuite\nsegmente temporale diferite, iar spatiul,\ncare nu suferd transform\nimpresionante, ci simple si inspirate,\ntrece de la a infitisa un dormitor modest,\nla a zugrivi 0 cabina telefonic\u2019, sau 0\n\u2018camera de spital\n\n\u2018Transmiterea \u2014mesajului este\nfacilitat\u00e9 si prin pasajele sonore utilizate,\nprecum siren de polije, forfoti, aparat\nde monitorizare a batdilor inimii, toate\nacestea reusind si substituie decorul\nminimalist din spectacol. De asemenea,\npe ling\u2019 transformarea interioara,\npredarea stachetei de la un personaj la\naltul are loc prin mici schimbari\nsesizabile la nivelul garderobei. Aste,\nMargareta va purta 0 rochie neagra\nsimpla si un baticas albastru, cu buline\nalbe, Clea un tricou negra lung si o\ncaciuld neagrd, Ela va pista rochia si va\navea un palton negra deasupra. si 0\npilarie neagrd, de doliu, etc\n\nActantul fir de care situatia de\ncomunicare ar fi inexistenti este\nreceptotul. Acesta este destinatarul\nmesajului emis si se supune la 5 reguli\nasculti, observa, analizeaz\u2019i, controleazi\ninformatia si apoi se exprima vis-a-vis,\nde subiectul in discutie. in cadrul unui\nspectacol de teatru, exprimarca este\nlimitatd prin reactia din final, neexistind\nposibilitatea unei ripostiri directe a\nJocul actoricese sau la orice alti"
+            }
+        }
+    },
+    "img_58": {
+        "page": "58",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "52": {
+                "class": "text",
+                "x": 508,
+                "y": 783,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    508,
+                    783
+                ],
+                "rightCorner": [
+                    533,
+                    806
+                ],
+                "text": "38"
+            },
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 67,
+                "y": 421,
+                "height": 344,
+                "width": 221,
+                "leftCorner": [
+                    67,
+                    421
+                ],
+                "rightCorner": [
+                    288,
+                    765
+                ],
+                "text": "Spatiul creat ofer\u2019i confort\nspectatorului care nu este limitat printr-\ntun decor rigid, ci este _motivat si\nclideascd pe usi, pe sensurile cuvintelor\nde pe ziduri, noi ingelesuri, si ridice\nconstructii monumentale si familiale in\ninteriorul siu, pentru a se putea delecta\nuurmarind spectacolul, aducdndu-l mai\naproape de suflet, mai ,acasa\u201d\n\nUn aspect foarte important al\nacestei situajii de comuniecare\nreprezinta faptul cd acest spectacol a fost\n\u2018reat pentru a fi un spectacol-lectua,\nAcest Iueru este un avantaj in contextul\nin care se pornise de la ideea ca mesajul\nsii fie transmis strict pe cale oral, ir\nalte artificii suplimentare; acest detaliu\nface ca textul si fie jucabil si oferd\nposibilitatea jocului cu toate celelalte\nelemente ce intervin dati eu\ntranspunerea unui spectacol pe scend.\n\nBazat pe o serie de monologuri,\n{apt ce transforma spectatorul in singurul"
+            },
+            "55": {
+                "class": "text",
+                "x": 311,
+                "y": 80,
+                "height": 445,
+                "width": 223,
+                "leftCorner": [
+                    311,
+                    80
+                ],
+                "rightCorner": [
+                    534,
+                    525
+                ],
+                "text": "receptor participant, .Felii\u201d, desi un\nspectacol ce are \"mereu un singur\npersonaj activ pe seen\u2019, militeaza pentru\nlipsa singularitati, deoarece, in fond,\npind si o drama uneste earactere diferite\nsub semnul aceluiasi semn evoluti.\n\nPe unul dintre peretii aflaji pe\nsceni, este scris cuv\u00e9ntul ,Dumnezeu\u201d,\ncare pe mine, personal, mi duce cu\ngindul Ia niste versuri arhicunoscute\n\u00bbDumnezeu este birbat si nu le infelege\npe femei.\u201d, ceea ce demonstreazd cd\nacele cuvinte pot cu usurinyl declansa\n\u2018memoria subiectiva si plasa actiunea\ntundeva in subconstiental fiecdrui\nindivid,\n\nAnotimpul al cincilea, femeia\nservitl ,Felii\u201d in acest spectacol de\ntwatru, reuseste si adineeascd misterul ce\nsti la baza edificiului emofional feminin,\nneaducind decit indieii neconcludente\n\ndespre 0 stereotipie oarecare, ce\nstabileste gradul de autodistrugere sau de\n@ se detaya in anumite circumstante.\n\u2018Acest aspect face ca spectacolul si se\njoace in permanent cu sala plind, pentru\nafi surprinse de cdtre spectator elemente\nnoi, poate nu atit de evidente, dar\nextrem de importante in receptarea\n\u2018mesajul artistic."
+            },
+            "56": {
+                "class": "text",
+                "x": 66,
+                "y": 80,
+                "height": 336,
+                "width": 222,
+                "leftCorner": [
+                    66,
+                    80
+                ],
+                "rightCorner": [
+                    288,
+                    416
+                ],
+                "text": "migcarea scenic\u2019 si devin\u2019 un cod usor\nprelucrat si de interpretat, ce vine in\ncompletarea limbajului verbal fiecdrui\nppersonaj. Ofelia Popii reuseste si se\nreinventeze prin fiecare mased in parte,\nprin fieeare personalitate inchegata prin\ndans teatral, dozindu-si cantitatea de\nenergie, dar pistrindu-si entuziasmul\npentru fiecarea felie ce va defini intr-un\nfinal spectacolul ca fiind unul complet.\n\n \n\n    \n\nFotografie din spectacolul Lulu (regia\nSilviu Puredrete)"
+            }
+        }
+    },
+    "img_59": {
+        "page": "59",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "57": {
+                "class": "text",
+                "x": 511,
+                "y": 783,
+                "height": 23,
+                "width": 25,
+                "leftCorner": [
+                    511,
+                    783
+                ],
+                "rightCorner": [
+                    536,
+                    806
+                ],
+                "text": "59"
+            },
+            "58": {},
+            "59": {
+                "class": "text",
+                "x": 69,
+                "y": 198,
+                "height": 330,
+                "width": 195,
+                "leftCorner": [
+                    69,
+                    198
+                ],
+                "rightCorner": [
+                    264,
+                    528
+                ],
+                "text": "Profaja pag.2\nProf. Pavel Daniela pag. 2\n\nCristi Avram pag. 4\n\nDiana Dupu pag. 7\n\nLungu Andreea-Loredana pag. 9\n\u2018Ciocan Codrin pag.12\n\nHujanu Madatina pag.14\n\nDrigistan Isabela pag.16\n\nGherman Silviu pag. 17\n\nGorgan Adina Maria pag. 18\nUrsuleanu Smaranda-loana pag. 20\nPadurariu Simona pag. 23\n\u2018Cemused Lavinia pag. 25\n\nlacob Diana pag. 26\n\nViziteu Diana pag. 27\n\nAvram Cristi pag. 30\n\nProf. Cucoreanu Gretti pag. 42\nDiana Dupu pag. 45\n\nSandu Larisa pag. 46\n\nBibliotecar Hluycu Mariana pag. 48\nProf. Voloc Ciprian pag. 52\n\u2018Cuprins pag.59"
+            },
+            "60": {
+                "class": "text",
+                "x": 69,
+                "y": 109,
+                "height": 28,
+                "width": 60,
+                "leftCorner": [
+                    69,
+                    109
+                ],
+                "rightCorner": [
+                    129,
+                    137
+                ],
+                "text": "Cuprins"
+            }
+        }
+    },
+    "img_60": {
+        "page": "60",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "61": {
+                "class": "text",
+                "x": 183,
+                "y": 630,
+                "height": 147,
+                "width": 226,
+                "leftCorner": [
+                    183,
+                    630
+                ],
+                "rightCorner": [
+                    409,
+                    777
+                ],
+                "text": "\u2018Tipar digital realizat la:\n\nEDITURA $I TIPOGRAFIA PIM\n\nSoseaua Sefan cel Mares Sint nag T0097\nTel:0730.086676; Fas: 0352.440.750\nE-mail: eituraf@pimeopy.c0\nswsspimenpy0"
+            }
+        }
+    }
+}

@@ -1,0 +1,941 @@
+{
+    "numberOfPages": 116,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 257,
+                "y": 357,
+                "height": 28,
+                "width": 138,
+                "leftCorner": [
+                    257,
+                    357
+                ],
+                "rightCorner": [
+                    395,
+                    385
+                ],
+                "text": "ACADEMICE"
+            },
+            "2": {
+                "class": "text",
+                "x": 120,
+                "y": 357,
+                "height": 28,
+                "width": 128,
+                "leftCorner": [
+                    120,
+                    357
+                ],
+                "rightCorner": [
+                    248,
+                    385
+                ],
+                "text": "PRELEGERI"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "3": {
+                "class": "text",
+                "x": 155,
+                "y": 645,
+                "height": 24,
+                "width": 102,
+                "leftCorner": [
+                    155,
+                    645
+                ],
+                "rightCorner": [
+                    257,
+                    669
+                ],
+                "text": "ISSN 1583-4514"
+            },
+            "4": {
+                "class": "text",
+                "x": 379,
+                "y": 563,
+                "height": 21,
+                "width": 143,
+                "leftCorner": [
+                    379,
+                    563
+                ],
+                "rightCorner": [
+                    522,
+                    584
+                ],
+                "text": "Telmoredactare: Elena Mocanu"
+            },
+            "5": {
+                "class": "text",
+                "x": 157,
+                "y": 225,
+                "height": 82,
+                "width": 195,
+                "leftCorner": [
+                    157,
+                    225
+                ],
+                "rightCorner": [
+                    352,
+                    307
+                ],
+                "text": "Membri: Acad. Valeriu D. Cotea\n\u2018Acad: Gheorghe Platon\nProf. de. Constantin Toma, me.\nProf. de. Vasile Burui\n\nSecretar: Dr. Margareta Borcea"
+            },
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 157,
+                "y": 178,
+                "height": 23,
+                "width": 146,
+                "leftCorner": [
+                    157,
+                    178
+                ],
+                "rightCorner": [
+                    303,
+                    201
+                ],
+                "text": "COLEGIUL DE REDACTIE,"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "8": {},
+            "9": {
+                "class": "text",
+                "x": 394,
+                "y": 548,
+                "height": 39,
+                "width": 46,
+                "leftCorner": [
+                    394,
+                    548
+                ],
+                "rightCorner": [
+                    440,
+                    587
+                ],
+                "text": "Vol. IV\nNr"
+            },
+            "10": {
+                "class": "text",
+                "x": 255,
+                "y": 402,
+                "height": 27,
+                "width": 127,
+                "leftCorner": [
+                    255,
+                    402
+                ],
+                "rightCorner": [
+                    382,
+                    429
+                ],
+                "text": "ACADEMICE"
+            },
+            "11": {
+                "class": "text",
+                "x": 132,
+                "y": 402,
+                "height": 27,
+                "width": 119,
+                "leftCorner": [
+                    132,
+                    402
+                ],
+                "rightCorner": [
+                    251,
+                    429
+                ],
+                "text": "PRELEGERI"
+            },
+            "12": {
+                "class": "text",
+                "x": 345,
+                "y": 288,
+                "height": 20,
+                "width": 42,
+                "leftCorner": [
+                    345,
+                    288
+                ],
+                "rightCorner": [
+                    387,
+                    308
+                ],
+                "text": "Sofocle"
+            },
+            "13": {
+                "class": "text",
+                "x": 235,
+                "y": 255,
+                "height": 44,
+                "width": 153,
+                "leftCorner": [
+                    235,
+                    255
+                ],
+                "rightCorner": [
+                    388,
+                    299
+                ],
+                "text": "*Nimic nut mai presus de omul\nce are im mint tutte\n\ntinge.\""
+            },
+            "14": {
+                "class": "text",
+                "x": 170,
+                "y": 116,
+                "height": 45,
+                "width": 173,
+                "leftCorner": [
+                    170,
+                    116
+                ],
+                "rightCorner": [
+                    343,
+                    161
+                ],
+                "text": "ACADEMIA ROM\nFILIALA IASI"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {}
+    },
+    "img_111": {
+        "page": "111",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 440,
+                "y": 690,
+                "height": 21,
+                "width": 26,
+                "leftCorner": [
+                    440,
+                    690
+                ],
+                "rightCorner": [
+                    466,
+                    711
+                ],
+                "text": "un"
+            },
+            "16": {
+                "class": "text",
+                "x": 56,
+                "y": 586,
+                "height": 86,
+                "width": 403,
+                "leftCorner": [
+                    56,
+                    586
+                ],
+                "rightCorner": [
+                    459,
+                    672
+                ],
+                "text": "Prof, dr. CONSTANTIN TOMA, mac, ~ nscut la 19 nojembrie 1935, in Gugest,\njd. Vaslui A absolvit Pacutatea de Stinfe Naturale din cadrul Universitit\n\u201cALL Cuza\u201d Iasi, in 1958, sa obfinut till de doctor in biologie in 1969. Este\n\n\u2018profesor la Faculatea de Biologie a Universitit ALL Cuza\" Iasi, conduedtor de\noctorat, membru corespondent al Academiei Romine dia 1991, membru al\n\u2018Academiei de Ecologie din Republica Moldova din 1999,"
+            },
+            "17": {
+                "class": "text",
+                "x": 88,
+                "y": 436,
+                "height": 149,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    436
+                ],
+                "rightCorner": [
+                    459,
+                    585
+                ],
+                "text": "\u2018Premiul Academiei Romine, 1985; Om Internajional al anului 1999 si\n2000-2001. (Centrul Biografie Intemational din Cambridge); Premiul national\nPentru Merit in grad deofiter, 2000; Ordinul Najional Sericalcredincos in grad\ne offer, 2002; Premiul Stefan Lypagcu al Fundatiet internationale pentru stint\nsi culturs Stefan Lupaseu\u201d, Iasi, 2003: Premiul Opera omnia al revistei\n\u201cAteneu\u201d, Baciu, 2004; Premiul Opera omnia confert de Primaria Municipiului\n\niasi, 2005; Premil de excelent ofeit de revista ,Convorbin iterate\", 2005;\nremiul de excelent pentru ansamblul actvititi de estetcian si istorc al eulturi\navordat de Asociagia Roman penira Patrimoniu, 2005; Premiul Opera omnia\nconferit de Prefectura judfului lai gi Uniunea Seritorlor din Romania Filiala\nTayi pent ntreaga ativitate litera, 2005."
+            },
+            "18": {
+                "class": "text",
+                "x": 88,
+                "y": 235,
+                "height": 200,
+                "width": 372,
+                "leftCorner": [
+                    88,
+                    235
+                ],
+                "rightCorner": [
+                    460,
+                    435
+                ],
+                "text": "Lucriri semnifieative: Dincolo de ruine, 1959, Ed, Tineretuui, Buc.; Intoarcerea\nJa Literawuri, 1978, Ed Junimea, lags Ars Longa. Probleme fundamental ale\n\u2018arte, 1980, Ed, Univers, Buc.; Metapoetica, Prolegomene, 1983, Ed. Univers,\nBuc. evoarele arti, 1988, Ed. Meridane, Buc. Ireniton, 1990, Bd. Dacia, Chi\nNapoca; Ideea europeand sau Noi $i Europa, 1993, Fa. Int. European tap\nLecyile istorii, 1998, Ed. Inst. European lai: Ani-Gos, 1996, Ed. Agora, lay:\nPeriplu prin memorie, 1998, Bd Inst. European, last: Miorza, 1999, Bd. Univ\nALL Cuz, lasis toarcerea la literatura ~ Aplicayi, 2000, Ed. Spiru Haret,\nlags Poeme de odinioari, 2000, Ed. Augusta, Timisoara: Pro Eminescu, 2001,\nEd. Junimes, si: Tradii-mafionale, 2001, Ed. Cronica, Iais Printre\ncontemporani, 2003, Ed. Convorbiniliterare, lai; Mesterul Manole, 2004, Ed\nFundatiei Culturale Memoria, Bue; Avem o mise, 2004, Ed, Redactci\nPublcatilor pentru Suinitate a Uniunit Scritorlor din Rominia, Buc: 0\ntemporal... Vremea de apoi!, 2004, Ed. Alfa, Iasi; Itoarcerea la Iiteraturd\nSugesti, 2004, Ed. Cronica as"
+            },
+            "19": {
+                "class": "text",
+                "x": 88,
+                "y": 212,
+                "height": 23,
+                "width": 340,
+                "leftCorner": [
+                    88,
+                    212
+                ],
+                "rightCorner": [
+                    428,
+                    235
+                ],
+                "text": "Domeniul de studiu: Estetic si teoria literatui,istoia $i filosofia culturit"
+            },
+            "20": {
+                "class": "text",
+                "x": 56,
+                "y": 137,
+                "height": 72,
+                "width": 403,
+                "leftCorner": [
+                    56,
+                    137
+                ],
+                "rightCorner": [
+                    459,
+                    209
+                ],
+                "text": "Prof.dr. ALEXANDRU HUSAR ~ niscut la 26 aprilie 1920, in Tlva-Mare, judetul\n[Nasiud. A absolvit Facultatea de Flosofe si Litere din cadral Universiti\nBucuresti n 1945, ga obyinut dul de doctor in filosote, in 1972. Este profesor\n\nconsultant si Presedint al Comisci de Istria si Teoria Arte a Filial din lagi a\n\u2018Academie: Romine"
+            },
+            "21": {
+                "class": "text",
+                "x": 55,
+                "y": 110,
+                "height": 24,
+                "width": 397,
+                "leftCorner": [
+                    55,
+                    110
+                ],
+                "rightCorner": [
+                    452,
+                    134
+                ],
+                "text": "DATE BIOGRAFICE ALE AUTORILOR ACESTUI VOLUM"
+            },
+            "22": {
+                "class": "text",
+                "x": 55,
+                "y": 50,
+                "height": 25,
+                "width": 396,
+                "leftCorner": [
+                    55,
+                    50
+                ],
+                "rightCorner": [
+                    451,
+                    75
+                ],
+                "text": "PRELEGER! ACADEMICE"
+            }
+        }
+    },
+    "img_112": {
+        "page": "112",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "23": {
+                "class": "text",
+                "x": 140,
+                "y": 686,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    140,
+                    686
+                ],
+                "rightCorner": [
+                    168,
+                    708
+                ],
+                "text": "12"
+            },
+            "24": {},
+            "25": {
+                "class": "text",
+                "x": 171,
+                "y": 604,
+                "height": 24,
+                "width": 250,
+                "leftCorner": [
+                    171,
+                    604
+                ],
+                "rightCorner": [
+                    421,
+                    628
+                ],
+                "text": "Domeniul de studiu: istoriogratia secolelor XVI-XX."
+            },
+            "26": {
+                "class": "text",
+                "x": 139,
+                "y": 504,
+                "height": 99,
+                "width": 403,
+                "leftCorner": [
+                    139,
+                    504
+                ],
+                "rightCorner": [
+                    542,
+                    603
+                ],
+                "text": "\u2018Acad, ALEXANDRU ZUB ~ niscut lal2 octombrie 1934, in Varful Campului, judeyol\nBotosani. A absolvit Facultatea de Istorie din Cadul Universitit ALi. Cuza\u201d\nlagi tn 1957 sa objinat tu de doctor in sine istorice in 1973. Este eeteetitor\nprincipal I si director al Isttutului de Istorie .A.D. Xenopo!\u201d din cadral Filialei\n\ndin Tagi a Academiei Romine (din 1990). Membru corespondent (1991), apoi\ntitular (2004) al Academiei Romine, preyedinte al Sectet de Stine Iorie gi\nAseologic (2005)."
+            },
+            "27": {
+                "class": "text",
+                "x": 171,
+                "y": 404,
+                "height": 98,
+                "width": 371,
+                "leftCorner": [
+                    171,
+                    404
+                ],
+                "rightCorner": [
+                    542,
+                    502
+                ],
+                "text": "Lucr\u00e9ri semnificative: Tema si organizarea primului concurs de urbanism\nrnajional_ pentru centul_municipiulut Tasi, 1993; Strategia de dezvoltare a\n\u2018municipiulai asi, 1995: Iniiatoral primului Plan Urbanistic General pentu\n\u2018municipiul lagi, 1995; Stategia de dezvoltae durabila a munieipilui lay (in\n\ncolectiv), 2000; Sti aticole de specalitate in .Cronica,Tribuna\u2019, Revista\nde Administratie Publica\", Arhitext Design, cronicd Siptiminala de specialitate\nin cotdianul ,Ziarl de fi\" din 1997,"
+            },
+            "28": {
+                "class": "text",
+                "x": 171,
+                "y": 379,
+                "height": 24,
+                "width": 247,
+                "leftCorner": [
+                    171,
+                    379
+                ],
+                "rightCorner": [
+                    418,
+                    403
+                ],
+                "text": "Domeniul de studiu: urbanism, administratie public."
+            },
+            "29": {
+                "class": "text",
+                "x": 139,
+                "y": 305,
+                "height": 73,
+                "width": 403,
+                "leftCorner": [
+                    139,
+                    305
+                ],
+                "rightCorner": [
+                    542,
+                    378
+                ],
+                "text": "\u201cArhitect IONEL OANCEA \u2014 nascut la 3 martie 1956, in Darabani, judeful Botosani\n\"A absolvit Institue de Arhitecturd Jon Mincu\u201d Bucuresti, i anul 1984, Este\nociorand al Institutului mai sus \u2018mentions. Din 1998\" susie cusuri de\n\n\u2018=Dezvolare urban\u201d la Facultatea de Economie si Administrarea Afacerilor din\nadrul Universitit ALL Cuza\u201d ls"
+            },
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 171,
+                "y": 130,
+                "height": 135,
+                "width": 371,
+                "leftCorner": [
+                    171,
+                    130
+                ],
+                "rightCorner": [
+                    542,
+                    265
+                ],
+                "text": "Lucriri semnificative: Botanica de 1. Grinjescu, 1985, Ed. St si Enciclopedic,\n\u2018Buc; Morfologia si anaiomia plantelor cultivate, 1985, Ed. Ceres, Buc: Cella\nvegetal, 1995, 1997, 2000, Ed. Unis. ALL Cu\u201d ag: Anatomia comparat\u00e9 gi\nUrastractura fructelor la edteva sori autohtone de mir, 1991, Ed. .Stinjs\",\nChisindu; Anatomia plantelor medicinale, 1998, Ed. Acad, Rom. Bue. Simbioca\n\nIn lumea vie, 2000, Ed. Univ. ,ALL Cura, lay: Histologie vegetald, 2000, Ea.\nSunimea, Iai; Inluena poluanjlor amosferic asupra strucruri plantelor, 2003,\nEd. Fundatiel Andrei Saguna\u201d, Constanta: Sirategiievoluive In regnul vegeta,\n2003, Ed. Univ. ALL Cura\u201d, lagi Citoferentiere $i morfogenezd vegetal\n2003, Ed. Corson, ls"
+            },
+            "32": {
+                "class": "text",
+                "x": 171,
+                "y": 105,
+                "height": 24,
+                "width": 184,
+                "leftCorner": [
+                    171,
+                    105
+                ],
+                "rightCorner": [
+                    355,
+                    129
+                ],
+                "text": "Domeniul de studiu: biologie vegetal."
+            },
+            "33": {
+                "class": "text",
+                "x": 138,
+                "y": 45,
+                "height": 27,
+                "width": 396,
+                "leftCorner": [
+                    138,
+                    45
+                ],
+                "rightCorner": [
+                    534,
+                    72
+                ],
+                "text": "ACADEMIA ROMANA -FILIALA IAS!"
+            }
+        }
+    },
+    "img_113": {
+        "page": "113",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "34": {
+                "class": "text",
+                "x": 440,
+                "y": 689,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    440,
+                    689
+                ],
+                "rightCorner": [
+                    468,
+                    711
+                ],
+                "text": "113,"
+            },
+            "35": {
+                "class": "text",
+                "x": 88,
+                "y": 432,
+                "height": 236,
+                "width": 372,
+                "leftCorner": [
+                    88,
+                    432
+                ],
+                "rightCorner": [
+                    460,
+                    668
+                ],
+                "text": "Lucriri semnificative: Axiomatica, un studiu morfo-logic, 1980, Ed. Stintificd si\nEnciclopedic, Buc. Lagied gi metalogicd \u2014incursuni i noi conturur, 1983, Ed\nJunimea, las Perspective logice \u2014 contribu fragmentare la reconturarea wnui\nprofil dsciplinar, 1987, Ed, Sunimea, lais Adevar $1 performan pretee $i\nContete semiovlogice, 1987, Ed. Stiniticd gi Enciclopedicd, Bucy; Logic and\nDialects: Confruntations, Connexions, Classifications, 1990, Ed. Univ. ALL\nCura\", lagi; Educate gf ereane In perspectva une loge! siiuarionales, 1995,\nEd, Didactics gi Pedagogic\u2019. Bue. Orizontrilogice \u2014 deschideri si resemnifcdri\n\u2018in universul actual al formalimelor, 1995, Fa Didactica si Pedagogica, Bus:\nLogit $i filosofe  restanye, radiografi. retrospective, 1996, Ed. Inst. European,\nIasi; Logea sintegran, in distinc, operajonalizav, defini $i exemplifiedri\n1999, Ed Stefan Lupascu\", Iasi Stefan Lupascu s ele tei logic ale sale, 2000,\nEd, , Stefan Lupascu\u2019 lagi; Modelul hexadiec in politologe, 2002, Ed. Stefan\nLupaseu\", asi: Logica, la confluent\u00e9 cu hermeneutca, 2004,\u201d Ed. \u201cStefan\nLLupagcu lag; Prin logicd, spre metafilosofe, 20, Ed, Stefan Lupasc, lagi\nAlexanda Husar la a LXXXV-a aniversare: semiograma omulai $i opere, 2008,\nFd, Stefan Lupascu\u201d, lagi; Lucian Blaga,  ovizontul unei logic} paradisiac,\n2005, Bd, Stefan Lupageu\", lagi"
+            },
+            "36": {
+                "class": "text",
+                "x": 88,
+                "y": 407,
+                "height": 24,
+                "width": 306,
+                "leftCorner": [
+                    88,
+                    407
+                ],
+                "rightCorner": [
+                    394,
+                    431
+                ],
+                "text": "Domeniul de studi: logic\u2019, metalogic\u2019, semiologie, hermeneutic\u2019,"
+            },
+            "37": {
+                "class": "text",
+                "x": 56,
+                "y": 307,
+                "height": 99,
+                "width": 403,
+                "leftCorner": [
+                    56,
+                    307
+                ],
+                "rightCorner": [
+                    459,
+                    406
+                ],
+                "text": "Prof. dr. PETRU IOAN ~ niscut 1a 26 aprilie 1947, in municipiul Husi, judetul Vas-\nThi. A absolvitsecia de Filosofie & Faculti\u2019 de Istorie si Flosofe din cadrul\nUniversitit ALL Cuza\u201d lai in 1970, sia objinut tl de doctor in filosoie,\nspeciaitatea Logica, in 1975. Este profesor la Facultaea de Flosofie a Univers\n\n{pi ALL Caza\u201d din lai, presente executi al FundatieiInterajionale penteu\n\u2018Stina i Cultur Stefan Lupaseu\", cu sedul ental la a, si memibra al Centr\nTui International de Studi i Cercetii Trandiscplinare din Pais"
+            },
+            "38": {
+                "class": "text",
+                "x": 88,
+                "y": 245,
+                "height": 61,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    245
+                ],
+                "rightCorner": [
+                    459,
+                    306
+                ],
+                "text": "Distinct: Premiul Academici Romine, 1974; Chevalier de V'Ordre des Arts et\ndes Letres, 1995; Ordinul National Steaua Romdniei in grad de Mare Ofer,\n\n2000; Docior honoris causa al Universitit .Dunirea de Jos\u201d Galai si al\nUniversiti Stefan cel Mare\u201d Suceava, 2004,"
+            },
+            "39": {
+                "class": "text",
+                "x": 88,
+                "y": 108,
+                "height": 136,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    108
+                ],
+                "rightCorner": [
+                    459,
+                    244
+                ],
+                "text": "Despre impactul Revolusiei franceze, 1994, Ed. Inst. European (varianta englez\n2000), lai: Diseurs istorii anifie, 1998, Fd. Inst. European, lag; Orizont\ninchs. Isoriografia rom\u00e9nd sub dictaturd, 2000, Bd. Inst. European, lags De la\nistoria critica la critciom.Istoriografia romana sub semnul moderated.\n2000, Ed, Enciclopedics, Bue.: Vasile P\u00e9rvan:dilemele unui istorc, 2002, Ei\n\nIns, European, Iii Istoriografa romand fa varstasintecet: A.D. Xenopol, 204,\nInst. European, Lai: Minail Kogdlniceany, arhitect al Rominel madene, 2008,\nInst. European, lai; Clio sub semnulinterogaie. lei, sugesti fur, 2006, Ed.\nPolirom, lagi; Romanogermanien. Secvengeistorcoreulurale, 2006, Fd, Univ\n\nALL Caza\u201d, Lash,"
+            },
+            "40": {
+                "class": "text",
+                "x": 55,
+                "y": 50,
+                "height": 25,
+                "width": 396,
+                "leftCorner": [
+                    55,
+                    50
+                ],
+                "rightCorner": [
+                    451,
+                    75
+                ],
+                "text": "PRELEGER! ACADEMICE"
+            }
+        }
+    },
+    "img_114": {
+        "page": "114",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "41": {
+                "class": "text",
+                "x": 140,
+                "y": 687,
+                "height": 21,
+                "width": 28,
+                "leftCorner": [
+                    140,
+                    687
+                ],
+                "rightCorner": [
+                    168,
+                    708
+                ],
+                "text": "14"
+            },
+            "42": {
+                "class": "text",
+                "x": 171,
+                "y": 554,
+                "height": 111,
+                "width": 371,
+                "leftCorner": [
+                    171,
+                    554
+                ],
+                "rightCorner": [
+                    542,
+                    665
+                ],
+                "text": "Lucriri semmificative: Istoria medicine\u2019 wniversale, Tratat, 1971, Bd. Didactic\u2019\n5 Pedagogicd, Buc. (cola): storia medicine\u2019 in Romdnia, 1971, Bd. Didactics\n5 Pedagogiea, Buc. (colab); Istoriainsdyimdntului medical in Moldova, 1979,\nBd. LMP, las: Pedopsihiiria, be si repere contemporane, 1989, Ed. LMP.\n\nIasi; Istoria Psibiarel, 2001, Ed. Contac, lagi: Le syphilis nerveux aujourd hui,\n1976, Ed. OMS. Geneva? Pagini medico-isorice, 1980, Ed. LM... ksi\nIneligena inconstientuui, 2008, Ed. Apollonia, Lasis Credind si stingd, 2003,\nEd, Contact, lair Bseuri: Portet tn oglini paralele, 1989, Ed, Junimea, Iasi"
+            },
+            "43": {
+                "class": "text",
+                "x": 171,
+                "y": 529,
+                "height": 24,
+                "width": 358,
+                "leftCorner": [
+                    171,
+                    529
+                ],
+                "rightCorner": [
+                    529,
+                    553
+                ],
+                "text": "Domeniul de studiu: Psibiatre (pedopsihiatre.sifilis nervos), Istoria Medicine,"
+            },
+            "44": {
+                "class": "text",
+                "x": 139,
+                "y": 467,
+                "height": 61,
+                "width": 403,
+                "leftCorner": [
+                    139,
+                    467
+                ],
+                "rightCorner": [
+                    542,
+                    528
+                ],
+                "text": "Prof. dr. CONSTANTIN ROMANESCU ~ niscut Ia 18 mai 1927, in Soroca. A ab-\nsolvit Facultatea de Medici din Tagiin 1951, A obgiut tl de doctor in medic\n\nind in 1972. Ese profesor consultant la Universitatea de Medicing si Farmacie\nT, Popa din Tas, Este membru eneit al Academiei de Stinje Medicale"
+            },
+            "45": {},
+            "46": {
+                "class": "text",
+                "x": 171,
+                "y": 242,
+                "height": 186,
+                "width": 372,
+                "leftCorner": [
+                    171,
+                    242
+                ],
+                "rightCorner": [
+                    543,
+                    428
+                ],
+                "text": "Lucriri semnificative: Cercetari asupra distributii stratigrafice a microflorei in\nNigel paleogen dir vaile Bisrita si Trotus, 978, Ed, Inst. de Geologie si Geo-\n\nfizicd Bucureyti, M\u00e9moires, XXVIL, Buc; Painologie cu aplicati in geologie\n(in colab), 1980, Ed, Didactia si Pedagogicd, Buc; Geomecanied (in club),\n1982, Ed. Univ, \u00abALL Cuz Iasi: Geologie inginereascd (in cob), 1984,\n\nUniv. ALL Cuza\", lai: Paleobiological and Paleoecological problems of the\nAcritarchs and their uals in the biastratigraphy of metamorphic formations of\n\nRomania, 2001, Bithal Sahni Centenary Celebration Compendium, Publ\nSavitriana, 1, Lucknow, India; Using acritarchs assemblages to correlate Upper\nProterozoic and Lower Paleozoic metamorphic sequences in Romania, 2001,\nPublishing House, American Association of Statigraphic -Palynologsts\nFoundation, Dalis, Texas, U.S.A; Acta Palacontologica Romaniae, 2002, vol\nMl, editor Olu L., a, Vasiliana'98; Geologie fcicd (in cola), 2004, Ed, Uni\nALL. Cuza i"
+            },
+            "47": {
+                "class": "text",
+                "x": 171,
+                "y": 217,
+                "height": 24,
+                "width": 200,
+                "leftCorner": [
+                    171,
+                    217
+                ],
+                "rightCorner": [
+                    371,
+                    241
+                ],
+                "text": "Domeniut de studiu: geotog"
+            },
+            "48": {
+                "class": "text",
+                "x": 139,
+                "y": 130,
+                "height": 86,
+                "width": 403,
+                "leftCorner": [
+                    139,
+                    130
+                ],
+                "rightCorner": [
+                    542,
+                    216
+                ],
+                "text": "Prof. dr. LEONARD OLARU ~ niiscut la 4 octombrie 1936, in Noul Caragaci, Ce-\ntatea Albi, Basaraia. A absolvitFaculatea de Stinjcle Naturi-Geografie,sectia\nseografie fizicd, din Iasi, 1961 si Faculea de Biologie-Geosrafie, sectia\n\nseologic, la Clu, n 1969. A objinut tiul de doctor in geologie, in 1976, la las\nEste profesor la Facultatea de Geografie si Geologie din cadrul Universiti ALL\nCura Las"
+            },
+            "49": {
+                "class": "text",
+                "x": 171,
+                "y": 105,
+                "height": 24,
+                "width": 213,
+                "leftCorner": [
+                    171,
+                    105
+                ],
+                "rightCorner": [
+                    384,
+                    129
+                ],
+                "text": "Distinefii: Premiul Academic; Romine, 1987."
+            },
+            "50": {
+                "class": "text",
+                "x": 138,
+                "y": 45,
+                "height": 27,
+                "width": 396,
+                "leftCorner": [
+                    138,
+                    45
+                ],
+                "rightCorner": [
+                    534,
+                    72
+                ],
+                "text": "ACADEMIA ROMANA -FILIALA IAS!"
+            }
+        }
+    },
+    "img_115": {
+        "page": "115",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "51": {
+                "class": "text",
+                "x": 440,
+                "y": 689,
+                "height": 22,
+                "width": 28,
+                "leftCorner": [
+                    440,
+                    689
+                ],
+                "rightCorner": [
+                    468,
+                    711
+                ],
+                "text": "us"
+            },
+            "52": {
+                "class": "text",
+                "x": 88,
+                "y": 607,
+                "height": 46,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    607
+                ],
+                "rightCorner": [
+                    459,
+                    653
+                ],
+                "text": "Franceze, 2002,"
+            },
+            "53": {
+                "class": "text",
+                "x": 87,
+                "y": 419,
+                "height": 185,
+                "width": 372,
+                "leftCorner": [
+                    87,
+                    419
+                ],
+                "rightCorner": [
+                    459,
+                    604
+                ],
+                "text": "Lucriri semnificative: Boierimea din Moldova in secolul al XIX-lea. Context\neuropean, evoluje social si pot (Date statistic si observa istrice). 1995,\nEd Academici, Buc; Geneza burgheciei in Principatele Romdne (a dows\nunitate a secolului al XVH-lea \u2014 prima jumitate a secolului al XIX-lea)\nPreliminarile une! itor, 1997, EdLUni. ,ALL Cuza, lai: Societate si mena\n1a in Europa medieval. O introducere in ansropologa istoricd, 2000, EA. Univ\nALL Cuza\", lagi; Not perspective asupra istoriel sociale in Romania si Frama\n\n4003, Ed. Univ. ALI. Cura\", lags De la Cetatea tui Dewnneseu ta Edict din\nNantes. Fvoare de storie medieval (sec. V-XVI, 2008, Ed. Polirom, las Eli\n= Istora Europei, vol 2, De la Imperial Roman la Europa (se. V-XIV), 1997, Ei\nInst, European, lasisivdjarea activin domenial istorie ial stintelor sociale,\n2000, Ed. Fundatiei Pentru Studi Europene, Cluj: Intelectalit in Europa\nsecolului al XIX-lea. Esew de istorie comparati, 2002, Ed, Inst, European, lai\nStudi icantine de istore economies socal, 2003, Ed. Poirom, las"
+            },
+            "54": {
+                "class": "text",
+                "x": 88,
+                "y": 395,
+                "height": 21,
+                "width": 184,
+                "leftCorner": [
+                    88,
+                    395
+                ],
+                "rightCorner": [
+                    272,
+                    416
+                ],
+                "text": "\u2018Domeniul de studiu: istorie medieval8."
+            },
+            "55": {
+                "class": "text",
+                "x": 56,
+                "y": 320,
+                "height": 73,
+                "width": 403,
+                "leftCorner": [
+                    56,
+                    320
+                ],
+                "rightCorner": [
+                    459,
+                    393
+                ],
+                "text": "Prof. dr. ALEXANDRU-FLORIN PLATON ~ niiscut Ia 21 mai 1957, in lagi, A ab-\n\u2018solvit Facultatea de Istorie-Filosofie din eadrul Universitit ALL Cuz\u201d lagi, in\n1980 si a objnut tial de doetor In istorie, in 1996. Este profesor si decan al\n\nFacultiii de Istorie si Director executiv al Centrului de Studii Europene din\ncadrul Universiti ALL Cuza\u201d Tish"
+            },
+            "56": {
+                "class": "text",
+                "x": 88,
+                "y": 171,
+                "height": 147,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    171
+                ],
+                "rightCorner": [
+                    459,
+                    318
+                ],
+                "text": "Numeroase diplome de excelent printre care Premiul Pogor al\n\u2018Municipaliti Tas, Diploma de Excelenld a Colegiului Medicilor din Romania,\n\u2018membri de onoare al Cenrului Eminescu dela Ipotest\n\nFellow O.MS., Preedinte de onoare al soviet Fur die Kinder (Viena, Spiritus\n\u2018Rector Medicinae,tilu decerat de Universitatea Oradea. A lucrat in colective $i\nclinici sub indrumarea unor maestri de reputfic universals: C. Ajuariguerra\n\n(Geneva, Pais), S. Lebovici (Paris), VL Bologa (Cluj), A. Piters (Liverpoo), L\nalli las). Stag in conte si institute print care Musse_ de Histoire Nature!\n(Pars), Universitatea Liverpool, M.G. Shutte (Londra). Hopital Saint Antoine\n(Salp\u00e9sire), Centre neurologique de Place d'Ktalie (Paris) Istituto di Igiena di\nTalia (Roms), Itituto Soria de la Medicina (Roma)."
+            },
+            "57": {
+                "class": "text",
+                "x": 88,
+                "y": 108,
+                "height": 61,
+                "width": 371,
+                "leftCorner": [
+                    88,
+                    108
+                ],
+                "rightCorner": [
+                    459,
+                    169
+                ],
+                "text": "Pasirea Pheonix, 2000, Ed. Contact, Iasi: Foigorul pentru contemplat ploaia,\n2002, Ed. Chemarea, Iii: Rosa canina, 2004, Ed. Apollonia, lsi. 24 aricole\n\n\u2018despre istoria invsigimantului medical ieean, Relaia etologiepsihiatre in Bul\nCentr. Neurostinfe, Socola,lasi (in clab. cu Romanescu Alexandru, Toronto)."
+            },
+            "58": {
+                "class": "text",
+                "x": 55,
+                "y": 50,
+                "height": 25,
+                "width": 396,
+                "leftCorner": [
+                    55,
+                    50
+                ],
+                "rightCorner": [
+                    451,
+                    75
+                ],
+                "text": "PRELEGER! ACADEMICE"
+            }
+        }
+    },
+    "img_116": {
+        "page": "116",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "59": {
+                "class": "text",
+                "x": 172,
+                "y": 570,
+                "height": 102,
+                "width": 223,
+                "leftCorner": [
+                    172,
+                    570
+                ],
+                "rightCorner": [
+                    395,
+                    672
+                ],
+                "text": "\u2018Tipar Digital realizat la Tipografia O11)\nSoseaua Stefan cel Mare nr. 1\nIasi - 700498\n\n\u2018el. fax: 0232-212740\nce-mail:editurapim@ pimeopy.t0\n\u2018www pimeopy.r0"
+            }
+        }
+    }
+}

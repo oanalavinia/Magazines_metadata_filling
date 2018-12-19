@@ -1,0 +1,543 @@
+{
+    "numberOfPages": 142,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {}
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {}
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 166,
+                "y": 738,
+                "height": 55,
+                "width": 266,
+                "leftCorner": [
+                    166,
+                    738
+                ],
+                "rightCorner": [
+                    432,
+                    793
+                ],
+                "text": "1M* IASI\n\n \n\n2/2013 *H"
+            },
+            "2": {
+                "class": "text",
+                "x": 44,
+                "y": 420,
+                "height": 56,
+                "width": 511,
+                "leftCorner": [
+                    44,
+                    420
+                ],
+                "rightCorner": [
+                    555,
+                    476
+                ],
+                "text": "Revista cadrelor militare in rezerva si a veteranilor de razboi\njudetul Vash"
+            },
+            "3": {
+                "class": "text",
+                "x": 427,
+                "y": 353,
+                "height": 45,
+                "width": 122,
+                "leftCorner": [
+                    427,
+                    353
+                ],
+                "rightCorner": [
+                    549,
+                    398
+                ],
+                "text": "TIMP"
+            },
+            "4": {},
+            "5": {
+                "class": "text",
+                "x": 50,
+                "y": 353,
+                "height": 56,
+                "width": 228,
+                "leftCorner": [
+                    50,
+                    353
+                ],
+                "rightCorner": [
+                    278,
+                    409
+                ],
+                "text": "CADENTE"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "877",
+        "sections": {
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 62,
+                "y": 678,
+                "height": 58,
+                "width": 170,
+                "leftCorner": [
+                    62,
+                    678
+                ],
+                "rightCorner": [
+                    232,
+                    736
+                ],
+                "text": "Costin Clit\nColonel (r) ing. Nicu $apea\n\n \n\nColonel (r) Martin Cata"
+            },
+            "8": {
+                "class": "text",
+                "x": 111,
+                "y": 645,
+                "height": 27,
+                "width": 203,
+                "leftCorner": [
+                    111,
+                    645
+                ],
+                "rightCorner": [
+                    314,
+                    672
+                ],
+                "text": "COMITETUL DE REDACTIE"
+            },
+            "9": {
+                "class": "text",
+                "x": 61,
+                "y": 613,
+                "height": 29,
+                "width": 201,
+                "leftCorner": [
+                    61,
+                    613
+                ],
+                "rightCorner": [
+                    262,
+                    642
+                ],
+                "text": "ISSN-L 2344 - 3464"
+            },
+            "10": {
+                "class": "text",
+                "x": 64,
+                "y": 577,
+                "height": 29,
+                "width": 181,
+                "leftCorner": [
+                    64,
+                    577
+                ],
+                "rightCorner": [
+                    245,
+                    606
+                ],
+                "text": "ISSN 2344 \u2014 3464"
+            },
+            "11": {
+                "class": "text",
+                "x": 30,
+                "y": 84,
+                "height": 148,
+                "width": 540,
+                "leftCorner": [
+                    30,
+                    84
+                ],
+                "rightCorner": [
+                    570,
+                    232
+                ],
+                "text": "Coperta 1: Batalionul 202 Aparare C.B.R.N. in pas de defilare pe strada General\nGheorghe Teleman din Hugi.\n\nCoperta 2: Col. (r) Martin Cata, col. (r) ing. Nicu Sapca, Costin Clit \u2014 fotografie realizati\ncu prilejul dezvelirii bustului generalului Gheorghe Teleman (4 iulie 2013),\n\nCoperta 3: Brevet jubiliar primit de caporalul Filip loan cu prilejul implinirii a 40\nde ani de domnie a regelui Carol I (1866-1914),\n\nCoperta 4: Sergentii Filip loan si Filip losup din cartierul Cotroceni-Husi,\nparticipanti la razboaicle din 1913 si 1916-1918."
+            },
+            "12": {
+                "class": "text",
+                "x": 297,
+                "y": 49,
+                "height": 26,
+                "width": 86,
+                "leftCorner": [
+                    297,
+                    49
+                ],
+                "rightCorner": [
+                    383,
+                    75
+                ],
+                "text": "LEGENDA:"
+            }
+        }
+    },
+    "img_137": {
+        "page": "137",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 286,
+                "y": 711,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    711
+                ],
+                "rightCorner": [
+                    315,
+                    732
+                ],
+                "text": "137,"
+            },
+            "14": {
+                "class": "text",
+                "x": 64,
+                "y": 149,
+                "height": 556,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    149
+                ],
+                "rightCorner": [
+                    536,
+                    705
+                ],
+                "text": "\u2018Vestea trist\n\n \n\ntecerii in nefiinjd a celui care a fost veteranul de rizboi, colonel(r) Moleavin\nrudele,prietenii i cunoscuii pentru a\n\n \n\n \n\nYVsevolod,inginer si profesor, ne-a adunat aici, az, fami\neondace pe ultimal drum.\n\u2018Nec mai prsit un veteran de rzboi. pind usorpragul dine lu\n\n \n\nveteran cae cu prisosnt s-a\nficutdatoria de onoare fai de patric pe ambele teste de oper (est si vest) in marea conflagratc &\nseco XX.\n\nDincolo de carea de istri, si istria vie de Hingd noi istoria fice veteran de elzboi care a\nserijelit eu fapte si singe mareaistorie, Cand moare un om, moare 0 lume(lume Tui) ieeuperabi, In\naceasta constind de fapt unictatea fiecieui om. Igi inchide sub pleoape amine. si pleact\nteansformindu-se el insus!int-o amintte pentru cei care rimin- soi, rude, priten i cunoscut\n\n\u2018A plecat si el spre lumea vegas. Ce care Fay cunoscut si pe eae into oarecare mse a juat,\nvor plinge amintindu-s de el\n\n{Ea data de 07 octombrie 2013 , la ora 08.30, clepsidea celui care fost veteranl de riz, colonel)\n\u201cMoleavin Vsevolod, s-tepaizat material Mui incetind a mai cootinaa 8 cure\n\n\u2018Sa niscut Ia 18 iulie 1915, in comuna Fundy Vechi, judetul Balj, fiul preotului Anatole si al\n{niitoarei Maria, sof binecuvintay eu doi copi, Vsevolod $i Olga\n\n\u2018Colonelulr) Moleavin, \u00aburmat scoala primar in saul nal iceul la Bali, facultatea de agronomic la\nChisinau s agi. In perioadaanilor 1937-1938, urmeara cursurle ,Scoli de Ofieri de Rezerva, Bacau,\nUullerioe ind repartizat la Regimental 27 Infanterie Bacau,\n\n\u2018nul 1941 i gisim la Regimental 10 Vinatori din cadrul Divizici 15 Infanterie, paticiping Ia\n\nsasarabic\nin anol 1944 est ransferat la Regimental 35 Infantri din acceasi Divizie 15 Infantrie, component\n4 Corpului 7 Atmat, sub comanda general Nicolae Sova eu care participa atiunilemilitare de pe\nfromtul de vest. Este rinit sin iulie 1943 este demobilizat. In toanina anu 1945 se clsitoeste Cu\nddomnisoara Boreas Stefana,invittoare. Amul 1946 fi aduce numirea ea profesor la $coala Profesional\nViticola din Husi, actual Colegiv Agrico! ,Dimitie Cantemir\u2122 In perioada anilor 1949- 1952\nindepinitfuncia de director adjunct iar din nul 1963 pind in nul 1977, funeya de director. A avut tet\nopi un aia si dul fete. Baicells- pierdut la vista de doi an iar cele dou fete, Teodora gi Mibacla\nau urmat cusur superoare, una locuind la Bac si ealalt la Constana. A convituit cu sia sa timp de\n68 dean\n\nVeteranul de zboi,colonelu(t) Moleavin Vsevolod, a fost un om eu demmitate,cunoscut de Forte\nsult lume, prieten bun $i ingaiditor.\n\nDDupi o lungdtoamnd a vei, cu un brumar indclungat, rece in iama vesnicei, La vista de 98 de ani\neste chemat la cele vesnice, despirjindu-se de ce dag pentru o al lume.\n\nFiliala Asocitiei Nationale a Veteranilor de Rizboi, Hui, aduce un omagiu de adio celui care a fost\nveteranul de rizboi Moleavin Vsevolod care prises acest lume cu consti datorie mplinite fal de\npatie, societae i familie. Valoare omului este aprecata prin cei ce last in urma sa la prsireaacestei\nii pamantest\n\n\u2018Outi cu acoperirea mormantul,legiturle nowsre cu riposaul vor Fi continue pe alt plan, pin\npomenirea sa cu diferite ocazi iar amintrea eit poate ddinui ramdne pentru noi ca o umbr a perc\ni mai cu seam a nemurti sufletuui, repus rind pe rand in legaturd cu Dummnezev, prin mijloctea\ningerilor, sfinjlor i a Maicti Domnului iar now\u2019 care mai dfinuim ficind umbr pimsintlu, ne imine\ndatoria de anu uta suntem muritor si vom avea bucuria dea fi dust in amintie spre vesnica pomenire"
+            },
+            "15": {
+                "class": "text",
+                "x": 255,
+                "y": 110,
+                "height": 38,
+                "width": 281,
+                "leftCorner": [
+                    255,
+                    110
+                ],
+                "rightCorner": [
+                    536,
+                    148
+                ],
+                "text": "(Alocutiune de suflet prezentati de domnul colonel(r)\nprofesor Mihai Balan in data de 10 octombrie 2013)"
+            },
+            "16": {}
+        }
+    },
+    "img_138": {
+        "page": "138",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 286,
+                "y": 710,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    710
+                ],
+                "rightCorner": [
+                    315,
+                    732
+                ],
+                "text": "138"
+            },
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 64,
+                "y": 66,
+                "height": 73,
+                "width": 472,
+                "leftCorner": [
+                    64,
+                    66
+                ],
+                "rightCorner": [
+                    536,
+                    139
+                ],
+                "text": "Iatd c& a venit ziua cind nu mai vede acest pamdnt,viafa si-a Iuat rimas ban de la el, trignd suprema\nperdea a ntunericuli peste ahi.\n\u2018Cu aceste gnduri, tog pe bunul Dumnezeu si ste pe pritenul nostra sf aia calea deapt 5\n\nmina iar sufletul sg seasedimpicarea tn ealea vesnicie\nIn voci si fe aminirea,adio drag camarad!"
+            }
+        }
+    },
+    "img_139": {
+        "page": "139",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "20": {
+                "class": "text",
+                "x": 286,
+                "y": 711,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    711
+                ],
+                "rightCorner": [
+                    315,
+                    732
+                ],
+                "text": "139)"
+            },
+            "21": {
+                "class": "text",
+                "x": 454,
+                "y": 492,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    454,
+                    492
+                ],
+                "rightCorner": [
+                    483,
+                    514
+                ],
+                "text": "137"
+            },
+            "22": {},
+            "23": {
+                "class": "text",
+                "x": 454,
+                "y": 447,
+                "height": 39,
+                "width": 29,
+                "leftCorner": [
+                    454,
+                    447
+                ],
+                "rightCorner": [
+                    483,
+                    486
+                ],
+                "text": "133\nBBs"
+            },
+            "24": {},
+            "25": {
+                "class": "text",
+                "x": 454,
+                "y": 388,
+                "height": 54,
+                "width": 29,
+                "leftCorner": [
+                    454,
+                    388
+                ],
+                "rightCorner": [
+                    483,
+                    442
+                ],
+                "text": "103\n129\nBI"
+            },
+            "26": {
+                "class": "text",
+                "x": 452,
+                "y": 335,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    452,
+                    335
+                ],
+                "rightCorner": [
+                    477,
+                    357
+                ],
+                "text": "47"
+            },
+            "27": {
+                "class": "text",
+                "x": 452,
+                "y": 307,
+                "height": 22,
+                "width": 23,
+                "leftCorner": [
+                    452,
+                    307
+                ],
+                "rightCorner": [
+                    475,
+                    329
+                ],
+                "text": "41"
+            },
+            "28": {
+                "class": "text",
+                "x": 453,
+                "y": 278,
+                "height": 23,
+                "width": 24,
+                "leftCorner": [
+                    453,
+                    278
+                ],
+                "rightCorner": [
+                    477,
+                    301
+                ],
+                "text": "39"
+            },
+            "29": {
+                "class": "text",
+                "x": 452,
+                "y": 250,
+                "height": 22,
+                "width": 25,
+                "leftCorner": [
+                    452,
+                    250
+                ],
+                "rightCorner": [
+                    477,
+                    272
+                ],
+                "text": "35"
+            },
+            "30": {},
+            "31": {
+                "class": "text",
+                "x": 452,
+                "y": 113,
+                "height": 132,
+                "width": 25,
+                "leftCorner": [
+                    452,
+                    113
+                ],
+                "rightCorner": [
+                    477,
+                    245
+                ],
+                "text": "1B\nIs\n19\n2B\n2\u00bb\n33"
+            },
+            "32": {
+                "class": "text",
+                "x": 64,
+                "y": 96,
+                "height": 418,
+                "width": 316,
+                "leftCorner": [
+                    64,
+                    96
+                ],
+                "rightCorner": [
+                    380,
+                    514
+                ],
+                "text": "MESAJUL COMANDANTULUI BATALIONULUI 202 APARARE\nCBRN (Interventi la dezaste) , General Gheorghe TELEMAN,\nGAZELE DE SIST- Col(r.) ing N.B.C Nieu Saped\n\nAS INTREBA PAMANTUL -Celina Antonicd\n\nfino toamnd, 1966- col) ing. NB.C. Nicw Saped\n\n(O cadet (1)- Colonel (\u00a9) ing Niew Sapa\n\nUN COMANDANT - Col(.) ingN.B.C. Nieuw Saped\n\nDIN CUFARUL CU AMINTIRI- GL.Bg, (1) Vasile IGNAT\nCapriei cazone \u201cLt col. (\u00a2) Ovid Ladariu\n\n\\VETERANII~ SLEI AU FOST TINERI(I})\n\nColonelul PETRESCU LUCIAN-col. Marin Cata\n\\VETERANIL $1 EL AU FOST TINERI!\n\nSoldatul DUMITRU STEFAN CILIAC -col. Martin Cata\n\n\u2018Un memori ied al invitorului- Nicolae Antonoviei\n\nprivind partciparea la Primul RSzboi Mondial- Costin Chit\nPRIMUL RAZBOI MONDIAL VAZUT DE.\n\nLOCOTENENTUL P. AGARICI- col. Martin Cata\nDOCUMENTE INEDITE PRIVIND PARTICIPAREA.\nINVATATORILOR DIN JUDETELE FALCIU, TUTOVA\nSEVASLULLA PRIMUL RAZBOI MONDIAL (1917-1918)\nCostin Cit\n\nEROI SI STRAZI- Colonel ) Martin Cata\n\nCigman M. Nicolae (1839-1924) -Costin Cit\n\nNeculai N. Cigman (9 decembrie 1884 ~23 decembrie 1916)\nCostin Chit\n\nNU MOR FROM! Dumitru Nicoar (veteran de rizboi)\nULTIMUL OMAGIU AL VETERANILOR, PENTRU\n\nUN CAMARAD DE ONOARE: Mihai Balan"
+            },
+            "33": {
+                "class": "text",
+                "x": 263,
+                "y": 67,
+                "height": 24,
+                "width": 74,
+                "leftCorner": [
+                    263,
+                    67
+                ],
+                "rightCorner": [
+                    337,
+                    91
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_140": {
+        "page": "140",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "34": {
+                "class": "text",
+                "x": 286,
+                "y": 711,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    711
+                ],
+                "rightCorner": [
+                    315,
+                    732
+                ],
+                "text": "140"
+            },
+            "35": {}
+        }
+    },
+    "img_141": {
+        "page": "141",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "36": {
+                "class": "text",
+                "x": 286,
+                "y": 711,
+                "height": 21,
+                "width": 28,
+                "leftCorner": [
+                    286,
+                    711
+                ],
+                "rightCorner": [
+                    314,
+                    732
+                ],
+                "text": "141"
+            }
+        }
+    },
+    "img_142": {
+        "page": "142",
+        "pageWidth": "600",
+        "pageHeight": "776",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 286,
+                "y": 711,
+                "height": 21,
+                "width": 28,
+                "leftCorner": [
+                    286,
+                    711
+                ],
+                "rightCorner": [
+                    314,
+                    732
+                ],
+                "text": "142"
+            }
+        }
+    }
+}

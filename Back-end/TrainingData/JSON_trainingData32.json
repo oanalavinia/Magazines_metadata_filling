@@ -1,0 +1,1212 @@
+{
+    "numberOfPages": 53,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 75,
+                "y": 610,
+                "height": 131,
+                "width": 301,
+                "leftCorner": [
+                    75,
+                    610
+                ],
+                "rightCorner": [
+                    376,
+                    741
+                ],
+                "text": "COLABORATORI din randul elevilor:\nBurduja Ovidiu, clasa a VI-a B,\nCenusa Maria, clasa a X-a E,\n\nBejan Elena, clasa a X-a C,\nFocsa Maria, clasa a XI-a D,\nIgnat Bianca Gabriela, clasa IX-C."
+            },
+            "2": {
+                "class": "text",
+                "x": 75,
+                "y": 433,
+                "height": 147,
+                "width": 313,
+                "leftCorner": [
+                    75,
+                    433
+                ],
+                "rightCorner": [
+                    388,
+                    580
+                ],
+                "text": "DIRECTOR: PROF. Dobre Viorica\nDIRECTOR Adjunct: Vulpoi Genovica\nREDACTOR SEF:prof. Vacariu Claudia\nREDACTORI COORDONATORI:\n\nProf. Agache Luminita,\nProf. Boroeanu Ionela,\nProf. Dardira Bogdan"
+            },
+            "3": {
+                "class": "text",
+                "x": 171,
+                "y": 393,
+                "height": 29,
+                "width": 256,
+                "leftCorner": [
+                    171,
+                    393
+                ],
+                "rightCorner": [
+                    427,
+                    422
+                ],
+                "text": "COLECTIVUL DE REDACTIE:"
+            },
+            "4": {
+                "class": "text",
+                "x": 100,
+                "y": 171,
+                "height": 168,
+                "width": 303,
+                "leftCorner": [
+                    100,
+                    171
+                ],
+                "rightCorner": [
+                    403,
+                    339
+                ],
+                "text": "1. Cuvant inainte.\n\n2. Picdturi de intelepciune.\n. Din creatiile noastr\n\n4. Colt de suflet.\n\n5. Sinaxar...\n\n6. Pelerinaj la ... Locuri Sfinte.........\n\n7. ABC crestin-ortodox\n8. Jocuri si ghicitori crestine."
+            },
+            "5": {
+                "class": "text",
+                "x": 252,
+                "y": 115,
+                "height": 26,
+                "width": 94,
+                "leftCorner": [
+                    252,
+                    115
+                ],
+                "rightCorner": [
+                    346,
+                    141
+                ],
+                "text": "CUPRINS:"
+            }
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "6": {},
+            "7": {
+                "class": "text",
+                "x": 453,
+                "y": 735,
+                "height": 29,
+                "width": 72,
+                "leftCorner": [
+                    453,
+                    735
+                ],
+                "rightCorner": [
+                    525,
+                    764
+                ],
+                "text": "Redactia"
+            },
+            "8": {
+                "class": "text",
+                "x": 126,
+                "y": 495,
+                "height": 210,
+                "width": 399,
+                "leftCorner": [
+                    126,
+                    495
+                ],
+                "rightCorner": [
+                    525,
+                    705
+                ],
+                "text": "incheiem acest cuvant cu frumoasele ganduri\nspuse candva de parintele Dumitru Stiniloae: ,Orice\ncopil apare pe lume este un dar al lui Dumnezeu si, ca\natare, 0 minune...Fiecare copil vine la existenta ca un\nmod propriu al umanitatii, spre imbogatirea ei. Fiecare\n\ne chemat si se incadreze in unitatea umanitatii si\nniciodata nu e perfect in ceea ce reprezinta si aduce el.\nFiecare e adus la existenti cu pornirea smeriti de a\ninvata de la altii si cu pornirea generoasi de mai tarziu\nde a invata pe altii...\u201d"
+            },
+            "9": {
+                "class": "text",
+                "x": 126,
+                "y": 163,
+                "height": 342,
+                "width": 399,
+                "leftCorner": [
+                    126,
+                    163
+                ],
+                "rightCorner": [
+                    525,
+                    505
+                ],
+                "text": "Revista CUVINTE PENTRU SUFLET a aparut\nca o urmare fireasca a frumoaselor dezbateri, discutii si\ncreafii din cadrul orelor de Religie. in paginile ei,\nrevista cuprinde gandurile si frumoasele voastre trairi\nreligioase materializate in poezii, compuneri si eseuri.\n\nincercim s& subliniem si noi, dacd mai era\nnevoie, rolul credintei, al educatiei religioase in viata\nomului, de la varsta copilariei si pand la maturitate.\ninvatatura sfanti se dezvaluie mereu si capatd noi\nsensuri, si, de aceea, incercim si aducem in paginile\nnoastre cuvinte cu adevarat folositoare si ziditoare,\ncuvinte spuse si explicate si de oameni mari, de oameni\nsfingi, Aducem in fata dumnevoastra, dragi copii, parinti\nsi profesori, personalititi care s-au impus in cultura\nlaicd si religioasi. Dar vrem si va prezentim si\ncreatiile celor care sunt acum micii talentafi ai scolii"
+            },
+            "10": {
+                "class": "text",
+                "x": 178,
+                "y": 124,
+                "height": 29,
+                "width": 112,
+                "leftCorner": [
+                    178,
+                    124
+                ],
+                "rightCorner": [
+                    290,
+                    153
+                ],
+                "text": "Dragi cititori,"
+            },
+            "11": {
+                "class": "text",
+                "x": 215,
+                "y": 78,
+                "height": 33,
+                "width": 170,
+                "leftCorner": [
+                    215,
+                    78
+                ],
+                "rightCorner": [
+                    385,
+                    111
+                ],
+                "text": "CUVANT INAINTE"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "12": {},
+            "13": {
+                "class": "text",
+                "x": 385,
+                "y": 736,
+                "height": 28,
+                "width": 140,
+                "leftCorner": [
+                    385,
+                    736
+                ],
+                "rightCorner": [
+                    525,
+                    764
+                ],
+                "text": "(MATEI 28, 1-10)"
+            },
+            "14": {
+                "class": "text",
+                "x": 71,
+                "y": 360,
+                "height": 365,
+                "width": 454,
+                "leftCorner": [
+                    71,
+                    360
+                ],
+                "rightCorner": [
+                    525,
+                    725
+                ],
+                "text": "Si infatisarea lui era ca fulgerul, si imbricdmintea lui,\nalba ca zipada\n\nSi de frica lui s-au cutremurat cei ce pazeau si s-au\nfacut morti\n\nlar ingerul, raspunzand, a zis femeilor: Nu vai temefi, cit\nstiu cd pe lisus Cel rastignit Il cautati.\n\nNu este aici; cici S-a sculat precum a zis; veniti de\nvedeti locul unde a zaicut.\n\nSi degrab\u2019 mergind, spuneti ucenicilor Lui ci S-a\nsculat din morti si iat va merge inaintea voastra in Galileea;\nacolo il veti vedea. lata, v-am spus voua.\n\nlar plecdnd ele in grabi de la mormant, cu fried si cu\nbucurie mare au alergat si vesteasca ucenicilor Lui.\n\nDar cnd mergeau ele si vesteasci ucenicilor, iatd lisus\nle-a intampinat, zicdnd: Bucurafi-va! lar ele, apropiindu-se, au\ncuprins picioarele Lui si I s-au inchinat,\n\nAtunci lisus le-a zis: Nu va temefi. Ducefi\nfratilor Mei, ca s\u00e9 mearga in Galileea, si acolo Ma"
+            },
+            "15": {
+                "class": "text",
+                "x": 74,
+                "y": 242,
+                "height": 125,
+                "width": 451,
+                "leftCorner": [
+                    74,
+                    242
+                ],
+                "rightCorner": [
+                    525,
+                    367
+                ],
+                "text": "\u00bb\u00bbDupa ce a trecut siimbita, cdnd se lumina de ziua intai\na siptimanii (Duminica), au venit Maria Magdalena si cealalt\nMarie, ca si vada morm\u00e9ntul.\n\nSi iat\u2019, s-a ficut cutremur mare, ci ingerul Domnului,\ncoborand din cer si venind, a pravalit piatra si sedea deasupra"
+            },
+            "16": {
+                "class": "text",
+                "x": 75,
+                "y": 200,
+                "height": 29,
+                "width": 226,
+                "leftCorner": [
+                    75,
+                    200
+                ],
+                "rightCorner": [
+                    301,
+                    229
+                ],
+                "text": "DIN SFANTA SCRIPTURA:"
+            },
+            "17": {
+                "class": "text",
+                "x": 183,
+                "y": 157,
+                "height": 36,
+                "width": 286,
+                "leftCorner": [
+                    183,
+                    157
+                ],
+                "rightCorner": [
+                    469,
+                    193
+                ],
+                "text": "2.PICATURI DE INTELEPCIUNE"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "18": {},
+            "19": {
+                "class": "text",
+                "x": 311,
+                "y": 595,
+                "height": 29,
+                "width": 214,
+                "leftCorner": [
+                    311,
+                    595
+                ],
+                "rightCorner": [
+                    525,
+                    624
+                ],
+                "text": "(Sfantul loan Gurd de Aur)"
+            },
+            "20": {
+                "class": "text",
+                "x": 126,
+                "y": 516,
+                "height": 89,
+                "width": 399,
+                "leftCorner": [
+                    126,
+                    516
+                ],
+                "rightCorner": [
+                    525,
+                    605
+                ],
+                "text": "Jubirea este un mare invatator si poate sd-i\nintoarca pe oameni de la riticire, si le schimbe felul de\n\nviati, si-i indrume spre filozofie. Ea poate si faca din\npietre oameni.\u201d"
+            },
+            "21": {
+                "class": "text",
+                "x": 125,
+                "y": 477,
+                "height": 26,
+                "width": 105,
+                "leftCorner": [
+                    125,
+                    477
+                ],
+                "rightCorner": [
+                    230,
+                    503
+                ],
+                "text": "DRAGOSTE"
+            },
+            "22": {
+                "class": "text",
+                "x": 311,
+                "y": 437,
+                "height": 29,
+                "width": 214,
+                "leftCorner": [
+                    311,
+                    437
+                ],
+                "rightCorner": [
+                    525,
+                    466
+                ],
+                "text": "(Sfantul loan Gurd de Aur)"
+            },
+            "23": {
+                "class": "text",
+                "x": 126,
+                "y": 358,
+                "height": 89,
+                "width": 399,
+                "leftCorner": [
+                    126,
+                    358
+                ],
+                "rightCorner": [
+                    525,
+                    447
+                ],
+                "text": "\u00bbAceasta este prietenia: cand cel care iubeste si cel care\neste iubit nu sunt dou _persoane deosebite, ci un\n\nsingur om, ceea ce nu implineste in alti parte decat\nnumai in dragoste.\u201d"
+            },
+            "24": {
+                "class": "text",
+                "x": 126,
+                "y": 316,
+                "height": 26,
+                "width": 106,
+                "leftCorner": [
+                    126,
+                    316
+                ],
+                "rightCorner": [
+                    232,
+                    342
+                ],
+                "text": "PRIETENIE"
+            },
+            "25": {
+                "class": "text",
+                "x": 311,
+                "y": 281,
+                "height": 30,
+                "width": 214,
+                "leftCorner": [
+                    311,
+                    281
+                ],
+                "rightCorner": [
+                    525,
+                    311
+                ],
+                "text": "(Sfantul loan Gurd de Aur)"
+            },
+            "26": {
+                "class": "text",
+                "x": 152,
+                "y": 163,
+                "height": 128,
+                "width": 373,
+                "leftCorner": [
+                    152,
+                    163
+                ],
+                "rightCorner": [
+                    525,
+                    291
+                ],
+                "text": "\u00bbCuvintele dumnezeiesti sunt ca 0 comoara de\ndiferite leacuri: dacd cineva are nevoie si\nstingideznidejdea, si adoarma 0 poft, si calce in\n\npicioare dragostea de bani, si dispretuiascd durerea,\nsd-i revind veselia, si-si intareasca rabdarea, va gsi\nmare sprijin in ele.\u201d"
+            },
+            "27": {
+                "class": "text",
+                "x": 124,
+                "y": 120,
+                "height": 30,
+                "width": 181,
+                "leftCorner": [
+                    124,
+                    120
+                ],
+                "rightCorner": [
+                    305,
+                    150
+                ],
+                "text": "SFANTA SCRIPTURA"
+            },
+            "28": {
+                "class": "text",
+                "x": 164,
+                "y": 75,
+                "height": 35,
+                "width": 270,
+                "leftCorner": [
+                    164,
+                    75
+                ],
+                "rightCorner": [
+                    434,
+                    110
+                ],
+                "text": "SFINTII PARINTI DESPRE :"
+            }
+        }
+    },
+    "img_48": {
+        "page": "48",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 124,
+                "y": 241,
+                "height": 483,
+                "width": 402,
+                "leftCorner": [
+                    124,
+                    241
+                ],
+                "rightCorner": [
+                    526,
+                    724
+                ],
+                "text": "APOSTOL (trimis) : cu acest nume sunt indicate in Noul\nTestament unele persoane alese i trimise in misiune cu\nimputerniciri si daruri deosebite.\n\nCel dintai care poarti acest titlu este Fiul lui\nDumnezeu intrupat, lisus Hristos, pe Care Tatail L-a\nsfingit si L-a trimis in lume\"(Ioan 10,36) ,,si Cairuia Ia\ndat toata puterea in cer si pe pam\u00e9nt\"(Matei 28,18). El\neste Apostolul ceresc, este ,,Cel trimis\u201d si facd voia\nTatalui, adic\u2019 sa realizeze m\u00e9ntuirea lumii, prin\ninvatitura si jertfa Sa. intru aceasta El nu este numai\n.Amparatul si Invatatorul\u201d, ci si ,, Apostolul si Arhiereul\nm\u00e9rturisirii noastre\" (Evrei 3,1)\n\nDin aceasta intreita a Lui puterea El a impartasit\nsi celor douisprezece persoane , chemate mai intai\nindividual si alese, apoi, pe care le-a numit apostoli. Pe\nacestia i-a format treptat in ,,scoala Sa\u201d si le-a dat, de la\ninceput, si unele harisme, sau puteri spirituale , cu care\nsi lucteze si care au sporit la Cincizecime. Pe acestia i-a\nsfintit si i-a hirotonit in ziua invierii, prin suflarea\nDuhului Sfant asupra lor, dandu-le si puterea de a ierta\npacatele din apostolia si preotia Lui. Cu aceste puteri i-a\ntrimis apoi propovaduiasc\u00e9 si s\u00e9 boteze toate\nneamurile. El fiind cu ei nevazut pururea, le-a dat si\nporunea sa oficieze Sfintele Taine."
+            },
+            "31": {
+                "class": "text",
+                "x": 125,
+                "y": 80,
+                "height": 128,
+                "width": 400,
+                "leftCorner": [
+                    125,
+                    80
+                ],
+                "rightCorner": [
+                    525,
+                    208
+                ],
+                "text": "AMIN : cuvant adesea folosit de Domnul Hristos in\nvorbirea Sa, pentru a intari cele afirmate: ,,Amin, amin,\nzie voud\u201d!(Ioan 5, 19,24, 25) in sensul de ,,adevarat ,\n\nadevarat zic voua...!\n\nAlteori, prin amin se exprima o dorinti in sens\noptativ, ,,asa sa fie!\u201d."
+            }
+        }
+    },
+    "img_49": {
+        "page": "49",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "32": {},
+            "33": {},
+            "34": {},
+            "35": {},
+            "36": {},
+            "37": {
+                "class": "text",
+                "x": 247,
+                "y": 600,
+                "height": 29,
+                "width": 105,
+                "leftCorner": [
+                    247,
+                    600
+                ],
+                "rightCorner": [
+                    352,
+                    629
+                ],
+                "text": "( Pilde XV,3)"
+            },
+            "38": {
+                "class": "text",
+                "x": 473,
+                "y": 561,
+                "height": 29,
+                "width": 52,
+                "leftCorner": [
+                    473,
+                    561
+                ],
+                "rightCorner": [
+                    525,
+                    590
+                ],
+                "text": "nt"
+            },
+            "39": {},
+            "40": {},
+            "41": {},
+            "42": {
+                "class": "text",
+                "x": 74,
+                "y": 432,
+                "height": 79,
+                "width": 450,
+                "leftCorner": [
+                    74,
+                    432
+                ],
+                "rightCorner": [
+                    524,
+                    511
+                ],
+                "text": "Lata patru proverbe biblice! Am scris, insa,\ndoar consoanele. Pentru a le putea citi, voi trebuie sa\n\n \n\ncompletati vocalele care lipsesc."
+            },
+            "43": {
+                "class": "text",
+                "x": 169,
+                "y": 384,
+                "height": 34,
+                "width": 313,
+                "leftCorner": [
+                    169,
+                    384
+                ],
+                "rightCorner": [
+                    482,
+                    418
+                ],
+                "text": "8.JOCURI SI GHICITORI CRESTINE,"
+            },
+            "44": {
+                "class": "text",
+                "x": 125,
+                "y": 201,
+                "height": 126,
+                "width": 400,
+                "leftCorner": [
+                    125,
+                    201
+                ],
+                "rightCorner": [
+                    525,
+                    327
+                ],
+                "text": "ARHIEREU : mare preot sau mai mare peste preoti. La\nevrei arhiereul era ,,supremul preot\u201d ales dintre fiii intai\nnascuti ai familiei lui Aaron din neamul lui Levi.\n\nPreotia, arhieria sau harul arhieresc reprezinta o\ndemnitate, 0 chemare si o sfintire speciala, ea se da de\nsus, ne se ia de la sine."
+            },
+            "45": {
+                "class": "text",
+                "x": 124,
+                "y": 100,
+                "height": 69,
+                "width": 401,
+                "leftCorner": [
+                    124,
+                    100
+                ],
+                "rightCorner": [
+                    525,
+                    169
+                ],
+                "text": "APOSTOLIE : apostolat, slujirea pe care o da Hristos si\npe care o indeplineste un apostol, sau trimis al lui\n\n \n\nHristos sau al Bisericii, in numele si sub ascultarea ei."
+            }
+        }
+    },
+    "img_50": {
+        "page": "50",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "46": {},
+            "47": {},
+            "48": {
+                "class": "text",
+                "x": 302,
+                "y": 617,
+                "height": 28,
+                "width": 45,
+                "leftCorner": [
+                    302,
+                    617
+                ],
+                "rightCorner": [
+                    347,
+                    645
+                ],
+                "text": "alta"
+            },
+            "49": {},
+            "50": {
+                "class": "text",
+                "x": 470,
+                "y": 520,
+                "height": 32,
+                "width": 53,
+                "leftCorner": [
+                    470,
+                    520
+                ],
+                "rightCorner": [
+                    523,
+                    552
+                ],
+                "text": "Sfint."
+            },
+            "51": {
+                "class": "text",
+                "x": 427,
+                "y": 449,
+                "height": 27,
+                "width": 96,
+                "leftCorner": [
+                    427,
+                    449
+                ],
+                "rightCorner": [
+                    523,
+                    476
+                ],
+                "text": "Hirotoniei."
+            },
+            "52": {
+                "class": "text",
+                "x": 366,
+                "y": 449,
+                "height": 27,
+                "width": 57,
+                "leftCorner": [
+                    366,
+                    449
+                ],
+                "rightCorner": [
+                    423,
+                    476
+                ],
+                "text": "Taina"
+            },
+            "53": {
+                "class": "text",
+                "x": 269,
+                "y": 448,
+                "height": 32,
+                "width": 92,
+                "leftCorner": [
+                    269,
+                    448
+                ],
+                "rightCorner": [
+                    361,
+                    480
+                ],
+                "text": "sdvarsesc"
+            },
+            "54": {
+                "class": "text",
+                "x": 100,
+                "y": 401,
+                "height": 343,
+                "width": 425,
+                "leftCorner": [
+                    100,
+                    401
+                ],
+                "rightCorner": [
+                    525,
+                    744
+                ],
+                "text": "1. Preotii savarsesc toate cele sapte Sfinte Taine.\nA F\n2. Doar episcopii\nA F\n3. Taina Mirungerii se mai numeste si\nPecetea Harului Duhului\nA F\n\n4. | Taina Mirungerii se savarseste seprat de Taina\nBotezului\nIn\nA F\n. Sfdnta impartdsanie se sdvarseste cu pdine si\ncu apa. A F\n. Sfdnta impdrtdsanie se mai numeste"
+            },
+            "55": {},
+            "56": {},
+            "57": {
+                "class": "text",
+                "x": 196,
+                "y": 216,
+                "height": 68,
+                "width": 329,
+                "leftCorner": [
+                    196,
+                    216
+                ],
+                "rightCorner": [
+                    525,
+                    284
+                ],
+                "text": "(Eceleziastul V,10)"
+            },
+            "58": {},
+            "59": {
+                "class": "text",
+                "x": 238,
+                "y": 156,
+                "height": 29,
+                "width": 123,
+                "leftCorner": [
+                    238,
+                    156
+                ],
+                "rightCorner": [
+                    361,
+                    185
+                ],
+                "text": "( Pilde XXIV,4)"
+            },
+            "60": {},
+            "61": {}
+        }
+    },
+    "img_51": {
+        "page": "51",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "62": {},
+            "63": {
+                "class": "text",
+                "x": 151,
+                "y": 647,
+                "height": 80,
+                "width": 228,
+                "leftCorner": [
+                    151,
+                    647
+                ],
+                "rightCorner": [
+                    379,
+                    727
+                ],
+                "text": "Telefonul crestinesc\nAre num\u00e9rul ceresc:\n\nOm si Dumnezeu vorbesc."
+            },
+            "64": {},
+            "65": {
+                "class": "text",
+                "x": 127,
+                "y": 525,
+                "height": 101,
+                "width": 263,
+                "leftCorner": [
+                    127,
+                    525
+                ],
+                "rightCorner": [
+                    390,
+                    626
+                ],
+                "text": "1. Cine e mereu chemat,\nCand este de botezat,\n\nCand este de cununat\nSau chiar de inmorm\u00e9antat?"
+            },
+            "66": {
+                "class": "text",
+                "x": 101,
+                "y": 476,
+                "height": 28,
+                "width": 126,
+                "leftCorner": [
+                    101,
+                    476
+                ],
+                "rightCorner": [
+                    227,
+                    504
+                ],
+                "text": "III. Ghici"
+            },
+            "67": {},
+            "68": {
+                "class": "text",
+                "x": 399,
+                "y": 320,
+                "height": 50,
+                "width": 49,
+                "leftCorner": [
+                    399,
+                    320
+                ],
+                "rightCorner": [
+                    448,
+                    370
+                ],
+                "text": "sunt"
+            },
+            "69": {
+                "class": "text",
+                "x": 452,
+                "y": 319,
+                "height": 30,
+                "width": 73,
+                "leftCorner": [
+                    452,
+                    319
+                ],
+                "rightCorner": [
+                    525,
+                    349
+                ],
+                "text": "urmasii"
+            },
+            "70": {},
+            "71": {
+                "class": "text",
+                "x": 318,
+                "y": 318,
+                "height": 28,
+                "width": 78,
+                "leftCorner": [
+                    318,
+                    318
+                ],
+                "rightCorner": [
+                    396,
+                    346
+                ],
+                "text": "diaconii"
+            },
+            "72": {
+                "class": "text",
+                "x": 102,
+                "y": 295,
+                "height": 78,
+                "width": 128,
+                "leftCorner": [
+                    102,
+                    295
+                ],
+                "rightCorner": [
+                    230,
+                    373
+                ],
+                "text": "A\n10.Episcopii,\n\n \n\nApostolilor."
+            },
+            "73": {
+                "class": "text",
+                "x": 218,
+                "y": 294,
+                "height": 55,
+                "width": 67,
+                "leftCorner": [
+                    218,
+                    294
+                ],
+                "rightCorner": [
+                    285,
+                    349
+                ],
+                "text": "F\npreotii"
+            },
+            "74": {
+                "class": "text",
+                "x": 421,
+                "y": 271,
+                "height": 27,
+                "width": 102,
+                "leftCorner": [
+                    421,
+                    271
+                ],
+                "rightCorner": [
+                    523,
+                    298
+                ],
+                "text": "Dumnezeu."
+            },
+            "75": {},
+            "76": {
+                "class": "text",
+                "x": 100,
+                "y": 175,
+                "height": 123,
+                "width": 423,
+                "leftCorner": [
+                    100,
+                    175
+                ],
+                "rightCorner": [
+                    523,
+                    298
+                ],
+                "text": "8. Spovedania inseamn\u00e9 marturisirea pacatelor.\nA F\n\n9. Sfintele Taine impartdsesc oamenilor\n\nHarul lui Dumnezeu."
+            },
+            "77": {
+                "class": "text",
+                "x": 284,
+                "y": 155,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    284,
+                    155
+                ],
+                "rightCorner": [
+                    316,
+                    179
+                ],
+                "text": "cu"
+            },
+            "78": {
+                "class": "text",
+                "x": 100,
+                "y": 104,
+                "height": 78,
+                "width": 423,
+                "leftCorner": [
+                    100,
+                    104
+                ],
+                "rightCorner": [
+                    523,
+                    182
+                ],
+                "text": "A F\n7. Taina Poc\u00e9intei este acelasi lucru"
+            },
+            "79": {
+                "class": "text",
+                "x": 306,
+                "y": 79,
+                "height": 31,
+                "width": 218,
+                "leftCorner": [
+                    306,
+                    79
+                ],
+                "rightCorner": [
+                    524,
+                    110
+                ],
+                "text": "gi Taina Sfintei Euharistii."
+            }
+        }
+    },
+    "img_52": {
+        "page": "52",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "80": {},
+            "81": {
+                "class": "text",
+                "x": 476,
+                "y": 697,
+                "height": 25,
+                "width": 49,
+                "leftCorner": [
+                    476,
+                    697
+                ],
+                "rightCorner": [
+                    525,
+                    722
+                ],
+                "text": "sunt"
+            },
+            "82": {
+                "class": "text",
+                "x": 203,
+                "y": 673,
+                "height": 77,
+                "width": 227,
+                "leftCorner": [
+                    203,
+                    673
+                ],
+                "rightCorner": [
+                    430,
+                    750
+                ],
+                "text": "PROVERBELE BIBLIBE:\n1. Ochii Domnului\n\n \n\npretutindeni."
+            },
+            "83": {},
+            "84": {
+                "class": "text",
+                "x": 151,
+                "y": 616,
+                "height": 33,
+                "width": 140,
+                "leftCorner": [
+                    151,
+                    616
+                ],
+                "rightCorner": [
+                    291,
+                    649
+                ],
+                "text": "RASPUNSURI :"
+            },
+            "85": {
+                "class": "text",
+                "x": 126,
+                "y": 421,
+                "height": 105,
+                "width": 243,
+                "leftCorner": [
+                    126,
+                    421
+                ],
+                "rightCorner": [
+                    369,
+                    526
+                ],
+                "text": "6. Raiul cu ea se descuie,\nDumnezeu pe ea se suie,\n\nLemnul ei, El il sfinteste\n$i pe noi ne mantuieste."
+            },
+            "86": {
+                "class": "text",
+                "x": 126,
+                "y": 323,
+                "height": 81,
+                "width": 283,
+                "leftCorner": [
+                    126,
+                    323
+                ],
+                "rightCorner": [
+                    409,
+                    404
+                ],
+                "text": "5. El este al nostru Domn,\nCare S-a facut i Om,\n\n \n\nPentru c-am muscat din pom."
+            },
+            "87": {
+                "class": "text",
+                "x": 126,
+                "y": 202,
+                "height": 104,
+                "width": 234,
+                "leftCorner": [
+                    126,
+                    202
+                ],
+                "rightCorner": [
+                    360,
+                    306
+                ],
+                "text": "4. E palat sau ce e oare?\nCa o vezi din departare,\n\nTe cheam la inchinare,\nFara ea nu ai scdpare."
+            },
+            "88": {
+                "class": "text",
+                "x": 126,
+                "y": 79,
+                "height": 105,
+                "width": 257,
+                "leftCorner": [
+                    126,
+                    79
+                ],
+                "rightCorner": [
+                    383,
+                    184
+                ],
+                "text": "3. Cartea Cartilor se cheama.\nUnii nu o iau in seama,\n\nAltii o rastalmacesc,\njnsa sfintii o cinstesc."
+            }
+        }
+    },
+    "img_53": {
+        "page": "53",
+        "pageWidth": "600",
+        "pageHeight": "851",
+        "sections": {
+            "89": {},
+            "90": {
+                "class": "text",
+                "x": 479,
+                "y": 401,
+                "height": 28,
+                "width": 46,
+                "leftCorner": [
+                    479,
+                    401
+                ],
+                "rightCorner": [
+                    525,
+                    429
+                ],
+                "text": "Fiul"
+            },
+            "91": {},
+            "92": {},
+            "93": {
+                "class": "text",
+                "x": 349,
+                "y": 263,
+                "height": 30,
+                "width": 83,
+                "leftCorner": [
+                    349,
+                    263
+                ],
+                "rightCorner": [
+                    432,
+                    293
+                ],
+                "text": "4.F; 5.F;"
+            },
+            "94": {},
+            "95": {},
+            "96": {
+                "class": "text",
+                "x": 296,
+                "y": 262,
+                "height": 51,
+                "width": 54,
+                "leftCorner": [
+                    296,
+                    262
+                ],
+                "rightCorner": [
+                    350,
+                    313
+                ],
+                "text": "3.A;\n10.A."
+            },
+            "97": {
+                "class": "text",
+                "x": 203,
+                "y": 262,
+                "height": 213,
+                "width": 275,
+                "leftCorner": [
+                    203,
+                    262
+                ],
+                "rightCorner": [
+                    478,
+                    475
+                ],
+                "text": "1. Preotul.\n2.Rugdciunea.\n\n3.Biblia sau Sfanta Scriptura\n4.Biserica.\n\nS.Domnul nostru Tisus Hristos,\nJui Dumnezeu.\n\n6.Crucea."
+            },
+            "98": {},
+            "99": {},
+            "100": {
+                "class": "text",
+                "x": 336,
+                "y": 83,
+                "height": 28,
+                "width": 72,
+                "leftCorner": [
+                    336,
+                    83
+                ],
+                "rightCorner": [
+                    408,
+                    111
+                ],
+                "text": "groapa"
+            },
+            "101": {},
+            "102": {
+                "class": "text",
+                "x": 473,
+                "y": 79,
+                "height": 27,
+                "width": 52,
+                "leftCorner": [
+                    473,
+                    79
+                ],
+                "rightCorner": [
+                    525,
+                    106
+                ],
+                "text": "cade"
+            },
+            "103": {
+                "class": "text",
+                "x": 410,
+                "y": 79,
+                "height": 27,
+                "width": 61,
+                "leftCorner": [
+                    410,
+                    79
+                ],
+                "rightCorner": [
+                    471,
+                    106
+                ],
+                "text": "altuia"
+            },
+            "104": {
+                "class": "text",
+                "x": 229,
+                "y": 79,
+                "height": 169,
+                "width": 296,
+                "leftCorner": [
+                    229,
+                    79
+                ],
+                "rightCorner": [
+                    525,
+                    248
+                ],
+                "text": "Cine sapa\n\nsingur in ea.\nNu raspunde nebunului dupa\nnebunia lui, ca sa nu te asemeni\n\ncu el.\nCand se inmultese  averile\nsporese si cei ce le mananca."
+            }
+        }
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "numberOfPages": 320,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 261,
+                "y": 619,
+                "height": 40,
+                "width": 83,
+                "leftCorner": [
+                    261,
+                    619
+                ],
+                "rightCorner": [
+                    344,
+                    659
+                ],
+                "text": "Editura PIM\nasi, 2009"
+            },
+            "2": {
+                "class": "text",
+                "x": 231,
+                "y": 307,
+                "height": 30,
+                "width": 141,
+                "leftCorner": [
+                    231,
+                    307
+                ],
+                "rightCorner": [
+                    372,
+                    337
+                ],
+                "text": "PAS CU PAS"
+            },
+            "3": {
+                "class": "text",
+                "x": 114,
+                "y": 274,
+                "height": 30,
+                "width": 376,
+                "leftCorner": [
+                    114,
+                    274
+                ],
+                "rightCorner": [
+                    490,
+                    304
+                ],
+                "text": "UTILIZAREA CALCULATORULUI"
+            },
+            "4": {
+                "class": "text",
+                "x": 180,
+                "y": 79,
+                "height": 93,
+                "width": 243,
+                "leftCorner": [
+                    180,
+                    79
+                ],
+                "rightCorner": [
+                    423,
+                    172
+                ],
+                "text": "Prof.univ.dr.ing. MIRCEA ILINCA\n\u00a7.1 dr. ing. GABRIEL CHIRIAC\n\nDrd.inf. TIBERIUS DUMITRIU\nInf. CLAUDIU MORARU"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "5": {},
+            "6": {
+                "class": "text",
+                "x": 97,
+                "y": 433,
+                "height": 61,
+                "width": 115,
+                "leftCorner": [
+                    97,
+                    433
+                ],
+                "rightCorner": [
+                    212,
+                    494
+                ],
+                "text": "|. Hlinca, Mircea\nI. Chiriae, Gabriel\n\nML, Dumitru, Tiberius\nTV. Morar, Claudit"
+            },
+            "7": {
+                "class": "text",
+                "x": 91,
+                "y": 325,
+                "height": 103,
+                "width": 305,
+                "leftCorner": [
+                    91,
+                    325
+                ],
+                "rightCorner": [
+                    396,
+                    428
+                ],
+                "text": "Descrierea CIP a Bibliotecti Nationale a Rominiel\nUtilizarea calculatorului pas cu pas / Mircea linc\n\nChirac Gabriel, Dumitru Tiberius, Moraru Claudiu, -\nIasi: PIM, 2009\n\nBibliogr.\n\nISBN 978-606-520-465-2"
+            },
+            "8": {},
+            "9": {
+                "class": "text",
+                "x": 96,
+                "y": 174,
+                "height": 23,
+                "width": 148,
+                "leftCorner": [
+                    96,
+                    174
+                ],
+                "rightCorner": [
+                    244,
+                    197
+                ],
+                "text": "\u2018Tehnoredactare: Autorii"
+            },
+            "10": {
+                "class": "text",
+                "x": 97,
+                "y": 101,
+                "height": 39,
+                "width": 372,
+                "leftCorner": [
+                    97,
+                    101
+                ],
+                "rightCorner": [
+                    469,
+                    140
+                ],
+                "text": "Coperta: Laboratorul de informatic\u00e9 al Scolii Petru Poni Iasi i al\nFundatiei Culturale ,,Renasterea Roman"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 100,
+                "y": 85,
+                "height": 556,
+                "width": 404,
+                "leftCorner": [
+                    100,
+                    85
+                ],
+                "rightCorner": [
+                    504,
+                    641
+                ],
+                "text": "Manualul constituie suportul teoretic pentru cursul de initiere in\nccupatia de \u201cOperator introducere,validare si prelucrare date\u201d.\n\nContinutul manvaluui a fost weaizat in conformitate cu standardul\nccupayional pentru aceast\u00e9 meserie. Sunt prezentate urmitoarele pachete\nsoftware: sistemul de operare Windows XP, MS Office (produsele sofware\nWord, Excel. Power Point) precum si modul de uilizare al eelei Internet.\n\nMaterialul cursului este organizat pe leci, iar suecesiunea acestora\nurmareste, pe eat posibil, modalititile in care pot fi rezolvate problemele\nconcrete cafe se intalnese in utlizarea unui PC. Fiecae lect confine un set\nde intrebari si, in Funete de posiblititi, exerci rezolvate sau propuse spre\nrezolvare care permit o autocvaluare individual, Cursul cuprinde 7 part,\n17 eet, 5 anexe 3 ibliografia,\n\nfn aledtuirea cusulu, autor au insistat asupra necesita infelegeri\nrmodiuluiefectiv de realizareu comenzilor sa efectclor acestora\n\nPartea L-a: Structura si functionarea unui sistem de calcul are rolul\nde a acomoda vitorul uilizator cu un sistem de caleul. Sunt prezentate\nclementele principale ale unui sistem de calculthardware si software) si\n\u2018modil in care informatie sunt organizate in memoria caleulatoruli.\n\nPartea a Il-a: Sistem! de operare Windows XP are. lecit si\nrealizeazi 0 prezentare generala a structurii acestia, modalititilor de\nintroducere \u00ab comenzilor precum sia aplicailoraferente Windows XP. O\natentie deosebiti se acord operailor de creare si uilizare a figierelor.\n\nPartea a Hla: Aplicatia Microsoft Word contine 7 leet in\ncuprinsulcarora sunt parcurseprincipalele probleme de procesare a textelor\ncate pot Fi solutionate eu acesta, De excmplu: crearea si salvarca unui\ndocument nov, \u201cdeschiderea\" unui document existent in memoria extern,\nformatarea.textului, inseriri_ in cuprinsul unor documente(caractere\nspeciale, marcare i numerotare, antet si subsolur..)crearea si formatarea\ntabelelor, faciltii de editare, graficd'in Word, conversia documentelor\nrealizate eu procesoat diferite,tipirirea documentelor\n\nPartea a IV-a: Cuprinde aplicajia Power Point utlizata. pentra\nefectuarea unor prezentiri grafice 51 multimedia, Se expan princpii ale\nrealizar diaportivelor(slde-uri), modaliti de animatie side inserare de\nsunete gi obiecte grafice in prezentiri si modul de derulare a prezentirilor.\n\nPartea a V-a: Aplicojia Excel contine 2 lect st permite insusirea\nmodului de utilizare a calcului tabelar: crearea unui tabel faciltii de\neditar, introducerea unor formule de caleul, realizarea unor diagram."
+            },
+            "12": {
+                "class": "text",
+                "x": 265,
+                "y": 54,
+                "height": 27,
+                "width": 73,
+                "leftCorner": [
+                    265,
+                    54
+                ],
+                "rightCorner": [
+                    338,
+                    81
+                ],
+                "text": "PREFATA"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "13": {
+                "class": "text",
+                "x": 348,
+                "y": 616,
+                "height": 23,
+                "width": 52,
+                "leftCorner": [
+                    348,
+                    616
+                ],
+                "rightCorner": [
+                    400,
+                    639
+                ],
+                "text": "Autori\u00e9"
+            },
+            "14": {
+                "class": "text",
+                "x": 96,
+                "y": 469,
+                "height": 128,
+                "width": 404,
+                "leftCorner": [
+                    96,
+                    469
+                ],
+                "rightCorner": [
+                    500,
+                    597
+                ],
+                "text": "Materialul aldturat constituie totusi o prezentare minimald. Pentru\naceia care dorese sa fsi insuseasci modul de utilizare performantt a\npacheului MS Office este obligatorie parcurgerea unora  dintre\n\u2018numeroasele materiale publicate asupra aplicatilor precentate in lucrare.\n\nApreciem cd, desi aparent mai laborioasa, \u201cdescoperirea\u201d MS Office este\n\u2018mult mai eficienta prin prezentarea modului de rezolvare a unor probleme\ncconcretefiind mult mai eficient\u00e9 decdt instruirea bazata pe incercari directe\nsi corectari succesive ale erorilor personale."
+            },
+            "15": {
+                "class": "text",
+                "x": 96,
+                "y": 174,
+                "height": 288,
+                "width": 404,
+                "leftCorner": [
+                    96,
+                    174
+                ],
+                "rightCorner": [
+                    500,
+                    462
+                ],
+                "text": "Anexa 2- Metalimbajul HTML, prezinti o serie de tag-uri pentru\nformatarea textului gi elemente pentru mai multe tipuri de liste: ordonate,\nneordonate sau cu defi\n\nAnexa 3- Minidicfionar engles- romdn contine 0 traducere a\nprincipalelor cuvinte care se regisesc in meniurile pachetelor software\nprezentate in manual. Se apreciaz cA folosirea acestui minidictionar va\nasigura un caracter \" > i implicit va facilita uti\nrespectivelor programe.\n\nAnexa 4 Miniglosar furnizeazi citeva definitii pentru termeni\nspecifici unui sistem de calcul si care pot fi considerati astizi ca find\nneologisme ale limbii romane.\n\nAnexa 5- Exercitii prezinta cititorului o serie de exerciti rezolvate\nsi propuse scopul acestora fiind aprofundarea modului de utilizare a\nproduselor software prezentate,\n\nBibliografia confine 24 poziti si face trimitere la S website-uri\navdnd un confinut complementar acestui manual\n\nAutorii nutrese speranfa c& au realizat o sistematizare atractiva,\naccesibil\u00e9 tuturor acelora interesati de introducerea in activitatea curenti a\nunui sistem de calcul"
+            },
+            "16": {
+                "class": "text",
+                "x": 96,
+                "y": 56,
+                "height": 126,
+                "width": 404,
+                "leftCorner": [
+                    96,
+                    56
+                ],
+                "rightCorner": [
+                    500,
+                    182
+                ],
+                "text": "Partea a VI-a: Reteaua Internet descrie structura refelei Internet,\nserviciile acesteia, modul de navigare si ciutare, alcituirea unei pagini web\nfolosind hui, realizarea unei adrese de posti electronica.\n\nPartea a VIl-a: Viruyi si Antivirusi se referd la citeva modalitati de\n\nprotejare a informayiilor memorate intr-un sistem de calcul,\n\u2018Anexa 1- Cum alegem un calculator? se refer 1a modalitatile de\ninterpretare a unei oferte folosite pentru achizitionarea unui sistem de"
+            }
+        }
+    },
+    "img_315": {
+        "page": "315",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "17": {
+                "class": "text",
+                "x": 284,
+                "y": 680,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    284,
+                    680
+                ],
+                "rightCorner": [
+                    313,
+                    701
+                ],
+                "text": "EG"
+            },
+            "18": {
+                "class": "text",
+                "x": 119,
+                "y": 300,
+                "height": 272,
+                "width": 384,
+                "leftCorner": [
+                    119,
+                    300
+                ],
+                "rightCorner": [
+                    503,
+                    572
+                ],
+                "text": "in directorul Regnul_animal_faceti un fisier Word cu numele\nTipuri de mamifere\u2122 in care adaugaji rezolvarile de la punctele\n3-10.\nSerie(i in fier un text de 6-8 rinduti, la alegere. Folositi FONT tip\n\u2018Times New Roman, dimensiune 12. Aranjaji textul in pagin\u2019 si\nfolositi diverse formatiri pentru a evidentia zone de text\n\n|. Scrieti un antet cu numele dumneavoastri si cu data examenului,\nFolositi pentru textul din antet Font Arial cu dimensiunea 10.\nRealizafi un tabel cu urmatoarea structurd, Completati tabelul cu\ntext, folosind FONT 11, dupa modelul de mai jos.\n\n \n\n \n\n\u2018Mediu de trai\n\u2018apa _[ aer | terestra\nDap"
+            },
+            "19": {},
+            "20": {
+                "class": "text",
+                "x": 121,
+                "y": 118,
+                "height": 24,
+                "width": 356,
+                "leftCorner": [
+                    121,
+                    118
+                ],
+                "rightCorner": [
+                    477,
+                    142
+                ],
+                "text": "1. Realizati urmitoarea structura de directoare folosind aplicatia My Computer"
+            },
+            "21": {
+                "class": "text",
+                "x": 251,
+                "y": 85,
+                "height": 23,
+                "width": 101,
+                "leftCorner": [
+                    251,
+                    85
+                ],
+                "rightCorner": [
+                    352,
+                    108
+                ],
+                "text": "TEST PRACTIC"
+            },
+            "22": {}
+        }
+    },
+    "img_316": {
+        "page": "316",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "22": {
+                "class": "text",
+                "x": 281,
+                "y": 680,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    281,
+                    680
+                ],
+                "rightCorner": [
+                    310,
+                    701
+                ],
+                "text": "316"
+            },
+            "23": {
+                "class": "text",
+                "x": 97,
+                "y": 606,
+                "height": 23,
+                "width": 353,
+                "leftCorner": [
+                    97,
+                    606
+                ],
+                "rightCorner": [
+                    450,
+                    629
+                ],
+                "text": "\u2018Raspunsuri corecte test gril: 1. b; 2. b; 3.b: 4. a: 5.b: 6c; 7. \u20ac:8.b; 9.\u00a2; 10.b,"
+            },
+            "24": {
+                "class": "text",
+                "x": 116,
+                "y": 292,
+                "height": 308,
+                "width": 382,
+                "leftCorner": [
+                    116,
+                    292
+                ],
+                "rightCorner": [
+                    498,
+                    600
+                ],
+                "text": "7. Scrieti o lista cu 3-4 comenzi din Word si marcagi lista cu simbolul\nuurmator:\n\n8. Trecefitextul scris anterior pe trei coloane.\n\n9. Numerotati paginile fisierulu, inserdnd numarul de paging in partea\nde jos a paginii, centrat,\n\n10, Serie elagia: x,\"+5x,\u00b0x>4Sxxy\"43\n\n11. Folosind aplicatia Microsoft Excel realizati o diagram\u00e9 folosind\ndatele din tabelul de mai jos:\n\nNr] Nume | Altitudine min. | Altitudine max.\n\ncrt\n\n \n\n \n\nToioase 300 1450\n\ncconifere 1200 1750\n\nMuschi, licheni 1700 2000,\n\n12, Salva isirul Excel in directorul Regnul vegetal folosind numele\nDiagrama.\n\n13, Calculati suma cifrelor de pe ultima coloana,\n\n14, Copiati diagrama din Excel in fisierul Word Tipuri de mamifere, pe\ncare -afi creat anterior.\n\n15, Copiati diagrama din Excel in Word.\n\n16, Salvati siinchidetifisierele Tipuri de mamifere si Diagrama,"
+            },
+            "25": {},
+            "26": {
+                "class": "text",
+                "x": 116,
+                "y": 71,
+                "height": 25,
+                "width": 167,
+                "leftCorner": [
+                    116,
+                    71
+                ],
+                "rightCorner": [
+                    283,
+                    96
+                ],
+                "text": "6. Realizati urmatorul desen:"
+            },
+            "27": {}
+        }
+    },
+    "img_317": {
+        "page": "317",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "27": {
+                "class": "text",
+                "x": 284,
+                "y": 680,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    284,
+                    680
+                ],
+                "rightCorner": [
+                    313,
+                    701
+                ],
+                "text": "317"
+            },
+            "28": {
+                "class": "text",
+                "x": 100,
+                "y": 57,
+                "height": 613,
+                "width": 400,
+                "leftCorner": [
+                    100,
+                    57
+                ],
+                "rightCorner": [
+                    500,
+                    670
+                ],
+                "text": "\u2018TEST GRILA.\n\n\u2018Ce seinifcajie are denuminea (D9?\n\n \n\nSii se marcheze cu un X rispunsul corect\n\n \n\nReprevints numele unui director ridicind de pe Hard-dse\n\n \n\nEste numle dfectonuui rSdScind al dischetet\n\n \n\nEste numele unui ier\n\n \n\n \n\n\u2018Comanda de schimbare  namelul unui fife ee\n\n \n\nFile, Delete\n\n \n\nFile, Rename\n\n \n\nit, Cop\n\n \n\nCComanda de ergere a unui director ete:\n\n \n\nFile, New, Folder\n\n \n\nDelete\nit, Paste\n\n \n\nAplieatia My Computer permite?\n\n \n\nCrearea de drectoare\n\n \n\n\u2018Creare de tbele\n\n \n\n\u2018Creare de diagrame\n\n \n\nCerolarepictograma SF din aplicaia Microsoft Wont?\n\n \n\n\u2018Copie un fier\n\n \n\nAnuleaai o comandi dati calculators\n\n \n\nDeschide un ie existent\n\n \n\n\u2018Care din pitogramele umitoare perite sl\n\n \n\n \n\nz\n\n \n\nw\n\n \n\n&\n\n \n\nTice meni se giseyt comanda de salvar a unui Tiger?\n\n \n\nait Editar\n\n \n\n\u201cTable /Tabel\n\n \n\nFile Fsier\n\n \n\nPictograma v8 permite\n\n \n\nSi sere un text cu indice superior\n\n \n\n\u2018Si salva documentul\n\n \n\ni deschidti un document now\n\n \n\n\u2018Numele_silvi yahoo.com reprint\n\n \n\nO adresi e-mail\n\n \n\n( comand a programulei Microott Word\n\n \n\n(O adrest de pagind de fotemet\n\n \n\n\u2018Pena a ordona un set de dato Ta oaline rescToare vai Tow,\n\n \n\nah\n\n \n\n="
+            },
+            "29": {}
+        }
+    },
+    "img_318": {
+        "page": "318",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "29": {
+                "class": "text",
+                "x": 281,
+                "y": 680,
+                "height": 21,
+                "width": 28,
+                "leftCorner": [
+                    281,
+                    680
+                ],
+                "rightCorner": [
+                    309,
+                    701
+                ],
+                "text": "318"
+            },
+            "30": {
+                "class": "text",
+                "x": 439,
+                "y": 433,
+                "height": 46,
+                "width": 22,
+                "leftCorner": [
+                    439,
+                    433
+                ],
+                "rightCorner": [
+                    461,
+                    479
+                ],
+                "text": "LXE"
+            },
+            "31": {
+                "class": "text",
+                "x": 111,
+                "y": 127,
+                "height": 517,
+                "width": 388,
+                "leftCorner": [
+                    111,
+                    127
+                ],
+                "rightCorner": [
+                    499,
+                    644
+                ],
+                "text": "0)\n\nAdie\n\nae\n\nPalanen\n\nPresedinte ao =\n\nConse secur\n\n2. In directorul PRESEDINTE_ faceti un fisier Word cu numele\n~Atribuiit\u2122\n\n3. Scrieti in fisier un text de 6-8 rinduri, la alegere. Folositi FONT tip,\n\u2018Times New Roman, dimensiune 12, Aranjafi textul in pagina\u2019 si\nfolositi diverse formatari pentru a evidentia zone de text.\n\n4. Scrieti un antet cu numele dumneavoastri si cu data examenului\nFolositi pentru textul din antet Font Arial cu dimensiunea 10,\n\n5. Realizati un tabel cu urmdtoarea structurd. Completati tabelul cu\ntext, folosind FONT 11\nText\n\n \n\n \n\n \n\n \n\n \n\n6. Realizati urmatorul desen:\n\nTENS:"
+            },
+            "32": {
+                "class": "text",
+                "x": 118,
+                "y": 78,
+                "height": 61,
+                "width": 366,
+                "leftCorner": [
+                    118,
+                    78
+                ],
+                "rightCorner": [
+                    484,
+                    139
+                ],
+                "text": "\u2018TEST PRACTIC\n1, Realizati urmatoarea structura de directoare folosind aplicayia My"
+            },
+            "33": {}
+        }
+    },
+    "img_319": {
+        "page": "319",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "33": {
+                "class": "text",
+                "x": 284,
+                "y": 680,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    284,
+                    680
+                ],
+                "rightCorner": [
+                    313,
+                    701
+                ],
+                "text": "319"
+            },
+            "34": {
+                "class": "text",
+                "x": 100,
+                "y": 428,
+                "height": 23,
+                "width": 352,
+                "leftCorner": [
+                    100,
+                    428
+                ],
+                "rightCorner": [
+                    452,
+                    451
+                ],
+                "text": "Raspunsuri corecte test gril: I. a; 2.b; 3.b:4. a: 5.\u00a2;6. b;7.6;8.;9.a; 10a."
+            },
+            "35": {
+                "class": "text",
+                "x": 121,
+                "y": 295,
+                "height": 129,
+                "width": 372,
+                "leftCorner": [
+                    121,
+                    295
+                ],
+                "rightCorner": [
+                    493,
+                    424
+                ],
+                "text": "Salvati figierul Excel in directorul Parlament folosind numele\n\nDiagramal.\nCalculati suma cifrelor de pe prima coloana. Determinati numarul\n\nmaxim de pe coloana a doua.\n\nCopiati diagrama din Excel in fisierul Word Atributti, pe care |-ai\n\ncreat anterior.\n\u2018Salvati si inchideti fisierul Atributii si apoi fisierul Diagramal,"
+            },
+            "36": {},
+            "37": {
+                "class": "text",
+                "x": 254,
+                "y": 189,
+                "height": 84,
+                "width": 26,
+                "leftCorner": [
+                    254,
+                    189
+                ],
+                "rightCorner": [
+                    280,
+                    273
+                ],
+                "text": "ists s]"
+            },
+            "38": {
+                "class": "text",
+                "x": 119,
+                "y": 56,
+                "height": 129,
+                "width": 384,
+                "leftCorner": [
+                    119,
+                    56
+                ],
+                "rightCorner": [
+                    503,
+                    185
+                ],
+                "text": "7. Scrieti o lista cu 3-4 comenzi de calculator si marcati lista cu\nsimbolul +\n\n8, Treceti textul scris anterior pe trei coloane.\n\n9. Numerotati paginile fisierului, inserdnd numarul de paging in partea\n\nde jos a paginii, centrat\n\n10, Setieti relayia: Ay = B? +a\n\n11. Folosind aplicatia Microsoft Excel realizati o diagrama tip Coloand\nfolosind datele din tabelul de mai jos:"
+            },
+            "39": {}
+        }
+    },
+    "img_320": {
+        "page": "320",
+        "pageWidth": "600",
+        "pageHeight": "848",
+        "sections": {
+            "39": {
+                "class": "text",
+                "x": 281,
+                "y": 680,
+                "height": 21,
+                "width": 29,
+                "leftCorner": [
+                    281,
+                    680
+                ],
+                "rightCorner": [
+                    310,
+                    701
+                ],
+                "text": "320"
+            },
+            "40": {
+                "class": "text",
+                "x": 115,
+                "y": 56,
+                "height": 596,
+                "width": 385,
+                "leftCorner": [
+                    115,
+                    56
+                ],
+                "rightCorner": [
+                    500,
+                    652
+                ],
+                "text": "1. Bemard Eder, Willibald Kodym, Franz Lechner, Eedl- Modulul 7.\nInternet, Editura: All, 2007.\n\n2, \u2018Bemhard Eder, Willibald Kodym, Franz Lechner, ECDL. Word Pentru\nAvansai, Editura All, 2005.\n\n3. Bizdoaca Elvira Nicoleta, Jntiere in Excel XP 2003, Editura Arves\n\n4. Bolun 1, Covalenco IL, Bazele informaticit aplicate, Ed. Asem,\nChisinau, 1999,\n\n5. Buraga S., Telinologii Web, Editura Matrix Rom, Bucuresti, 2001\n\n6. Buraga S., Web-ul devine mai vizual Efecte multimedia in Internet\nExplorer 5 PC Report, vol.9, nr.99 - decembrie 2000.\n\n7. Craus M., Instrumente si Tehnologii Web, suport de curs 2006.\n\n8. Chiorean L., Chiorean M., PC Initiere hard si soft, Ed. Albastra,\nCluj-Napoca, 1999.\n\n9% Crintea Dan, Onea Emil, Grafica si HTML pentru elevi, clasele\nVIIL-XI, Editura Paralele 45, 2007.\n\n10, Darnel Rick, Toru! despre HTML ,Editura Teora, 2000.\n\nIL. Greg Perry, Inata singur Microsoft Office 2003 in 24 de ore\nEditura Niculescu 2006,\n\n12. Greg Perry, Microsoft Office 2007 5 In 1. Word, Excel, Powerpoint,\nOutlook, Onenote, Editura: Teora, 2008.\n\n13, Henry Mavrodin, Initiere rapida in: Windows, Word, Excel,\nAccess, PowerPoint, Internet Explorer, HTML, Editura Sigma 2006.\n\n14, Johnson, Steve , Microsoft Office Word 2007, Editura Niculescu.\n\n15. Popescu Eugen, Initiere in Microsoft Office PowerPoint Editura\nElse.\n\n16, Prodan, A.,. Ms Office 2000 pas cu pas, Editura Albastra\n\n17, Prodan A., Gorunescu F., Gorunescu M., Excel, Access si pagini\nWEB, Editura Albastra 2007,\n\n18, Sagman Steve, Microsoft Office XP pentru Window, Editura Corint\n2003,\n\n19, Wang W., Parker R., Microsoft Office 2000 pentru Windows pentru\namici, Ed, Tehnic, Bucuresti, 2001\n\n20,** \" www.wikipedia.org\n\n \n\n21% www.legi-internet.r0\n22.*\u00b0* \u2014 www.e-referate.r0\n23,*\u00b0* \u2014 www.referate.r0\n\n \n\n24.\" www.preferate.ro"
+            }
+        }
+    }
+}

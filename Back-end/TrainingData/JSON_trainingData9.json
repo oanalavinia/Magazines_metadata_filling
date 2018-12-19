@@ -1,0 +1,671 @@
+{
+    "numberOfPages": 86,
+    "img_01": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "1": {},
+            "2": {
+                "class": "text",
+                "x": 287,
+                "y": 522,
+                "height": 77,
+                "width": 199,
+                "leftCorner": [
+                    287,
+                    522
+                ],
+                "rightCorner": [
+                    486,
+                    599
+                ],
+                "text": "Liceul Teoretic\n\u00bbMiron Costin\u201d Pascani\n\n \n\nwww.lmepascani.ro"
+            },
+            "3": {},
+            "4": {},
+            "5": {}
+        }
+    },
+    "img_02": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "6": {
+                "class": "text",
+                "x": 132,
+                "y": 489,
+                "height": 25,
+                "width": 127,
+                "leftCorner": [
+                    132,
+                    489
+                ],
+                "rightCorner": [
+                    259,
+                    514
+                ],
+                "text": "ISSN 2065-8060"
+            },
+            "7": {
+                "class": "text",
+                "x": 401,
+                "y": 419,
+                "height": 25,
+                "width": 56,
+                "leftCorner": [
+                    401,
+                    419
+                ],
+                "rightCorner": [
+                    457,
+                    444
+                ],
+                "text": "700497"
+            },
+            "8": {
+                "class": "text",
+                "x": 134,
+                "y": 375,
+                "height": 107,
+                "width": 271,
+                "leftCorner": [
+                    134,
+                    375
+                ],
+                "rightCorner": [
+                    405,
+                    482
+                ],
+                "text": "Editura OM\nEditura acreditati CNCSIS ~ 66/01.05.2006\n\nSoseaua Stefan cel Mare si Sfiint nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.715\nwww.pimeopy.r0"
+            },
+            "9": {
+                "class": "text",
+                "x": 192,
+                "y": 252,
+                "height": 74,
+                "width": 202,
+                "leftCorner": [
+                    192,
+                    252
+                ],
+                "rightCorner": [
+                    394,
+                    326
+                ],
+                "text": "~ Prof. Jon Cazacu-Davidescu\n~ Prof. Mihaela Anusca\n\n \n\n- Prof. Elena Dascalita"
+            },
+            "10": {
+                "class": "text",
+                "x": 163,
+                "y": 216,
+                "height": 25,
+                "width": 106,
+                "leftCorner": [
+                    163,
+                    216
+                ],
+                "rightCorner": [
+                    269,
+                    241
+                ],
+                "text": "Coordonatori :"
+            }
+        }
+    },
+    "img_03": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 52,
+                "y": 172,
+                "height": 606,
+                "width": 496,
+                "leftCorner": [
+                    52,
+                    172
+                ],
+                "rightCorner": [
+                    548,
+                    778
+                ],
+                "text": "Septembrie 2011 a reprezentat pentru Liceul Teoretic Miron Costin\nPascani debutul Proiectului multilateral Comenius \u2014 Practical and logical\n\u2018mathematics sau Matematica in viafa de zi cu zi. Finanjat din fonduri europene,\nprin intermediul Agentiei Nationale ~ ANCPDEFP, proiectul cu num\u00e9rul de\nreferin{i 11-PM-294-IS-PL se desfigoari, pe o duratd de doi ani, sub forma\nunor activititi de parteneriat derulate intre liceul nostru si alte 4 institutii\nscolare din Polonia, Anglia, Turcia si Italia: Ogolnoksztalcae Nr I im. Jana\nILI Sobeskiego, Olawa, Westwood College- Leek, Denizli Hasan Tekin Ada\nAnadol Lisesi \u2014 Denizli si II Istituto di Istruzione Superiore ~ Palazzolo\nAcreide,\n\nTema proiectului o reprezintd, asa cum o arata si titlul, matematica,\ninsistind asupra aplicatilor practice ale acesteia in viafa elevilor, urmarindu-se\napropietea acestora de matematicd si constientizarea aplicabilititii acesteia in\ndomenii ale stiintei ca biologia, geografia, informatica, cat si in domeniul\nactivitatilor sportive. Limba de comunicare a proiectului este engleza, ocazie\npentru elevi de a-si folosi cunostintele lingvistice gi de a gi le imbunatati.\n\nProiectul presupune activitati derulate conform unui calendar comun in\ncele 5 institutii implicate, mobilititi ale elevilor si ale profesorilor, realizarea\nunor produse finale: brosuri, caiete de exercitii, albume foto, site-uri, cd-uri.\n\nDin septembrie 2011 si pana in prezent au avut loc 4 reuniuni de proiect.\nPrima reuniune a avut loc in institutia coordonatoare a proiectului din\nlocalitatea Olawa, Polonia. Cele 5 echipaje de elevi au realizat fiecare o\nprezentare a sistemului de invatamant din fiecare tard si a curriculum-ului dupa\ncare se studiazi matematica, Astfel, participantii la mobilitate au putut observa\ncu usurinta ca nu invatam toti aceleasi lucruri si nu dupa o schema comuna.\n\nCea de-a doua intilnire a avut loc la Westood College, Leek. Aici\nprofesorii de matematicd au organizat o competitie de exercitii matematice\nintre fri. La finalul concursului, elevii, cat si profesorii, au putut realiza ci\nsistemul diferit de predare poate constitui o bariera in rezolvarea unor probleme\nde matematicd aparent simple."
+            },
+            "12": {
+                "class": "text",
+                "x": 243,
+                "y": 117,
+                "height": 44,
+                "width": 305,
+                "leftCorner": [
+                    243,
+                    117
+                ],
+                "rightCorner": [
+                    548,
+                    161
+                ],
+                "text": "Prof. Coordonator al proi\n\nLiceul Teoretic"
+            },
+            "13": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 79,
+                "width": 502,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    551,
+                    110
+                ],
+                "text": "Caleidoseop 1\n\nProgramul multilateral Comenius \u2014 Practical\n\n \n\nand logical mathematics"
+            }
+        }
+    },
+    "img_04": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "14": {},
+            "15": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 757,
+                "width": 499,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    548,
+                    788
+                ],
+                "text": "2 anul IV, nr, 2, noiembrie 2012\n\nA treia reuniune a avut loc in Turcia, tema de lucru au constituit-o\njocurile logice. Fiecare tari a propus un joc, cu care a mers in Denizli. Ai\ngazdele au pus la punct un maraton de jocuri, s-a lucrat in 5 echipe mixte, cu\nelevi din fiecare ari, ceea ce a reprezentat un schimb de experienti\nextraordinar.\n\nA patra\nreuniune a avut loc\n\n   \n\nin Palazzolo\nAcreide-ttalia,\nDelegatia Liceului\nMiron Costin a fost\nconstituit\u2019 din trei\nprofesori si cinei\nelevi, Pe linga\nact derulate\nin scoala pe durata\ncelor 5 zile, au\nexistat si excursii la Siragusa, Ortigia, Taormina, Noto, Etna menite si\nprezinte elevilor participanti patrimoniul national italian, parte a Patrimoniului\nUNESCO.\n\nIn toate cele 4\nreuniuni organizate,\ngazdele au organizat\nexcursii_menite si\npromoveze cultura\n\n  \n\nfiecarei tari,\npatrimoniul national\nsi universal.\n\nReuniunile de lucru\nsunt 0 ocazie pentru\nelevi de a comunica,\n\n \n\nde a cunoaste alte\n\ni\nfiri, alte scoli, de a vedea educafia dintr-o perspectiva noua.\n\nin aprilie 2013, Liceul Teoretic Miron Costin Pascani va fi gazda ultimei\nint\u00e9lniri de proiect, mobilul reuniunii find rezumarea temelor proiectului,\n\n \n\npunerea la punet a detaliilor pentru publicarea produselor finale"
+            }
+        }
+    },
+    "img_81": {
+        "page": "81",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "16": {
+                "class": "text",
+                "x": 52,
+                "y": 147,
+                "height": 638,
+                "width": 496,
+                "leftCorner": [
+                    52,
+                    147
+                ],
+                "rightCorner": [
+                    548,
+                    785
+                ],
+                "text": "in opera filozofilor Gilles Deleuze si Felix Guattari multiplicitea, in\nipostazi morfologicd de substantiv, fri unitate-pivot, fGrd subiect sau obiect,\nste construiti numai din determinari/dimensiuni de grandoare, care nu se pot,\namplifica, asa cum se intimpld in relatia dintre papusd si actor la teatrul de\nmarionete, fra si-si schimbe natura, Firele marionetei, asa cum arati cei doi\nfilozofi in Mille plateaux, in ipostaza de rizom sau multiplicitate, nu trimit la\npresupusa voinfa a unui artist sau regizor, ci la multiplicitatea fibrelor nervoase\ncare constituie, la randul lor, 0 alti marionetd, cu alte dimensiuni. Firele sau\ntijele acestea care misc marioneta constituie o tesdturi. Prin urmare\nmultiplicitatea rizomului se defineste in afard, prin linii abstracte, de fuga sau\nde deteritorializare. Pentru exemplificarea acestei imagini Deleuze si Guattari\nschiteaza un ideal al cdrfii rizomatice, schijeaz3 0 radiceld care etaleaza totul\npe aceeasi pagina. Cartea ideald ar fi, in aceste condifii, aceea care etaleazi\ntotul pe un asemenea plan al exteriorititii reprezentat de o singura pagind,\nevenimente trdite, determinari istorice, concepte, idei, indivizi si grupuri\nsociale.\n\nin cartea aceasta rizomatica sdlaguieste 0 ruptura asignifianta, pentru ci\nun rizom poate fi spart, rupt intr-un punct oarecare conform unor regului gi\npoate fi reluat in alt punet, potrivit altor reguli asa cum se intampla cu furnicile.\nEle nu pot fi starpite cu totul pentru cd formeaza un rizom animal care poate fi\ndistrus in mare parte dar nu inceteaza sA se reconstituie. Asta inseamnd ci\norice rizom presupune linii de segmentaritate potrivit cdrora se poate fi\nstratificat, teritorializat, organizat, semnificat sau atribuit. El poate fi supus\nuunor migcari de deteritorializare/reteritorializare, asa cum se intimpla in cazul\norhideei care se deteritorializeaza alcdtuind o imagine- calc a viespei, la randul\ni se reteritorializata in aceasta imagine. in termenii gandirii Deleuze-Guattari\nvispea se deteritorialiseazi devenind o piesi in aparatul de reproducere al\nothideei si reteritorializeaza orhideea transportand polenul. Viespea si orhideea\nconstituie rizomul ca heterogenitate. S-ar putea spune ca orhideea imita viespea\nsicl reproduce imaginea in maniera semnificanta. Dar acest lucru este valabi\nnumai la nivelul straturilor pentru ca de fapt intervine 0 captura, o plus-valoare\n4 codului, 0 augumentare a valenfei, o veritabli devenire, devenire-viespe a\norchideei, devenire-orchidee a viespei. Fiecare din aceste deveniri asiguri, intr-\nun fel de inlantuire, deteritorializarea unui termen si reteritorializarea celuilalt.\nSe poate spune ci aceleasi miscdri de deteritorializare/ reteritorializare se\nregasesc si in imaginea cArtii-rizom, si in aceea a lumii- rizom. Cartea nu este 0"
+            },
+            "17": {
+                "class": "text",
+                "x": 261,
+                "y": 98,
+                "height": 45,
+                "width": 287,
+                "leftCorner": [
+                    261,
+                    98
+                ],
+                "rightCorner": [
+                    548,
+                    143
+                ],
+                "text": "Prof.dr. Jana Gavriliu\nColegiul Tehnic ,Dumitru Mangeron\u201d Baciu"
+            },
+            "18": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 60,
+                "width": 502,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    551,
+                    91
+                ],
+                "text": "Caleidoseop 79\n\n  \n\nDeleuze, Guattari si multi"
+            }
+        }
+    },
+    "img_82": {
+        "page": "82",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "19": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 492,
+                "width": 499,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    548,
+                    523
+                ],
+                "text": "80 anul IV, nr. 2, noiembrie 2012\n\nimagine a lumii, in sensul mimetic al cuvantului si al logicii binare ci face\nrizom cu lumea, intr-o evolutie aparalela.\n\nPotrivit principiului cartografierii si decalcomaniei, injelese si ele ca\ntrisaturi ale gindirii rizomatice, un rizom nu este tributar modelului structural\nsau generativ. El este strin oricarei idei de ax geneticd sau structur\u2019 profunds.\nEste strain de unitatea pivotali obiectiva pe care se organizeaza stratu\nsuccesive. Este departe de modelul reprezentativ al arborelui care functioneazi\npotrivit unei logici a calcului gi a reproducerii. Rizomul este hart, nu este calc.\nHarta construieste, nu reproduce. Ea produce conexiuni de cimpuri, este\nconectabil la orice dimensiune, este demontabila, risturnabila, modificabila,\n\ni, poate fi pus in lucru de un individ, de un grup, de 0 comunitate\n1u de o captur\u2019 biologic\u2019. Asa cum spun Deleuze si Guattari, orhideea\nnu reproduce calcul viespei ci face hart cu viespea in cadrul unui rizom.\n\nRizomul este, prin urmare, 0 antigeologie, 0 memorie scurt\u00e9, 0\nantimemorie care procedeazi prin variatie, expansiune, cucerire, captura, in\nopozitie cu grafismul, desenul, fotografia si calcul. Rizomul se raporteaza la 0\nharti care trebuie produs\u2019, construitd, mereu demontabil\u2019, conectabild,\nrastumabili, detestabili, cu intriri si iesiri multiple. Departe de sistemele\ncentrate, in care se comunica ierarhic si prin relafii prestabilite, rizomul este un\n\nstem acentrat, nonierarhic, nonsignifiant si memorie organizatoare. Este\nconstruit din platouri, fara inceput i fard sfirsit, vitalizat de un perpetuu sistem\nde stiri circulatori, intr-o regiune de permanent continuitate intensionald.\n\nAsa aratd, in acceptia celor doi filosofi si cartea lor, intitulat Milles\nplateaux, intruchipata de mii de platouri, inteleasa, fara indoiala, ca profesiune\nde credinfa. Deleuze si Guattari au scris aceasti carte in forma unui rizom, au\nalcatuit-o din platouri si i-au dat forma circulara."
+            }
+        }
+    },
+    "img_83": {
+        "page": "83",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "20": {
+                "class": "text",
+                "x": 489,
+                "y": 758,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    489,
+                    758
+                ],
+                "rightCorner": [
+                    517,
+                    782
+                ],
+                "text": "60"
+            },
+            "21": {
+                "class": "text",
+                "x": 489,
+                "y": 705,
+                "height": 42,
+                "width": 28,
+                "leftCorner": [
+                    489,
+                    705
+                ],
+                "rightCorner": [
+                    517,
+                    747
+                ],
+                "text": "53\n56"
+            },
+            "22": {
+                "class": "text",
+                "x": 51,
+                "y": 702,
+                "height": 80,
+                "width": 434,
+                "leftCorner": [
+                    51,
+                    702
+                ],
+                "rightCorner": [
+                    485,
+                    782
+                ],
+                "text": "P.D. BALBA, Stema de stat a Romaniei\nLILIANA NOVAC, Aga va place istoria?\n\nJANA GAVRILIU, Studiu: Deleuze si Guattari in umbra filosofiei\nlui Nietzsche"
+            },
+            "23": {
+                "class": "text",
+                "x": 52,
+                "y": 671,
+                "height": 27,
+                "width": 138,
+                "leftCorner": [
+                    52,
+                    671
+                ],
+                "rightCorner": [
+                    190,
+                    698
+                ],
+                "text": "SECTIUNEA ESEU"
+            },
+            "24": {
+                "class": "text",
+                "x": 488,
+                "y": 636,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    488,
+                    636
+                ],
+                "rightCorner": [
+                    516,
+                    660
+                ],
+                "text": "47"
+            },
+            "25": {
+                "class": "text",
+                "x": 488,
+                "y": 602,
+                "height": 24,
+                "width": 28,
+                "leftCorner": [
+                    488,
+                    602
+                ],
+                "rightCorner": [
+                    516,
+                    626
+                ],
+                "text": "43"
+            },
+            "26": {
+                "class": "text",
+                "x": 488,
+                "y": 567,
+                "height": 24,
+                "width": 29,
+                "leftCorner": [
+                    488,
+                    567
+                ],
+                "rightCorner": [
+                    517,
+                    591
+                ],
+                "text": "40"
+            },
+            "27": {
+                "class": "text",
+                "x": 489,
+                "y": 515,
+                "height": 42,
+                "width": 27,
+                "leftCorner": [
+                    489,
+                    515
+                ],
+                "rightCorner": [
+                    516,
+                    557
+                ],
+                "text": "31\n38"
+            },
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 489,
+                "y": 428,
+                "height": 41,
+                "width": 28,
+                "leftCorner": [
+                    489,
+                    428
+                ],
+                "rightCorner": [
+                    517,
+                    469
+                ],
+                "text": "20\n25"
+            },
+            "30": {
+                "class": "text",
+                "x": 52,
+                "y": 410,
+                "height": 254,
+                "width": 433,
+                "leftCorner": [
+                    52,
+                    410
+                ],
+                "rightCorner": [
+                    485,
+                    664
+                ],
+                "text": "GICUTA ELENA AGHEORGHIESEI, Piapistul-mod veche. Scurta\nincursiune in istoria plagiatului rom\u00e9nese ......\n\nELENA CORNEA, Importanta practica a acizilor cart oxilici\nNARCISA DINU, Rolul subsistemelor paraverbal si nonverbal in\ncomunicarea didactica\n\nBOGDAN-DORIN SOLTUZU, Influena poludrii atmosferice asupra\nspeciei Tilia Tomentosa L. din zona municipiului Iasi\n\nDANIELA BUCHILA, Invengii pentru masurarea timpului\nNARCISA DINU, Rolul valorilor educative in contextul societ\ncontemporane a\nMARIA-CRISTINA DOROFTEI, Grigore Antipa \u2014 intemeietorul\necologiei romanesti\n\nION CAZACU-DAVIDESCU, Studiul fizico-chimic al interfetei\nsolid-lichid, Modelul Gouy - Chapman al stratului dublu electric."
+            },
+            "31": {
+                "class": "text",
+                "x": 52,
+                "y": 376,
+                "height": 27,
+                "width": 176,
+                "leftCorner": [
+                    52,
+                    376
+                ],
+                "rightCorner": [
+                    228,
+                    403
+                ],
+                "text": "SECTIUNEA $TIINTIFIC"
+            },
+            "32": {
+                "class": "text",
+                "x": 491,
+                "y": 342,
+                "height": 24,
+                "width": 26,
+                "leftCorner": [
+                    491,
+                    342
+                ],
+                "rightCorner": [
+                    517,
+                    366
+                ],
+                "text": "16"
+            },
+            "33": {
+                "class": "text",
+                "x": 489,
+                "y": 272,
+                "height": 59,
+                "width": 27,
+                "leftCorner": [
+                    489,
+                    272
+                ],
+                "rightCorner": [
+                    516,
+                    331
+                ],
+                "text": "Fecal"
+            },
+            "34": {
+                "class": "text",
+                "x": 52,
+                "y": 219,
+                "height": 150,
+                "width": 433,
+                "leftCorner": [
+                    52,
+                    219
+                ],
+                "rightCorner": [
+                    485,
+                    369
+                ],
+                "text": "MIHAELA ANUSCA, Evaluare si joc, software-ul Qedoc ~\ninstrument interactiv de invatare \u2014 evaluare\n\nMARIANA DULGHERU, Valorificarea valenfelor creat ale\nelevilor\n\nVIORICA PANTAZI, Educatia timpurie intre necesitate $i realitate\nVIORICA MAFTEI, Excursia didactica coe\nCONSTANTA MANOLE, Continuitatea gradinita - scoaldfactor\nimportant al reusitei scolare"
+            },
+            "35": {
+                "class": "text",
+                "x": 52,
+                "y": 185,
+                "height": 27,
+                "width": 172,
+                "leftCorner": [
+                    52,
+                    185
+                ],
+                "rightCorner": [
+                    224,
+                    212
+                ],
+                "text": "SECTIUNEA DIDACTIC"
+            },
+            "36": {
+                "class": "text",
+                "x": 52,
+                "y": 130,
+                "height": 48,
+                "width": 431,
+                "leftCorner": [
+                    52,
+                    130
+                ],
+                "rightCorner": [
+                    483,
+                    178
+                ],
+                "text": "and logical mathematic:"
+            },
+            "37": {},
+            "38": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 33,
+                "width": 502,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    551,
+                    64
+                ],
+                "text": "idoscop 81"
+            }
+        }
+    },
+    "img_84": {
+        "page": "84",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "39": {
+                "class": "text",
+                "x": 489,
+                "y": 201,
+                "height": 64,
+                "width": 28,
+                "leftCorner": [
+                    489,
+                    201
+                ],
+                "rightCorner": [
+                    517,
+                    265
+                ],
+                "text": "15\n7\n79"
+            },
+            "40": {
+                "class": "text",
+                "x": 489,
+                "y": 131,
+                "height": 59,
+                "width": 28,
+                "leftCorner": [
+                    489,
+                    131
+                ],
+                "rightCorner": [
+                    517,
+                    190
+                ],
+                "text": "70\n2\n74"
+            },
+            "41": {
+                "class": "text",
+                "x": 49,
+                "y": 31,
+                "height": 238,
+                "width": 494,
+                "leftCorner": [
+                    49,
+                    31
+                ],
+                "rightCorner": [
+                    543,
+                    269
+                ],
+                "text": "82 anul IV, nr. 2, noiembrie 2012\n\nIONELA LUCA, O noua experientd teatrald 62\nANCA APARASCHIVEL, Prima experienti didactic\u2019 ... la Paris, 65\nJANA GAYRILIU, Studiu: Gradina potecilor care se bifured .......... 68\nJANA GAVRILIU, Studiu: inceputul si declinul avangardelor in\n\nopera lui Luc Ferry 70\nMARIA-LUCIA TOMA, ..Romanul trebuie sd fie un poe\n\nGABRIELA HRITCU-MESENSCHI, A fi dascal in era tehnolog\nMARIA-LUCIA TOMA, in cautarea identitatii : Aim\u00e9 Pache,\n\npeintre vaudois de Charles-Ferdinand Ramuz .......\n\nJANA GAVRILIU, Studiu: Multiplicarea patrimoniului cultural .\n\nJANA GAVRILIU, Studiu: Deleuze, Guattari si multiplicitatea .."
+            }
+        }
+    },
+    "img_85": {
+        "page": "85",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {}
+    },
+    "img_86": {
+        "page": "86",
+        "pageWidth": "600",
+        "pageHeight": "849",
+        "sections": {
+            "42": {
+                "class": "text",
+                "x": 142,
+                "y": 642,
+                "height": 113,
+                "width": 303,
+                "leftCorner": [
+                    142,
+                    642
+                ],
+                "rightCorner": [
+                    445,
+                    755
+                ],
+                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua $tefan cel Mare gi Sfant nr. 4, Tasi ~ 700497\n0730.086.676; Fax: 0332.440.715\n\nE-mail ipimcopy.r0\n\n \n\nwwwpimeopy.t0"
+            },
+            "43": {
+                "class": "text",
+                "x": 241,
+                "y": 594,
+                "height": 43,
+                "width": 104,
+                "leftCorner": [
+                    241,
+                    594
+                ],
+                "rightCorner": [
+                    345,
+                    637
+                ],
+                "text": "20m"
+            },
+            "44": {
+                "class": "text",
+                "x": 209,
+                "y": 560,
+                "height": 30,
+                "width": 168,
+                "leftCorner": [
+                    209,
+                    560
+                ],
+                "rightCorner": [
+                    377,
+                    590
+                ],
+                "text": "Tipar digital realizat la:"
+            }
+        }
+    }
+}

@@ -1,0 +1,620 @@
+{
+    "numberOfPages": 116,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 213,
+                "y": 747,
+                "height": 36,
+                "width": 165,
+                "leftCorner": [
+                    213,
+                    747
+                ],
+                "rightCorner": [
+                    378,
+                    783
+                ],
+                "text": "Editura PIM, asi, 2013"
+            },
+            "2": {
+                "class": "text",
+                "x": 97,
+                "y": 365,
+                "height": 26,
+                "width": 405,
+                "leftCorner": [
+                    97,
+                    365
+                ],
+                "rightCorner": [
+                    502,
+                    391
+                ],
+                "text": "DINAMICI SOCIO-DEMOGRAFICO-ECONOMICE"
+            },
+            "3": {
+                "class": "text",
+                "x": 148,
+                "y": 331,
+                "height": 28,
+                "width": 303,
+                "leftCorner": [
+                    148,
+                    331
+                ],
+                "rightCorner": [
+                    451,
+                    359
+                ],
+                "text": "RUSII-LIPOVENI DIN JUDETUL IASI"
+            },
+            "4": {
+                "class": "text",
+                "x": 240,
+                "y": 84,
+                "height": 25,
+                "width": 120,
+                "leftCorner": [
+                    240,
+                    84
+                ],
+                "rightCorner": [
+                    360,
+                    109
+                ],
+                "text": "IACOB PAVEL"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "5": {
+                "class": "text",
+                "x": 73,
+                "y": 499,
+                "height": 45,
+                "width": 267,
+                "leftCorner": [
+                    73,
+                    499
+                ],
+                "rightCorner": [
+                    340,
+                    544
+                ],
+                "text": "ipoveni)(498-35 lasi\n\n \n\n \n\n161.1 Lipoveni)(498-35 lasi)"
+            },
+            "6": {
+                "class": "text",
+                "x": 318,
+                "y": 323,
+                "height": 23,
+                "width": 53,
+                "leftCorner": [
+                    318,
+                    323
+                ],
+                "rightCorner": [
+                    371,
+                    346
+                ],
+                "text": "700497"
+            },
+            "7": {
+                "class": "text",
+                "x": 67,
+                "y": 283,
+                "height": 207,
+                "width": 424,
+                "leftCorner": [
+                    67,
+                    283
+                ],
+                "rightCorner": [
+                    491,
+                    490
+                ],
+                "text": "Eaitura OM)\nEditura acreditat\u00e9 CNCSIS \u2014 66/2010\nSonia Senet Mare Sn a4 ai\nTel.: 0730.086.676; Fax: 0332.440.715\new pimcopys\n\nDescrierea CIP a Bibliotecii Nationale a Romaniei\n1ACOB, PAVEL\n\nRusii-lipoveni din judetul Iasi : dinamici socio-demografico-\neconomice / lacob Pavel. - Iasi: PIM, 2013\n\nBibliogr.\n\nISBN 978-606-13-1470-6"
+            },
+            "8": {
+                "class": "text",
+                "x": 68,
+                "y": 133,
+                "height": 27,
+                "width": 288,
+                "leftCorner": [
+                    68,
+                    133
+                ],
+                "rightCorner": [
+                    356,
+                    160
+                ],
+                "text": "Referent stiingific: Prof. univ. dr. lafu Corneliu"
+            }
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "9": {
+                "class": "text",
+                "x": 68,
+                "y": 557,
+                "height": 94,
+                "width": 441,
+                "leftCorner": [
+                    68,
+                    557
+                ],
+                "rightCorner": [
+                    509,
+                    651
+                ],
+                "text": "IIL Particularitajile etnografice\n1. Gospodaria\n2. Biserica\n\n3. Portul,\n4. Obiceiurile\n5. Ocupaile specifice"
+            },
+            "10": {},
+            "11": {
+                "class": "text",
+                "x": 68,
+                "y": 391,
+                "height": 164,
+                "width": 441,
+                "leftCorner": [
+                    68,
+                    391
+                ],
+                "rightCorner": [
+                    509,
+                    555
+                ],
+                "text": "Il, Caracterizarea geografica a populatici\n1. Contextul emigrari i stabliriirusilor-lipoveni in Romania\ni in localititle supuse studiului\n1.1. Originea si semnificatia termenulut\n1.2. Contextul emigrari si stabiliri rusilor-ipoveni in Romania\n\n2B\n2B\n25\n\n1.3, Scurtistori al aezatilor si contextul stabil rusilor-\n\u2018in judetul las .\n\n2. Analiza geografied a populatici\n\n2.1, Evolutia numeric\u2019 a populatieiruso-lipovenesti\n\n2.2. Componentele geodemogratice si evolufia lor\n\n2.3. Structure geodemogratice"
+            },
+            "12": {
+                "class": "text",
+                "x": 70,
+                "y": 232,
+                "height": 156,
+                "width": 440,
+                "leftCorner": [
+                    70,
+                    232
+                ],
+                "rightCorner": [
+                    510,
+                    388
+                ],
+                "text": "A. Rusii-lipoveni din judetul Iasi-dinamici socio-demografico-economice\n\n1. Cadrul natural ca factor de influent in aparitia si dezvoltarea asezirilor si pentru\n\nstabilitatea si continuitatea populate\u2019 ruso-lipovenesti in judetul las\n\n1\n3\n4\n6\n\nAxezarea geograficd a localitijilor supuse studiului\nGeologia\n\nRelieful\n\nClima\n\nHidrogratia\n\nInvelisul biopedogeografic"
+            },
+            "13": {
+                "class": "text",
+                "x": 69,
+                "y": 169,
+                "height": 43,
+                "width": 441,
+                "leftCorner": [
+                    69,
+                    169
+                ],
+                "rightCorner": [
+                    510,
+                    212
+                ],
+                "text": "1. Introducere"
+            },
+            "14": {
+                "class": "text",
+                "x": 247,
+                "y": 97,
+                "height": 24,
+                "width": 75,
+                "leftCorner": [
+                    247,
+                    97
+                ],
+                "rightCorner": [
+                    322,
+                    121
+                ],
+                "text": "CUPRINS"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "15": {},
+            "16": {
+                "class": "text",
+                "x": 74,
+                "y": 249,
+                "height": 25,
+                "width": 434,
+                "leftCorner": [
+                    74,
+                    249
+                ],
+                "rightCorner": [
+                    508,
+                    274
+                ],
+                "text": "Bibliografic 105,"
+            },
+            "17": {},
+            "18": {
+                "class": "text",
+                "x": 126,
+                "y": 124,
+                "height": 93,
+                "width": 383,
+                "leftCorner": [
+                    126,
+                    124
+                ],
+                "rightCorner": [
+                    509,
+                    217
+                ],
+                "text": "1, Aspecte metodologice privind analiza geografic&\n\u20182 orizontului local.\n1.1.Curriculum opfional la decizia seo\n\n1.2.Metode si procedee specifice predirii-invafiri geografei\nlocale\n1.3.Modele de activitayi didactice"
+            },
+            "19": {
+                "class": "text",
+                "x": 113,
+                "y": 97,
+                "height": 24,
+                "width": 175,
+                "leftCorner": [
+                    113,
+                    97
+                ],
+                "rightCorner": [
+                    288,
+                    121
+                ],
+                "text": "B. Aplicatii metodico-didactice"
+            }
+        }
+    },
+    "img_111": {
+        "page": "111",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "20": {},
+            "21": {},
+            "22": {},
+            "23": {
+                "class": "text",
+                "x": 134,
+                "y": 360,
+                "height": 25,
+                "width": 347,
+                "leftCorner": [
+                    134,
+                    360
+                ],
+                "rightCorner": [
+                    481,
+                    385
+                ],
+                "text": "Fig. 30. Tineri exersdind trasul clopotelor (foto Ionut Mitrofan, 2012)."
+            },
+            "24": {}
+        }
+    },
+    "img_112": {
+        "page": "112",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "25": {
+                "class": "text",
+                "x": 286,
+                "y": 770,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    770
+                ],
+                "rightCorner": [
+                    315,
+                    793
+                ],
+                "text": "112"
+            },
+            "26": {
+                "class": "text",
+                "x": 289,
+                "y": 695,
+                "height": 37,
+                "width": 189,
+                "leftCorner": [
+                    289,
+                    695
+                ],
+                "rightCorner": [
+                    478,
+                    732
+                ],
+                "text": "(Muzeul CRL-Te. Frumos)"
+            },
+            "27": {},
+            "28": {},
+            "29": {},
+            "30": {
+                "class": "text",
+                "x": 149,
+                "y": 346,
+                "height": 25,
+                "width": 312,
+                "leftCorner": [
+                    149,
+                    346
+                ],
+                "rightCorner": [
+                    461,
+                    371
+                ],
+                "text": "Fig. 32. Biserica de rit vechi din Lespezi (foto original, 2013)."
+            },
+            "31": {}
+        }
+    },
+    "img_113": {
+        "page": "113",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "32": {
+                "class": "text",
+                "x": 286,
+                "y": 770,
+                "height": 23,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    770
+                ],
+                "rightCorner": [
+                    315,
+                    793
+                ],
+                "text": "113."
+            },
+            "33": {
+                "class": "text",
+                "x": 119,
+                "y": 651,
+                "height": 25,
+                "width": 385,
+                "leftCorner": [
+                    119,
+                    651
+                ],
+                "rightCorner": [
+                    504,
+                    676
+                ],
+                "text": "Fig. 36. Sediul Comunititii rusilor-lipoveni din Bratesti (foto original, 2013)."
+            },
+            "34": {},
+            "35": {
+                "class": "text",
+                "x": 113,
+                "y": 340,
+                "height": 25,
+                "width": 400,
+                "leftCorner": [
+                    113,
+                    340
+                ],
+                "rightCorner": [
+                    513,
+                    365
+                ],
+                "text": "Fig.35. Sediul Comunitiqiirusilor-lipoveni din Tg. Frumos (foto original, 2012)."
+            },
+            "36": {}
+        }
+    },
+    "img_114": {
+        "page": "114",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "37": {
+                "class": "text",
+                "x": 286,
+                "y": 771,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    771
+                ],
+                "rightCorner": [
+                    315,
+                    793
+                ],
+                "text": "iid"
+            },
+            "38": {
+                "class": "text",
+                "x": 402,
+                "y": 657,
+                "height": 25,
+                "width": 69,
+                "leftCorner": [
+                    402,
+                    657
+                ],
+                "rightCorner": [
+                    471,
+                    682
+                ],
+                "text": "Fig. 40. lagi"
+            },
+            "39": {
+                "class": "text",
+                "x": 134,
+                "y": 657,
+                "height": 25,
+                "width": 90,
+                "leftCorner": [
+                    134,
+                    657
+                ],
+                "rightCorner": [
+                    224,
+                    682
+                ],
+                "text": "Fig. 39. Lespezi"
+            },
+            "40": {},
+            "41": {},
+            "42": {
+                "class": "text",
+                "x": 125,
+                "y": 324,
+                "height": 25,
+                "width": 90,
+                "leftCorner": [
+                    125,
+                    324
+                ],
+                "rightCorner": [
+                    215,
+                    349
+                ],
+                "text": "Fig, 37, Britesti"
+            },
+            "43": {},
+            "44": {},
+            "45": {
+                "class": "text",
+                "x": 122,
+                "y": 97,
+                "height": 27,
+                "width": 355,
+                "leftCorner": [
+                    122,
+                    97
+                ],
+                "rightCorner": [
+                    477,
+                    124
+                ],
+                "text": "Ansambluri folclorice ruso-lipovenesti (foto originale, 2013)"
+            }
+        }
+    },
+    "img_115": {
+        "page": "115",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "46": {
+                "class": "text",
+                "x": 286,
+                "y": 771,
+                "height": 22,
+                "width": 29,
+                "leftCorner": [
+                    286,
+                    771
+                ],
+                "rightCorner": [
+                    315,
+                    793
+                ],
+                "text": "1S"
+            },
+            "47": {
+                "class": "text",
+                "x": 140,
+                "y": 691,
+                "height": 25,
+                "width": 328,
+                "leftCorner": [
+                    140,
+                    691
+                ],
+                "rightCorner": [
+                    468,
+                    716
+                ],
+                "text": "Fig. 42. Legumicultura in lunca Bahluetului (foto original, 2012)."
+            },
+            "48": {},
+            "49": {}
+        }
+    },
+    "img_116": {
+        "page": "116",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "50": {
+                "class": "text",
+                "x": 159,
+                "y": 670,
+                "height": 108,
+                "width": 271,
+                "leftCorner": [
+                    159,
+                    670
+                ],
+                "rightCorner": [
+                    430,
+                    778
+                ],
+                "text": "Editura si tipografia CIN\nSoscaua $tefan cel Mare gi Sint ne. 4, Tagi~ 700497\n\nTel.:0730.086.676; Fax: 0332.440.715,\nE-mail editura@pimeopy.10"
+            },
+            "51": {
+                "class": "text",
+                "x": 248,
+                "y": 634,
+                "height": 40,
+                "width": 93,
+                "leftCorner": [
+                    248,
+                    634
+                ],
+                "rightCorner": [
+                    341,
+                    674
+                ],
+                "text": "20m"
+            },
+            "52": {
+                "class": "text",
+                "x": 219,
+                "y": 603,
+                "height": 29,
+                "width": 151,
+                "leftCorner": [
+                    219,
+                    603
+                ],
+                "rightCorner": [
+                    370,
+                    632
+                ],
+                "text": "\u2018Tipar digital realizat la:"
+            }
+        }
+    }
+}

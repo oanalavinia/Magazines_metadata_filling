@@ -1,0 +1,1294 @@
+{
+    "numberOfPages": 147,
+    "img_001": {
+        "page": "1",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "1": {
+                "class": "text",
+                "x": 261,
+                "y": 748,
+                "height": 48,
+                "width": 99,
+                "leftCorner": [
+                    261,
+                    748
+                ],
+                "rightCorner": [
+                    360,
+                    796
+                ],
+                "text": "Editura Pm\n2006"
+            },
+            "2": {
+                "class": "text",
+                "x": 89,
+                "y": 391,
+                "height": 78,
+                "width": 468,
+                "leftCorner": [
+                    89,
+                    391
+                ],
+                "rightCorner": [
+                    557,
+                    469
+                ],
+                "text": "*RESURSA PERFORMANTEI-"
+            },
+            "3": {},
+            "4": {
+                "class": "text",
+                "x": 381,
+                "y": 63,
+                "height": 26,
+                "width": 156,
+                "leftCorner": [
+                    381,
+                    63
+                ],
+                "rightCorner": [
+                    537,
+                    89
+                ],
+                "text": "Mariana COSTACHE"
+            },
+            "5": {
+                "class": "text",
+                "x": 76,
+                "y": 61,
+                "height": 30,
+                "width": 120,
+                "leftCorner": [
+                    76,
+                    61
+                ],
+                "rightCorner": [
+                    196,
+                    91
+                ],
+                "text": "Silviu SALGAU"
+            }
+        }
+    },
+    "img_002": {
+        "page": "2",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "6": {
+                "class": "text",
+                "x": 77,
+                "y": 676,
+                "height": 38,
+                "width": 173,
+                "leftCorner": [
+                    77,
+                    676
+                ],
+                "rightCorner": [
+                    250,
+                    714
+                ],
+                "text": "ISBN 10: 973-716-472-5\nISBN 13: 978-973-716-472-8"
+            },
+            "7": {
+                "class": "text",
+                "x": 70,
+                "y": 396,
+                "height": 177,
+                "width": 402,
+                "leftCorner": [
+                    70,
+                    396
+                ],
+                "rightCorner": [
+                    472,
+                    573
+                ],
+                "text": "Descrierea CIP a\n\nSALGAU, SILVIU\nRefacerea : resursa performantei / Silviu Salgdu, Mariana\nCostache. - Iasi : PIM, 2006\n\nISBN (10) 973-716-472-5 ; ISBN (13) 978-973-716-472-8\n1. Costache, Mariana\n\n796"
+            },
+            "8": {
+                "class": "text",
+                "x": 77,
+                "y": 337,
+                "height": 40,
+                "width": 282,
+                "leftCorner": [
+                    77,
+                    337
+                ],
+                "rightCorner": [
+                    359,
+                    377
+                ],
+                "text": "EDITURA ACREDITATA CNCSIS BUCURESTI\n66/01.05.2006"
+            },
+            "9": {
+                "class": "text",
+                "x": 77,
+                "y": 247,
+                "height": 90,
+                "width": 262,
+                "leftCorner": [
+                    77,
+                    247
+                ],
+                "rightCorner": [
+                    339,
+                    337
+                ],
+                "text": "epiTuRAPM\nSoseaua Stefan cel Mare nr. 11 lasi -700498\n\nTel. / fax: 0232-212740\ne-mail:editurapim@pimcopy.r0\nwww. pimcopy.ro"
+            },
+            "10": {}
+        }
+    },
+    "img_003": {
+        "page": "3",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "11": {
+                "class": "text",
+                "x": 411,
+                "y": 746,
+                "height": 24,
+                "width": 53,
+                "leftCorner": [
+                    411,
+                    746
+                ],
+                "rightCorner": [
+                    464,
+                    770
+                ],
+                "text": "Autorii"
+            },
+            "12": {
+                "class": "text",
+                "x": 76,
+                "y": 576,
+                "height": 169,
+                "width": 465,
+                "leftCorner": [
+                    76,
+                    576
+                ],
+                "rightCorner": [
+                    541,
+                    745
+                ],
+                "text": "Va invitm pe dumneavoastri, antrenori cu mai mult experienta dar si\npe cei ce sunt la inceput de drum, pe sportivii care vor si-si recupereze forjele\n\nmai rapid, (ca urmare a oboselii antrenamentelor, nesiguranei rezultatelor din\n\nconcurs, stresului eyecului si chiar al succesului sportiv, a sistemului de\n\nrenuntiri gi privatiuni specifice statutului de performer) sa aveti ,, curajul de a\n\nrisca 0 incercare ,, prin utilizarea, a cel putin o parte dintre toate, instrumentele\n\n \n\noferite in aceasta lucrare,"
+            },
+            "13": {
+                "class": "text",
+                "x": 117,
+                "y": 552,
+                "height": 23,
+                "width": 79,
+                "leftCorner": [
+                    117,
+                    552
+                ],
+                "rightCorner": [
+                    196,
+                    575
+                ],
+                "text": "incercare.\u201d"
+            },
+            "14": {
+                "class": "text",
+                "x": 117,
+                "y": 91,
+                "height": 486,
+                "width": 425,
+                "leftCorner": [
+                    117,
+                    91
+                ],
+                "rightCorner": [
+                    542,
+                    577
+                ],
+                "text": "INTRODUCERE\nDespre curajul de a risca 0 incercare\nin rege isi puse curtea la incercare pentru un post important.\nNumerosi oameni puternici si ingelepti se aflau in jurul tui.\n\n\u201cInjleptitor-spuse regele-, am o problems, sl vreau si vid care dlntre\n\nvoi este in stare sit 0 rezolve\u201d. li conduse pe oameni la o usit enorm\u00e9,\n\n\u2018mai mare decat vazuse cineva vreodati. Regele le explicit: ,Aici vedeti\ncea mai mare si mai grea usa din regatul meu. Care dintre voi poate sit\no deschida ?\u201d Unii dintre curteni scuturara doar din cap. Alti, care se\nnumirau printre cei infelepti, se uitard ta usa mai de aproape, dar\nrecunoscuri cit nu pot o faci. Cand inteleptii spuserd asta, restul curtit\nconsimti ct aceasta problemi era prea dificil de rezolvat. Un singur\nvicir se duse la usi. O examina cu ochii si cu degetele, incerca mai\n\u2018multe modalitati de ao deschide si, in cele din urmi, 0 trase cu 0\nsmucituri: puternici. $i usa se deschise. Fusese lasatit intredeschist\nnumai, nu inchisi complet, si nimic altceva nu fusese necesar, decat\nbunivointa de a realiza ceva si curajul de a actiona cu indrizneala.\nRegele spuse:\u201d Vei primi postul de la curte, pentru cit tu nu te bicui\n\ndoar pe ceea ce veri sau auzi; tu iti pui propriile puteri in joc si risti o\n\n( Nossrat Peseschkian)"
+            }
+        }
+    },
+    "img_004": {
+        "page": "4",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {}
+    },
+    "img_142": {
+        "page": "142",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "15": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    325,
+                    816
+                ],
+                "text": "138"
+            },
+            "16": {
+                "class": "text",
+                "x": 75,
+                "y": 714,
+                "height": 57,
+                "width": 465,
+                "leftCorner": [
+                    75,
+                    714
+                ],
+                "rightCorner": [
+                    540,
+                    771
+                ],
+                "text": "incepind cu picioarele. Gandeste-te la fiecare deget pe rand, mai\n\n \n\nintai la un picior si apoi la celalalt...in acest timp vei observa ci poti"
+            },
+            "17": {
+                "class": "text",
+                "x": 75,
+                "y": 629,
+                "height": 85,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    629
+                ],
+                "rightCorner": [
+                    541,
+                    714
+                ],
+                "text": "se topeascd complet\n\nContinua in acest mod c\u00e9teva minute pan cand te simti\n\n \n\nconfortabil relaxat ...Acum, incepe si-ti examinezi mental corpul,"
+            },
+            "18": {
+                "class": "text",
+                "x": 76,
+                "y": 544,
+                "height": 85,
+                "width": 465,
+                "leftCorner": [
+                    76,
+                    544
+                ],
+                "rightCorner": [
+                    541,
+                    629
+                ],
+                "text": "Acum, cdnd inspiri, imagineazi-ti cd alimentezi cu oxigen direct\n\nlocul respectiv - oxigenul datitor de viati, purificator si vindeciitor -\n\n \n\nsi cand expiri, te eliberezi de orice stres sau tensiune, le lasi doar si"
+            },
+            "19": {
+                "class": "text",
+                "x": 75,
+                "y": 459,
+                "height": 85,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    459
+                ],
+                "rightCorner": [
+                    541,
+                    544
+                ],
+                "text": "Respiri adanc si regulat si, in timp ce faci acest lucru, observa\n\norice disconfort fizie: poate fi in partea inferioara a spatelui, in gat,\n\n \n\nin umeri...Atunci cnd I-ai localizat, constientizeazi-I cu calm..."
+            },
+            "20": {
+                "class": "text",
+                "x": 76,
+                "y": 374,
+                "height": 86,
+                "width": 464,
+                "leftCorner": [
+                    76,
+                    374
+                ],
+                "rightCorner": [
+                    540,
+                    460
+                ],
+                "text": "scfnteind argintiu in lumina soarelui. Poate auzi pasarile sau sunetul\n\nvocilor copiilor care se joacd. Poate esti in stare si vezi deasupra\n\n \n\nvarfurile acoperisurilor sau turla bisericii in departare"
+            },
+            "21": {
+                "class": "text",
+                "x": 75,
+                "y": 318,
+                "height": 57,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    318
+                ],
+                "rightCorner": [
+                    541,
+                    375
+                ],
+                "text": "poti si vezi cand te uiti in sus...un cer albastru, limpede, te\n\n \n\ninconjoara, cu un aeroplan deasupra, la mare inaltime, cu aripile"
+            },
+            "22": {
+                "class": "text",
+                "x": 75,
+                "y": 205,
+                "height": 113,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    205
+                ],
+                "rightCorner": [
+                    541,
+                    318
+                ],
+                "text": "imaginatia ta, poate fi intr-un pare sau legat de un copac, intr-o\n\nlivada batrdnd... Poate ci iti place siti imaginezi cA esti din nou\n\ncopil, stnd intr-un leagan sau poate c& impingi pe altcineva...in timp\n\n \n\nce continui sa respiri ad\u00e9ne, si inspiri si si expiri, imagineaza-ti ce"
+            },
+            "23": {
+                "class": "text",
+                "x": 76,
+                "y": 92,
+                "height": 113,
+                "width": 465,
+                "leftCorner": [
+                    76,
+                    92
+                ],
+                "rightCorner": [
+                    541,
+                    205
+                ],
+                "text": "fiecare inspiratie pe care o faci este ca un leagan indltandu-se in aer,\nsi fiecare expiratie, un leagin care vine inapoi in jos.\n\nCreeazi-ti mental imprejurimile, Leaganul tau poate fi in orice\n\n \n\nloc pe care il alegi: intr-o gridina pe care o cunosti sau intr-una din"
+            },
+            "24": {
+                "class": "text",
+                "x": 97,
+                "y": 60,
+                "height": 32,
+                "width": 444,
+                "leftCorner": [
+                    97,
+                    60
+                ],
+                "rightCorner": [
+                    541,
+                    92
+                ],
+                "text": "in timp ce continui"
+            }
+        }
+    },
+    "img_143": {
+        "page": "143",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "25": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    325,
+                    816
+                ],
+                "text": "139"
+            },
+            "26": {
+                "class": "text",
+                "x": 75,
+                "y": 742,
+                "height": 29,
+                "width": 465,
+                "leftCorner": [
+                    75,
+                    742
+                ],
+                "rightCorner": [
+                    540,
+                    771
+                ],
+                "text": "comportamentului tdu in legdtura cu"
+            },
+            "27": {
+                "class": "text",
+                "x": 317,
+                "y": 717,
+                "height": 22,
+                "width": 34,
+                "leftCorner": [
+                    317,
+                    717
+                ],
+                "rightCorner": [
+                    351,
+                    739
+                ],
+                "text": "sau"
+            },
+            "28": {},
+            "29": {
+                "class": "text",
+                "x": 442,
+                "y": 716,
+                "height": 27,
+                "width": 61,
+                "leftCorner": [
+                    442,
+                    716
+                ],
+                "rightCorner": [
+                    503,
+                    743
+                ],
+                "text": "aspecte"
+            },
+            "30": {
+                "class": "text",
+                "x": 509,
+                "y": 714,
+                "height": 25,
+                "width": 32,
+                "leftCorner": [
+                    509,
+                    714
+                ],
+                "rightCorner": [
+                    541,
+                    739
+                ],
+                "text": "ale"
+            },
+            "31": {
+                "class": "text",
+                "x": 388,
+                "y": 714,
+                "height": 25,
+                "width": 48,
+                "leftCorner": [
+                    388,
+                    714
+                ],
+                "rightCorner": [
+                    436,
+                    739
+                ],
+                "text": "unele"
+            },
+            "32": {
+                "class": "text",
+                "x": 358,
+                "y": 714,
+                "height": 25,
+                "width": 24,
+                "leftCorner": [
+                    358,
+                    714
+                ],
+                "rightCorner": [
+                    382,
+                    739
+                ],
+                "text": "la"
+            },
+            "33": {
+                "class": "text",
+                "x": 251,
+                "y": 714,
+                "height": 28,
+                "width": 60,
+                "leftCorner": [
+                    251,
+                    714
+                ],
+                "rightCorner": [
+                    311,
+                    742
+                ],
+                "text": "actiune"
+            },
+            "34": {
+                "class": "text",
+                "x": 193,
+                "y": 714,
+                "height": 25,
+                "width": 25,
+                "leftCorner": [
+                    193,
+                    714
+                ],
+                "rightCorner": [
+                    218,
+                    739
+                ],
+                "text": "la"
+            },
+            "35": {
+                "class": "text",
+                "x": 97,
+                "y": 714,
+                "height": 28,
+                "width": 90,
+                "leftCorner": [
+                    97,
+                    714
+                ],
+                "rightCorner": [
+                    187,
+                    742
+                ],
+                "text": "Gandeste-te"
+            },
+            "36": {
+                "class": "text",
+                "x": 75,
+                "y": 629,
+                "height": 85,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    629
+                ],
+                "rightCorner": [
+                    541,
+                    714
+                ],
+                "text": "tablouri atirnd pe pereti si existi un bol cu flori pe o masuta\n\nlustruita...Observa culoarea florilor... Poti chiar s le simti parfumul\n\n \n\ndiscret. Stai intr-un fotoliu confortabil in fata focului si te relaxezi..."
+            },
+            "37": {
+                "class": "text",
+                "x": 75,
+                "y": 600,
+                "height": 29,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    600
+                ],
+                "rightCorner": [
+                    541,
+                    629
+                ],
+                "text": "sau\n\n \n\ndeschis, cu un foc de busteni care trosne"
+            },
+            "38": {
+                "class": "text",
+                "x": 75,
+                "y": 572,
+                "height": 29,
+                "width": 465,
+                "leftCorner": [
+                    75,
+                    572
+                ],
+                "rightCorner": [
+                    540,
+                    601
+                ],
+                "text": "camera atractiva, cdlduroasa si confortabila. Exista un vechi cimin"
+            },
+            "39": {
+                "class": "text",
+                "x": 75,
+                "y": 544,
+                "height": 29,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    544
+                ],
+                "rightCorner": [
+                    541,
+                    573
+                ],
+                "text": "creat-o. Ai avut toti banii de care ai avut nevoie pentru a face aceasti"
+            },
+            "40": {
+                "class": "text",
+                "x": 97,
+                "y": 516,
+                "height": 28,
+                "width": 444,
+                "leftCorner": [
+                    97,
+                    516
+                ],
+                "rightCorner": [
+                    541,
+                    544
+                ],
+                "text": "Imagineazi-te pe tine insuti intr-o camera minunatd pe care ti-ai"
+            },
+            "41": {
+                "class": "text",
+                "x": 75,
+                "y": 431,
+                "height": 85,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    431
+                ],
+                "rightCorner": [
+                    541,
+                    516
+                ],
+                "text": "mult...Fii constient de orice furnicdtura, vibratie a pulsului, de orice\n\nsenzatie de caldura sau de frig. Recunoaste semnalele proprii care iti\n\n \n\narati ci esti relaxat si esti a nivelul alfa."
+            },
+            "42": {
+                "class": "text",
+                "x": 76,
+                "y": 402,
+                "height": 29,
+                "width": 465,
+                "leftCorner": [
+                    76,
+                    402
+                ],
+                "rightCorner": [
+                    541,
+                    431
+                ],
+                "text": "senzatiile din mainile si degetele tale pe masuri ce te relaxezi tot mai"
+            },
+            "43": {
+                "class": "text",
+                "x": 75,
+                "y": 233,
+                "height": 170,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    233
+                ],
+                "rightCorner": [
+                    541,
+                    403
+                ],
+                "text": "inimii in timp ce te relaxezi. Lasi-ti scalpul si se relaxeze... Lasi toti\n\nmuschii fefei, gura si buzele si se relaxeze. Lasi-{i gatul si umerii si\n\nse relaxeze si imagineaza-ti cA stresurile si tensiunile din cap, gat si\numeri se scurg in jos prin brafe si prin varfurile degetelor. Bratele\ntale devin din ce in ce mai grele, atat de grele si de confortabile pe\n\nmasura ce te relaxezi mai adanc si mai bine... bserva sentimentele si"
+            },
+            "44": {
+                "class": "text",
+                "x": 75,
+                "y": 148,
+                "height": 86,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    148
+                ],
+                "rightCorner": [
+                    541,
+                    234
+                ],
+                "text": "muschii moi s& se relaxeze...Continua si-ti verifici corpul, in timp ce\n\nsimfi muschii stomacului relaxafi, pieptul, spatele...Observa ritmul\n\n \n\nrespiratiei tale... s-a redus. Ai putea fi chiar capabil si-ti simti batdile"
+            },
+            "45": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 86,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    541,
+                    149
+                ],
+                "text": "si simfi cu greu unele degete si poti cu greu si distingi un deget de\n\ncelilalt...Observa senzatiile din picioarele tale in timp ce te relaxezi,\n\n \n\nEle incep si se simti grele, atat de grele si relaxate. E bine, las toti"
+            }
+        }
+    },
+    "img_144": {
+        "page": "144",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "46": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    325,
+                    816
+                ],
+                "text": "140"
+            },
+            "47": {
+                "class": "text",
+                "x": 76,
+                "y": 657,
+                "height": 29,
+                "width": 264,
+                "leftCorner": [
+                    76,
+                    657
+                ],
+                "rightCorner": [
+                    340,
+                    686
+                ],
+                "text": "reimprospatat si impacat cu tine insuti."
+            },
+            "48": {
+                "class": "text",
+                "x": 172,
+                "y": 631,
+                "height": 23,
+                "width": 51,
+                "leftCorner": [
+                    172,
+                    631
+                ],
+                "rightCorner": [
+                    223,
+                    654
+                ],
+                "text": "starea"
+            },
+            "49": {
+                "class": "text",
+                "x": 480,
+                "y": 629,
+                "height": 27,
+                "width": 60,
+                "leftCorner": [
+                    480,
+                    629
+                ],
+                "rightCorner": [
+                    540,
+                    656
+                ],
+                "text": "relaxat,"
+            },
+            "50": {
+                "class": "text",
+                "x": 390,
+                "y": 629,
+                "height": 28,
+                "width": 88,
+                "leftCorner": [
+                    390,
+                    629
+                ],
+                "rightCorner": [
+                    478,
+                    657
+                ],
+                "text": "simtindu-te"
+            },
+            "51": {
+                "class": "text",
+                "x": 336,
+                "y": 629,
+                "height": 27,
+                "width": 52,
+                "leftCorner": [
+                    336,
+                    629
+                ],
+                "rightCorner": [
+                    388,
+                    656
+                ],
+                "text": "total,"
+            },
+            "52": {
+                "class": "text",
+                "x": 255,
+                "y": 629,
+                "height": 28,
+                "width": 79,
+                "leftCorner": [
+                    255,
+                    629
+                ],
+                "rightCorner": [
+                    334,
+                    657
+                ],
+                "text": "constienta"
+            },
+            "53": {},
+            "54": {
+                "class": "text",
+                "x": 146,
+                "y": 629,
+                "height": 25,
+                "width": 24,
+                "leftCorner": [
+                    146,
+                    629
+                ],
+                "rightCorner": [
+                    170,
+                    654
+                ],
+                "text": "la"
+            },
+            "55": {
+                "class": "text",
+                "x": 101,
+                "y": 629,
+                "height": 25,
+                "width": 42,
+                "leftCorner": [
+                    101,
+                    629
+                ],
+                "rightCorner": [
+                    143,
+                    654
+                ],
+                "text": "revii"
+            },
+            "56": {},
+            "57": {
+                "class": "text",
+                "x": 97,
+                "y": 600,
+                "height": 29,
+                "width": 444,
+                "leftCorner": [
+                    97,
+                    600
+                ],
+                "rightCorner": [
+                    541,
+                    629
+                ],
+                "text": "Numi si in timp ce faci acest lucru deschizi ochii"
+            },
+            "58": {
+                "class": "text",
+                "x": 76,
+                "y": 572,
+                "height": 29,
+                "width": 193,
+                "leftCorner": [
+                    76,
+                    572
+                ],
+                "rightCorner": [
+                    269,
+                    601
+                ],
+                "text": "minunate de ficut in viata..."
+            },
+            "59": {
+                "class": "text",
+                "x": 76,
+                "y": 544,
+                "height": 29,
+                "width": 464,
+                "leftCorner": [
+                    76,
+                    544
+                ],
+                "rightCorner": [
+                    540,
+                    573
+                ],
+                "text": "find mai batran, mai infelept, cu at\u00e9t de multe optiuni si lucruri"
+            },
+            "60": {
+                "class": "text",
+                "x": 75,
+                "y": 516,
+                "height": 28,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    516
+                ],
+                "rightCorner": [
+                    541,
+                    544
+                ],
+                "text": "problemele trecutului si te-ai eliberat de ele. Priveste-te pe tine ca"
+            },
+            "61": {
+                "class": "text",
+                "x": 75,
+                "y": 431,
+                "height": 85,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    431
+                ],
+                "rightCorner": [
+                    541,
+                    516
+                ],
+                "text": "complet...\n\nRelaxeazi-te si priveste cum esti acum, stand in camera ta\n\n \n\nspeciala. Esti impicat cu tine insuti si zambesti. Te-ai ocupat cu"
+            },
+            "62": {
+                "class": "text",
+                "x": 76,
+                "y": 402,
+                "height": 29,
+                "width": 465,
+                "leftCorner": [
+                    76,
+                    402
+                ],
+                "rightCorner": [
+                    541,
+                    431
+                ],
+                "text": "paleste. Balonul devine di\n\n \n\ncand dispare"
+            },
+            "63": {
+                "class": "text",
+                "x": 76,
+                "y": 371,
+                "height": 32,
+                "width": 464,
+                "leftCorner": [
+                    76,
+                    371
+                ],
+                "rightCorner": [
+                    540,
+                    403
+                ],
+                "text": "in timp ce il privesti, el devine din ce in ce mai mic... Culoarea"
+            },
+            "64": {
+                "class": "text",
+                "x": 97,
+                "y": 346,
+                "height": 29,
+                "width": 443,
+                "leftCorner": [
+                    97,
+                    346
+                ],
+                "rightCorner": [
+                    540,
+                    375
+                ],
+                "text": "Priveste sentimentul de vinovatie ca pe un balon colorat in rosu."
+            },
+            "65": {
+                "class": "text",
+                "x": 75,
+                "y": 318,
+                "height": 26,
+                "width": 141,
+                "leftCorner": [
+                    75,
+                    318
+                ],
+                "rightCorner": [
+                    216,
+                    344
+                ],
+                "text": "cuvinte de alinare."
+            },
+            "66": {
+                "class": "text",
+                "x": 75,
+                "y": 289,
+                "height": 29,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    289
+                ],
+                "rightCorner": [
+                    541,
+                    318
+                ],
+                "text": "joare, aceleasi"
+            },
+            "67": {
+                "class": "text",
+                "x": 76,
+                "y": 176,
+                "height": 114,
+                "width": 464,
+                "leftCorner": [
+                    76,
+                    176
+                ],
+                "rightCorner": [
+                    540,
+                    290
+                ],
+                "text": "pe cat esti acum.\n\nin timp ce privesti la cel care erai, mai putin intelept, mai putin\n\nmatur, acordi-ti iertarea. Imagineazi-ti, daca era alteineva in aceeasi\n\n \n\nsituatie, ce i-ai fi spus? Cum Lai fi alinat? Ce i-ai fi spus ca sil"
+            },
+            "68": {
+                "class": "text",
+                "x": 75,
+                "y": 120,
+                "height": 57,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    120
+                ],
+                "rightCorner": [
+                    541,
+                    177
+                ],
+                "text": "care te striduiai sa faci tot ce puteai mai bine. Erai mai tind atunci.\n\n \n\nChiar daca n-au trecut decat cateva sAptimani, nu erai att de matur"
+            },
+            "69": {
+                "class": "text",
+                "x": 75,
+                "y": 92,
+                "height": 29,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    92
+                ],
+                "rightCorner": [
+                    541,
+                    121
+                ],
+                "text": "acea vreme... Cu acele constringeri si emotii, treci prin stresul sub"
+            },
+            "70": {
+                "class": "text",
+                "x": 75,
+                "y": 63,
+                "height": 29,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    63
+                ],
+                "rightCorner": [
+                    541,
+                    92
+                ],
+                "text": "acest lucru, priveste-te pe tine de la distanfa in modul in care erai la"
+            }
+        }
+    },
+    "img_145": {
+        "page": "145",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "71": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 30,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    323,
+                    816
+                ],
+                "text": "141"
+            },
+            "72": {
+                "class": "text",
+                "x": 426,
+                "y": 619,
+                "height": 29,
+                "width": 116,
+                "leftCorner": [
+                    426,
+                    619
+                ],
+                "rightCorner": [
+                    542,
+                    648
+                ],
+                "text": "An Exploratory"
+            },
+            "73": {
+                "class": "text",
+                "x": 74,
+                "y": 148,
+                "height": 613,
+                "width": 468,
+                "leftCorner": [
+                    74,
+                    148
+                ],
+                "rightCorner": [
+                    542,
+                    761
+                ],
+                "text": "[ 1] Benoit, O., Foret, J. (eds.), Le sommeil humain: b\nexperimentales physiologiques et physiopathologiques, Paris\nMasson, 1992\n\n[ 2] Bloom, S.R., Johnson, R.H., Park, D.M., Rennie, M.J.,\nSulaiman, W.R., Differences in the metabolic and hormonal\nresponse to exercise between racing cyclists and untrained\nindividuals, London, J. Physiol, 1976\n\n{ 3] Cady, S., La relaxion psychosomatique, Paris, Dunod, 2003\n\n[ 4] Calder, A., Recovery: the forgotten element in training\nprograms, Sport specific, 1991, 3(1)\n\n[ 5] Clement, D.B, Sawehuk, L.L., Iron status and sports\nperformance, Sports Medicine, 1984\n\n[ 6] Cungi ,Ch., Limousin, S., Metode si tehnici de relaxare, lagi,\nEditura Polirom, 2004\n\n[7] Day, J., Vizualizare creativa, Bucuresti, Editura Teora, 1998\n{ 8] Drigan, 1, Medicina sportiva aplicata, Bucuresti, Editura\nEditis, 1994\n\n[ 9] Dragan, 1, Practica medicinii sportive, Bucuresti, Editura\nMedical, 1989\n\n[10] Epuran,M., Modelarea conduitei sportive, Bucuresti, Editura\nSport-turism, 1990\n\n[11] Epuran,M, Holdeviei, 1., Compendiu de psihologie pentru\nantrenori, Bucuresti, Editura Sport-turism, 1980\n\n[12] Erickson, M., L'hypnose th\u00e9rapeutique, Paris, ESF \u00e9diteur,\n1990\n\n[13] Erickson, Milton, Rossi, E.L., Hypnotherapy\n\nCasebook, New York, Ivington Publishers Ine; 1992\n\n[14] Essen, D., Intramuscular substrate utilization during prolonged\nexercise, New York, Ann. N.Y, Acad. Sci., 1977\n\n[15] Evans, Ph., Stress and coping . In: Pitts, M., Philipps, K.,\n(eds.), The psychology of health. An introduction, London,\nRouteledge, 1991:30-48"
+            },
+            "74": {
+                "class": "text",
+                "x": 242,
+                "y": 92,
+                "height": 25,
+                "width": 133,
+                "leftCorner": [
+                    242,
+                    92
+                ],
+                "rightCorner": [
+                    375,
+                    117
+                ],
+                "text": "BIBLIOGRAFIE"
+            }
+        }
+    },
+    "img_146": {
+        "page": "146",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "75": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    325,
+                    816
+                ],
+                "text": "142"
+            },
+            "76": {
+                "class": "text",
+                "x": 324,
+                "y": 649,
+                "height": 25,
+                "width": 69,
+                "leftCorner": [
+                    324,
+                    649
+                ],
+                "rightCorner": [
+                    393,
+                    674
+                ],
+                "text": "exercise,"
+            },
+            "77": {
+                "class": "text",
+                "x": 444,
+                "y": 648,
+                "height": 29,
+                "width": 97,
+                "leftCorner": [
+                    444,
+                    648
+                ],
+                "rightCorner": [
+                    541,
+                    677
+                ],
+                "text": "Physiologica"
+            },
+            "78": {
+                "class": "text",
+                "x": 397,
+                "y": 648,
+                "height": 25,
+                "width": 44,
+                "leftCorner": [
+                    397,
+                    648
+                ],
+                "rightCorner": [
+                    441,
+                    673
+                ],
+                "text": "Acta"
+            },
+            "79": {
+                "class": "text",
+                "x": 498,
+                "y": 403,
+                "height": 29,
+                "width": 43,
+                "leftCorner": [
+                    498,
+                    403
+                ],
+                "rightCorner": [
+                    541,
+                    432
+                ],
+                "text": "fara"
+            },
+            "80": {
+                "class": "text",
+                "x": 75,
+                "y": 64,
+                "height": 707,
+                "width": 466,
+                "leftCorner": [
+                    75,
+                    64
+                ],
+                "rightCorner": [
+                    541,
+                    771
+                ],
+                "text": "[16]Gaillard, J.M., Le sommeil, ses mecanismes et ses troubles,\nParis, Doin editeur, 1990\n\n[17]Galbo, H., Hormonal and metabolic adaptation to exercise,\nNew York, Eds. Thieme Stuttgart, 1983\n\n[18|Gheorghiu, VL, Hipnoza \u2014 realitate si fictiune, Bucuresti, Ed.\nStiintifica, 1977\n\n[19|Gheorghiu, VI, Ciofu, 1., Sugestie si Sugestibilitate, Bucuresti,\nEd. Academiei R.S.R., 1982\n\n[20|Gordon, D., Contes et metaphores therapeutiques. Apprendre a\nraconter des histoires qui font du bien, Paris, Dunod, 2001\n[21]Grant, W., Modelarea viefii, Bucuresti, Editura Teora, 1999\n[22|Grover, R., Nangle, D., Progressive Relaxation. In: Hersen, M.,\nSledge, W.,(eds), Encyclopedia of Psychotherapy, vol.ll, USA,\nElsevier Science, 2002:401-407\n\n[23|Guilane-Nachez, E., Transa, hipnoza si autohipnoza, Iasi,\nEditura Polirom, 2004\n\n[24|Guilland, J.C., Lequeu, B., Les vitamines: du nutriment au\nmedicament, Paris, Editions EMI (Tec et Doc, Lavoisier), 1992\n[25]Holdevici, Irina, Psihoterapia \u2014 un tratament\nmedicamente, Bucuresti, Ed. Ceres, 1993\n\n[26]Monod, H., Physiologie du sport, Paris, Masson, 1990\n[27|Petrie, K., Conaglen, J.V., Thompson, L., Chamberlain, K.,\nEffect of melatonin on jet-lag after long haul flights, British\nMedicine Journal, 13, 1989\n\n[28}Pilardeau, P., Biochimie et nutrition des activites physiques et\nsportives, Paris, Masson, 1996\n\n[29]Porter, A., Le massage, Paris, Edit. Robert Laffont, 1985\n[30|Renato, M., Les bases de I'entrenament sportif, Ed. Revue\nCPS., 1992\n\n[31]Schultz, J.H., Le training autog\u00e9ne (adaptat de R. Dourand de\nBousingen), Paris, PUF. 1966\n\n[32|Shapiro, C.M., Sleep and\n\nScandinavia, 133, suppl. 574, 1988\n\n[33|Shepard, R.L., Sleep, biorythms and human performance,\nSports medicine, 1984\n\n[34]Sutton, J.R., Hormonal adaptation to physical activ\nHealth and Sports, Ed. Human Kinetics Books, 1990\n\n   \n  \n\nFitness,"
+            }
+        }
+    },
+    "img_147": {
+        "page": "147",
+        "pageWidth": "600",
+        "pageHeight": "853",
+        "sections": {
+            "81": {
+                "class": "text",
+                "x": 293,
+                "y": 792,
+                "height": 24,
+                "width": 32,
+                "leftCorner": [
+                    293,
+                    792
+                ],
+                "rightCorner": [
+                    325,
+                    816
+                ],
+                "text": "143,"
+            },
+            "82": {}
+        }
+    }
+}
