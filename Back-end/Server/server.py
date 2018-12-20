@@ -6,6 +6,7 @@ from pymongo import MongoClient
 class MagazineServ(BaseHTTPRequestHandler):
   def do_GET(self):
     file_to_open = ''
+    os.chdir(r"C:\Users\Oana\Desktop\AI\new\Magazines_metadata_filling\Front-end");
     if self.path == '/':
       self.send_response(301)
       self.send_header('Location','http://localhost:8081/index.html')
