@@ -1,4 +1,4 @@
-from http.server import BaseHTTPRequestHandler, HTTPServer  
+from http.server import BaseHTTPRequestHandler, HTTPServer, CGIHTTPRequestHandler
 from io import BytesIO
 import os,re,time
 from pymongo import MongoClient
@@ -6,6 +6,7 @@ from pymongo import MongoClient
 class MagazineServ(BaseHTTPRequestHandler):
   def do_GET(self):
     file_to_open = ''
+    os.chdir(r'C:\Users\TudorIacobuta\Desktop\Git Repositories\GitHub\Magazines_metadata_filling\Front-end')
     if self.path == '/':
       self.send_response(301)
       self.send_header('Location','http://localhost:8081/index.html')
@@ -18,6 +19,7 @@ class MagazineServ(BaseHTTPRequestHandler):
           self.send_response(404)
     self.end_headers()
     self.wfile.write(bytes(file_to_open, 'utf-8'))
+    
 
 
   def do_POST(self):
@@ -82,7 +84,9 @@ class MagazineServ(BaseHTTPRequestHandler):
     return (False, "Unexpect Ends of data.", None)
 
 
-httpd = HTTPServer(('localhost', 8081), MagazineServ)
+os.chdir(r'..\..\Front-end')
+RequestHandler = CGIHTTPRequestHandler
+httpd = HTTPServer(('localhost', 8081), RequestHandler)
 print("Server is running...")
 httpd.serve_forever()
 

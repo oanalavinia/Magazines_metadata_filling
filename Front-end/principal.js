@@ -3,14 +3,13 @@ function readURL(input) {
 
     var reader = new FileReader();
 
-    reader.onload = function(e) {
+    reader.onload = function (e) {
       $('.image-upload-wrap').hide();
-
       $('.file-upload-image').attr('src', e.target.result);
       $('.file-upload-content').show();
-
       $('.image-title').html(input.files[0].name);
     };
+    
 
     reader.readAsDataURL(input.files[0]);
 
@@ -20,7 +19,7 @@ function readURL(input) {
 }
 
 // working with jQuery and Bootstrap modal
-window.onload = function(){ 
+window.onload = function () {
   $('#uploadPopup').modal('show');
 
   $('#uploadPopup').on('hidden.bs.modal', function (e) {
@@ -76,6 +75,7 @@ App.init = (function () {
   $("#triggerFile").addEventListener("click", evt => {
     evt.preventDefault();
     $("input[type=file]").click();
+  
   });
 
   // drop events
