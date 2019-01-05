@@ -6,7 +6,7 @@
         "pageHeight": "851",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 45,
                 "y": 767,
                 "height": 47,
@@ -39,7 +39,7 @@
             },
             "3": {},
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 120,
                 "y": 270,
                 "height": 182,
@@ -80,7 +80,7 @@
         "pageHeight": "851",
         "sections": {
             "8": {
-                "class": "text",
+                "class": "isbn",
                 "x": 311,
                 "y": 741,
                 "height": 50,
@@ -96,7 +96,7 @@
                 "text": "ISSN 2360 - 3542\nISSN-L 2360 - 3542"
             },
             "9": {
-                "class": "text",
+                "class": "autor",
                 "x": 311,
                 "y": 386,
                 "height": 329,
@@ -112,7 +112,7 @@
                 "text": "prof. Constantin Focsa\nprof. Daniela Tanasa\n\nprof. Flavia Anton\n\nprof. Mirela Obreja\n\nprof. Elena Badardiu\n\nprof. Carmen Pavel\n\nprof. Ecaterina Bucattaru\nprof. Cerasela Darie\n\nprof. Olguta Frentescu\nprof. Mitica Mindinica\nprof. Mihaela Lefter\n\nprof. Luminita Virlan\n\nprof. Eduard Ursu\n\nprof. Monica Vasile\nsecretar sef Viorica Movilat\nsecretar Tatiana Blinaru\nbibliotecar Cecilia Vasilescu"
             },
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 58,
                 "y": 386,
                 "height": 409,
@@ -128,7 +128,7 @@
                 "text": "pip. Gabriela Lolica Antipa\npip. Diana ElenaDorobat\npip. Elena Malanca\n\npip. Simona Munteanu\npip. luliana Gifei\n\npip. Iulia Adriana Cirlescu\npip. Alina Nadia Raizu\npip. Carmen Gabriela Andrunache\npip. Diana Elena Barbu\npip. Adriana Stefanita\ninst. Loredana Juverdeanu\ninv, Manuela Butnaru\n\ninv. Mihaela Rica Cernat\ninv, Litcritmioara Borcan\ninv, Luminita Maftei\n\ninv. Gherase Carmen\n\ninv, Velea Rica\n\ninv, Buraga Vasile\n\nprof. Daniela Filipescu\nprof. Daniela Oatu\n\nprof. Anca Bortes"
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 201,
                 "y": 339,
                 "height": 33,
@@ -144,7 +144,7 @@
                 "text": "Colectiv de redactie:"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 202,
                 "y": 255,
                 "height": 69,
@@ -160,7 +160,7 @@
                 "text": "Design computerizat:\nprof. Carmen Pavel\n\n \n\ninst. Loredana Juverdeanu"
             },
             "13": {
-                "class": "text",
+                "class": "autor",
                 "x": 115,
                 "y": 206,
                 "height": 48,
@@ -176,7 +176,7 @@
                 "text": "Coperta I - Grafica: prof. Marian Antoniu\n\n \n\nLucian Ragcanu"
             },
             "14": {
-                "class": "text",
+                "class": "autor",
                 "x": 160,
                 "y": 78,
                 "height": 116,
@@ -192,7 +192,7 @@
                 "text": "Coordonatori:\nprof. Sorin Popoiu\n\nprof. Greta Doina Ciubotaru\nprof. Carmen Pavel\nprof inv. primar Simona Munteanu"
             },
             "15": {
-                "class": "text",
+                "class": "titlu",
                 "x": 290,
                 "y": 42,
                 "height": 33,
@@ -208,7 +208,7 @@
                 "text": "REDACTIONAL"
             },
             "16": {
-                "class": "text",
+                "class": "titlu",
                 "x": 141,
                 "y": 42,
                 "height": 29,
@@ -231,7 +231,7 @@
         "pageHeight": "851",
         "sections": {
             "17": {
-                "class": "text",
+                "class": "autor",
                 "x": 143,
                 "y": 670,
                 "height": 50,
@@ -409,7 +409,7 @@
                 "text": "Caruselul"
             },
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 197,
                 "y": 145,
                 "height": 34,
@@ -642,7 +642,7 @@
                 "text": "Clasa Pregititoare A- Prof. TEODORU ALIN"
             },
             "46": {
-                "class": "text",
+                "class": "titlu",
                 "x": 59,
                 "y": 62,
                 "height": 45,
@@ -683,7 +683,7 @@
                 "text": "Ce trece pe apa\n\nSi nu se uda?\n(umbra)"
             },
             "50": {
-                "class": "text",
+                "class": "autor",
                 "x": 319,
                 "y": 575,
                 "height": 150,
@@ -764,7 +764,7 @@
                 "text": "Coada ci este stufoasi gee\n\nSide gaini nu se lasa. \u00a9 45\n(Vulpea)"
             },
             "56": {
-                "class": "text",
+                "class": "autor",
                 "x": 73,
                 "y": 402,
                 "height": 60,
@@ -780,7 +780,7 @@
                 "text": "Alexa Sinziana Marina\nKalman Samuel\n\n \n\nClasa pregatitoare B"
             },
             "57": {
-                "class": "text",
+                "class": "autor",
                 "x": 390,
                 "y": 372,
                 "height": 41,
@@ -932,7 +932,7 @@
                 "text": "\u00ae @nuca de cocos este sam\u00e9nta unui palmier?\n\n@Cea_mai_mare floare din lume apartine plantei Rafflesia\n\narnoldi, are 1 m in diametru, 7 kg in greutate, iar petalele"
             },
             "67": {
-                "class": "text",
+                "class": "autor",
                 "x": 284,
                 "y": 649,
                 "height": 29,
@@ -964,7 +964,7 @@
                 "text": "in Africa de Nord creste un copac care contine foarte mult fosfor,\nceea ce-| face si lumineze, noaptea se poate citi sub el ?\nStejarul nu produce ghinde pani la varsta de cincizeci (50) de ani\n\nsau chiar mai mult ?\nin padurile tropicale, unde nu se schimbi anotimpurile, copacii\n\n\u2018nu au inele anuale ?"
             },
             "69": {
-                "class": "text",
+                "class": "autor",
                 "x": 370,
                 "y": 475,
                 "height": 43,
@@ -1012,7 +1012,7 @@
                 "text": "@Crocodilul de mare este cea mai mare reptili, avand o\nlungime de 8,5 metri\n@Ursul polar este cel mai mare camivor terestru, ajung\u00e9nd la\ngreutatea de 1000 kg (0 tona)\nSimpaticul urs Koala din Australia este unul dintre cele mai lenese\nanimale. Din 24 de ore, el sti treaz numai 2 ore, restul si le petrece\ndormind.\n@Balena albastri cAntireste 130 000-140 000 kg. Jumatate din\ngreutate o reprezint carnea, cam 8.000 kg sangele, 3.000 kg limba,\n\niar inima, lunga de | metru, cAntareste aproape 700 kg.\n@Testoasa elefant este cea mai grea broasca festoasi de pe uscat,\natingand greutatea de 300 k;"
             },
             "72": {
-                "class": "text",
+                "class": "titlu",
                 "x": 166,
                 "y": 57,
                 "height": 39,
@@ -1036,7 +1036,7 @@
         "sections": {
             "73": {},
             "74": {
-                "class": "text",
+                "class": "autor",
                 "x": 269,
                 "y": 667,
                 "height": 27,
@@ -1068,7 +1068,7 @@
                 "text": "\u00a9 Sarpele este surd ...\n@Delfinii intotdeauna dorm cu ochii deschisi ...\n Elefantii plang ..\n\n@Gazelele nu beau apa\nColibri este singura pasdre care poate zbura cu spatele .."
             },
             "76": {
-                "class": "text",
+                "class": "autor",
                 "x": 161,
                 "y": 508,
                 "height": 28,
@@ -1156,7 +1156,7 @@
                 "text": "100"
             },
             "82": {
-                "class": "text",
+                "class": "autor",
                 "x": 375,
                 "y": 713,
                 "height": 43,
@@ -1236,7 +1236,7 @@
                 "text": "Face slujbe pentru toti\nPomenind pe vii, pe morti,\n\ninvatandu-ne prin toate\nlubirea pentru aproape."
             },
             "87": {
-                "class": "text",
+                "class": "titlu",
                 "x": 216,
                 "y": 437,
                 "height": 49,
@@ -1252,7 +1252,7 @@
                 "text": "Ghicitori crestine"
             },
             "88": {
-                "class": "text",
+                "class": "autor",
                 "x": 356,
                 "y": 405,
                 "height": 25,
@@ -1284,7 +1284,7 @@
                 "text": "Crezul este simbolul credintei\n\nSufletul omului are viata vesnica\n\nSarbatorim Invierea Domnului in zi de Duminica\nPocainta sincera aduce iertarea pacatelor\n\n+ Mandria ii indeparteazi pe oameni de Dumnezeu, iar\nsmerenia fi apropie de Dumnezeu\nBiblia este cea mai cumparata si cea mai citita carte din toate"
             },
             "90": {
-                "class": "text",
+                "class": "autor",
                 "x": 323,
                 "y": 188,
                 "height": 26,
@@ -1316,7 +1316,7 @@
                 "text": "Moise cere eliberarea poporului evreu din robia egipteand?\nDavid a scris 151 pslami?\n\nregele Solomon a fost un rege intelept?\nMoise a svarsit minunea la Marea Rosie?"
             },
             "92": {
-                "class": "text",
+                "class": "titlu",
                 "x": 208,
                 "y": 38,
                 "height": 50,
@@ -1355,7 +1355,7 @@
                 "text": "101"
             },
             "94": {
-                "class": "text",
+                "class": "autor",
                 "x": 346,
                 "y": 635,
                 "height": 62,
@@ -1517,7 +1517,7 @@
                 "text": "\u2014 Ionut, spune-mi, ce este substantivul?\n\n\u2014 V-as spune cu plicere, doamna invatitoare, dar nici eu\nnu stiu!"
             },
             "106": {
-                "class": "text",
+                "class": "titlu",
                 "x": 213,
                 "y": 56,
                 "height": 73,
@@ -1556,7 +1556,7 @@
                 "text": "102"
             },
             "108": {
-                "class": "text",
+                "class": "autor",
                 "x": 295,
                 "y": 597,
                 "height": 26,
@@ -1590,7 +1590,7 @@
             "110": {},
             "111": {},
             "112": {
-                "class": "text",
+                "class": "titlu",
                 "x": 91,
                 "y": 66,
                 "height": 34,

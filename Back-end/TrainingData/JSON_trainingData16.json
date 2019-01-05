@@ -6,7 +6,7 @@
         "pageHeight": "853",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 261,
                 "y": 748,
                 "height": 48,
@@ -22,7 +22,7 @@
                 "text": "Editura Pm\n2006"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 89,
                 "y": 391,
                 "height": 78,
@@ -39,7 +39,7 @@
             },
             "3": {},
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 381,
                 "y": 63,
                 "height": 26,
@@ -55,7 +55,7 @@
                 "text": "Mariana COSTACHE"
             },
             "5": {
-                "class": "text",
+                "class": "autor",
                 "x": 76,
                 "y": 61,
                 "height": 30,
@@ -78,7 +78,7 @@
         "pageHeight": "853",
         "sections": {
             "6": {
-                "class": "text",
+                "class": "isbn",
                 "x": 77,
                 "y": 676,
                 "height": 38,
@@ -94,7 +94,7 @@
                 "text": "ISBN 10: 973-716-472-5\nISBN 13: 978-973-716-472-8"
             },
             "7": {
-                "class": "text",
+                "class": "isbn",
                 "x": 70,
                 "y": 396,
                 "height": 177,
@@ -150,7 +150,7 @@
         "pageHeight": "853",
         "sections": {
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 411,
                 "y": 746,
                 "height": 24,
@@ -1131,7 +1131,7 @@
                 "text": "An Exploratory"
             },
             "73": {
-                "class": "text",
+                "class": "autor",
                 "x": 74,
                 "y": 148,
                 "height": 613,
@@ -1147,7 +1147,7 @@
                 "text": "[ 1] Benoit, O., Foret, J. (eds.), Le sommeil humain: b\nexperimentales physiologiques et physiopathologiques, Paris\nMasson, 1992\n\n[ 2] Bloom, S.R., Johnson, R.H., Park, D.M., Rennie, M.J.,\nSulaiman, W.R., Differences in the metabolic and hormonal\nresponse to exercise between racing cyclists and untrained\nindividuals, London, J. Physiol, 1976\n\n{ 3] Cady, S., La relaxion psychosomatique, Paris, Dunod, 2003\n\n[ 4] Calder, A., Recovery: the forgotten element in training\nprograms, Sport specific, 1991, 3(1)\n\n[ 5] Clement, D.B, Sawehuk, L.L., Iron status and sports\nperformance, Sports Medicine, 1984\n\n[ 6] Cungi ,Ch., Limousin, S., Metode si tehnici de relaxare, lagi,\nEditura Polirom, 2004\n\n[7] Day, J., Vizualizare creativa, Bucuresti, Editura Teora, 1998\n{ 8] Drigan, 1, Medicina sportiva aplicata, Bucuresti, Editura\nEditis, 1994\n\n[ 9] Dragan, 1, Practica medicinii sportive, Bucuresti, Editura\nMedical, 1989\n\n[10] Epuran,M., Modelarea conduitei sportive, Bucuresti, Editura\nSport-turism, 1990\n\n[11] Epuran,M, Holdeviei, 1., Compendiu de psihologie pentru\nantrenori, Bucuresti, Editura Sport-turism, 1980\n\n[12] Erickson, M., L'hypnose th\u00e9rapeutique, Paris, ESF \u00e9diteur,\n1990\n\n[13] Erickson, Milton, Rossi, E.L., Hypnotherapy\n\nCasebook, New York, Ivington Publishers Ine; 1992\n\n[14] Essen, D., Intramuscular substrate utilization during prolonged\nexercise, New York, Ann. N.Y, Acad. Sci., 1977\n\n[15] Evans, Ph., Stress and coping . In: Pitts, M., Philipps, K.,\n(eds.), The psychology of health. An introduction, London,\nRouteledge, 1991:30-48"
             },
             "74": {
-                "class": "text",
+                "class": "titlu",
                 "x": 242,
                 "y": 92,
                 "height": 25,
@@ -1250,7 +1250,7 @@
                 "text": "fara"
             },
             "80": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 64,
                 "height": 707,
