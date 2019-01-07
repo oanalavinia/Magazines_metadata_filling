@@ -74,7 +74,7 @@
                 "text": "SIMPOZION NATIONAL"
             },
             "9": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 213,
                 "height": 57,
@@ -91,7 +91,7 @@
             },
             "10": {},
             "11": {
-                "class": "text",
+                "class": "autor",
                 "x": 169,
                 "y": 78,
                 "height": 75,
@@ -108,7 +108,7 @@
             },
             "12": {},
             "13": {
-                "class": "text",
+                "class": "autor",
                 "x": 27,
                 "y": 27,
                 "height": 132,
@@ -134,7 +134,7 @@
             "15": {},
             "16": {},
             "17": {
-                "class": "text",
+                "class": "isbn",
                 "x": 108,
                 "y": 556,
                 "height": 27,
@@ -151,7 +151,7 @@
             },
             "18": {},
             "19": {
-                "class": "text",
+                "class": "editura",
                 "x": 100,
                 "y": 376,
                 "height": 132,
@@ -227,7 +227,7 @@
             "26": {},
             "27": {},
             "28": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 687,
                 "height": 52,
@@ -243,7 +243,7 @@
                 "text": "Colegiul National ,,Mihai Eminescu\u201d, lasi\nProf. Daniela Lupig"
             },
             "29": {
-                "class": "text",
+                "class": "autor",
                 "x": 79,
                 "y": 596,
                 "height": 71,
@@ -260,7 +260,7 @@
             },
             "30": {},
             "31": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 483,
                 "height": 93,
@@ -276,7 +276,7 @@
                 "text": "Universitatea ,,Al. I. Cuza\u201d, Iasi, Facultatea de Teologie\nOrtodoxa ,,Dumitru Staniloae\u201d\n\n& Asistent Catedra Muzica Bisericeasca si Ritual\nPr. Dr. Gabriel Nastasa"
             },
             "32": {
-                "class": "text",
+                "class": "autor",
                 "x": 79,
                 "y": 369,
                 "height": 94,
@@ -293,7 +293,7 @@
             },
             "33": {},
             "34": {
-                "class": "text",
+                "class": "autor",
                 "x": 79,
                 "y": 211,
                 "height": 139,
@@ -310,7 +310,7 @@
             },
             "35": {},
             "36": {
-                "class": "text",
+                "class": "titlu",
                 "x": 78,
                 "y": 132,
                 "height": 54,
@@ -326,7 +326,7 @@
                 "text": "INSTITUTH COORDONATOARE SI ECHIPA DE\nPROIECTULUI"
             },
             "37": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 132,
@@ -354,7 +354,7 @@
             "41": {},
             "42": {},
             "43": {
-                "class": "text",
+                "class": "autor",
                 "x": 78,
                 "y": 214,
                 "height": 117,
@@ -371,7 +371,7 @@
             },
             "44": {},
             "45": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 147,
                 "height": 48,
@@ -387,7 +387,7 @@
                 "text": "Grupul Scolar ,,Anghel Saligny\u201d, I\nPr. Prof. Adrian Marcu"
             },
             "46": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 79,
                 "height": 48,
@@ -434,7 +434,7 @@
             "54": {},
             "55": {},
             "56": {
-                "class": "text",
+                "class": "titlu",
                 "x": 66,
                 "y": 78,
                 "height": 682,
@@ -450,7 +450,7 @@
                 "text": "Premierea \u2014 Cuvantul de incheiere\nDirector Prof. Constantin Serban"
             },
             "57": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 132,
@@ -489,7 +489,7 @@
                 "text": "12."
             },
             "59": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 734,
                 "height": 90,
@@ -679,7 +679,7 @@
             "82": {},
             "83": {},
             "84": {
-                "class": "text",
+                "class": "titlu",
                 "x": 95,
                 "y": 154,
                 "height": 648,
@@ -695,7 +695,7 @@
                 "text": "PPEFAJA - ,DIN SUFLET DE CRESTIN\u201d - UN PROJECT\nDINAMIC $1 STATORNIC, Pr. Prof. Dr. Bogdan RACU\nPREFATA, Pr. Dr. Gabriel NASTASA..\nGANDURI $I MARTURISIRI, Prof. Constantin SERBAN,\nDirector - Palatul Copiilor lasi..\nSECTIUNEA |\n\nSFANTA TAINA A SPOVEDANIEl........\nTAINA SPOVEDANIEI-CURATAREA SUFLETULUI, Prof. Edvica\nPOPA, Liceul Teoretic Negru Voddi, Jud. Constanta.....\nSFANTA SPOVEDANIE - TAINA SUFLETULUI NOSTRU, Prof.\nVeronica lonela CATANA, Liceul Tehnologic Stefan Anghel,\nBailesti, Dolj, Prof. Simona Elena COPACESCU, Colegiul\nNational Elena Cuza, Craiova, Jud. Dol\nTAINA POCAINTEI - FORMA DE ANALIZA A RESORTURILOR\nSPIRITUALE ALE OMULUI, Prof. Ana-Maria BODAI, Scoala\nGimnaziala Ruginoasa, Jud. |:\nVINDECAREA BOLILOR SUFLETESTI PRIN SFANTA TAINA A\nSPOVEDANIEI, Prof. Alexandra- Andreea AVRAM, Scoala\nGimnaziala Nr. 1 Baluseni, Jud. Botosar\nPOCAINTA ~ TAINA INVIERI SPIRITUALE, Prof. Vasile lulian\nTRANDAFIR, Scoala Generala cu clasele I-Vill, Helesteni,\nJud. tasi.\nCATEVA CUVINTE DESPRE SPOVEDANIE, Prof. Gabriela\nSTOICA, Scoala. Gimnaziali. ~\u2014Grajduri, Jud.\nlagi\nSECTIUNEA A I-A\n\n\u2018SFANTA TAINA A IMPARTASANIEl cscssvesves\nEUHARISTIA CA SACRAMENT AL UNITATI, Prof. Andreea\n\n249"
             },
             "85": {
-                "class": "text",
+                "class": "titlu",
                 "x": 249,
                 "y": 108,
                 "height": 28,
@@ -735,7 +735,7 @@
                 "text": "250"
             },
             "88": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 734,
                 "height": 90,
@@ -748,7 +748,7 @@
                     573,
                     824
                 ],
-                "text": "(64 AOPECTE ALE VIET DOMOVINICED TT ALE\n\nSOCIAL- FILANTROPICE $1 EDUCATIONALE DIN PERIOADA"
+                "text": "ASPECTE ALE VIET DOMOVINICED TT ALE\n\nSOCIAL- FILANTROPICE $1 EDUCATIONALE DIN PERIOADA"
             },
             "89": {
                 "class": "text",
@@ -1139,7 +1139,7 @@
                 "text": "53"
             },
             "117": {
-                "class": "text",
+                "class": "titlu",
                 "x": 95,
                 "y": 85,
                 "height": 689,
@@ -1155,7 +1155,7 @@
                 "text": "ZANFICU, Liceul Tehnologic Horia Vintild, Segarcea, Jud.\nDolj.\nHRISTOS EUHARISTIC, Prof. Marius Daniel DOBRIN, Colegiul\nTehnic Costin D. Nenitescu, Pitesti, Jud. Arges...\n\nDESPRE SFANTA EUHARISTIE, Prof. Maria IONESCU, Scoala\nGimnaziala Al. Macedonski, Craiova, Jud. Dol}...\nANAFORAUA EUHARISTICA \u2014 DE LA INSTITUIRE PANA\nASTAZI, Prof. Mihail lustin MITREA, Colegiul Tehnic ,Maria\nBaiulescu\u201d, Brasov.\nTAINA SFINTEI IMPARTASANI, Prof. Mariana PALAMARIU,\n$c. Gimn. Nr. 3 Lupeni, Hunedoara.\n\nSFANTA IMPARTASANIE IN RANDUL SFINTELOR TAINE, Prof.\nCoca STANA, Liceul Tehnologic Spiru Haret, Targoviste, Jud.\nD\u00e9mbovita. -\nEUHARISTIA - INDUMNEZEIREA OMULUI, Prof. Vasile\nSIMON, Liceul Tehnologic Stefan cel Mare Cotnari, jud.\nlasi\nSFANTA IMPARTASANIE - CALE SPRE MANTUIRE, Prof.\nCorina LAVRIC, Scoala Gimnaziala fon Neculce, asi...\nHRISTOS IN INIMA COPIILOR, Prof. Daniela LUPIS, Colegiul\nNational Mihai Eminescu, lasi\nSECTIUNEA A III-A\n\n\u2018SFINTI MARTIRI BRANCOVEN......\nMUZICA BISERICEASCA IN TIMPUL DOMINITORULUI\nCONSTANTIN BRANCOVEANU, Pr. Prof. Liviu BOTEZATU,\nLiceul cu Program Sportiv, Botosani\nSFANTUL CONSTANTIN BRANCOVEANU - ISCUSIT OM\nPOLITIC, CTITOR $1 MARTIR, Prof. Geta MARCU, Scoala fon\nGhica, lasi.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nSOCIAL- FILANTROPICE $1 EDUCATIONALE DIN PERIOADA"
             },
             "118": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 132,
@@ -1518,7 +1518,7 @@
                 "text": "143"
             },
             "144": {
-                "class": "text",
+                "class": "titlu",
                 "x": 95,
                 "y": 82,
                 "height": 691,
@@ -1534,7 +1534,7 @@
                 "text": "BRANCOVENEASCA, Prof. Cristina-Alina BARDOS-MICU,\nLiceul Teoretic George $t Marincu, Structurile Scoala nr\n14\u00a7coala nr 3, Poiana Mare, Dolj.\nPERSONALITATI, MODELE, EXEMPLE, Prof. Gabriela\nTANDEA, Colegiul Tehnic Alexandru Domsa, Alba lulia, Jud.\nAlba..\nSFINTI| MARTIRI BRANCOVENI - MODEL AL FAMILIE!\nCRESTINE, Prof. Georgiana ROTARU, $coala Gimnaziala\nHadimbu, com. Mogosesti, jud. las\nDISCURSUL PUTER). = \u00abiN BALADA_\u2014POPULARA\n\u00bbBRANCOVANUL CONSTANTIN\u2019, Prof. Florina-Oli\nLUPIS, Scoala Gimnaziala Nr. 1, Faraoani, jud. Bacau.\nINFLUENTA STILULUI_ \u2014- BRANCOVENESC IN ARTA\nROMANEASCA, Prof. Gabriela Petronela PUIU, Scoala\nGimnaziala Rediu, Jud. la\nTAINA UNEI VIETI MARTIRICE, Prof. Liana Valentina PASCA,\nColegiul National Petru Rares, Beclean, Jud. Bistrita \u2014\nNasdud...\nDOMINIA LUI CONSTANTIN BRANCOVEANU. ASPECTE\nGENERALE, Prof. Oana-Maria ACSINIE, Liceul Alexandru cel\nBun, Botosani\nCONSTANTIN BRANCOVEANU, OM POLITIC $1 MARTIR AL\nBISERICII ORTODOXE, Prof. loan-Mugurel SPATARU, Colegiul\nTehnic de Cai Ferate Unirea, Pascani, Jud. las...\nSFINTH MARTIRI BRANCOVENI - EXEMPLE DE TRAIRE\nCRESTINA, Prof. Mariana luliana OPROIU, Scoala Gimnaziala\nIsalnita, Prof. Magdalena Carmen DRAGUSIN, Scoala\nGimnaziala Mihai Viteazul, Craiova, Jud. Dolj.\nCONSTANTIN BRANCOVEANU, SPRIJINITOR $1 OCROTITOR\n\nPauca, Jud. Si"
             },
             "145": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 132,
@@ -1722,7 +1722,7 @@
                 "text": "34."
             },
             "161": {
-                "class": "text",
+                "class": "titlu",
                 "x": 95,
                 "y": 82,
                 "height": 306,
@@ -1738,7 +1738,7 @@
                 "text": "SFANTUL MARTIR CONSTANTIN BRANCOVEANU, Prof.\nStefania GEAMANU, C.N.V. Nicolae Titulescu, Slatina, Jud.\nOlt.\n\nJERTFA BRA!\n\nGavrili, Scoala Gimnaziala Nr.1, Com. Cuza-Voda, Jud.\nCilira\n\nSPIRITUALITATE $1 MORALA CRESTINA PENTRU.\n\nCOPII - Proiect educational derulat in cadrul Strategiei\nNationale de Actiune Comunitar\u00e9, Prof. Cristina POPA,\nScoala Gimnaziali Special Constantin Paunescu, la:\nPROIECTUL NATIONAL DIN SUFLET DE CRESTIN, IASI, 2014\n(fragment) Prof. Adina MARCU VASILIU..\n\nANEXE..\n\nCUPRINS.."
             },
             "162": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 132,

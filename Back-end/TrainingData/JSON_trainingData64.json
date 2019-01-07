@@ -22,7 +22,7 @@
                 "text": "2012-2013"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 256,
                 "y": 565,
                 "height": 47,
@@ -38,7 +38,7 @@
                 "text": "2, NR. 2"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 184,
                 "y": 564,
                 "height": 42,
@@ -55,7 +55,7 @@
             },
             "4": {},
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 191,
                 "y": 341,
                 "height": 67,
@@ -68,10 +68,10 @@
                     414,
                     408
                 ],
-                "text": "ANGAR"
+                "text": "ANUAR"
             },
             "6": {
-                "class": "text",
+                "class": "autor",
                 "x": 259,
                 "y": 173,
                 "height": 30,
@@ -87,7 +87,7 @@
                 "text": "Harlau"
             },
             "7": {
-                "class": "text",
+                "class": "autor",
                 "x": 205,
                 "y": 127,
                 "height": 34,
@@ -103,7 +103,7 @@
                 "text": "\u201cStefan cel Mare\u201d"
             },
             "8": {
-                "class": "text",
+                "class": "autor",
                 "x": 208,
                 "y": 79,
                 "height": 35,
@@ -126,7 +126,7 @@
         "pageHeight": "851",
         "sections": {
             "9": {
-                "class": "text",
+                "class": "isbn",
                 "x": 91,
                 "y": 698,
                 "height": 31,
@@ -174,7 +174,7 @@
                 "text": "Sponsori:"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 95,
                 "y": 389,
                 "height": 123,
@@ -206,7 +206,7 @@
                 "text": "llustratia copertei - Pictura murala:"
             },
             "14": {
-                "class": "text",
+                "class": "editura",
                 "x": 96,
                 "y": 317,
                 "height": 25,
@@ -238,7 +238,7 @@
                 "text": "Tehnoredactare, graficd si coperta:"
             },
             "16": {
-                "class": "text",
+                "class": "autor",
                 "x": 96,
                 "y": 208,
                 "height": 25,
@@ -327,7 +327,7 @@
                 "text": "Stema"
             },
             "23": {
-                "class": "text",
+                "class": "titlu",
                 "x": 181,
                 "y": 92,
                 "height": 32,
@@ -388,7 +388,7 @@
                 "text": "Stimati colegi, dragi elevi,\n\nNe aflim in momentul bilantului de sfarsit de an\nscolar in care rememorim rezultatele efortului didactic al\nprofesorilor nostri si al elevilor scolii, despre care sunt\nmandru si afirm ci ne-au adus satisfactii si impliniri si ne\ndau speranta ci toti cei care isi desfaigoara activitatea in acest\nspatiu educational au fcut_ un demers comun pentru\nincadrarea scolii noastre in galeria celor de succes. Sunt\nconvins cA tot ceea ce s-a derulat in acest an scolar sunt\nactivititi care s-au afirmat ca reusite vizibile in traseul\npedagogic la care aji participat, c& ati simfit intentia noastra\nde a va plasa pe orbita realizarilor de calitate, ca ati fost\ndeplin motivati sa participati cu interes la competitii din\ntoate zonele profilurilor la care invatafi si si aduceti un plus\nde imagine la patrimoniul de impliniri in plan profesional.\nintr-o retrospectiva sintetict, amintesc de numeroasele\nevenimente care au avut loc in colegiul nostra inc& din\nprimul semestru si care au continuat mai intens in cel de-al\ndoilea:concursurile tradigionale care sunt o adevarati efigie a\nscolii: Cezar Petrescu, Micii matematicieni, Pagini HWEB,\n\n  \n\napoi olimpiadele pe obiecte la care scoala a obtinut premii si\ndistincjii_notabile, lansarea anuarului pe care dorim sa-l\ncontinuim si in viitor, prezentarea Monografiei colegiului,"
             },
             "26": {
-                "class": "text",
+                "class": "titlu",
                 "x": 246,
                 "y": 125,
                 "height": 28,
@@ -404,7 +404,7 @@
                 "text": "2012 / 2013"
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 100,
                 "y": 75,
                 "height": 36,
@@ -498,7 +498,7 @@
                 "text": "150"
             },
             "32": {
-                "class": "text",
+                "class": "autor",
                 "x": 230,
                 "y": 638,
                 "height": 26,
@@ -585,7 +585,7 @@
                 "text": "151"
             },
             "37": {
-                "class": "text",
+                "class": "titlu",
                 "x": 114,
                 "y": 692,
                 "height": 24,
@@ -602,7 +602,7 @@
             },
             "38": {},
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 115,
                 "y": 634,
                 "height": 24,
@@ -618,7 +618,7 @@
                 "text": "LIMBI MODERNE.\n\n \n\n28"
             },
             "40": {
-                "class": "text",
+                "class": "titlu",
                 "x": 115,
                 "y": 602,
                 "height": 27,
@@ -634,7 +634,7 @@
                 "text": "LIMBA ROMANA"
             },
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 575,
                 "height": 27,
@@ -650,7 +650,7 @@
                 "text": "PERFORMANTE SCOLARE"
             },
             "42": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 546,
                 "height": 25,
@@ -666,7 +666,7 @@
                 "text": "CLUBUL MICILOR MATEMATICIENILOR.."
             },
             "43": {
-                "class": "text",
+                "class": "titlu",
                 "x": 98,
                 "y": 485,
                 "height": 59,
@@ -682,7 +682,7 @@
                 "text": "CERCUL DE ARTA DRAMATICA ,Arlecchino\u201d ....\n\n \n\nASOCIATIA SPORTIVA SCOLARA ,,OLIMPIA\u201d ."
             },
             "44": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 455,
                 "height": 30,
@@ -698,7 +698,7 @@
                 "text": "CERC DE PICTURA RELIGIOASA ,,Trepte"
             },
             "45": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 428,
                 "height": 27,
@@ -714,7 +714,7 @@
                 "text": "CLUBUL DE TURISM SI ECOLOGIE ,ECOMONT\u201d ...\n\n \n\n21"
             },
             "46": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 400,
                 "height": 24,
@@ -730,7 +730,7 @@
                 "text": "CONCURSUL HWEB.\n\n    \n\n20"
             },
             "47": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 370,
                 "height": 27,
@@ -746,7 +746,7 @@
                 "text": "CONCURSUL LITERAR ,,CEZAR PETRESCU\u201d\n\n \n\n19"
             },
             "48": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 341,
                 "height": 25,
@@ -762,7 +762,7 @@
                 "text": "PLEDOARIE PENTRU STUDIUL MATEMATICT .."
             },
             "49": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 312,
                 "height": 24,
@@ -778,7 +778,7 @@
                 "text": "MICII MATEMATICIENI\n\n \n\n13"
             },
             "50": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 280,
                 "height": 30,
@@ -794,7 +794,7 @@
                 "text": "CONCURSURI $I CERCURI ORGANIZATE IN COLEGIU"
             },
             "51": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 253,
                 "height": 28,
@@ -810,7 +810,7 @@
                 "text": "PLANUL DE $COLARIZARE AN $COLAR"
             },
             "52": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 225,
                 "height": 24,
@@ -826,7 +826,7 @@
                 "text": "PERSONAL ADMINISTRATIV SAU NEDIDACTIC..\n\n \n\nwld"
             },
             "53": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 195,
                 "height": 25,
@@ -842,7 +842,7 @@
                 "text": "PERSONAL DIDACTIC AUXILIAR .."
             },
             "54": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 166,
                 "height": 24,
@@ -858,7 +858,7 @@
                 "text": "CADRE DIDACTICE."
             },
             "55": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 134,
                 "height": 30,
@@ -874,7 +874,7 @@
                 "text": "CUVANT DE DESCHIDERE A ANULUI SCOLAR"
             },
             "56": {
-                "class": "text",
+                "class": "titlu",
                 "x": 82,
                 "y": 105,
                 "height": 27,
@@ -890,7 +890,7 @@
                 "text": "INSEMNELE COLEGIULUI"
             },
             "57": {
-                "class": "text",
+                "class": "titlu",
                 "x": 253,
                 "y": 79,
                 "height": 28,
@@ -929,7 +929,7 @@
                 "text": "152"
             },
             "59": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 514,
                 "height": 30,
@@ -945,7 +945,7 @@
                 "text": "IT DE INCHIDERE A ANULUI $COLAR."
             },
             "60": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 485,
                 "height": 27,
@@ -961,7 +961,7 @@
                 "text": "IIMAGINEA COLEGIULUI REFLECTATA DE MEDIA LOCALA 115"
             },
             "61": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 455,
                 "height": 30,
@@ -977,7 +977,7 @@
                 "text": "SITUATIA SCOLARA LA SFARSITUL ANULUI SCOLAR 2012 -2013..56"
             },
             "62": {
-                "class": "text",
+                "class": "titlu",
                 "x": 82,
                 "y": 426,
                 "height": 27,
@@ -993,7 +993,7 @@
                 "text": "ACTIVITATEA EDUCATIVA 2012"
             },
             "63": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 400,
                 "height": 24,
@@ -1009,7 +1009,7 @@
                 "text": "BACALAUREAT 2013...\n\n \n\n52"
             },
             "64": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 368,
                 "height": 30,
@@ -1025,7 +1025,7 @@
                 "text": "EVALUAREA NATIONALA 2013"
             },
             "65": {
-                "class": "text",
+                "class": "titlu",
                 "x": 83,
                 "y": 341,
                 "height": 27,
@@ -1041,7 +1041,7 @@
                 "text": "EXAMENE NATIONALE."
             },
             "66": {
-                "class": "text",
+                "class": "titlu",
                 "x": 115,
                 "y": 309,
                 "height": 30,
@@ -1057,7 +1057,7 @@
                 "text": "EDUCATIE PLASTICA."
             },
             "67": {
-                "class": "text",
+                "class": "titlu",
                 "x": 115,
                 "y": 280,
                 "height": 30,
@@ -1074,7 +1074,7 @@
             },
             "68": {},
             "69": {
-                "class": "text",
+                "class": "titlu",
                 "x": 115,
                 "y": 225,
                 "height": 24,
@@ -1090,7 +1090,7 @@
                 "text": "BIOLOGIA."
             },
             "70": {
-                "class": "text",
+                "class": "titlu",
                 "x": 114,
                 "y": 195,
                 "height": 25,
@@ -1108,7 +1108,7 @@
             "71": {},
             "72": {},
             "73": {
-                "class": "text",
+                "class": "titlu",
                 "x": 114,
                 "y": 108,
                 "height": 27,
