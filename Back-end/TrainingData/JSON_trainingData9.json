@@ -33,7 +33,7 @@
         "pageHeight": "849",
         "sections": {
             "6": {
-                "class": "text",
+                "class": "isbn",
                 "x": 132,
                 "y": 489,
                 "height": 25,
@@ -65,7 +65,7 @@
                 "text": "700497"
             },
             "8": {
-                "class": "text",
+                "class": "editura",
                 "x": 134,
                 "y": 375,
                 "height": 107,
@@ -81,7 +81,7 @@
                 "text": "Editura OM\nEditura acreditati CNCSIS ~ 66/01.05.2006\n\nSoseaua Stefan cel Mare si Sfiint nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.715\nwww.pimeopy.r0"
             },
             "9": {
-                "class": "text",
+                "class": "autor",
                 "x": 192,
                 "y": 252,
                 "height": 74,
@@ -152,7 +152,7 @@
                 "text": "Prof. Coordonator al proi\n\nLiceul Teoretic"
             },
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 49,
                 "y": 31,
                 "height": 79,
@@ -215,7 +215,7 @@
                 "text": "in opera filozofilor Gilles Deleuze si Felix Guattari multiplicitea, in\nipostazi morfologicd de substantiv, fri unitate-pivot, fGrd subiect sau obiect,\nste construiti numai din determinari/dimensiuni de grandoare, care nu se pot,\namplifica, asa cum se intimpld in relatia dintre papusd si actor la teatrul de\nmarionete, fra si-si schimbe natura, Firele marionetei, asa cum arati cei doi\nfilozofi in Mille plateaux, in ipostaza de rizom sau multiplicitate, nu trimit la\npresupusa voinfa a unui artist sau regizor, ci la multiplicitatea fibrelor nervoase\ncare constituie, la randul lor, 0 alti marionetd, cu alte dimensiuni. Firele sau\ntijele acestea care misc marioneta constituie o tesdturi. Prin urmare\nmultiplicitatea rizomului se defineste in afard, prin linii abstracte, de fuga sau\nde deteritorializare. Pentru exemplificarea acestei imagini Deleuze si Guattari\nschiteaza un ideal al cdrfii rizomatice, schijeaz3 0 radiceld care etaleaza totul\npe aceeasi pagina. Cartea ideald ar fi, in aceste condifii, aceea care etaleazi\ntotul pe un asemenea plan al exteriorititii reprezentat de o singura pagind,\nevenimente trdite, determinari istorice, concepte, idei, indivizi si grupuri\nsociale.\n\nin cartea aceasta rizomatica sdlaguieste 0 ruptura asignifianta, pentru ci\nun rizom poate fi spart, rupt intr-un punct oarecare conform unor regului gi\npoate fi reluat in alt punet, potrivit altor reguli asa cum se intampla cu furnicile.\nEle nu pot fi starpite cu totul pentru cd formeaza un rizom animal care poate fi\ndistrus in mare parte dar nu inceteaza sA se reconstituie. Asta inseamnd ci\norice rizom presupune linii de segmentaritate potrivit cdrora se poate fi\nstratificat, teritorializat, organizat, semnificat sau atribuit. El poate fi supus\nuunor migcari de deteritorializare/reteritorializare, asa cum se intimpla in cazul\norhideei care se deteritorializeaza alcdtuind o imagine- calc a viespei, la randul\ni se reteritorializata in aceasta imagine. in termenii gandirii Deleuze-Guattari\nvispea se deteritorialiseazi devenind o piesi in aparatul de reproducere al\nothideei si reteritorializeaza orhideea transportand polenul. Viespea si orhideea\nconstituie rizomul ca heterogenitate. S-ar putea spune ca orhideea imita viespea\nsicl reproduce imaginea in maniera semnificanta. Dar acest lucru este valabi\nnumai la nivelul straturilor pentru ca de fapt intervine 0 captura, o plus-valoare\n4 codului, 0 augumentare a valenfei, o veritabli devenire, devenire-viespe a\norchideei, devenire-orchidee a viespei. Fiecare din aceste deveniri asiguri, intr-\nun fel de inlantuire, deteritorializarea unui termen si reteritorializarea celuilalt.\nSe poate spune ci aceleasi miscdri de deteritorializare/ reteritorializare se\nregasesc si in imaginea cArtii-rizom, si in aceea a lumii- rizom. Cartea nu este 0"
             },
             "17": {
-                "class": "text",
+                "class": "autor",
                 "x": 261,
                 "y": 98,
                 "height": 45,
@@ -231,7 +231,7 @@
                 "text": "Prof.dr. Jana Gavriliu\nColegiul Tehnic ,Dumitru Mangeron\u201d Baciu"
             },
             "18": {
-                "class": "text",
+                "class": "titlu",
                 "x": 49,
                 "y": 31,
                 "height": 60,
@@ -325,7 +325,7 @@
                 "text": "P.D. BALBA, Stema de stat a Romaniei\nLILIANA NOVAC, Aga va place istoria?\n\nJANA GAVRILIU, Studiu: Deleuze si Guattari in umbra filosofiei\nlui Nietzsche"
             },
             "23": {
-                "class": "text",
+                "class": "titlu",
                 "x": 52,
                 "y": 671,
                 "height": 27,
@@ -438,7 +438,7 @@
                 "text": "GICUTA ELENA AGHEORGHIESEI, Piapistul-mod veche. Scurta\nincursiune in istoria plagiatului rom\u00e9nese ......\n\nELENA CORNEA, Importanta practica a acizilor cart oxilici\nNARCISA DINU, Rolul subsistemelor paraverbal si nonverbal in\ncomunicarea didactica\n\nBOGDAN-DORIN SOLTUZU, Influena poludrii atmosferice asupra\nspeciei Tilia Tomentosa L. din zona municipiului Iasi\n\nDANIELA BUCHILA, Invengii pentru masurarea timpului\nNARCISA DINU, Rolul valorilor educative in contextul societ\ncontemporane a\nMARIA-CRISTINA DOROFTEI, Grigore Antipa \u2014 intemeietorul\necologiei romanesti\n\nION CAZACU-DAVIDESCU, Studiul fizico-chimic al interfetei\nsolid-lichid, Modelul Gouy - Chapman al stratului dublu electric."
             },
             "31": {
-                "class": "text",
+                "class": "titlu",
                 "x": 52,
                 "y": 376,
                 "height": 27,
@@ -502,7 +502,7 @@
                 "text": "MIHAELA ANUSCA, Evaluare si joc, software-ul Qedoc ~\ninstrument interactiv de invatare \u2014 evaluare\n\nMARIANA DULGHERU, Valorificarea valenfelor creat ale\nelevilor\n\nVIORICA PANTAZI, Educatia timpurie intre necesitate $i realitate\nVIORICA MAFTEI, Excursia didactica coe\nCONSTANTA MANOLE, Continuitatea gradinita - scoaldfactor\nimportant al reusitei scolare"
             },
             "35": {
-                "class": "text",
+                "class": "titlu",
                 "x": 52,
                 "y": 185,
                 "height": 27,
@@ -535,7 +535,7 @@
             },
             "37": {},
             "38": {
-                "class": "text",
+                "class": "titlu",
                 "x": 49,
                 "y": 31,
                 "height": 33,
@@ -619,7 +619,7 @@
         "pageHeight": "849",
         "sections": {
             "42": {
-                "class": "text",
+                "class": "editura",
                 "x": 142,
                 "y": 642,
                 "height": 113,

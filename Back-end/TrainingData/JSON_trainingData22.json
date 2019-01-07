@@ -8,7 +8,7 @@
             "1": {},
             "2": {},
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 99,
                 "y": 353,
                 "height": 87,
@@ -24,7 +24,7 @@
                 "text": "ORGANE DE MASINI.\nREDUCTOARE DE TURATIE"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 390,
                 "y": 118,
                 "height": 25,

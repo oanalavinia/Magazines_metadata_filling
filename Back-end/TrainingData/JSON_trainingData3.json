@@ -6,7 +6,7 @@
         "pageHeight": "849",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 263,
                 "y": 593,
                 "height": 37,
@@ -22,7 +22,7 @@
                 "text": "Editura PIM\nlagi -2011"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 135,
                 "y": 258,
                 "height": 67,
@@ -38,7 +38,7 @@
                 "text": "EXERCITII DE MEMORIE:\nSHOAH HOLOCAUST"
             },
             "3": {
-                "class": "text",
+                "class": "autor",
                 "x": 137,
                 "y": 96,
                 "height": 27,
@@ -54,7 +54,7 @@
                 "text": "Corina ANDRIESANU"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 381,
                 "y": 94,
                 "height": 28,
@@ -1262,7 +1262,7 @@
                 "text": "Colegiul National"
             },
             "89": {
-                "class": "text",
+                "class": "titlu",
                 "x": 179,
                 "y": 39,
                 "height": 39,
@@ -1412,7 +1412,7 @@
             },
             "97": {},
             "98": {
-                "class": "text",
+                "class": "titlu",
                 "x": 162,
                 "y": 39,
                 "height": 39,
