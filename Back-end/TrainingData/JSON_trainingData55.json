@@ -7,7 +7,7 @@
         "sections": {
             "1": {},
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 85,
                 "y": 396,
                 "height": 32,
@@ -23,7 +23,7 @@
                 "text": "Cunoastere, dezvoltare si valorificare economica"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 71,
                 "y": 343,
                 "height": 45,
@@ -39,7 +39,7 @@
                 "text": "CARPATIT MERIDIONALI"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 197,
                 "y": 293,
                 "height": 47,
@@ -55,7 +55,7 @@
                 "text": "TURISM iN"
             },
             "5": {
-                "class": "text",
+                "class": "autor",
                 "x": 73,
                 "y": 81,
                 "height": 25,
@@ -71,7 +71,7 @@
                 "text": "Ton Talaba"
             },
             "6": {
-                "class": "text",
+                "class": "autor",
                 "x": 363,
                 "y": 80,
                 "height": 29,
@@ -144,7 +144,7 @@
             },
             "11": {},
             "12": {
-                "class": "text",
+                "class": "isbn",
                 "x": 56,
                 "y": 390,
                 "height": 183,
@@ -209,7 +209,7 @@
                 "text": "Referenti st"
             },
             "17": {
-                "class": "text",
+                "class": "titlu",
                 "x": 219,
                 "y": 35,
                 "height": 25,
@@ -232,7 +232,7 @@
         "pageHeight": "848",
         "sections": {
             "18": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 555,
                 "height": 222,
@@ -248,7 +248,7 @@
                 "text": "CAP. IIL, STADIUL ATINS IN DEZVOLTAREA TURISMULUI IN CARPATIL\nMERIDIONALL..\n3.1, NIVELUL RELATIV AL DEZVOLTARIITURISMULU! IN CARPATH MERIDIONALL\n3.2. CAUZE ~ SCURTE INSERAR,\n3.3, MODUL CUM S-A DEZVOLTAT TURISMUL IN CARPATI MERIDIONALL\n3.4 SMUATA ACTUALA A N.MARULLLSTRLCTUISIDOTARILEDINSTAIUNLENOASTREBALNEOCLMATEUCE\n3.5. BAZA TEHNICO-MATERIALA A TURISMULUI DIN CARPATI MERIDIONALL.,\n3.6. BAZA MATERIALA GASTRONOMICK A CARPATILOR MERIDIONALL\n3.7. RETEAUA CAILOR DE ACCES A CARPATILOR MERIDIONALL\n37.1. Rejeaua de sosele asfaltat.\n3.7.2. Refeaua de lini forte\n3.7.3. Marcaje ristice montane.\n3.8, MULOACE DE TRANSPORT.\n3.9, BAZA MATERIALA PENTRU AGREMENT\n3.1O.MISCAREA TURISTICA IN CARPATI MERIDIONALL"
             },
             "19": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 305,
                 "height": 248,
@@ -264,7 +264,7 @@
                 "text": "\u2018CAP. II EVALUAREA RESURSELOR TURISTICE ALE CARPATILOR MERIDIONALLI .....35\n2.1, RESURSA, SURSA SI POTENTIAL TURISTIC. oss \u2014 35\n2.11 Suceinta caracterizarea celor tre terment 36\n2.1.2. Cespun dictionarele?. 37\n2.1.3, Asemindri i deosebirtinire resurse si potential twist: 30\n2.2. RESURSELE TURISTICE, PARTE COMPONENTA A AVUTIEI NATIONALE 41\n2.3. STADIUL MACTUAL ALEVALLARIRESLRSELOR TURSTICEDNTARANOASTRAIINSPETALDONCAROATIMEREONAL 43\n23.1. Seurt istore seleetivasupra evaluat resuselorturistice 43\n23.2 Sitatia actual a evaluiri resurselor triste. 45\n2.4. PUNCTE DE VEDERE PRO\u201d SI ,CONTRA\u201d ASUPRA EVALUAR si\n2.5. NECESITATEA OBIECTIVA A EVALIUARIERESURSELOR TURISTICE. ss\n2.6. METODE DE EVALUARE A RESURSELOR TURISTICE 58\n2.7. EVALLAREAININDCATORIFICIS\\CALITATIIARESLRSELO8TURSTICE ALECARPATILOR MERDDONAL. 65\n22.1. Probleme metodologice. 665\n27.2. Citeva caracteristict ale resurselorturistice ale Carpatilor Meriionall 07\n273. Situatia resurselor turistce de ordi natural. 69\n274. Situatia resurselr turstice de ordi antropic din Carpati Meridional, %"
             },
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 65,
                 "height": 226,
@@ -280,7 +280,7 @@
                 "text": "TURISM IN CARPATI MERIDIONALI\nCunoastere, dezvoltare si valorificare economic\u2019\n\nCUPRINS,\n\nCAP. L INTRODUCERE iN PROBLEMATICA..\nLL INSEMN DE RECUNOSTINTA SI MEREU ADUCERE AMINTE\n1.1.1. Emmanuel de Martonne si Carpait Meridionali\n1.1.2. Contibuticominest la cunoasterea Carpatilor Meridionali\n1.2 carPaTil\n1.2.1, Detimitarea Carpatilor Romanesti\n1.2.2 Delimitarea Carpatilor Meridionali\n1.3 CARPATILSIEUROPA,\n1.3.1 Carpatiromnesi i reprezemarea lor.\n1.3.2.Carpati in actualele reglementar legale\n1.3.3. Capat in comer european"
             },
             "21": {
-                "class": "text",
+                "class": "autor",
                 "x": 139,
                 "y": 34,
                 "height": 24,
@@ -303,7 +303,7 @@
         "pageHeight": "848",
         "sections": {
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 591,
                 "height": 22,
@@ -319,7 +319,7 @@
                 "text": "ANEXE \u00ab,"
             },
             "23": {
-                "class": "text",
+                "class": "titlu",
                 "x": 54,
                 "y": 564,
                 "height": 23,
@@ -336,7 +336,7 @@
             },
             "24": {},
             "25": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 325,
                 "height": 208,
@@ -352,7 +352,7 @@
                 "text": "\u2018CAP.V. PERSPECTIVELE DEZVOLTARH TURISMULUL IN CARPATH MERIDIONALL...\n\nSS. TRASATURI DE ORDIN GENERAL. 158,\n\n\u20185.2. TRASATURI DE ORDIN SPECIAL $1 PERSPECTIVELE DEZVOLTARI TURISMULUL 158,\n\n'5.3, DEZVOLTAREA INTENSIVA SAU EXTENSIVA A TURISMULUL 161\n\n53.4, CALITATEA, IMPERATIV MAJOR AL DEZVOLTARI TURISMULUI IN CARPATI MERIDIONALE 163\n\n\u20185.5. PRSPECINELEDEZ\\OLTARIIALNEOL GI, OOH NSIVACANTEIINCARPAE MERDINALSIMASLRLECESEDMPLNI 6S\n5.31. In loc de istric. 165\n\n532. Cains ~ Ciciata~ Cacia spine cap cian Napoleon efi atone. 168\n553. Biwina noua doanna a baleologie romney ~ Ble Herulane m\nS84 Bile Olney \u2014 wind de diolut pete 181\n55.3. Basen\u2019 saw salad de la Caml Apin la hoe Siva 183\n58.6 Poiana Brayoy ~ Poiana Soareli~ Poiana Turismulul 13\n5.5.7 bn imparatia sporaiorde iar la Predea. 187\n5.5.8 Sinaia pera Carpatlor. 190"
             },
             "26": {
-                "class": "text",
+                "class": "titlu",
                 "x": 53,
                 "y": 87,
                 "height": 236,
@@ -368,7 +368,7 @@
                 "text": "\u2018CAP.V. FACTORI $1 DIRECTILE DE DEZVOLTARE A TURISMULUL IN ZONA LUA\u2019\nSTUDI,\n\n4.1, FACTORN DEZVOLTARI TURISMULUI\n44.1. Factor de ordin general\n41.2. Factor particular\n\n4.2. DIRECTIILE DE DEZVOLTARE A TURISMULUIIN ZONA LUATA IN STUDIU\n42.1. Problema investor in turism.\n\n42.2. Baza material de cazare.\n\n42.3 Agrementl\n\n424. Lueritora in turism, cunostngle gi apttudinile sale.\n\n425. Factoral residual\u201d turism.\n\n42.6 Amenajareatursticd si pregitireateritoriului penta primireaturistilor.\n427. Ameliorarea si modernizarea elo de aces.\n\n4258. Faclitii necesare, facilis dort, fail posbile?\n\n429. Propaganda si reclam tristied adeevat\u00e9\n\n42.10. Proteca mediului inconjurdtor si turismul,o problem curenta si arzitoare"
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 219,
                 "y": 35,
                 "height": 25,
@@ -455,7 +455,7 @@
                 "text": "231"
             },
             "32": {
-                "class": "text",
+                "class": "autor",
                 "x": 140,
                 "y": 34,
                 "height": 25,
@@ -584,7 +584,7 @@
         "pageHeight": "849",
         "sections": {
             "38": {
-                "class": "text",
+                "class": "editura",
                 "x": 182,
                 "y": 611,
                 "height": 129,

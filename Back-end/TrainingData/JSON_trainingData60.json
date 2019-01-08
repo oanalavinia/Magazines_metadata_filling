@@ -6,7 +6,7 @@
         "pageHeight": "851",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "autor",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -29,7 +29,7 @@
         "pageHeight": "851",
         "sections": {
             "2": {
-                "class": "text",
+                "class": "isbn",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -52,7 +52,7 @@
         "pageHeight": "851",
         "sections": {
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -136,7 +136,7 @@
         "sections": {
             "12": {},
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 663,
                 "height": 120,
@@ -155,7 +155,7 @@
             "15": {},
             "16": {},
             "17": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 546,
                 "height": 100,
@@ -174,7 +174,7 @@
             "19": {},
             "20": {},
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 410,
                 "height": 122,
@@ -193,7 +193,7 @@
             "23": {},
             "24": {},
             "25": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 319,
                 "height": 78,
@@ -211,7 +211,7 @@
             "26": {},
             "27": {},
             "28": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 229,
                 "height": 78,
@@ -231,7 +231,7 @@
             "31": {},
             "32": {},
             "33": {
-                "class": "text",
+                "class": "titlu",
                 "x": 251,
                 "y": 112,
                 "height": 28,
@@ -247,7 +247,7 @@
                 "text": "CUPRINS"
             },
             "34": {
-                "class": "text",
+                "class": "autor",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -288,7 +288,7 @@
             "36": {},
             "37": {},
             "38": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 682,
                 "height": 77,
@@ -320,7 +320,7 @@
                 "text": "60"
             },
             "40": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 572,
                 "height": 94,
@@ -355,7 +355,7 @@
             "43": {},
             "44": {},
             "45": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 455,
                 "height": 101,
@@ -373,7 +373,7 @@
             "46": {},
             "47": {},
             "48": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 353,
                 "height": 91,
@@ -392,7 +392,7 @@
             "50": {},
             "51": {},
             "52": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 240,
                 "height": 100,
@@ -426,7 +426,7 @@
             },
             "55": {},
             "56": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 104,
                 "height": 123,
@@ -442,7 +442,7 @@
                 "text": "PERSONALITATEA SFINTILOR IMPARATI\nCONSTANTIN $I ELENA- STALPII CREDINTEL\nCRESTINE vessosssesoee\n\nProf. Vasile SIMON\nLiceul Tehnologic Stefan cel Mare, Cotnari, judetul lai"
             },
             "57": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -498,7 +498,7 @@
             },
             "60": {},
             "61": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 650,
                 "height": 101,
@@ -515,7 +515,7 @@
             },
             "62": {},
             "63": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 572,
                 "height": 68,
@@ -550,7 +550,7 @@
             "66": {},
             "67": {},
             "68": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 455,
                 "height": 100,
@@ -602,7 +602,7 @@
             },
             "74": {},
             "75": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 251,
                 "height": 122,
@@ -620,7 +620,7 @@
             "76": {},
             "77": {},
             "78": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 183,
                 "height": 54,
@@ -639,7 +639,7 @@
             "80": {},
             "81": {},
             "82": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 81,
                 "height": 92,
@@ -655,7 +655,7 @@
                 "text": "SFINTII IMPARATI CONSTANTIN $I ELENA-\nMODELE DE CONDUCATORI CRESTINI...\n\nProf. Oana-Elena CUCIUREANU\nScoala gimnaziala /on Creanga, Tg. Frumos"
             },
             "83": {
-                "class": "text",
+                "class": "titlu",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -711,7 +711,7 @@
             },
             "86": {},
             "87": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 671,
                 "height": 77,
@@ -744,7 +744,7 @@
             },
             "89": {},
             "90": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 580,
                 "height": 78,
@@ -778,7 +778,7 @@
             },
             "93": {},
             "94": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 444,
                 "height": 123,
@@ -811,7 +811,7 @@
             },
             "96": {},
             "97": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 354,
                 "height": 77,
@@ -845,7 +845,7 @@
             },
             "100": {},
             "101": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 240,
                 "height": 100,
@@ -879,7 +879,7 @@
             },
             "104": {},
             "105": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 81,
                 "height": 146,
@@ -895,7 +895,7 @@
                 "text": "CONTRUBUTIA OFERITA UMANITATH DE\nCONSTANTIN CEL MARE.\nProf. Andra PICIU\n\nLiceul cu Program Sportiv Petrache Trigcu, Craiova\nProf. Sebastian VIASIU\nScoala cu clasele I-VIII Lipov, Dol"
             },
             "106": {
-                "class": "text",
+                "class": "autor",
                 "x": 27,
                 "y": 27,
                 "height": 797,
@@ -988,7 +988,7 @@
                 "text": "154"
             },
             "117": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 280,
                 "height": 97,
@@ -1022,7 +1022,7 @@
             },
             "120": {},
             "121": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 197,
                 "height": 68,
@@ -1039,7 +1039,7 @@
             },
             "122": {},
             "123": {
-                "class": "text",
+                "class": "autor",
                 "x": 102,
                 "y": 84,
                 "height": 97,
@@ -1055,7 +1055,7 @@
                 "text": "Prof. Elena IONDACHE\nScoala Jon Creanga, Tg. Frumos- Iasi\n\nProf. Nona SERGHIAC\nLiceul Al. 1. Cuza, lagi"
             },
             "124": {
-                "class": "text",
+                "class": "autor",
                 "x": 27,
                 "y": 27,
                 "height": 797,

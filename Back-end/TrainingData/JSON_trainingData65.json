@@ -22,7 +22,7 @@
                 "text": "2012"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 270,
                 "y": 324,
                 "height": 26,
@@ -38,7 +38,7 @@
                 "text": "XXXII"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 181,
                 "y": 182,
                 "height": 61,
@@ -54,7 +54,7 @@
                 "text": "ACTA MOLDAVIAE\nMERIDIONALIS"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 154,
                 "y": 57,
                 "height": 24,
@@ -77,7 +77,7 @@
         "pageHeight": "776",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "editura",
                 "x": 113,
                 "y": 606,
                 "height": 24,
@@ -190,7 +190,7 @@
                 "text": "MARIAN ANTONIU"
             },
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 246,
                 "y": 82,
                 "height": 24,
@@ -206,7 +206,7 @@
                 "text": "COLEGIUL DE REDACTIE"
             },
             "14": {
-                "class": "text",
+                "class": "titlu",
                 "x": 113,
                 "y": 57,
                 "height": 22,
@@ -294,7 +294,7 @@
                 "text": "AARMSI\nACMI\nACNSAS.\n\nActa Arch\nActaMtM"
             },
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 122,
                 "y": 67,
                 "height": 23,
@@ -310,7 +310,7 @@
                 "text": "ABREVIERI ~ ABREVIATIONS ~ ABBREVIATION\n\n   \n\nBKORZUN"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 112,
                 "y": 29,
                 "height": 31,
@@ -484,7 +484,7 @@
             "37": {},
             "38": {},
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 106,
                 "y": 29,
                 "height": 31,
@@ -523,7 +523,7 @@
                 "text": "ADOBE SYSTEMS INCORPORATED, - , Ulizarea Adobe\u00ae Photoshop\u00ae\n(C54 pentr Windows Mac OS\", 345 Park Avenue, San Jose, California\n95110, USA\nCHANIBERS,V. Frank, The Camera n iltsrted Magazin devoted 0\nthe Advancement of Photography vo. Xi, The Camerea Publishing\nCompany, Philadlphia, 1907\nDIKO. L. siIOFIS,E.\u2014 Telnic arta fotografia Et. Tenis,\nBucuresti 1961\nGALER, Mark si HORVAT, Les~Jmaginea Digital, Ad Li\nBucuresti, 2008\nHARRISON, W. Jerome - 4 Histon\u2019of Photography with an appendix by\ndh, Madoxx onthe dcovery ofthe Gelatin ~ Bromide Process\u201d, Petey Lund\nCo, The Couey Pres, Brand, 1888\nWARNER, Mary Marien Photography ~4 Culural History\u201d, Lawenee\ning Publishing, London, 2002\nSPOTTISWOODE, Raymond and Nigel - The theory of tereoseopic\n\u2018rasmission & its apleation othe motion pcre\u201d, University of Calon\nPress, Beteley & Los Angels, 1953\n\nSAMMONS, Eddie The Mord of 3D Movies\u201d A Delphi Publication\noon\nNEWHALL, Beaumont Hisory of Photography\u201d The Museum of\nModern Ar, New York, 1954\nMeKAY, C,, Herbert Three-Dimensional Photography Principles of\nSereoscopy\u00ae, APP.C,NY. 1983"
             },
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 124,
                 "y": 156,
                 "height": 21,
@@ -584,7 +584,7 @@
                 "text": "REDACTAREA LUCRARII:\n\n* Asezarea in paging se fice in urmitoarea ordne: (1) till, 2) numele autoruui\n\n{autorlor), (3) euvintele cheie, (4) rezumatul luraii, (5) textul uci, (6) note\n\nbibliogratice, (7) biblografe (8) lista Figur, abeelor, fotografi, ee\n\n* FORMATUL LUCRARIE: este partiularzat la dimensiunile 17 em lime si 24\n\n2m indlime,avnd urmatoarele margini ~ 2.2 cm sus 41,5 em jos, 1,75 cm stings -\n\n\u2018reap; si cw orentare tip pore sau orientate tip vedere pengu hi, abel, Figur\n\nslalteclementecuprinse in anexe\n\n* TITLUL: si fie scut si sugestv,redactat eu Times New Roman, caractere de 11,\n\nBold, Centrat gi cu majuscule.\n\n AUTORUL/AUTORH: redactat cu Times New Roman, 11, Normal, aliniere\n\nreap (Right), se poztioncaz la un rnd ft det.\n\n* CUVINTE CHEIE: se pozitioneazi la un rind fa de autor (autor, redactat cu\n\nTimes New Roman, 11, Stinga-Dreapta (Justify), spaiere la 1 rind; se aeg euvinte\n\nsugestive ntlnit fcevent intext her\n\n# REZUMATUL: se poztioncaz la dou rinduri faa de cuvintele chei, redactat cu\n\nTimes New Roman, 11, ital, aliniere Stinga-Dregpta (Justify), yi si contin\u2019 0\n\nprezentare succint a luctiri orignal, fri citi, prescurtii sin limba de circulate\n\nternational, acccai casi in cazul euvnteorcheic\n\n+ REDACTAREA TEXTULU! LUCRARI textl se povitioneaz Ia dows indi\n\u2018cu sptiee la | rind gi se edacteazi cu Times New Roman,"
             },
             "44": {
-                "class": "text",
+                "class": "titlu",
                 "x": 106,
                 "y": 57,
                 "height": 286,

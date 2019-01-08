@@ -6,7 +6,7 @@
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "titlu",
                 "x": 257,
                 "y": 357,
                 "height": 28,
@@ -22,7 +22,7 @@
                 "text": "ACADEMICE"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 120,
                 "y": 357,
                 "height": 28,
@@ -45,7 +45,7 @@
         "pageHeight": "848",
         "sections": {
             "3": {
-                "class": "text",
+                "class": "isbn",
                 "x": 155,
                 "y": 645,
                 "height": 24,
@@ -118,7 +118,7 @@
         "sections": {
             "8": {},
             "9": {
-                "class": "text",
+                "class": "titlu",
                 "x": 394,
                 "y": 548,
                 "height": 39,
@@ -134,7 +134,7 @@
                 "text": "Vol. IV\nNr"
             },
             "10": {
-                "class": "text",
+                "class": "titlu",
                 "x": 255,
                 "y": 402,
                 "height": 27,
@@ -150,7 +150,7 @@
                 "text": "ACADEMICE"
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 132,
                 "y": 402,
                 "height": 27,
@@ -243,7 +243,7 @@
                 "text": "un"
             },
             "16": {
-                "class": "text",
+                "class": "autor",
                 "x": 56,
                 "y": 586,
                 "height": 86,
@@ -307,7 +307,7 @@
                 "text": "Domeniul de studiu: Estetic si teoria literatui,istoia $i filosofia culturit"
             },
             "20": {
-                "class": "text",
+                "class": "autor",
                 "x": 56,
                 "y": 137,
                 "height": 72,
@@ -323,7 +323,7 @@
                 "text": "Prof.dr. ALEXANDRU HUSAR ~ niscut la 26 aprilie 1920, in Tlva-Mare, judetul\n[Nasiud. A absolvit Facultatea de Flosofe si Litere din cadral Universiti\nBucuresti n 1945, ga obyinut dul de doctor in filosote, in 1972. Este profesor\n\nconsultant si Presedint al Comisci de Istria si Teoria Arte a Filial din lagi a\n\u2018Academie: Romine"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 55,
                 "y": 110,
                 "height": 24,
@@ -339,7 +339,7 @@
                 "text": "DATE BIOGRAFICE ALE AUTORILOR ACESTUI VOLUM"
             },
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 55,
                 "y": 50,
                 "height": 25,
@@ -395,7 +395,7 @@
                 "text": "Domeniul de studiu: istoriogratia secolelor XVI-XX."
             },
             "26": {
-                "class": "text",
+                "class": "autor",
                 "x": 139,
                 "y": 504,
                 "height": 99,
@@ -443,7 +443,7 @@
                 "text": "Domeniul de studiu: urbanism, administratie public."
             },
             "29": {
-                "class": "text",
+                "class": "autor",
                 "x": 139,
                 "y": 305,
                 "height": 73,
@@ -492,7 +492,7 @@
                 "text": "Domeniul de studiu: biologie vegetal."
             },
             "33": {
-                "class": "text",
+                "class": "titlu",
                 "x": 138,
                 "y": 45,
                 "height": 27,
@@ -563,7 +563,7 @@
                 "text": "Domeniul de studi: logic\u2019, metalogic\u2019, semiologie, hermeneutic\u2019,"
             },
             "37": {
-                "class": "text",
+                "class": "autor",
                 "x": 56,
                 "y": 307,
                 "height": 99,
@@ -611,7 +611,7 @@
                 "text": "Despre impactul Revolusiei franceze, 1994, Ed. Inst. European (varianta englez\n2000), lai: Diseurs istorii anifie, 1998, Fd. Inst. European, lag; Orizont\ninchs. Isoriografia rom\u00e9nd sub dictaturd, 2000, Bd. Inst. European, lags De la\nistoria critica la critciom.Istoriografia romana sub semnul moderated.\n2000, Ed, Enciclopedics, Bue.: Vasile P\u00e9rvan:dilemele unui istorc, 2002, Ei\n\nIns, European, Iii Istoriografa romand fa varstasintecet: A.D. Xenopol, 204,\nInst. European, Lai: Minail Kogdlniceany, arhitect al Rominel madene, 2008,\nInst. European, lai; Clio sub semnulinterogaie. lei, sugesti fur, 2006, Ed.\nPolirom, lagi; Romanogermanien. Secvengeistorcoreulurale, 2006, Fd, Univ\n\nALL Caza\u201d, Lash,"
             },
             "40": {
-                "class": "text",
+                "class": "titlu",
                 "x": 55,
                 "y": 50,
                 "height": 25,
@@ -682,7 +682,7 @@
                 "text": "Domeniul de studiu: Psibiatre (pedopsihiatre.sifilis nervos), Istoria Medicine,"
             },
             "44": {
-                "class": "text",
+                "class": "autor",
                 "x": 139,
                 "y": 467,
                 "height": 61,
@@ -731,7 +731,7 @@
                 "text": "Domeniut de studiu: geotog"
             },
             "48": {
-                "class": "text",
+                "class": "autor",
                 "x": 139,
                 "y": 130,
                 "height": 86,
@@ -763,7 +763,7 @@
                 "text": "Distinefii: Premiul Academic; Romine, 1987."
             },
             "50": {
-                "class": "text",
+                "class": "titlu",
                 "x": 138,
                 "y": 45,
                 "height": 27,
@@ -850,7 +850,7 @@
                 "text": "\u2018Domeniul de studiu: istorie medieval8."
             },
             "55": {
-                "class": "text",
+                "class": "autor",
                 "x": 56,
                 "y": 320,
                 "height": 73,
@@ -898,7 +898,7 @@
                 "text": "Pasirea Pheonix, 2000, Ed. Contact, Iasi: Foigorul pentru contemplat ploaia,\n2002, Ed. Chemarea, Iii: Rosa canina, 2004, Ed. Apollonia, lsi. 24 aricole\n\n\u2018despre istoria invsigimantului medical ieean, Relaia etologiepsihiatre in Bul\nCentr. Neurostinfe, Socola,lasi (in clab. cu Romanescu Alexandru, Toronto)."
             },
             "58": {
-                "class": "text",
+                "class": "titlu",
                 "x": 55,
                 "y": 50,
                 "height": 25,
@@ -921,7 +921,7 @@
         "pageHeight": "848",
         "sections": {
             "59": {
-                "class": "text",
+                "class": "editura",
                 "x": 172,
                 "y": 570,
                 "height": 102,

@@ -6,7 +6,7 @@
         "pageHeight": "776",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "autor",
                 "x": 252,
                 "y": 339,
                 "height": 25,
@@ -22,7 +22,7 @@
                 "text": "Dumesti \u2014 Iasi"
             },
             "2": {
-                "class": "text",
+                "class": "autor",
                 "x": 145,
                 "y": 309,
                 "height": 25,
@@ -54,7 +54,7 @@
                 "text": "\u00b0\u00b0 proza"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 213,
                 "y": 177,
                 "height": 31,
@@ -77,7 +77,7 @@
         "pageHeight": "776",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "isbn",
                 "x": 85,
                 "y": 656,
                 "height": 23,
@@ -133,7 +133,7 @@
                 "text": "\u00b0\u00b0 proz\u00e9"
             },
             "9": {
-                "class": "text",
+                "class": "titlu",
                 "x": 213,
                 "y": 222,
                 "height": 31,
@@ -149,7 +149,7 @@
                 "text": "ANTOLOGIE"
             },
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 171,
                 "y": 62,
                 "height": 67,
@@ -310,7 +310,7 @@
             },
             "22": {},
             "23": {
-                "class": "text",
+                "class": "titlu",
                 "x": 84,
                 "y": 234,
                 "height": 456,
@@ -326,7 +326,7 @@
                 "text": "\u2018Buta Alexa Francesca Lara ~ Media\nTacob Anca ~ Motrs, Gor\n\n(Caprariu Bianca ~ Drobeta-Turmu Severin, Mehedinj\nNecyuliu Laura luliana ~ Ladest, Valoea\n\nFlorian Mara ~ Satu Mare\n\nLinea Cezar Busebiu ~ Valenii de Munte, Prahova\nGibu Ana Maria ~ Dorohei, Botosani\n\n\u2018Simbeteanu Corina ~ Eforie Sud, Constanta\n\nStan Loredana ~ Asuaju de Sus, Maramures\n\n\u2018Coman Dana Maria ~ Moise, Maramures\n\u2018irmaneseu Stefan \u2014 Dumest ast\n\nTracicara Rare ~Faltcen, Suceava\n\nGrigoruj\u00e9 Alexandra ~ last\n\n\u2018Agapi Amalia ~ Brosedu, Botosani\n\nDarabincanu Alexandra Valea Lupulu, las\nNistor Denis ~ Zabrani, Arad\n\nAchim Bianea ~ Asuaju de Sus, Maramures\n\n\u2018Adiscliei Loredana ~ Brosciuti, Botosani\n\u2018Aicoboae Daria-loana ~ Vatra Dome, Suceava.\n\n\u2018Ali Siiel~ Efore Sud, Constanja\n\nBala Carla ~ Satu Mare\n\nBeres Geanina\n\n[Blaga Calina ~ Dumbrivi, Maramures\n\nBoer Ramona ~ Eforie Sud, Constanga\n\n(Casap Sebastian ~ Timisoara, Tims\n\n(Clean Cristina ~ Zabrani, Arad\n\nCChifor Criciun Miruna~ Mibail Kogilniceanu, fama\nCiobanu Geanina ~ Dumesti, asi\n\nCiocan Teodora ~ Viiden, Lai\n\n\u2018Coman loan Alexandru ~ Moise, Maramures\n\u2018Constantinescu Cristina ~ forie Sud, Constanja\nCucoveica Andreea ~ Dumest, lagi\n\n(Czenke Beatrix Andrid, Satu Mare\n\nDavid Alexandea ~ Iasi"
             },
             "24": {
-                "class": "text",
+                "class": "titlu",
                 "x": 84,
                 "y": 196,
                 "height": 36,
@@ -343,7 +343,7 @@
             },
             "25": {},
             "26": {
-                "class": "text",
+                "class": "titlu",
                 "x": 252,
                 "y": 101,
                 "height": 27,
@@ -399,7 +399,7 @@
                 "text": "150)"
             },
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 84,
                 "y": 99,
                 "height": 595,
@@ -455,7 +455,7 @@
                 "text": "161\n162\n163,\n168\n165,\n166\n168\n171"
             },
             "34": {
-                "class": "text",
+                "class": "titlu",
                 "x": 84,
                 "y": 61,
                 "height": 112,
@@ -479,7 +479,7 @@
         "pageHeight": "776",
         "sections": {
             "36": {
-                "class": "text",
+                "class": "editura",
                 "x": 160,
                 "y": 615,
                 "height": 73,
