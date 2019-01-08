@@ -1,5 +1,6 @@
 {
     "numberOfPages": 197,
+    "title":"Mituri exemplare",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -84,7 +85,7 @@
                     541,
                     225
                 ],
-                "text": "prof. univ. dr. Stefan Afloroaei\nFacultatea de Filosofie\n\n \n\nUniversitatea Alexandru Ioan Cuza\u201d, Iasi"
+                "autor": "prof. univ. dr. Stefan Afloroaei\nFacultatea de Filosofie\n\n \n\nUniversitatea Alexandru Ioan Cuza\u201d, Iasi"
             },
             "7": {
                 "class": "text",
@@ -100,7 +101,7 @@
                     359,
                     133
                 ],
-                "text": "Mituri exemplare"
+                "titlu": "Mituri exemplare"
             },
             "8": {
                 "class": "text",
@@ -116,7 +117,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la stiinta"
             }
         }
     },
@@ -203,7 +204,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -290,7 +291,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -377,7 +378,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -433,7 +434,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -489,7 +490,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -545,7 +546,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -617,7 +618,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -705,7 +706,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     },
@@ -761,7 +762,7 @@
                     398,
                     77
                 ],
-                "text": "COSMOGONIA ~ de la mit la gtiinga"
+                "titlu": "COSMOGONIA ~ de la mit la gtiinga"
             }
         }
     }

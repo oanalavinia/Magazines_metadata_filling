@@ -1,5 +1,6 @@
 {
     "numberOfPages": 80,
+    "title":"Sfera",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -23,7 +24,7 @@
             },
             "2": {},
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 146,
                 "y": 388,
                 "height": 56,
@@ -47,7 +48,7 @@
         "pageHeight": "849",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "autor",
                 "x": 303,
                 "y": 376,
                 "height": 389,
@@ -63,7 +64,7 @@
                 "text": "- Cosmina Marcu, IX G\n- Eliza Caraiman, VC\n\n- Andrei Acostachioaie, X B\n- Andrei Anusea, II C\n\n- $tefana Ungureanu, XI A\n- Alexandra Ailenei, XI A\n\n- Elena Olaru, XIE\n\n- Diana Patrascu, XI A\n\n- Andreea Zabulic, X E\n\n- Ioana Hogea, III B\n\n- Virgil Rosu, III B\n\n= Tonica Rosca, III A\n\n- Miriam Hobinea, VII C\n\n- Oana Rotariu, XIA\n\n- Ionut Ivanov, X D\n\n- Claudia Tiba, X B\n\n- Bogdan Ungureanu, IX D"
             },
             "6": {
-                "class": "text",
+                "class": "autor",
                 "x": 76,
                 "y": 376,
                 "height": 388,
@@ -95,7 +96,7 @@
                 "text": "Redactori si colaboratori:"
             },
             "8": {
-                "class": "text",
+                "class": "autor",
                 "x": 76,
                 "y": 127,
                 "height": 184,
@@ -111,7 +112,7 @@
                 "text": "- Ton Cazacu-Davidescu\n- Irina Pasat\n\n- Gicuta Agheorghiesei\n- Gabriela Hrijeu\n\n- Adriana Apostol\n- Elena Dasealiga\n- Cristina Paval\n\n \n\n-Tonela Luca"
             },
             "9": {
-                "class": "text",
+                "class": "autor",
                 "x": 310,
                 "y": 124,
                 "height": 186,
@@ -223,7 +224,7 @@
                 "text": "\u201cIsticioaia Cristina ( Miss Boboc):\nSeara balului a fost una special, atit pentru noi boboci, edt si pentru onganizatorit care a\nrmuneit din grew alaturi de noi,\n\nDincolo de zimbetele de pe fejele noastre,s\nascundeau emotii pe care doar noi le simgeary ct\nadevarat, Asta pind la proba de aptitudini care a\nridicatintregul concurs la rang de spectacol. Dest am\nvat momente separate de partenerul meu, Lucian\nrob, ne-am distrat nemaipomenit la repetii, dar si\nin seara ball.\n\n \n\nPunctul culminant al sexi a fost, evident,\nanunjarea cistigatorlor, care ma surprins int-un\nsod plicutatat pe mine et si pe Ungureanu Bogdan,\n{In urmatoarele 5 secunde nu stiam cum s3 reactione7,\nru stiam daca este adevarat sau nu. Pentru toate\nacestea fin si le mulfumese doamnelor profesoare\nDDascalija Elena si Marinescu Ramona, care au avut \u00a9\nrabdare iesitt din comun si Laviniei Burlean,\nRoxane Mitrea, Stefaniei Rosca, Loredanei Mihai\nprecum si lui Midalin Serban, Andrei Teodoritu si\nRadu Manalachiose, pentru efortul depus. A fost 0\nexpetientl extraordinara, pe care ag vtea si 0 repet\noricind\n\n  \n\n*Ungureanu Bogdan (Mister Bobac):\n\n\u2018Total sa petrecut foarte frumos. Din punctul\nmeu de vedere, a fst cel mai reusit bal, unde cu tof\nnesam simit minunat,alaturi de prezentatori\n\n\u2018A fost 0 seardminunatd, in care am fost\naprecayi, eu si partenera mea, Andra Morosanu,\npentru piesa noastr de teatru, care se pare ch mi-a\ndus succesul. M-am simit extraordinar, alaturi de\ncolegit mei, care a Iuat putin foc in momenta in care\nprezentatorit se progitea si anunfe cistigatort\ntitlului de Miss gi Mister Boboc, ai ediiei 2013. Cu\ntofi eram cu sufletele la gur8 si nerdbdatori st aflim\ncistigitorl A fost o surpriza atat pentru mine eit si\npentru cistigatoarea titului de Miss, acordat Cristinei\nIstcioaia, tit pe care La meritat din plin datoits\nvocii sale extraordinare si timbrului vocal\nrnemaipoment\n4 | Amal 6 | bra 2014 | fer"
             },
             "17": {
-                "class": "text",
+                "class": "titlu",
                 "x": 47,
                 "y": 43,
                 "height": 57,
@@ -262,7 +263,7 @@
                 "text": "Ser | Anal XT Nit | Febru 2014 | 75."
             },
             "19": {
-                "class": "text",
+                "class": "autor",
                 "x": 355,
                 "y": 729,
                 "height": 25,
@@ -278,7 +279,7 @@
                 "text": "Lupu Paula - VIB"
             },
             "20": {
-                "class": "text",
+                "class": "autor",
                 "x": 118,
                 "y": 729,
                 "height": 22,
@@ -313,7 +314,7 @@
                 "text": "R a\naD vo\n\nOs\n\nCe\n<@"
             },
             "25": {
-                "class": "text",
+                "class": "titlu",
                 "x": 243,
                 "y": 517,
                 "height": 25,
@@ -329,7 +330,7 @@
                 "text": "~ Expedifie la Pol ~"
             },
             "26": {
-                "class": "text",
+                "class": "autor",
                 "x": 171,
                 "y": 460,
                 "height": 21,
@@ -345,7 +346,7 @@
                 "text": "\u2018Ghioe Diana Elena - VIA"
             },
             "27": {
-                "class": "text",
+                "class": "autor",
                 "x": 351,
                 "y": 459,
                 "height": 22,
@@ -363,7 +364,7 @@
             "28": {},
             "29": {},
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 237,
                 "y": 274,
                 "height": 23,
@@ -388,7 +389,7 @@
         "sections": {
             "32": {},
             "33": {
-                "class": "text",
+                "class": "autor",
                 "x": 140,
                 "y": 737,
                 "height": 22,
@@ -404,7 +405,7 @@
                 "text": "\u2018Marian Adriana Midilina - XI"
             },
             "34": {
-                "class": "text",
+                "class": "autor",
                 "x": 345,
                 "y": 735,
                 "height": 22,
@@ -422,7 +423,7 @@
             "35": {},
             "36": {},
             "37": {
-                "class": "text",
+                "class": "autor",
                 "x": 374,
                 "y": 510,
                 "height": 21,
@@ -438,7 +439,7 @@
                 "text": "Puiu Toana- VIA"
             },
             "38": {
-                "class": "text",
+                "class": "autor",
                 "x": 140,
                 "y": 510,
                 "height": 21,
@@ -456,7 +457,7 @@
             "39": {},
             "40": {},
             "41": {
-                "class": "text",
+                "class": "autor",
                 "x": 365,
                 "y": 312,
                 "height": 22,
@@ -472,7 +473,7 @@
                 "text": "\u2018Casian Delia - VIB"
             },
             "42": {
-                "class": "text",
+                "class": "autor",
                 "x": 133,
                 "y": 312,
                 "height": 24,
@@ -490,7 +491,7 @@
             "43": {},
             "44": {},
             "45": {
-                "class": "text",
+                "class": "titlu",
                 "x": 260,
                 "y": 102,
                 "height": 25,
@@ -530,7 +531,7 @@
                 "text": "Ser | Anu XT Nit | Febru 2014 | 77"
             },
             "48": {
-                "class": "text",
+                "class": "autor",
                 "x": 256,
                 "y": 735,
                 "height": 22,
@@ -546,7 +547,7 @@
                 "text": "Jon Nela - VIIA,"
             },
             "49": {
-                "class": "text",
+                "class": "autor",
                 "x": 105,
                 "y": 734,
                 "height": 22,
@@ -562,7 +563,7 @@
                 "text": "Nistor Mihaela -IX F"
             },
             "50": {
-                "class": "text",
+                "class": "autor",
                 "x": 387,
                 "y": 733,
                 "height": 22,
@@ -581,7 +582,7 @@
             "52": {},
             "53": {},
             "54": {
-                "class": "text",
+                "class": "autor",
                 "x": 373,
                 "y": 510,
                 "height": 24,
@@ -597,7 +598,7 @@
                 "text": "\u2018Negru losif - IXD_"
             },
             "55": {
-                "class": "text",
+                "class": "autor",
                 "x": 130,
                 "y": 510,
                 "height": 21,
@@ -617,7 +618,7 @@
             "58": {},
             "59": {},
             "60": {
-                "class": "text",
+                "class": "autor",
                 "x": 117,
                 "y": 313,
                 "height": 21,
@@ -633,7 +634,7 @@
                 "text": "Nistor Bianca Petronela"
             },
             "61": {
-                "class": "text",
+                "class": "autor",
                 "x": 333,
                 "y": 312,
                 "height": 22,
@@ -651,7 +652,7 @@
             "62": {},
             "63": {},
             "64": {
-                "class": "text",
+                "class": "titlu",
                 "x": 266,
                 "y": 102,
                 "height": 22,

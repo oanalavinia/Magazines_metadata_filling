@@ -1,5 +1,6 @@
 {
     "numberOfPages": 64,
+    "title":"Coronita prieteniei",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -39,7 +40,7 @@
                 "text": "Nr."
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 196,
                 "y": 429,
                 "height": 24,
@@ -55,7 +56,7 @@
                 "text": "Revista nationala de specialitate"
             },
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 172,
                 "y": 396,
                 "height": 32,
@@ -273,7 +274,7 @@
                 "text": "EDUCATIA INCLUZIVA - PROCES DE IMBUNATATIRE IN ACTIVITATEA DIDACTICA..\nlnv Apetei Simona, Scoala cu clasele | Vil, Sie, judo\n\nVEVERITA RITA $1 RILA -IEPURILA. 10\n\na: Naf\u2019 Cosmin Mara, caso aka A, Scoaac clsee Vl Sef, Locata Sebo, ud\nlas, Coordonator, prot. inv. primar, Viorica Matti. 10"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 252,
                 "y": 68,
                 "height": 28,
@@ -296,7 +297,7 @@
         "pageHeight": "848",
         "sections": {
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 778,
                 "height": 41,
@@ -529,7 +530,7 @@
                 "text": "\u2018COPIII SE JOACA PRETUTINDENI,\n\n \n\nGradina cu program normal Humosu, judas"
             },
             "38": {
-                "class": "text",
+                "class": "editura",
                 "x": 64,
                 "y": 323,
                 "height": 41,
@@ -545,7 +546,7 @@
                 "text": "Ed. Nemfanu Anigoara, Gradinta nr. 1 Cristesti Grup Scolar Cristo"
             },
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 278,
                 "height": 44,
@@ -688,7 +689,7 @@
                 "text": "Grridinita constituie \u00a9 tapi fundamental in dezvoltarea copilului, mu doar prin\ncontinutul singfic al procesuuiinsructiv ~ educatv, ci si prin hieratea de acjiune a\nPrescolaru, care-i stimuleaza interessle de cunoastere si contribu la Tigivea cimpulut de\nreli sociale\n\nAdes, cind explo universul fist umane ne confuntim cu 6 mare diverse.\nCopii care ne tree pragul grupelor noastre ne pun in situafa de a cite merew solu le\nproblemele ridcate. De cele mai multe ori gisim soluile cele mai bune penta copi. Uncori\nSuntem ined puse in difeutate de complexitatea problemelor. Ce este bine penta copii in\ncai? Dar pent ceili capi din grup? Avem resursesufiiente pentru a depisiproblemele\nspire?\n\nrice copil se conffunt, la un moment dat cu o situatie speciala care necesitd 0\nIntervent personalizat.Educatia pena toi poate si fe un mijloe de imbunitre a educate\nin general prin reconsierarea sprijnulu ce se acorda anumitorcopi. In orice institute exist 0\nmanier\u00e9 de a impari copii in eategori determinate, dtortaparculartilor de dezvolare si\nInvajare a acetora, Edvcatia pentru tti pomeste de la premisac@ orice copl este 0 persoand\ncae inva it-un ana rit itil i dec poate ave nevoia de un spin deri.\n\nin Declarata de la Salamanca se spune e& Scoala obignita cu o orentare ineluzivi\nreprezintt milocul cel mai efcient de combatere a attudinilor de disriminare, un mile care\ncreeazi comunit primitoare,consrueseo societate inclzivi oer educate petra tot: mai\n\u2018mul, cle asigur o educatieefcientS pentra majoitateacopior st imbundtaeseefiiena 3,\npin a ued, chia irentabiltata sister de ivan\n\nPentra a se adtesa tuturor copilor si a deveni deschisa, flexi, adapta 5 orienta\nspre fecare si penira toi, educaiatrebuie si presupuna in practic 0 schimbare de optic i\nanume 9 noua orientare care pune accentul pe cooperae, parteneria, invtare social. 5\n\u2018aloriare a relator pozitive, umaniste in educate:\n\neducatia pena toi coresunde in edcafagcolarascoliineluve\n\nScoala incliziv\u00e9 se refers in sens restrins Ia nfegrrcalinclodereatuturor copillor\nindiferent de capaciatile si competenfele de adaptare si deci de invstae, into formi de\n\n \n\ngina 2"
             },
             "48": {
-                "class": "text",
+                "class": "autor",
                 "x": 59,
                 "y": 351,
                 "height": 25,
@@ -704,7 +705,7 @@
                 "text": "Manole Constanta, colar Stolnic"
             },
             "49": {
-                "class": "text",
+                "class": "titlu",
                 "x": 214,
                 "y": 308,
                 "height": 29,
@@ -717,7 +718,7 @@
                     385,
                     337
                 ],
-                "text": "EDUCATIA INCLU"
+                "text": "EDUCATIA INCLUZIVA"
             },
             "50": {
                 "class": "text",
@@ -816,7 +817,7 @@
                 "text": "Drepturile copilului sunt acum lege. Legea urmireste sprijinirea familiei si comunitat\ncare exista in jurl fiecirui copil, incercdnd sa le ofere sprijin in procesul atat de complex care\neste cresterea unui copil. O mai buna cunoastere a drepturilor copilului va conduce la\nrespectarea acestora sil 0 viata mai bund pentru tofi copii. De aceea, este foarte important ca\ndin ce in ce mai multe persoane din Rominia sa aiba cunostinye despre drepturile copiluli\nInjelegind ce inseamna in practica aceste drepturi, cu toit vom fi mai avizaji despre felul in care\n\u2018rebuie sa ne purtam cu copii\n\nDrepturile copilului sunt stabilite foarte clar. Pentru prima data, ca principala responsabilitate de\n\n\u2018a creste un copil revine mai inti de toate parintlor naturali ai acestuia, Legea obliga de\n\n\u2018asemenea comunitatea locali si sprijine copilul si fami\n\nTati cateva din drepturle copiilor ce ar trebui respectate cu sfintenie de etre noi toi si anume:\nfri discriminare, indiferent de rasd, culoare, sex, nafionalitate sau etnie,\n\nreligie, opinii politice, stare materiala sau pozitie social\u00e9, dizabiitti din nastere sau de orice"
             },
             "57": {
-                "class": "text",
+                "class": "titlu",
                 "x": 59,
                 "y": 68,
                 "height": 48,
@@ -829,7 +830,7 @@
                     429,
                     116
                 ],
-                "text": "AU DREPTURI EGALE"
+                "text": "TOTI COPIII AU DREPTURI EGALE"
             }
         }
     },
@@ -887,7 +888,7 @@
                 "text": "inurma destiguririi actiunii cercului pedagogic la Gridinita Humosu, com. Sirefel, sa\nivitideea derulrit unui parteneriat eu Gridinita cu program prelungit ar. 2 Pageant, jud, Iasi,\ncoordonat de citte educatoarele Veronica Pantelimon si Florica long. Interesul comun pent\nobiceuri si tradi. dorinja de promovare a prietenei inte copi,precum si dorinja cadrelor\ndidactice , a pirinlor de la Pageani de @ pune in contact nemijlocit copii cu elemente ale\nrediuli, ne-au determinat s& gandim realizaea unui parteneria. In acest scop am proiectat un\nparteneriatul smanifestat prin :vizite reciproce si corespondenta periodied prin care ne\n\n\u2018mpartasim experienfele cele mai interesante ,noutaiaflate ,confinuturile abordate de fiecare in\ndesfigurarea procesului didactic in gridiniti, imbinind activityile curriculare cu cele\nextracutriculae si extraycolare.\nScopul proiectului a fost de cunoastere reciproci a activititii din cele dowd gridinite\npartenere side a lega prietenii intr copiti de la sat gi cei de la ora.\nintalirile s-au desfagurat astiel\n\u00a5 Siaict invatd copii prescotari! -vizitarea Gridinijei Humosu, cunoasterea"
             },
             "61": {
-                "class": "text",
+                "class": "autor",
                 "x": 59,
                 "y": 218,
                 "height": 51,
@@ -900,7 +901,7 @@
                     421,
                     269
                 ],
-                "text": "let Geta, Griidinita cu program normal Humosu, jud.Jasi"
+                "text": "Facalet Geta, Griidinita cu program normal Humosu, jud.Jasi"
             },
             "62": {
                 "class": "text",

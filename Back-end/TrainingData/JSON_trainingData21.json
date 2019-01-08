@@ -1,12 +1,13 @@
 {
     "numberOfPages": 209,
+    "title":"Tainele istoriei Mariajul legendelor",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 253,
                 "y": 712,
                 "height": 51,
@@ -22,7 +23,7 @@
                 "text": "Editura PIM\n2008"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 180,
                 "y": 234,
                 "height": 76,
@@ -35,10 +36,10 @@
                     419,
                     310
                 ],
-                "text": "Cainele istor\nMirajul legendelor"
+                "text": "Cainele istoriei\nMirajul legendelor"
             },
             "3": {
-                "class": "text",
+                "class": "autor",
                 "x": 312,
                 "y": 99,
                 "height": 31,
@@ -54,7 +55,7 @@
                 "text": "FILIP"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 214,
                 "y": 98,
                 "height": 32,
@@ -77,7 +78,7 @@
         "pageHeight": "848",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "isbn",
                 "x": 95,
                 "y": 443,
                 "height": 167,
@@ -116,7 +117,7 @@
         "pageHeight": "848",
         "sections": {
             "7": {
-                "class": "text",
+                "class": "titlu",
                 "x": 55,
                 "y": 55,
                 "height": 738,

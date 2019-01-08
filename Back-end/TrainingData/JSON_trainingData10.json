@@ -1,5 +1,6 @@
 {
     "numberOfPages": 106,
+    "title":"Biblioteca-Educatie-Cultura",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -38,7 +39,7 @@
                 "text": "\u201cBiblioteca - Educatie - Cultura\u201d, revista\nbibliotecarilor din invatamantul _vastluian,\npublicatie ajunsa la nr. 10, editata de ABR, filiala\nVaslui si CCD Vaslui, este dedicata activitatii\nbibliotecarilor din judetul Vaslui, desfasurata in\n\nanul scolar 2009- 2010. Aceasta reflecta schimbul\nde experienta al bibliotecarilor scolari din judetul\nVaslui la Suceava cu bibliotecarii din judetul\nSuceava, in perioada 29 octombrie - 1 noiembrie"
             },
             "3": {
-                "class": "text",
+                "class": "autor",
                 "x": 348,
                 "y": 151,
                 "height": 29,
@@ -54,7 +55,7 @@
                 "text": "Prof, Andrei Huiban"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 148,
                 "y": 89,
                 "height": 52,
@@ -136,7 +137,7 @@
                 "text": "noiembrie 10, 2009 la 6: 37 pm | Postat in\nbiblioteci scolare, fenimente\n\n \n\nprofesionale | Las"
             },
             "12": {
-                "class": "text",
+                "class": "titlu",
                 "x": 124,
                 "y": 109,
                 "height": 52,
@@ -161,7 +162,7 @@
             "13": {},
             "14": {},
             "15": {
-                "class": "text",
+                "class": "autor",
                 "x": 361,
                 "y": 190,
                 "height": 47,

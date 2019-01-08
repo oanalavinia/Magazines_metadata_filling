@@ -1,5 +1,6 @@
 {
     "numberOfPages": 114,
+    "title":"Cadente peste timp",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -50,7 +51,7 @@
                 "text": "Revista cadrelor militare in rezerva si a veteranilor de razboi\njudetul Vash"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 427,
                 "y": 353,
                 "height": 45,
@@ -67,7 +68,7 @@
             },
             "4": {},
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 50,
                 "y": 353,
                 "height": 56,
@@ -210,7 +211,7 @@
                 "text": "Cu ocazia prezintirii unui memoriu cerut de Ministerul de Finante, cu\n\u2018intimpinari asupra anteprocctului legit generale de pensiuni intocmit de acel\nminister (Casa generali de pensiuni) anul trecut, Societatea ofiterilor in rezerva si\nretragere \u201cCarol al Il-lea\u201d, printr-o declaratie preliminard, arta cd adunarea\ngenerali a societatii, constienta de conditiunile exceptionale sub care trebuie privitd\nsi solutionata, prin lege, chestia pensiilor militare, ramane nestrdmutatd in credinta\ncA administrarea deplind a acestor pensii trebuie si se facd neaparat sub autoritatea\nMinisterului Apararii Nationale si pe baza unei legi speciale, cum se face si in alte\n{ari si cum s-a mai flicut cu succes, altaidatd, si la noi.\n\nDeclaratia aceasta prealabili a Soc. \u201cCarol al Il-lea\u201d, f\u00e9cdnd aluzie la\nstarea precard a pensiilor militare de la rizboi incoace, exprima o eruda si extrem\nde dureroasa realitate.\n\nDar dacd starea aceasta precarl a pensiilor noastre militare ar fi\ndeterminata numai de criza economica si financiara postbelica, este evident ci ea\nnar justifica elaborarea unei legi de pensii speciale pentru militari, intrucat\ncons\u00e9cinfele crizei, atingdnd toate categoriile de bugetari, in mod egal si, respectiv,\nproportional, nu se pot cere si nici acorda exceptiuni si privilegii, In realitate, ins,\nnu este numai criza cauza existenfei si gravitatii starii precare in chestiune.\n\nCauza sau mai bine zis cauzele genetice ale stiri precare a pensiilor\n\niva in cea mai mare parte numai din eroarea ce s-a facut in 1902, cand"
             },
             "14": {
-                "class": "text",
+                "class": "autor",
                 "x": 375,
                 "y": 409,
                 "height": 27,
@@ -226,7 +227,7 @@
                 "text": "de general Alexe Anastasiu"
             },
             "15": {
-                "class": "text",
+                "class": "titlu",
                 "x": 147,
                 "y": 377,
                 "height": 26,
@@ -572,7 +573,7 @@
         "pageHeight": "877",
         "sections": {
             "41": {
-                "class": "text",
+                "class": "editura",
                 "x": 167,
                 "y": 662,
                 "height": 94,

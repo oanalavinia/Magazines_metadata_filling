@@ -1,12 +1,13 @@
 {
     "numberOfPages": 124,
+    "title":"Simpozion national Creativitate si modernitate in scoala romaneasca",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "853",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 256,
                 "y": 733,
                 "height": 51,
@@ -54,7 +55,7 @@
                 "text": "EDITIA A VE-A"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 162,
                 "y": 352,
                 "height": 39,
@@ -70,7 +71,7 @@
                 "text": "IN SCOALA ROMANEASCA"
             },
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 123,
                 "y": 317,
                 "height": 35,
@@ -86,7 +87,7 @@
                 "text": "CREATIVITATE $I MODERNITATE"
             },
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 193,
                 "y": 258,
                 "height": 28,
@@ -141,7 +142,7 @@
                 "text": "Responsabilitatea pentru continutul materialelor apa\nwutorilor."
             },
             "9": {
-                "class": "text",
+                "class": "isbn",
                 "x": 222,
                 "y": 520,
                 "height": 27,
@@ -164,7 +165,7 @@
         "pageHeight": "848",
         "sections": {
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 51,
                 "y": 736,
                 "height": 55,
@@ -180,7 +181,7 @@
                 "text": "Prof. Doina Citilina COZARIUCIUC\n\n \n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi"
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 50,
                 "y": 711,
                 "height": 24,
@@ -212,7 +213,7 @@
                 "text": "1, UNALTFEL DE\nProf, Luiza POTOROACA\n\nLiceul Teoretic Al. I. Cuz lagi\n\n2. POPULATIA SI MEDIUL INCONJURATOR..\nProf, Diana Elena NASTURAS.\n\nLiceul Teoretie Al. I Cuza\", lai / Colegiul National .G. Tbrileanu\u201d, lagi\n3. BISERICA ORTODOXA ROMANA SI AL DOILEA RAZBOI MONDIAL:\nMISIUNEA BISERICEASCA PENTRU TRANSNISTRIA.\n\nProf, Costel COAIA\n\nLiceul Tehnologie -Anghel Saligny\u201d, kasi\n\n4. PORTOFOLIUL-METODA DE EVALUARE..\nProf, Simona ARSENI\n\nColegiul Tehnic .Dimitrie Ghiks\", Comainesti\n5. MISCAREA ONIRICA,\nProf, lina Eugenia BACIU\nScoala Gimnaziala ,Dimitrie Cantemit\", Vaslui\n6. ROLUL PADURILOR SI ARILE DE\nMUNICIPIUL 1ASL\n\nProf, Marius BACIU\nLiceul Tehnologie ,lon Mineu\u201d, Vaslui\n7. ALIMENTATIA, UN PERICOL LA ADRESA SANATATI\nProf, Citalin Constantin IOAN\n\nLiceul Tehnologie ,Anghel Salizny\u201d, lai\n\n8. INVATARE ACTIVA.\nProf, Mariana STANA\n\nProf, Adriana Roxana GAVRIL\n\nLiceul Tehnologie Anghel Saligny\u201d, kasi\n\n9. REMINISCENTE IRANIENE IN CIVILIZATIA ROMANA TRADITIONAL:\nProf, Dr. Cezar FURTUNA\n\nLiceul de Informatics .Grigore Moisi\" lasi/ Liceul Teoretic\n10, METODE SI TEHNICI INTERACTIVE DE GRU!\nProf, Alina Maria JONESCU\n\nLiceul Tehnologic ,Anghel Salizny\u201d, lagi\n\n11, FUNCTIA ELEMENTELOR STRUCTURALE. ROLUL PRAGMATIC\nAL PARATEXTULUL IN DISCURSUL PUBLICISTIC ROMANESC ACTUAL.\nProf, Natalia Alina COPACEL\n\nLiceul Tehnologie ,Anghel Saligny\u201d lai\n\n \n\nGEORGE ENESCU\n\n \n\n   \n\n \n\n \n\n   \n\n \n\n \n\n{GETATIE PROTEJATE IN\n\n \n\n \n\n1.1. Cuza, las"
             },
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 125,
                 "height": 27,
@@ -267,7 +268,7 @@
                 "text": "14, UTILIZAREA SOPTWARE-ULUI EDUCATIONAL IN PROCESUL DE.\nINSTRUIRE A ELEVILOR..\nProf. Doina Mirela JORDAN\nProf. Gigliola Nicandra LASCU\nColegiu Tehnic ,Anghel Saligny\u201d, Bucuresti\n\n15, CONSIDERATH PRIVIND UTILIZAREA INSTALATHLOR\nFRIGORIFICE CU ABSORBTIE LA CLIMATIZAREA CLADIRILOR.\nDrd, Alexandru VERDES\n\nUniversitatea Tehnics ,Gheorghe Asachi\u201d, lagi\n\nProf. lonela CAZACU\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n\n16. __GENERALIZAREA DIFERENTIATA A TEHNOLOGIEI DE INCALZIRE\nOPTIME A LINGOURILOR DIN OTEL. UTILIZAREA UNUI MODEL.\nMATEMATIC NELINIAR DE FUNCTIH CUBICE SPLINE.\n\nDr. ing. Vasile CATARSCHL\n\nUniversitatea Tehnied ,Gheorghe Asachi\u201d, lagi\n\nProf. Smaranda CATARSCHI\n\nLiccul Tehnologic ,Anghel Saligny\u201d, lagi\n\n17. ECHIPAMENTE EFICIENTE DE VALORIFICARE A SURSELOR DE.\nENERGIE REGENERABILA - POMPELE DE CALDURA ose\nProf. Liviu HERTANU\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n\n18. GENERALIZAREA DIFERENTIATA A TEHNOLOGIEI DE INCALZIRE_\nOPTIME A LINGOURILOR DIN OTEL. APROXIMAREA CURBELOR DE.\niNCALZIRE $I DETERMINAREA COEFICIENTILOR FUNCTHULOR SPLINE.\nDr. ing. Vasile CATARSCHI\n\nUniversitatea Tehnics ,Gheorghe Asachi\"\nProf. Smaranda CATARSCHI\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lagi\n19. _ UTILIZAREA DE MATERIALE GEOSINTETICE LA SISTEMELE DE FUNDARE,\n\nPE TERENURI DIFICILE. sen\nProf. Raruea CHIRIAC\n\nLiceul Tehnologic ,Anghel Saligny\u201d, lay\n\nProf. Catilin CHIRIAC\n\nColegiul Tehnic ,Gh. Asachi\u201d, lagi\n\n20. INVATARE PENTRU SOCIETATEA CUNOASTERII\u201d PRIORITATI ALE,\nEDUCATIEL.\n\nProf. Sanda Florina VORONIANU\nProf. Cristina CARDOS.\n\nColegiul Natjonal ,Avram Iancu\u201d, Brad\n\n21. TIC IN PROIECTAREA EVALUARIL.\nProf. Jonela Vanina SUCIU\n\nColegiul Tehnie ,.D. Leonida\u201d, lagi\n\n  \n\n \n\n \n\n \n\n \n\n \n\n   \n\n \n\n \n\n \n\n \n\n \n\nIasi"
             },
             "16": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 136,
                 "height": 25,
@@ -354,7 +355,7 @@
                 "text": "wu e destul si sti, trebuie sa si aplici. Nu e destul sit vr (J. W. Goethe)"
             },
             "21": {
-                "class": "text",
+                "class": "autor",
                 "x": 302,
                 "y": 187,
                 "height": 39,
@@ -370,7 +371,7 @@
                 "text": "Profesor Florentina Gro"
             },
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 59,
                 "y": 92,
                 "height": 78,

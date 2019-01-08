@@ -1,5 +1,6 @@
 {
     "numberOfPages": 274,
+    "title":"Retele de canalizare",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -19,7 +20,7 @@
                     400,
                     779
                 ],
-                "text": "si, Editura OIM, 2010"
+                "editura": "Iasi, Editura PIM, 2010"
             },
             "2": {
                 "class": "text",
@@ -68,7 +69,7 @@
                     229,
                     381
                 ],
-                "text": "RETELE"
+                "titlu": "RETELE DE CANALIZARE"
             },
             "6": {
                 "class": "text",
@@ -84,7 +85,7 @@
                     417,
                     181
                 ],
-                "text": "dr.ing. Cosmin TOBOLCEA"
+                "autor": "dr.ing. Cosmin TOBOLCEA"
             },
             "7": {
                 "class": "text",
@@ -100,7 +101,7 @@
                     403,
                     150
                 ],
-                "text": "dr.ing. Valentin CRETU"
+                "autor": "dr.ing. Valentin CRETU"
             },
             "8": {
                 "class": "text",
@@ -116,7 +117,7 @@
                     413,
                     118
                 ],
-                "text": "dr. ing. Viorel TOBOLCEA"
+                "autor": "dr. ing. Viorel TOBOLCEA"
             }
         }
     },
@@ -139,7 +140,7 @@
                     231,
                     771
                 ],
-                "text": "ISBN 978-606-520-842-1"
+                "isbn": "ISBN 978-606-520-842-1"
             },
             "10": {},
             "11": {},
@@ -157,7 +158,7 @@
                     496,
                     423
                 ],
-                "text": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nTOBOLCEA, VIOREL\nRefele de canalizare : partea teoretici / Viorel Tobolcea, Valentin\n\nCreu, Cosmin Tobolcea. - Iasi : PIM, 2010\niogr.\nISBN 978-606-520-842-1"
+                "isbn": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nTOBOLCEA, VIOREL\nRefele de canalizare : partea teoretici / Viorel Tobolcea, Valentin\n\nCreu, Cosmin Tobolcea. - Iasi : PIM, 2010\niogr.\nISBN 978-606-520-842-1"
             },
             "13": {
                 "class": "text",
@@ -173,7 +174,7 @@
                     422,
                     304
                 ],
-                "text": "Editura OM\nEditura acreditati\u2019 CNCSIS ~ 66,01.05.2006\n\nSoseaua Stefan cel Mare gi Sfant nr. 4, Iasi ~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimeopy.ro"
+                "editura": "Editura PIM\nEditura acreditati\u2019 CNCSIS ~ 66,01.05.2006\n\nSoseaua Stefan cel Mare gi Sfant nr. 4, Iasi ~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimeopy.ro"
             }
         }
     },
@@ -1245,7 +1246,7 @@
                     453,
                     750
                 ],
-                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua Stefan cel Mare gi Sffint nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura.pim@gmail.com\n\nwww:pimeopy.t0"
+                "editura": "EDITURA $I TIPOGRAFIA PIM\nSoseaua Stefan cel Mare gi Sffint nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura.pim@gmail.com\n\nwww:pimeopy.t0"
             },
             "86": {
                 "class": "text",

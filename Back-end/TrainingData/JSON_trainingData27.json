@@ -1,5 +1,6 @@
 {
     "numberOfPages": 60,
+    "title":"A doua oare unu",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -102,7 +103,7 @@
                 "text": "Colectiv de redactie:"
             },
             "7": {
-                "class": "text",
+                "class": "titlu",
                 "x": 243,
                 "y": 81,
                 "height": 58,
@@ -397,7 +398,7 @@
         "sections": {
             "25": {},
             "26": {
-                "class": "text",
+                "class": "autor",
                 "x": 67,
                 "y": 533,
                 "height": 24,
@@ -477,7 +478,7 @@
                 "text": "Zi de zi, mintea si sufletul intrd\nin polemic. Rafiunea si emofia se ceartt\nsi se lupt care s& ajungs prima pe seens,\njn fafa unui auditoriu format din dou\ntabere: unl critic, iar celalalt sensiil\nUneori,e grew si ne exprimam iluziie in\nfafa cuiva, De accea, hotirim si le\nprezentim cu ajutorul penite\n\nLa un moment dat tofi rem si\nddevenim seritri, O mica parte din\nmulttudinea \u201cde condeie reuseste si\nreach pragul prea inalt al afirmari\nSurpinzdtor, inspiraia se iveste din toate\nlungherele vifii. Trecutul, prezentul si\nviitorul dispar si renase intr-un singur\ntimp, ce al proriului EU.\n\nInvijieei ai Colegiului Nayional\n\u00abGrigore Ghica\u201d, Dorohoi, au incercat si\nSe afirme prin izle astemute pe hirtc\nia diferite concursuri de eteaje literar\nUnii au reusit in acest ocean al\n\u2018oportunitiilor si au continua, Alt, nu\nau putt treee peste sentimental\ndezamagint si au renuntat. Ins, merew\npar sentei noi care vor si danseze pe\nscenaseritur\n\n\u2018AW Iuatatitudine in seris sia\nsurprins prin profunzimea gindurilor,\nprin. insolitalsentimentelor i prin\nfragilitatea ming, Varsta le permite si\nse deseatuseze din finja care invcleste\nsufletul si si strige tuturor ,Privfi cdtre\nnoi ca int-o oginda\n\nMA inclin in fafa lor si le\nrultumese, deoarece in cuvintele\nadunate into poezie, prozi sau\ndramaturgie am descoperit frumustea $i\npuritates,macabrul si disperarca,\ndezamigitea, impliitea.\n\naifletle aun fel special al lor\ndle a se infelege, de intra in intimitate,\npind la a se tui, in timp ce fiingele\nhoasire sunt incurcate cit schimbl\ncuvintelor comune.\u201d"
             },
             "31": {
-                "class": "text",
+                "class": "titlu",
                 "x": 313,
                 "y": 81,
                 "height": 24,
@@ -582,7 +583,7 @@
                 "text": "\u2018\u00bbFelii\u201d (de Lia Bugnar) sau despre\nreacfia la plinitate; dezbinare."
             },
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 70,
                 "y": 452,
                 "height": 24,
@@ -615,7 +616,7 @@
             },
             "41": {},
             "42": {
-                "class": "text",
+                "class": "autor",
                 "x": 69,
                 "y": 81,
                 "height": 367,
@@ -909,7 +910,7 @@
         "pageHeight": "849",
         "sections": {
             "61": {
-                "class": "text",
+                "class": "editura",
                 "x": 183,
                 "y": 630,
                 "height": 147,

@@ -1,5 +1,6 @@
 {
     "numberOfPages": 40,
+    "title":"Anotimpuri",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -10,7 +11,7 @@
             "3": {},
             "4": {},
             "5": {
-                "class": "text",
+                "class": "editura",
                 "x": 0,
                 "y": 0,
                 "height": 848,
@@ -56,7 +57,7 @@
                 "text": "Revista elevilor din Colegiului National \u201cStefan cel Mare\u201d Hirkiu\nFondati 1973\n\n \n\nSerie noua, anul I, nr. 1"
             },
             "8": {
-                "class": "text",
+                "class": "titlu",
                 "x": 235,
                 "y": 259,
                 "height": 32,
@@ -79,7 +80,7 @@
         "pageHeight": "848",
         "sections": {
             "9": {
-                "class": "text",
+                "class": "isbn",
                 "x": 73,
                 "y": 705,
                 "height": 26,
@@ -298,7 +299,7 @@
                 "text": "pliner leet"
             },
             "26": {
-                "class": "text",
+                "class": "autor",
                 "x": 152,
                 "y": 330,
                 "height": 24,
@@ -341,7 +342,7 @@
             "30": {},
             "31": {},
             "32": {
-                "class": "text",
+                "class": "autor",
                 "x": 314,
                 "y": 425,
                 "height": 23,
@@ -484,7 +485,7 @@
                 "text": "34"
             },
             "41": {
-                "class": "text",
+                "class": "autor",
                 "x": 64,
                 "y": 573,
                 "height": 24,
@@ -580,7 +581,7 @@
                 "text": "in urma rezultatelor objinute in vederea obfinerii unui clasament al profesorilr, din punct de\n\n \n\nvedere al populartitiiseveritati si indulgenei, elevi au votat umatori profeso"
             },
             "47": {
-                "class": "text",
+                "class": "titlu",
                 "x": 256,
                 "y": 66,
                 "height": 22,

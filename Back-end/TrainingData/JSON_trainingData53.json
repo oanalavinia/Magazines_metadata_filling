@@ -1,5 +1,6 @@
 {
     "numberOfPages": 284,
+    "title":"Tratat de medicina naturista",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -7,7 +8,7 @@
         "sections": {
             "1": {},
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 98,
                 "y": 507,
                 "height": 32,
@@ -39,7 +40,7 @@
                 "text": "VOLUMUL"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 278,
                 "y": 343,
                 "height": 52,
@@ -55,7 +56,7 @@
                 "text": "NATURISTA"
             },
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 75,
                 "y": 307,
                 "height": 87,
@@ -71,7 +72,7 @@
                 "text": "DE\nMEDICINA | N."
             },
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 212,
                 "y": 260,
                 "height": 47,
@@ -87,7 +88,7 @@
                 "text": "TRATAT"
             },
             "7": {
-                "class": "text",
+                "class": "autor",
                 "x": 133,
                 "y": 127,
                 "height": 29,
@@ -103,7 +104,7 @@
                 "text": "drd. ing. CAMELIA NICOLETA ROMAN"
             },
             "8": {
-                "class": "text",
+                "class": "autor",
                 "x": 144,
                 "y": 92,
                 "height": 31,
@@ -126,7 +127,7 @@
         "pageHeight": "776",
         "sections": {
             "9": {
-                "class": "text",
+                "class": "isbn",
                 "x": 85,
                 "y": 492,
                 "height": 25,
@@ -158,7 +159,7 @@
                 "text": "700497"
             },
             "11": {
-                "class": "text",
+                "class": "editura",
                 "x": 85,
                 "y": 370,
                 "height": 109,
@@ -182,7 +183,7 @@
         "sections": {
             "12": {},
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 526,
                 "height": 153,
@@ -198,7 +199,7 @@
                 "text": "Cap. 13. Gastritele\nCap. 14. Boala ulceroasi\n\nCap. 15. Bacteria Helicobacter pylo\nCap. 16. Greata si voma ..\n\nCap. 17. Aerofagia si meteorismul\n\nCap. 18. PirOZa ssessssoseeesunseeeeesnneeeeernnnseennnsceesenssns\nCap. 19. Halena ssssececsnssseeesennsseeennnseeeennnnseeeennseeene\nCap. 20. Indigestii si crampe stomacale"
             },
             "14": {
-                "class": "text",
+                "class": "titlu",
                 "x": 180,
                 "y": 471,
                 "height": 48,
@@ -214,7 +215,7 @@
                 "text": "Partea Il-a\nTratamentele bolilor de stomac"
             },
             "15": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 358,
                 "height": 105,
@@ -232,7 +233,7 @@
             "16": {},
             "17": {},
             "18": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 189,
                 "height": 105,
@@ -264,7 +265,7 @@
                 "text": "Pag. 13\nPag. 23\nPag. 35,\nPag. 39\nPag. 45,\nPag. 83"
             },
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 186,
                 "y": 131,
                 "height": 48,
@@ -280,7 +281,7 @@
                 "text": "Part\nTratamentele b yr hepatice"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 203,
                 "y": 82,
                 "height": 28,
@@ -303,7 +304,7 @@
         "pageHeight": "776",
         "sections": {
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 552,
                 "height": 30,
@@ -316,11 +317,11 @@
                     242,
                     582
                 ],
-                "text": "Bib grafie"
+                "text": "Bibliografie"
             },
             "23": {},
             "24": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 425,
                 "height": 89,
@@ -336,7 +337,7 @@
                 "text": "Cap. 34. Cancerul hepat\nCap. 35. Cancerul pancreati\nCap. 36. Cancerul gastric\n\nCap. 37. Cancerul intestinelor .\nCap. 38. Cancerul colorectal vasssseeesessseeeerns"
             },
             "25": {
-                "class": "text",
+                "class": "titlu",
                 "x": 187,
                 "y": 367,
                 "height": 48,
@@ -353,7 +354,7 @@
             },
             "26": {},
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 90,
                 "y": 141,
                 "height": 200,
@@ -369,7 +370,7 @@
                 "text": "Cap. 22. Duodenita ...\nCap. 23. Colitele\n\nCap. 25. Enteritele si enterocolitele\nCap. 26, Rectocolita ulcero-hemoragicd ....ssssssssrseeeeesene\n\n \n\nCap. 33. Parazitozele intestinale"
             },
             "28": {
-                "class": "text",
+                "class": "titlu",
                 "x": 231,
                 "y": 86,
                 "height": 48,
@@ -503,7 +504,7 @@
                 "text": "281"
             },
             "36": {
-                "class": "text",
+                "class": "editura",
                 "x": 90,
                 "y": 139,
                 "height": 562,
@@ -519,7 +520,7 @@
                 "text": "Iasi, Editura Polirom, 2000\n-BALCH A. PHYLLIS \u2014 Nutritie si Biotratamente. voLI-IV\nBucuresti, Editura Litera-Felicia, 2009\n\n-BANU C. sicolab. ~ Alimente functionale, suplimente alimentare gi\nplante medicinale.\n\nBucuresti, Editura ASAB, 2010\n\n-BARNEA M. - Factorii de mediu si profilaxia cancerului.\nBucuresti, Editura Medicali, 1983\n\n-BASDEKIS J.C. \u2014 Ghid de dietetics.\nIasi, Editura Polirom, 1999\n-BERDONCES J.L. - Manual de medi\nBucuresti, Editura All, 2010\n-BISHOP BEATA \u2014 Vremea vindeciri\nBucuresti, Editura For You, 2005\n-BOJOR O. si colab. - Medicina si terapia naturala. vol. [-I\nBucuresti, Editura Ulpia Traiana, 1998\n\n-BOJOR O., POPESCU O. - Fitoterapia traditional si moderna.\nBucuresti, Editura Fiat Lux, 2005\n\n-BULIGESCU L. - Bolile ficatului, cdilor biliare si pancreasului.\nBucuresti, Editura Medical, 1981\n\n-CALINESCU A: - Sinitatea prin farmacia naturi\nBucuresti, Editura Forum, 2000\n\n-CARSTEA M. - Colecistoza nelitiazica.\nBucuresti, Editura Medical, 1997\n-CONSTANTINESCU M., PRISTAVU A.G. - Fitoterapie\n\nOradea, Editura Antet, 1999\n\n-CRACIUN F., BOJOR O., ALEXAN M. ~ Farmacia naturii, vol. IL\nBucuresti, Editura Ceres, 1976, 1977\n\n-DUCHAMEL CHATERINE \u2014 Deschideti poarta sinitatii\ndin farmacia lui Dumnezeu.\n\nBucuresti, Editura Z-2000, 2000\n\n-DUTA V.\u2014 Tratat de medicina naturists.\n\nBucuresti, Editura ersal, 1995"
             },
             "37": {
-                "class": "text",
+                "class": "titlu",
                 "x": 209,
                 "y": 99,
                 "height": 27,

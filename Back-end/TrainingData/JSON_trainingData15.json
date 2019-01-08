@@ -1,12 +1,13 @@
 {
     "numberOfPages": 268,
+    "title":"Prevenirea afectiunilor musculo-scheletice",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 241,
                 "y": 738,
                 "height": 24,
@@ -22,7 +23,7 @@
                 "text": "Editura PIM - 2007"
             },
             "2": {
-                "class": "text",
+                "class": "autor",
                 "x": 91,
                 "y": 536,
                 "height": 66,
@@ -56,7 +57,7 @@
             "4": {},
             "5": {},
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 163,
                 "y": 97,
                 "height": 48,
@@ -79,7 +80,7 @@
         "pageHeight": "848",
         "sections": {
             "7": {
-                "class": "text",
+                "class": "isbn",
                 "x": 67,
                 "y": 768,
                 "height": 23,
@@ -95,7 +96,7 @@
                 "text": "ISBN 978-973-716-736-1"
             },
             "8": {
-                "class": "text",
+                "class": "autor",
                 "x": 66,
                 "y": 512,
                 "height": 204,
@@ -111,7 +112,7 @@
                 "text": "Presedinte: Mariana Basue - Inspector General de Stat Inspectia Muneii\nMembri: Dantes Nicolae Bratu - Inspector General de Stat Adj. Inspecjia Muneii\n\u2018Nicolae Voinoiu - Director lnspectia Muni\n\u2018Anicla Adimi - Inspector se I.T-M. Vaslui\nCoste! Harja Inspector set adj. SSM ILT.M, Vaslui\nConstantin Baciu - Universitatea Tehnici Gh, Asachi\u201d las\nPetricd Vizureanu - Universitatea Tehnicd ,Gh. Asachi\u201d lagi\n\n(Catalin Raclariu - LM. Vaslui\nDanut Dima - LT.M. Vaslui\n\u2018Aurel Ungureanu = LT-M. Vaslui\nViorel Asoltanci - L7.M. Vaslui\nTon Lupaseu - LT-M. Vaslui\n\nDan Voinescu - LT.M, Vaslui\nDumitru Bahnaru - I,T.M. Vaslui"
             },
             "9": {
-                "class": "text",
+                "class": "titlu",
                 "x": 66,
                 "y": 484,
                 "height": 26,
@@ -127,7 +128,7 @@
                 "text": "Comitetul de organizare:"
             },
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 66,
                 "y": 297,
                 "height": 151,
@@ -159,7 +160,7 @@
                 "text": "\u2018Ministerul Muncii, Familici si Egalititii de Sanse\nInspeotia Muneii Bucuresti\n\nInspectoratul Teritorial de Munc& Vaslui\n\nUniversitatea Tehnicd .Gh. Asachi\u201d Iasi"
             },
             "12": {
-                "class": "text",
+                "class": "titlu",
                 "x": 66,
                 "y": 133,
                 "height": 26,
@@ -198,7 +199,7 @@
                 "text": "1, MANIPULAREA MANUALA A MASELOR (MMM) LA DEPOZITAREA SI\nTRANSVAZAREA AGENTILOR CHIMICI PERICULOSI (ACP EXEMPLE DE BUNA\nPRACTICA - 7. MORARIU s\n\n2. JUMATATE DE SECOL DE LA SEMNAREA PRIMELOR TRATATE EUROPENE\n(25 MARTIE 1957 - 25 MARTIE 2007) - H. FIRON 1B\n\n3. ROLUL INSPECTORULUI DE MUNCA iN REDUCEREA  AFECTIUNILOR\nMUSCULO-SCHELETICE LA LOCUL DE MUNCA - PROIECT IMPLEMENTARE -\n\n \n\nM, MITRASCA 23\n4. POZITIA CORPULUI UMAN IN TIMPUL MUNCH SI SOLICITARILE MUSCULO-\nSCHELETALE - H.HERMAN 28\n\n5. MORBIDITATEA PRIN AFECTIUNI OSTEO-MUSCULO-SCHELETICE INTR-O\nCLINICA DE MEDICINA MUNCI - 8. CONSTANTIN. V. OPREA, D. IVANOVICI, C,\nPAPAGHIUC, M, POPA 34\n\n6. SOLICITARI VERTEBRO-POSTURALE IN PROFESIILE MEDICALE -\n\n   \n\n \n\nV. OPREA 39\n7. MASURI PREVENTIVE $I TERAPEUTICE IN LOMBALGIILE PROFESIONALE - \u00a5.\nOPREA, B. CONSTANTIN: 47\n\n8. PARINTI! PROFESORI! ANGAJATH ANGAJATORI! ATENTIE LA\u2019 AFECTIUNI\nDATORATE SOLICITARILOR REPETITIVE - C. HARJA 35\n\n9, AFECTIUNILE APARATULUI LOCOMOTOR - O GAMA EXTINSA DE PROBLEME\nDE SANATATE - C, RACLARIU 6\n10, NOI MESERII, ALTE AFECTIUNI SI MULTE .. DURERI INCOT\n\nE.SAVIN Cc)\n\n11. SUFERINTE MUSCULO = SCHELETICE ALE\u201d OPERATORILOR LA\nVIDEOTERMINAL - E. SAVIN B\n12, REDUCEREA EFORTULUI iN ACTIVITATILE DE MANIPULARE $1 DEPOZITARE\n\u2018A MATERIALELOR - D. SERAN, L. BALAITA id\n\n13. CARACTERISTICILE LOCURILOR DE MUNCA DIN. PUNCT DE VEDERE\nERGONOMIC PRIVIND  RISCURILE PRODUCERI AFECTIUNILOR DORSO.\nLOMBARE IN ACTIVITATEA DE CONSTRUCT - J. ANDREI, M. COTUMBEANU, M\n\n \n\n \n\nTARAS 84\n14, REDUCEREA EFORTULUI STATIC IN DOMENIUL CONFECTIILOR TEXTILE - L.\nTUTUNARU, C. MANDACHE, N. GOSMAN 91\n\n18. ROLUL ERGONOMIEI IN  PREVENIREA  AFECSIUNILOR MUSCULO-\nSCHELETICE -S. METLER 0 9s\n\n16. REDUCEREA AFECTIUNILOR MUSCULO-SCHELETICE PRIN\u2019 PREVENIREA\nRISCURILOR, INFORMAREA SI CONSTIENTIZAREA LUCRATORILOR -\n\n0. CIORTEA ot\n\n17. PREVENIREA AFECTIUNILOR MUSCULO-SCHELETALE PRIN UTILIZAREA DE\nDISPOZITIVE AUXILIARE IN ACTIVITATEA INSTALATORILOR - D. SENCHETRU,\n\n \n \n\n \n\nL. UNGUREANU 108\n18, AFECTIUNI MUSCULO-SCHELETALE CARE APAR IN ACTIVITATEA DE\nREPARARE A ELEMENTELOR CUPLAJELOR - V. TANASA, A. FLOROIU, 4\n\n19, MANIPULAREA MANUALA $I AFECTIUNILE MUSCULO-SCHELETICE IN\nACTICVITATILE DE ASISTENTA MEDICALA $I SOCIALA-M. DINESCU.. 119"
             },
             "14": {
-                "class": "text",
+                "class": "titlu",
                 "x": 239,
                 "y": 100,
                 "height": 24,
@@ -214,7 +215,7 @@
                 "text": "CUPRINS"
             },
             "15": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -237,7 +238,7 @@
         "pageHeight": "848",
         "sections": {
             "16": {
-                "class": "text",
+                "class": "autor",
                 "x": 65,
                 "y": 67,
                 "height": 703,
@@ -253,7 +254,7 @@
                 "text": "20, MUNCA DE BIROU $I AFECTIUNILE MUSCULO - SCHELETALE - D.\nSENCHETRU, 1, UNGUREANU 123\n\n21, AFECTIUNILE MUSCULO-SCHELETICE LA\u2019 CARE POT \u2014CONDUCE\nACTIVITATILE DE RECONDITIONARE A SUPRAFETELOR PIESELOR SI\nSUBANSAMBLELOR ECHIPAMENTELOR TEHNICE SUPUSE INTENS UZARI - 4,\nFLOROIU, V. TANASE 132\n\n22, PROBLEME SPECIFICE ALE AFECTIUNILOR MUSCULO-SCHELETALE PENTRU\nLUCRATORII DIN SECTORUL CONSTRUCTIILOR - V. NEGREA,\n\n  \n\nS. BULARCA os 137\n23, AFECTIUNI MUSCULO-SCHELETICE PROFESIONALE IN DOMENIUL\nSTOMATOLOGIC - L, PEIOS, 4, CHIRU 41\n24, AFECTIUNILE MUSCULO-SCHELETICE $1 MUNCA LA VIDEOTERMINALE -\nAGOTA 156\n\n \n\n25, INCIDENTA AFECTIUNILOR MUSCULO-SCHELETALE IN ACTIVITATILE DE\nCONSTRUCTII - \u00a5. DUMITRU, L. MOHONEA, M. MARGINA 163\n26, SPONDILOZA $I DISCOPATILE PROFESIONALE MASURI DE PROFILAXIE -\n\n  \n\nDR.F.PALADE _ 1\n27, RISCURILE DE PRODUCERE A AFECTIUNILOR MUSCULO-SCHELETALE IN\nACTIVITATEA DE PRELUCRARE A LEMNULUI - 1 [PTIME 179\n\n28, RESPECTAREA LEGISLATIEL DE SECURITATE $1 SANATATE IN MUNCA,\nBAZA A PREVENIRI AFECTIUNILOR MUSCULO-SCHELETICE\n\n\u00a5. LAPUSNEANU 183\n29, APLICAREA PRINCIPIILOR ERGONOMICE IN EVALUAREA LOCURILOR DE\nMUNCA DIN UNITATILE DE REPARATI APARATAI ELECTRIC iN VEDEREA\nPREVENIRI AFECTIUNILOR MUSCULO-SCHELETICE (AMS) -\n\n \n\n \n\nC. PALAMARU 191\n30, REGLEMENTARI JURIDICE INTERNE $1 INTERNATIONALE  PRIVIND\nAFECSIUNILE APARATULUI LOCOMOTOR - I. POPESCU... 198\n31. MENTINEREA IN MUNCA, REABILITAREA $I REINTEGRAREA\nPROFESIONALA A LUCRATORILOR CU HANDICAP URMARE PRODUCERII UNOR\nAFECTIUNI ALE SISTEMULUI MUSCULO-SCHELETIC - V. TRUSESCU 210\n32, MUNCA LA VIDEOTERMINAL SI AFECTIUNILE MUSCULO-SCHELETICE - DR.\nF.PALADE 216\n33. AFECTIUNILE MUSCULO - SCHELETICE, CONDITILE DE MUNCA $1\nMENAGEMENTUL ERGONOMIEI - V. ANGHEL 220\n34.\u00b0MAI MULT\" = \"MAI BINE\u201d - G, MOCANU 230\n38. REDUCEREA AFECTIUNILOR MUSCULO-SCHELETICE PRIN\u2019 PREVENIREA\n\n \n\nRISCURILOR, EDUCATIE $I CONSTIENTIZARE - N, MORARU 237\n36, RESPECTAREA LEGISLATIEL IN DOMENIUL SECURITATH $l SANATATH IN\nMUNCA, A INSTRUCTIUNILOR PROPRIL DE MANIPULARE A MASELOR PENTRU,\nEVITAREA AFECTIUNILOR MUSCULO-SCHELETALE - /.D. MINCIUNA.,. 242\n37. SUPRASOLICITARILE OSTEOMUSCULARE LA LUCRATORIT CE. Isl\nDESFASOARA ACTIVITATEA IN INSTALATHLE DE DISTRIBUTIE. A ENERGIEL\nELECTRICE -  CHIRIAC, C SOFIA 247\n38, PERICOLELE SI RISCURILE ASOCIATE CU MANIPULAREA MANUALA A\nMASELOR LA LOCURILE DE MUNCA - N. AMURARITEL\n\n39, POZITIA CORPULUI IN TIMPUL ACTIVITATII - GH. SAFIR 356\n40. PROBLEME SPECIFICE ALE AFECTIUNILOR MUSCULO-SCHELETARE (AMS )\nLA NIVELUL SERVICIULUL DE AMBULANTA JUDETEAN VASLUI - J. HOSSU, L.\nBUCULEASA 260"
             },
             "17": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -293,7 +294,7 @@
                 "text": "In urma controalelor medicale anuale efectuate la indicatia medicului de medicina a\n\u2018muneii in cadrul serviciului judetean de ambulanta Vaslui, din rindul ambulantietlor ce au 0\n\u2018edie de virsta de 40-50 ani si o vechime in activitatea de ambulantier in medie de 10 ani,\n\nau descopert, Ia unii, spondiloze cervico-dorsale, artroze scapulo-humerale , precum si\n\nafectiuni ale genunchilor si incheiturlor purmilr.\nIn afara de faptul ca si ambulantierul participa la acordarea primului ajutoralaturi de\nasistent(a) medical(a), care in eazul unei resusciar se fave din pozita in genunchi, acsta"
             },
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 637,
                 "height": 22,
@@ -325,7 +326,7 @@
                 "text": "La evaluarea riscurilor la locul de munca pentru activitatea de ambulantier s-au avut in\nvedere elementele de referinta stipulate in anexa 1 a acestei hotarri de guvern 1051-2006\n\nS-au avut in vedere totodata majoritatea cazurilor si situailor concrete cu care se\nintinnese echipajele ambulantei la interventie situait care pot cauza AMS membrilor acestor,\n\nCa principale cauze ale acestor afectiuni mentionam:\n\n+ starea drumurilor mai ales a celor comunale , satesti dar si celor din orase pline de\naropi de denivelari,\n\n~ starea masinilor depasita tchnic si moral dotarea neergonomica a autosanitarclor\n\n+ multe miscari repetitive ale piciarelor pe pedale sia miinilor pe votan si schimbatorul\n4e viteze, precum si incordarea muschilor gitulu, cefei si pumnului\n\ncaracteristicile maselor manipulate (prea grea sau prea mare, instabili sau rise si se\ndeplaseze, poritionati astfel incat necesiti susfinerea sau manipularea ei Ia distant fata de\ntrunehi sau cu flexia oi risucirea trunchiului)\n\n- efortl fizic necesar (care este prea intens, poate si antreneze o deplasare bruscd a\nsmasei, de multe ori este tealizatatunei cand corpul se alld intt-o poziie instabila)\n\n+ caractersticile mediului de munea(solul prezintd denivelari,prezentind pericote de\nimpiedicare, sau este alunecos pentru incalyimintea Iucratorului, solul sau planul de sprijn al\npiciorului este instabil, temperatura, umiditatea sau circulafia aerului este necorespunzitoare)\n\n+ distanfe prea mari pentru ridicare, coborare sau transport\n\nDe fapt asupra abulantierului ( dar sil asistentet ) actioneaza concomitent mai multi\nfactori de rise care pot provoca AMS.\n\nBineinteles ea mai sunt unii factori care amplifica factorii mentionati mai inant, si\n\u2018anume oboseala resimtita in timpul lucrului mai ales noaptea intre orele | si 4 dimineata, cind\npate o incordare suplimentare a sistemului muscular.\n\nFactorii meteorologici au un rol agravant in instaurarea AMS.\n\nSe stie ca pe o vreme ploioasa, umeda apar dureri ale incheieturilor, mai ales a\n\u2018genunchilor, care marese disconfortl in cazultransportului pacientului cu targa.\n\nama, mai ales la tara mersul prin stratul de zapada sporeste efortul depus de sistemul\n\u2018musculo-scheletar pentru transportul maselor mari,\n\nUn aport asemenator il au drumurile desfundate din sate, care pune probleme in\n\u2018mentinerea echilibrului echipajulu in timpul deplasari cu targa inearcata,\n\n\u2018Un factor important care marestestresul si incordarea musculara il reprezinta lipsa saw\nslaba iluminare a taseelor de deplasare mai ales in zonale rurale\n\nTinind cont de aceste influente si factori de rise s-a intocmit fisa de evaluare a\nriseurilor la locul de munca pentru activitatea de ambulantier\n\nDeasemenea la angajare, in cepind din acest an, flecarui angajat i se prezintafisa de\nevaluare a riscurilor locului de munca pe care se face angajarea,\n\n\u2018Totodata la ficeare instructaj_ periodic de ssm le sunt prezentate riscurile si metodele\nde reducere sau inlaturare a efectelor acestora atit in general cit si in particular in eazul unor\nsituatit concrete"
             },
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -365,7 +366,7 @@
                 "text": "participa activ la transportul pacientului cu targa si deasemer\nsiguranta ambulanta,\n\nDe regula in oras pacientiinetransportabili sunt coboriti eu targa de la orice eta targa\n\u2018hu poate fi utilizata in lifturi), in poziti vicioase pentru ambulantir si asistent(a) mai ales\ncind se intoarce targa intre etaje, unti pacient find supraponderali. (foto 1 si 2)\n\nUneori echipajul este ajutat de vecini sau trecator, desi de regula spatial restrins de pe\ncasa scarii nu permite executarea manevrei de coborire de catre mai multe personae simulta.\n\n \n\n \n\n \n\n \n\nfo. T Toto 2\n\nProbleme mai grave apar cind pacientii sunt transportati cu patura prin locuristrimpte\nsi intortochiate, coloana vertabrala si incheieturile mainilor si picioarelor sunt suprasolicitate,\nde efortulsistemului musculo-scheletar care trebuie sa suporte lucrul in poziti vicioase.\n\nUn caz asemanator de suprasolicitare il reprezinta si transportul pacientulu pe brate\nsau facind \u201cscaunelul\u201d din maini sau chiar cu scaunul, cind pacientul nu are baza in folosirea\nmembrelor inferioare din diverse motive (fracturi la membrele inferioare sau paraplegii) si\nlocatia din care se transporta nu permite folosirea targii pentratransportul acestua,\n\nIn acest caz solicitarea este maxima si complexa fiind vorbaatit de intinderea\n\u2018muschilor bratelor de suprasolicitarea incheieturilor mainilor si picioarelor cit si de\nsuprasolicitarea coloanei vertebrale prin poziti vicioase si coborirea treptclor prin pasire\nlaterala, in acest eaz flind necesara si sineronizarea echipajului\n\n\u2018Stresant este si faptul ca de multe ori traseul de transport al pacientului la ambulanta\neste ingreunat de aglomeratia din trafic care face ca echipajul sa fie nevoit sa faca slalomuri,\nsa ridice targa incarcata incarcata la nivelul pieptului sau chiar deasupra capului in pozitii\nvicioase complexe ale sistemului MS, fapt care preoduce dureri imediate si seaderea\ncapacitati de efort a achipajului. Trebuie avut in vedere ca dupa transportul pacientulu,\nambulanticrul urmeaza sa conduca in viteza si siguranta ambulanta catre \u00a9 unitate\nspitaliceasea,\n\nUn rol inportant il are si echipamentul purtat de ambulantier, iarna daca este prea greot\namplifica efortul suportat de sistemul MS la transportul pacientului cu targa.\n\nUn alt caz des intlnit este executarea manevrei de asezare a pacientului de pe sol pe\ntarga precum si urmatoarea manevra de ridicare a targii de pe sol pina in pozita de transport,\naici avind int-adevar o suprasolicitare, cei drept in timp scurt dar cu efort maxim a tuturor\nincheieturilor precum sia coloanei vertebrale, mai ales cind pacientul este supraponderal sau\nbez."
             },
             "25": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -421,7 +422,7 @@
                 "text": "\u2018Dupai finalizarea evaluiii riscurilor, se va intocmi o listi de misuri cu respectarea\n{erarhiei principilor generale de prevenir, iar lucritori si reprezentangi lor vor fi implicati in\nimplementarea acestora. Actiunile trebuie focalizate pe prevenire, precum si pe misuri care si\ncontribuie la reducerea gravitiii oricdrei vatmri\n\nEste important ca toji lucritorii si primeasea informatie, educatia si formarea\nadecvate cu privire la securitatea si sinatatea la locul de muned si sd stie cum sd evite\nperivolele si riscurile specifie.\n\n\u2018Misurile pot cuprinde urmitoarele aspect:\n\n\u2018= Locul de munca: poate fi mai bine amenajat? \u2014 nu se poate amenaja locul de munca\ncesta find de regula altul la fiecere interventie\n\n\u2018= Echipamentele de munca: utilajele sunt proiectate ergonomic? Pot fi utilizate\nUuneltele electrice care nu produe vibrajii pentru a reduce efortul necesar realizrii anumitor\nsarcini?- nu poate fi vorba de mecanizarea manipularii pacientilor dar pot fi reduse vibratile\ndin timpul conduceri prin achizitionarea de ambulante noi ergonomice cu suspensii sdecvate\nddrumurilor din Romania\n\n1 Sarcina de munea: pot fi reduse solicitarile fizice ale sarcinii de munca utilizind\nInstrumente sau metode de lucru noi? \u2014 inca nu s-a identificat asa ceva\n\n\u2018= Gestionarea muneii: poate fi mai bine planificata sau distribuita munca si pot fi\nimplementate sisteme de munc& mai sigure?\n\n\u2018= Organizarea muncii: poate fi stabilit un raport mai bun muncd/pauze sau poate fi\nprevizuta o altemare a sarciniloe? Poate fi promovati o mai bund culturi a securitafi in\n\u2018muned la nivelul intreprinderii?\n\n1 Proiectare gi achizii: pot fi eliminate pericolele in stadiul de planificare?\n\n\u2018= Promovarea sindtaji a locul de mune, de ex. actiuni pentru prevenirea fumatului si\na obeitii\n\nImplicarea lucratorlor si a reprezentanjilor lor este esenfiald in abordarea riscurilor,\nintruct cunose cel mai bine locul de munca\n\nTot ca o masura de prevenire este folosirea corecta a tehnicilor de manipulate:\n\nInte de a ridica \u00a9 greutate, tebuie si vi faceti un plan sisi vi pregtiti pentru\naceasti sarcini. Asigura}\n\n= siti unde merget\n\n= zona prin care va deplasai este lips de obstacole\n\n+ ati prins bine obiectul grew\n\n mainile dumneavoasta, obiectul si eventualele manere nu sunt alunecoase\n\npreund cu alteineva, amndoi stii ce facefi inainte de @"
             },
             "29": {
-                "class": "text",
+                "class": "titlu",
                 "x": 102,
                 "y": 206,
                 "height": 25,
@@ -453,7 +454,7 @@
                 "text": "\u2018Aceasta manevra nu se poate face cum spune legea prin ridicarea greutatii aproape de\ncorp si mentinind coloana vertebrala dreapta, de multe ori ridicarea targit eu pacient se face\nprin aplecarea trunchiului din zona lombara\n\nMinere targilor au si ele rol important, tebuiese facute din materiale ce san u permita\nflunecarea in mina transpirata/a purtatorului, pentru a nu micsora capacitatea de\n\nprindere(aderenta prinderii)\n\nDe multe ori pacienti sunt transportati cu targa, din zone rurale, pe un teren denivelat,\nalunecos, in panta, acest fapt ducing la ingreunarea conditilor de transport pentru ambulantier\nsi asistenta care resimt imediat efectele suprasolicitarilor musculo-scheletare (MS)."
             },
             "31": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -526,7 +527,7 @@
                 "text": "= punefi picioarele in jurul greutitii,tinind corpul deasupra acesteia (daci acest Iuera\nnw este posibil incercati si vi apropiagi corpul de greutate edt mai mult eu puting)\n~ folositi muschii de la picioare in timp ce ridicatiobiectul\n+ indreptati spatele\n+ traggli greutatea cat mai aproape de corp cu putings\nidicai si transport greutatea cu brafele drepte indreptate In jos\n\nUnmatoarele aspecte sunt importante:\n- si impingefi sis trageti obiectele folosind greutatea propriului dumneavoastra corp:\n8 vi aplecatiinainte in timp ce impinge, s& vi aplecai inapot in timp ce trageti\n~ Si va sprijnit suficient de bine de podea pentru a va putea apleca inaintefinapoi\n= si evita risucirea si indoirea spatelui"
             },
             "37": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -597,7 +598,7 @@
                 "text": "b) si urmireasci evitarea sau reducerea riscurilor pentru lucritori, in special de\nafectiuni dorsolombare, prin adoptarea de milsuri corespunzitoare, avind in vedere\ncaracteristicile mediului de munca si cerintele activititi, potrvit prevederior anexei nr. 1\n\nPentru a se pute reduce efortul echipajelor la transportul pacientilor cu targa se pot lua\ntotusiciteva masuri side catre administratia locala si cea centrala cum ar fi:\n\nasfaltarea soseelor si strazilr\n\npietruirea drumurilor satesti,\n\niluminarea corespunzatoare a drumurilor publice,\n\ndotarea serviciilor de ambulanta cu masini no, performante,fiabile si erzonomice,\ncconcomitent cu casarea celor care nu mai sunt corespunzatoare\n\ndotarea statiilor de ambulanta cu un numar suficient de masini pentru a se evita\nsuprasolicitarea numarului de echipaje actual, pentru a se putea sigura repausul\nnecesar acestora intr interventi,\n\n= acordarea de bilete subventionate in staiuni in care cei cu AMS sa beneficieze de\n\n\u2018watament adecvat de recuperare a capacitati de munca,\n\nDesi nu se pot aplica prevederile Hotarire nr. 1051 din 09/08/2006 - privind\ncerinfele minime de securitate si sintate pentru manipularea manuals a maselor care prezint3\nriscuri pentru lueratori, in special de afectiuni dorsolombare, se poate monitoriza modul de\n\u2018manipulare a maselor de catre echipajul ambulantei pentru identificarea punctuala de metode\nfolosite precum si a modalitatilor de optimizare a acestora in vederea atingerii principalului\nscop acela de a reduce efectele AMS, inlaturarea acestor efecte este practic imposibila\nddeoarece manipularea pacientilor cu targa nu se poate mecaniza, prin urmare tot efortul este\nsuportat de ambulantir si in egala masura si de asistentul medical care formeaza echipajul\nambulante,"
             },
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 32,
                 "height": 27,
@@ -620,7 +621,7 @@
         "pageHeight": "848",
         "sections": {
             "42": {
-                "class": "text",
+                "class": "editura",
                 "x": 204,
                 "y": 651,
                 "height": 103,

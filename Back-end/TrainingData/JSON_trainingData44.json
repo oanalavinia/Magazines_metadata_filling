@@ -1,5 +1,6 @@
 {
     "numberOfPages": 116,
+    "title":"Rusii-Lipoveni din judetul Iasi Dinamici socio-demografice-economice",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -19,7 +20,7 @@
                     378,
                     783
                 ],
-                "text": "Editura PIM, asi, 2013"
+                "editura": "Editura PIM, asi, 2013"
             },
             "2": {
                 "class": "text",
@@ -51,7 +52,7 @@
                     451,
                     359
                 ],
-                "text": "RUSII-LIPOVENI DIN JUDETUL IASI"
+                "titlu": "RUSII-LIPOVENI DIN JUDETUL IASI /n DINAMICI SOCIO-DEMOGRAFICO-ECONOMICE"
             },
             "4": {
                 "class": "text",
@@ -67,7 +68,7 @@
                     360,
                     109
                 ],
-                "text": "IACOB PAVEL"
+                "autor": "IACOB PAVEL"
             }
         }
     },
@@ -122,7 +123,7 @@
                     491,
                     490
                 ],
-                "text": "Eaitura OM)\nEditura acreditat\u00e9 CNCSIS \u2014 66/2010\nSonia Senet Mare Sn a4 ai\nTel.: 0730.086.676; Fax: 0332.440.715\new pimcopys\n\nDescrierea CIP a Bibliotecii Nationale a Romaniei\n1ACOB, PAVEL\n\nRusii-lipoveni din judetul Iasi : dinamici socio-demografico-\neconomice / lacob Pavel. - Iasi: PIM, 2013\n\nBibliogr.\n\nISBN 978-606-13-1470-6"
+                "isbn": "Editura PIM\nEditura acreditat\u00e9 CNCSIS \u2014 66/2010\nSonia Senet Mare Sn a4 ai\nTel.: 0730.086.676; Fax: 0332.440.715\new pimcopys\n\nDescrierea CIP a Bibliotecii Nationale a Romaniei\n1ACOB, PAVEL\n\nRusii-lipoveni din judetul Iasi : dinamici socio-demografico-\neconomice / lacob Pavel. - Iasi: PIM, 2013\n\nBibliogr.\n\nISBN 978-606-13-1470-6"
             },
             "8": {
                 "class": "text",
@@ -581,7 +582,7 @@
                     430,
                     778
                 ],
-                "text": "Editura si tipografia CIN\nSoscaua $tefan cel Mare gi Sint ne. 4, Tagi~ 700497\n\nTel.:0730.086.676; Fax: 0332.440.715,\nE-mail editura@pimeopy.10"
+                "editura": "Editura si tipografia PIM\nSoscaua $tefan cel Mare gi Sint ne. 4, Tagi~ 700497\n\nTel.:0730.086.676; Fax: 0332.440.715,\nE-mail editura@pimeopy.10"
             },
             "51": {
                 "class": "text",

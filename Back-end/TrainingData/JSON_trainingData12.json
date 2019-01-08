@@ -1,12 +1,13 @@
 {
     "numberOfPages": 179,
+    "title":"Ritm in limbaj",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "846",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "autor",
                 "x": 437,
                 "y": 324,
                 "height": 26,
@@ -22,7 +23,7 @@
                 "text": "Ala Sainenco"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 233,
                 "y": 156,
                 "height": 47,
@@ -437,7 +438,7 @@
                 "text": "Descresterea aproape treptati a num\u00e9rului de ictusi din ultima strofii (6 ~ 4\n~3 ~ 3) este opusi cresteri treptate din ultima strofa a poemului Vineri (3 ~4 ~ 6),\npundnd in relief opozitia mesajelor din cele doua finaluri de text. Poemul Vineri se\nincheie cu asumarea mortii, iar poemul Sdmbatd cu remultiplicarea vietilor dupa\nmoarte,\n\nLa nivel de structura silabicd, pe versuri separate, se reliefeaza simetrii care\ncreeazd cadenfe, acestea insi nu se incadreaz\u2019 intr-un ritm unic (refine si\n\ncoeficientul 0,24 al unui ritm sacadat\n1\n31\n25221\n12123531\n13442231\n112332,\n\n1224221\n11222\n552\n332"
             },
             "26": {
-                "class": "text",
+                "class": "titlu",
                 "x": 428,
                 "y": 62,
                 "height": 23,
@@ -453,7 +454,7 @@
                 "text": "Strofa ITT"
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 270,
                 "y": 62,
                 "height": 23,
@@ -509,7 +510,7 @@
                 "text": "\u2018Muttiplele definitii ale omului pun in evidenfa trasaturi prin care acesta se\ndelimiteazi de restul fiinfelor, semnalind, direct sau indirect, traseul parcurs in\ndevenirea umand. ,.In clipa in care il intalnim pe om, il intdlnim in posesia facultatii\nde a vorbi si sub influenta functiei creatoare de mituri\u201d, afirma Emst Cassirer (Eseu\ndespre om. O introducere in filozofia culturii umane, Bucuresti, Humanitas, 1994,\np. 155), aducdnd cele dou caracteristici sub o categorie comuna. Devenirea umand\nsi devenirea concomitenta a limbajului (ca purtitor de mituri) a urmat un proces\n\\delungat in trecerea de la exclamatii si tipete ca simple reactii instinctive la\ncuvantul articulat constient in constructii cu dubld articulare. Indiferent de functiile\npe care le-a realizat in fazele initiale, de imboldul care a stat la geneza lui, de\nformele sale originare, cert este cd limbajul a insemnat pe tot parcursul uman (si nu\n-eteazi Si fie) creatie. Constientizata, calitatea limbajului de a fi creatie in sine\noferd esafodajul pentru creatie ca finalitate, coneretiz\u00e9indu-se in opere literare.\n\nCa fapt de arta, opera literar se inscrie in domeniul esteticii. lar prin\nesteticd, creatia si cunoasterea umand devin reflexive, realizind un demers, in\nesen{d, metateoretic. Or, dacd arta si stiinta reprezint\u00e9 doud modalitati de realizare a\ncunoasterii umane, stiinta despre ele nu este decat metateorie. La acest nivel,\nestetica, ca orice domeniu epistemologic, implicit, satisface (indiferent de abordare)\nexigenta formularii obiectului de studiu gi a metodei de cercetare,\n\nDin perspectiva unei estetici a ritmului (in formula lui Pius Servien sau a\nproportiei, in cea a lui Matila C. Ghyka), domeniul de cercetare al esteticii este cel\nal liricului, iar componentd fundamental prezenta in orice creatie, comensurabili\nsi pretabild unei cercetari riguroase prin metode stiintifice este rit.\n\nMetoda de studiu, pe care Pius Servien o desemneazi drept lirica si care se\naplica intregului domeniu, presupune transpunerea liricului in limbaj stiintifi\nforma cea mai pura a lui ~ cifrele, Textul liric (in acceptia extensiva a termenu\ntext pictural, text muzical ete.) devine partitur\u2019 numerica, iar aceasta expliciteaz\nritmul\n\n  \n\n \n\n \n\n \n\n \n\n \n\n     \n\n    \n\n \n\n     \n\n \n\n \n\nLimbajul, indiferent de nivelul la care se manifesta, isi instituie\nsemnificatiile si prin ritm. Tar dintre realizarile limbajului, opera literara\naccentueaza functia de semnificare a ritmului, cAci ritmul faciliteaz\u00e9 ecloziunea\nsentimentului poetic, iar la alt pol trezeste acelasi sentiment la cititor: poezia\nsiubeste\u201d ritmul, deoarece ritmul este pentru ea conditia fundamentala care 0\nsustine,"
             },
             "31": {
-                "class": "text",
+                "class": "titlu",
                 "x": 267,
                 "y": 155,
                 "height": 24,
@@ -525,7 +526,7 @@
                 "text": "Rezumat"
             },
             "32": {
-                "class": "text",
+                "class": "autor",
                 "x": 82,
                 "y": 61,
                 "height": 57,

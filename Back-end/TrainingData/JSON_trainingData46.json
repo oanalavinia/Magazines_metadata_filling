@@ -1,5 +1,6 @@
 {
     "numberOfPages": 71,
+    "title":"Sfera",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -52,7 +53,7 @@
                     216,
                     220
                 ],
-                "text": "Sfera"
+                "titlu": "Sfera"
             }
         }
     },
@@ -75,7 +76,7 @@
                     342,
                     523
                 ],
-                "text": "- Stefania Cotovanu, IX A\n- Camelia Ceocoiu, IX G\n\n- Andreea Colessa, XI E\n~ Stefania Rosca, XI A"
+                "autor": "- Stefania Cotovanu, IX A\n- Camelia Ceocoiu, IX G\n\n- Andreea Colessa, XI E\n~ Stefania Rosca, XI A"
             },
             "6": {
                 "class": "text",
@@ -107,7 +108,7 @@
                     327,
                     358
                 ],
-                "text": "- Ton Cazacu-Davidescu\n- Trina Pasat\n\n- Carmen Elena Apostol\n- Gicuta Agheorghiesei\n- Mihaela Anusca\n\n- Gabriela Hriteu\n\n- Elena Das:\n\n- Anca Aparaschivei\n= Toana Luca"
+                "autor": "- Ion Cazacu-Davidescu\n- Trina Pasat\n\n- Carmen Elena Apostol\n- Gicuta Agheorghiesei\n- Mihaela Anusca\n\n- Gabriela Hriteu\n\n- Elena Das:\n\n- Anca Aparaschivei\n= Toana Luca"
             },
             "8": {
                 "class": "text",
@@ -238,7 +239,7 @@
                     563,
                     110
                 ],
-                "text": "Invajator Sorohan Marlena"
+                "autor": "Invatator Sorohan Marlena"
             },
             "20": {
                 "class": "text",
@@ -254,7 +255,7 @@
                     569,
                     84
                 ],
-                "text": "O20\n\n~ invatim prin proiecte ~"
+                "titlu": "O20\n\n~ invatim prin proiecte ~"
             }
         }
     },
@@ -309,7 +310,7 @@
                     412,
                     81
                 ],
-                "text": "~ Prietenie dincolo de cuvinte ~"
+                "titlu": "~ Prietenie dincolo de cuvinte ~"
             },
             "24": {}
         }
@@ -349,7 +350,7 @@
                     564,
                     805
                 ],
-                "text": "\u2018Ciur Catalina, Clasa a IX-a D"
+                "autor": "\u2018Ciur Catalina, Clasa a IX-a D"
             },
             "27": {
                 "class": "text",
@@ -381,7 +382,7 @@
                     360,
                     490
                 ],
-                "text": "~ Cei de langa noi ~"
+                "titlu": "~ Cei de langa noi ~"
             },
             "29": {},
             "30": {
@@ -398,7 +399,7 @@
                     564,
                     446
                 ],
-                "text": "Patraus Valentina, Clasa a X-a B"
+                "autor": "Patraus Valentina, Clasa a X-a B"
             },
             "31": {},
             "32": {
@@ -486,7 +487,7 @@
                     406,
                     586
                 ],
-                "text": "~ Din opera lui Mihail Sadoveanu ~"
+                "titlu": "~ Din opera lui Mihail Sadoveanu ~"
             },
             "37": {
                 "class": "text",
@@ -519,7 +520,7 @@
                     368,
                     81
                 ],
-                "text": "~ Armonii cromatice ~"
+                "titlu": "~ Armonii cromatice ~"
             },
             "40": {}
         }
@@ -584,7 +585,7 @@
                     337,
                     447
                 ],
-                "text": "~ Vitral"
+                "titlu": "~ Vitralii ~"
             },
             "46": {
                 "class": "text",
@@ -652,7 +653,7 @@
                     333,
                     81
                 ],
-                "text": "~ Inima ~"
+                "titlu": "~ Inima ~"
             },
             "54": {}
         }

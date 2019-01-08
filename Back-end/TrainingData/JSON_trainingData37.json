@@ -1,12 +1,13 @@
 {
     "numberOfPages": 44,
+    "title":"Dialog intre generatii",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "titlu",
                 "x": 160,
                 "y": 69,
                 "height": 73,
@@ -29,7 +30,7 @@
         "pageHeight": "848",
         "sections": {
             "2": {
-                "class": "text",
+                "class": "isbn",
                 "x": 67,
                 "y": 701,
                 "height": 23,
@@ -61,7 +62,7 @@
                 "text": "Coperta: Scutarasu Madalina"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 65,
                 "y": 319,
                 "height": 29,
@@ -93,7 +94,7 @@
                 "text": "Colectivul redactional:"
             },
             "6": {
-                "class": "text",
+                "class": "autor",
                 "x": 65,
                 "y": 173,
                 "height": 68,
@@ -109,7 +110,7 @@
                 "text": "Coordonatori:\n\nMaria Acsinte\nCristian Acsinte"
             },
             "7": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 89,
                 "height": 31,
@@ -196,7 +197,7 @@
                 "text": "1: Noi , dascal\nNOUA GENERATIE..esessccsssssecesceseseeeeeeteees \u00a2\nPRIV\n\nPASIUNI $I PERFORMANTE.\nORA DE COMPUNERE.\nBIBLIOTECA AZI..\n\nROLUL $I OBIECTIVEL!\n\nIN INSTITUTHLE DE INVATAMA\nSA IN CORP SANATOS\n\nCONCURS LITERAR wessssssssssssssssssssssensenvsnse +\nTHE CANADIAN SCHOOL SYSTEM..\n\nROLUL ACTIVITATILOR EXTRASCOLARE iN\nFORMAREA PERSONALITATI ELEVULUL...\n\nPASIUNEA NOASTI\nSTIATICA"
             },
             "12": {
-                "class": "text",
+                "class": "titlu",
                 "x": 255,
                 "y": 68,
                 "height": 26,
@@ -309,7 +310,7 @@
             },
             "21": {},
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 187,
                 "y": 54,
                 "height": 27,
@@ -348,7 +349,7 @@
                 "text": "40"
             },
             "24": {
-                "class": "text",
+                "class": "autor",
                 "x": 284,
                 "y": 664,
                 "height": 44,
@@ -511,7 +512,7 @@
                 "text": "42"
             },
             "38": {
-                "class": "text",
+                "class": "autor",
                 "x": 216,
                 "y": 683,
                 "height": 59,
@@ -543,7 +544,7 @@
                 "text": "\u00abprima incercare stiinfificd de determinare a vitezei luminii in aer, apartine Tui\nGalileo Galilei (1607)?\n\nluminii solare ii trebuie aproximativ 8 minute si ajunga pe Pimant?\n\nlumina se propaga in vid cu aproximativ 300.000 km/s, de dowd milioane de\nori mai repede decat un glont?\n..fezervele de api ale Terrei se menfin constante datorita circuitului permanent\nal apei in natura, in care pidurile au un rol important?\n\nrice suprafata de teren poate fi reprezentatd cartographic?\n-..0 atmosfera lipsita de vapori de apa se realizeaza intr-un vas special de\naborator numit exsicator?\n--la inceputul fazei de constituire a imperiilor coloniale, Columb intuieste\nexistenta unui nou continent?\n\n-lumina reflectata de o oglinda poate fi vazutd de la 40 km?\n-.-umbra iti poate indica momentul zilei? Umbrele sunt lungi dimineata si seara,\nsi sunt scurte le prinz c\u2019nd Soarele este deasupra capului\n\n-notatia unui vector printr-o literd supraliniata cu  sigeati a fost compusd de\nL.Brillouin si P.Langevin,in 1912?\n\nregula paralelogramului pentru compunerea vectorilor a fost pusd in evident\u2019\nempiric, pentru forte, de catre Heron (sec. .i.e.n.) si stabilita axperimental de\nSStevin, in 1600?\n\nproductia secundara este real\necosi\n\n \n\n \n\n \n\n \n\n8 de energia acumulata in biomasa unui\n(em ca urmare a asimilatiei organismelor heterotrofe?\n..eficienta ecologica exprima echilibrul numeric dintre diferitele specii dintr-un\necosistem, in stransa legatura cu productia nivelurile trofice?\n\nfn see. XV-XVI au apiirut tratate de athitectura civild si militard, de tehnica\nminierd, metalurgie si pirotehnica?\nirculatia permanenta si reversibild a elementelor chimice intre mediul abiotic\nsi organismele vii ale biocenezei si din organismelor vii din now in biotop se\nnumesc circuit biogeochimi\n--introducdnd lupa in apa, imaginile nu vor fila fel de mari ca in aer, ele find\naproape egale cu obiectul?"
             },
             "40": {
-                "class": "text",
+                "class": "titlu",
                 "x": 234,
                 "y": 77,
                 "height": 33,
@@ -582,7 +583,7 @@
                 "text": "43"
             },
             "42": {
-                "class": "text",
+                "class": "autor",
                 "x": 337,
                 "y": 636,
                 "height": 44,
@@ -614,7 +615,7 @@
                 "text": "materialele plastice sunt folosite pentru constructia lentilelor ochelarilor de\nprotectie?\nih cuvant pronuntat intre cele dou aripi ale cladirii castelului Simioneta de\nJang Milano este repetat de 40 de ori?\nmorile de vant nu sunt poluante, dar sunt mari si fac mult zgomot?\n--sunetul parcurge 340m/s\n---Pielea este cel mai greu organ din corp? Ea cantareste 4ke.\n{in 24 ore,cantitatea de urina primara formata este de 180 I, in vreme ce urina\neliminata insumeaza doar 1,5 1?\n bucatd de ciocolat\u00e9 de 125g are un continut energetic de 240k, ceea\ninseamna ca prin consumarea ei se obtine 0 cantitate de energie suficienta pentru\n\u00a9 partida de tenis cu 0 durata de 0 ora?\n--intr-un punet minuscul ficut cu creionul sunt 30.000.000,000.000.000 atom?\n\u2018numele celui mai rar element de pe Pamant este astatin (69g in toata scoarta\nPamantului )?\n..-oamenii sunt obignuiti si recicleze din cele mai vechi timpuri?\n---pe parcursul unei vieti de 70 de ani, inima unui om bate de 3 miliarde de ori\n\u2018un copil nou-nascut, dupa eateva zile dupa nastere,isi cunoaste mama dupa\nmiros?\n\u2018veninul unor anumite specii de scorpioni poate ucide un cdine in 7 minute gi\nde om in cateva ore?\n...cel mai hranitor fruct din lume este avocado?\n--balena albastra este cel mai mare animal viu,c\u00e9ntdrind pana la 160 tone?\ncele mai grele pisdri care pot s& sustind zborul cu batai din aripi pentru\nperioade lungi de timp sunt lebedele, care cdntaresc pana la 15kg si au o\naverguri a aripilor de 2,5 metri?\n.. toatd cantitatea de aur din lume poate fi stransd intr-un cub cu latura de 18 m?"
             },
             "44": {
-                "class": "text",
+                "class": "titlu",
                 "x": 234,
                 "y": 62,
                 "height": 34,

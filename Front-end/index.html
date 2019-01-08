@@ -16,17 +16,38 @@
 <body>
     <header>
         <div class="nav">
-            <a href="presentation.html" id="presentation">Presentation</a>
+            <a href="https://elisacioca.github.io/Presentation/?fbclid=IwAR3HockfscxQQzYZMcy3WO5hI5zubS68N9htyryT3y4vmy0-4VtQQ_-OiJ8" id="presentation">Presentation</a>
             <a href="index.html">AUTOMATIC MAGAZINES METADATA FILING</a>
             <a>About us</a>
         </div>
     </header>
 
-    <div class="upload-btn-wrapper">
-        <!-- <button id="btn" class="btn-class">SELECT PICTURE</button>
-        <input type="file" id="btn" name="myfile" /> -->
-        <!-- <img src="background.png"> -->
+    <div class="selectFileWrapper" id="uploadBox">
+        <div>
+            <div class="box">
+                <form action="upload" method="post" enctype="multipart/form-data">
+                    Select file to upload:
+                    <input type="file" name="fileToUpload" id="fileToUpload">
+                    <input type="submit" value="Upload File" name="submit" id="uploadFile">
+                </form>
+            </div>
+        </div>
+    </div>
 
+    <div class="twoBoxes" id="boxes">
+        <div class="firstBox">
+            <div class="box">
+                <p>book here?</p>
+            </div>
+        </div>
+        <div class="secondBox">
+            <div class="box">
+                <p>metadata here</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="upload-btn-wrapper" id="uploadBox">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-body">
@@ -49,14 +70,11 @@
                                         To get your metadatas!
                                 </p>
                             </div>
-
                         </div>
-
                     </div>
                     <footer>
 
                         <div class="list-files">
-                            <!--   template   -->
                         </div>
                         <div class="divider">
                             <img src="drag'n-drop.png">
@@ -66,12 +84,12 @@
                             </div>
                         </div>
                         <button class="importar">SELECT ANOTHER PDF</button>
-                        <button class="importar2">GET METADATA!</button>
+                        <button class="importar2" id="getMetadata">GET METADATA!</button>
                     </footer>
                 </div>
             </div>
         </div>
-</div>
+</div> -->
     <script src="principal.js"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

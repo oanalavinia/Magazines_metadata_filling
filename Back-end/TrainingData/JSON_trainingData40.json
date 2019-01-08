@@ -1,5 +1,6 @@
 {
     "numberOfPages": 100,
+    "title":"Ad-Sudium Nr.2",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -39,7 +40,7 @@
                 "text": "Ad-Studium"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 225,
                 "y": 74,
                 "height": 28,

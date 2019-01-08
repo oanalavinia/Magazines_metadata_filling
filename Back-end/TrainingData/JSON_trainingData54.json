@@ -1,5 +1,6 @@
 {
     "numberOfPages": 232,
+    "title":"Trecute vremi...",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -39,7 +40,7 @@
                 "text": "\u2014PROMOTIA 1952 \u2014"
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 165,
                 "y": 357,
                 "height": 28,
@@ -56,7 +57,7 @@
             },
             "5": {},
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 342,
                 "y": 298,
                 "height": 33,
@@ -69,12 +70,12 @@
                     428,
                     331
                 ],
-                "text": "REM"
+                "text": "VREMI"
             },
             "7": {},
             "8": {},
             "9": {
-                "class": "text",
+                "class": "titlu",
                 "x": 134,
                 "y": 298,
                 "height": 33,
@@ -87,11 +88,11 @@
                     272,
                     331
                 ],
-                "text": "RECUT"
+                "text": "TRECUTE"
             },
             "10": {},
             "11": {
-                "class": "text",
+                "class": "autor",
                 "x": 358,
                 "y": 106,
                 "height": 32,
@@ -107,7 +108,7 @@
                 "text": "NICULAI SOREA"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 77,
                 "y": 102,
                 "height": 36,
@@ -130,7 +131,7 @@
         "pageHeight": "851",
         "sections": {
             "13": {
-                "class": "text",
+                "class": "isbn",
                 "x": 91,
                 "y": 680,
                 "height": 27,
@@ -282,7 +283,7 @@
         "pageHeight": "851",
         "sections": {
             "26": {
-                "class": "text",
+                "class": "titlu",
                 "x": 77,
                 "y": 597,
                 "height": 178,
@@ -298,7 +299,7 @@
                 "text": "Distinsii nostri profesori de la fostul Liceu ,,Elisabeta Doamna\u201d\ndin i\n... (Raduta Vasilovschi)\nProfesoarele noastre de atunci... (Geta Boghian) .\nProf. Badac Artemizia (Sindilariu\n\nEvocare (Riduta Vasilovschi)\nProf. Gheorghiesi Elena (Carbune) .\nProf. Alexinschi Viorica (Sindilariu) .\nProf. Ganin Felicia (Facas)"
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 77,
                 "y": 377,
                 "height": 216,
@@ -314,7 +315,7 @@
                 "text": "Scurt istoric al invagimantului ridautean\n(Raiduta Vasilovschi)\nPentru Bucovina (Vasile Posteucd) ....\nLista directorilor de la Liceul de Fete ,Elisabeta Doamna\nde la infiintare pana in present\n(azi Colegiul Tehnic Radituti) .\n\nProfesoarele si profesorii de la Liceul de Fete din Radiuti\n(Reiduja Vasilovschi)\nAbsolventii care functioneazi in noua scoala ca profesori\nAbsolventi ai noului liceu care s-au afirmat in\ndiverse domenii ale societatii si culturii romanesti .."
             },
             "28": {
-                "class": "text",
+                "class": "titlu",
                 "x": 77,
                 "y": 289,
                 "height": 84,
@@ -330,7 +331,7 @@
                 "text": "Prefatai (Raidufa Vasilovschi)\nDragi colege... (Niculai $orea)\n\nGaudeamus igitur...\nMandr\u00e9 Bucovina\u00e9 (Ridua Vasilovschi)"
             },
             "29": {
-                "class": "text",
+                "class": "titlu",
                 "x": 253,
                 "y": 227,
                 "height": 27,
@@ -353,7 +354,7 @@
         "pageHeight": "851",
         "sections": {
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 77,
                 "y": 75,
                 "height": 689,
@@ -377,7 +378,7 @@
         "sections": {
             "31": {},
             "32": {
-                "class": "text",
+                "class": "titlu",
                 "x": 76,
                 "y": 390,
                 "height": 253,
@@ -393,7 +394,7 @@
                 "text": "Spicuiri din sihastrie... Internatul nostru\n(Reiduja Vasilovschi)\nSihdistria noastr\u00e9.\nAmintiri, amintiri... (Lucica Bodndras) .\nDemult erau elevi de-acei... (Octavian Loghin) .\nRugdciunea elevului ..\n clipa... (Viorica Puha-Chiriac)\n\nEiarnd iar ! (Raduta Vasilovschi)\n1952 a Liceului ,,Blisabeta Doamna\u201d\n\nPromotia initial 1952 a Colegiului National\nEudoxiu Hurmuzachi\u201d din Radzuti"
             },
             "33": {
-                "class": "text",
+                "class": "titlu",
                 "x": 117,
                 "y": 75,
                 "height": 312,
@@ -416,7 +417,7 @@
         "pageHeight": "849",
         "sections": {
             "34": {
-                "class": "text",
+                "class": "editura",
                 "x": 166,
                 "y": 645,
                 "height": 98,

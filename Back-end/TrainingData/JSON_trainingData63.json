@@ -1,5 +1,6 @@
 {
     "numberOfPages": 104,
+    "title":"Studiu priving abandon scolar la nivelul judetului Iasi",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -22,7 +23,7 @@
                 "text": "106"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 554,
                 "height": 27,
@@ -38,7 +39,7 @@
                 "text": "Bibliografie"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 62,
                 "y": 507,
                 "height": 42,
@@ -86,7 +87,7 @@
                 "text": "72"
             },
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 475,
                 "height": 24,
@@ -118,7 +119,7 @@
                 "text": "58"
             },
             "8": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 427,
                 "height": 43,
@@ -150,7 +151,7 @@
                 "text": "50"
             },
             "10": {
-                "class": "text",
+                "class": "titlu",
                 "x": 62,
                 "y": 380,
                 "height": 43,
@@ -182,7 +183,7 @@
                 "text": "45"
             },
             "12": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 348,
                 "height": 27,
@@ -214,7 +215,7 @@
                 "text": "42"
             },
             "14": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 317,
                 "height": 27,
@@ -246,7 +247,7 @@
                 "text": "33"
             },
             "16": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 238,
                 "height": 75,
@@ -278,7 +279,7 @@
                 "text": "16"
             },
             "18": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 191,
                 "height": 42,
@@ -295,7 +296,7 @@
             },
             "19": {},
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 159,
                 "height": 27,
@@ -311,7 +312,7 @@
                 "text": "|. Studiu privind abandonul scolar la nivelul judetului lagi 2011-2012"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 266,
                 "y": 87,
                 "height": 26,
@@ -376,7 +377,7 @@
                 "text": "Obiective\n\u2018Studiul privind abandonul gcotar la nivelul judetulul lagi a vizat:\nfundamentarea cu date statistice relevante a decizilor de politics educational\norientate spre prevenirea i diminuarea fenomenul\noferirea unei diagnoze privind cauzele de manifestare a fenomenului de parasire\n\ntimpurie a scoli,identificarea factorilor care genereaza o rata scazuta de retentie a\nelevilor in sistemul scolar;\n\n\u2018dentiicarea unor masuri eficiente privind prevenirea si combaterea abandonului;\nevidentierea riscurlor asociate acestui fenomen, a consecinjelor negative ale\npracticilor pasive, noninterventioniste."
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 254,
                 "y": 385,
                 "height": 23,
@@ -409,7 +410,7 @@
             },
             "29": {},
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 63,
                 "y": 51,
                 "height": 47,
@@ -422,7 +423,7 @@
                     497,
                     98
                 ],
-                "text": "ID ABANDONUL S$COLAR LA NIVELUL\nJUDETULUI IASI 2011-2012"
+                "text": "STUDIUL PRIVIND ABANDONUL S$COLAR LA NIVELUL\nJUDETULUI IASI 2011-2012"
             },
             "31": {}
         }
@@ -2148,7 +2149,7 @@
                 "text": "\u2018Comestean Daniela (coord.\n\u2018scolar\u2019, Ed. PIM, lagi, 2012,\n\nprevenirea abandonului"
             },
             "160": {
-                "class": "text",
+                "class": "titlu",
                 "x": 238,
                 "y": 67,
                 "height": 25,

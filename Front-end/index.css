@@ -16,6 +16,63 @@ header{
     font-size: 20px;
    
 }
+
+/* .upload-btn-wrapper{
+  display:none
+} */
+
+.selectFileWrapper {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top:4%;
+}
+
+.selectFileWrapper >div {
+  background-color: white;
+  width: 700px;
+  height: 500px;
+  padding: 1%;
+  align-self: flex-start;
+}
+
+.twoBoxes{
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.twoBoxes >div{
+  background-color: white;
+  max-width: 50%;
+  width: 700px;
+  height: 500px;
+  padding: 1%;
+}
+
+.box {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: pink;
+  /* /* margin: 2%; */
+  height: 100%;
+}
+
+.firstBox{
+  margin-right:5%;
+  align-self: flex-start;
+}
+
+.secondBox{
+  align-self: flex-end;
+}
+
 .nav a:hover{
     text-decoration: underline;
     text-decoration-color: #D988E2;

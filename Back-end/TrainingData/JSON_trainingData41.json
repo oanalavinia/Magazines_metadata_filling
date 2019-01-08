@@ -1,5 +1,6 @@
 {
     "numberOfPages": 86,
+    "title":"Reviste literare din prima jumatate a secolului al xix-lea",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -19,7 +20,7 @@
                     378,
                     783
                 ],
-                "text": "Editura PIM, asi, 2013"
+                "editura": "Editura PIM, asi, 2013"
             },
             "2": {},
             "3": {
@@ -68,7 +69,7 @@
                     516,
                     404
                 ],
-                "text": "REVISTE LITERARE DIN PRIMA JUMATATE"
+                "titlu": "REVISTE LITERARE DIN PRIMA JUMATATE A SECOLULUI AL XIX-LEA"
             },
             "6": {
                 "class": "text",
@@ -84,7 +85,7 @@
                     386,
                     134
                 ],
-                "text": "Brindusa \u2014 Georgiana Popa"
+                "autor": "Brindusa \u2014 Georgiana Popa"
             }
         }
     },
@@ -108,7 +109,7 @@
                     479,
                     478
                 ],
-                "text": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nPOPA, BRINDUSA-GEORGIANA\n\nReviste literare din prima jumitate a secolului al XIX-lea\nBrindusa-Georgiana Popa. - lagi : PIM, 2013\nISBN 978-606-13-1279-5"
+                "isbn": "Descrierea CIP a Bibliotecii Nationale a Romaniei\nPOPA, BRINDUSA-GEORGIANA\n\nReviste literare din prima jumitate a secolului al XIX-lea\nBrindusa-Georgiana Popa. - lagi : PIM, 2013\nISBN 978-606-13-1279-5"
             },
             "9": {
                 "class": "text",
@@ -140,7 +141,7 @@
                     312,
                     382
                 ],
-                "text": "Editura OM\nEdituri acreditat\u00e9 CNCSIS ~ 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.715\nwww.pimeopy.r0"
+                "editura": "Editura PIM\nEdituri acreditat\u00e9 CNCSIS ~ 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, lagi\nTel.: 0730.086.676; Fax: 0332.440.715\nwww.pimeopy.r0"
             }
         }
     },
@@ -523,7 +524,7 @@
                     430,
                     778
                 ],
-                "text": "Editura si tipografia CN\nSoscawa Stefan cel Mare si Sfint ne, 4, Lagi - 700497\nTel.:0730.086.676; Fax: 0332.440.715,\nE-mail editura@pimeopy.10\n\n \n\nworw.pimeopy.t0"
+                "editura": "Editura si tipografia PIM\nSoscawa Stefan cel Mare si Sfint ne, 4, Lagi - 700497\nTel.:0730.086.676; Fax: 0332.440.715,\nE-mail editura@pimeopy.10\n\n \n\nworw.pimeopy.t0"
             },
             "39": {
                 "class": "text",

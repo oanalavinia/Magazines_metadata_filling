@@ -18,6 +18,7 @@ function readURL(input) {
   }
 }
 
+<<<<<<< HEAD
 // working with jQuery and Bootstrap modal
 window.onload = function () {
   $('#uploadPopup').modal('show');
@@ -27,6 +28,8 @@ window.onload = function () {
   })
 }
 
+=======
+>>>>>>> ccf00b427650a32484a400a0ebe4de2e030893c2
 //DOM
 const $ = document.querySelector.bind(document);
 
@@ -108,3 +111,9 @@ App.init = (function () {
   // input change
   $("input[type=file]").addEventListener("change", handleFileSelect);
 })();
+
+
+document.getElementById("getMetadata").addEventListener("click", function() {
+  document.getElementById("uploadBox").style.display="none";
+  document.getElementById("boxes").style.display="grid";
+});

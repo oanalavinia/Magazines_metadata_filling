@@ -1,12 +1,13 @@
 {
     "numberOfPages": 57,
+    "title":"O raza de lumina in tinut gosmanean",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 240,
                 "y": 719,
                 "height": 24,
@@ -22,7 +23,7 @@
                 "text": "Editura Pro-Didact"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 615,
                 "height": 51,
@@ -78,7 +79,7 @@
         "pageHeight": "848",
         "sections": {
             "6": {
-                "class": "text",
+                "class": "isbn",
                 "x": 223,
                 "y": 651,
                 "height": 23,
@@ -94,7 +95,7 @@
                 "text": "ISSN 2065 - 5665"
             },
             "7": {
-                "class": "text",
+                "class": "autor",
                 "x": 315,
                 "y": 502,
                 "height": 29,
@@ -126,7 +127,7 @@
                 "text": "Coordonator:"
             },
             "9": {
-                "class": "text",
+                "class": "autor",
                 "x": 208,
                 "y": 329,
                 "height": 29,
@@ -142,7 +143,7 @@
                 "text": "Inv. Aurica Rosu"
             },
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 208,
                 "y": 286,
                 "height": 29,
@@ -158,7 +159,7 @@
                 "text": "Inv. Ecaterina Cuptor"
             },
             "11": {
-                "class": "text",
+                "class": "autor",
                 "x": 208,
                 "y": 242,
                 "height": 30,
@@ -174,7 +175,7 @@
                 "text": "Prof. Mioara Dr\u00e9goi"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 208,
                 "y": 199,
                 "height": 29,
@@ -330,7 +331,7 @@
                 "text": "Sfatul gospodarilor"
             },
             "27": {
-                "class": "text",
+                "class": "titlu",
                 "x": 249,
                 "y": 279,
                 "height": 23,
