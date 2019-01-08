@@ -39,7 +39,7 @@
             },
             "3": {},
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 263,
                 "y": 448,
                 "height": 26,
@@ -71,7 +71,7 @@
                 "text": "2013"
             },
             "6": {
-                "class": "text",
+                "class": "titlu",
                 "x": 132,
                 "y": 346,
                 "height": 47,
@@ -87,7 +87,7 @@
                 "text": "SCOALA"
             },
             "7": {
-                "class": "text",
+                "class": "titlu",
                 "x": 270,
                 "y": 340,
                 "height": 52,
@@ -209,7 +209,7 @@
         "pageHeight": "776",
         "sections": {
             "17": {
-                "class": "text",
+                "class": "isbn",
                 "x": 132,
                 "y": 652,
                 "height": 25,
@@ -225,7 +225,7 @@
                 "text": "ISSN-L 2359 \u2014 8247"
             },
             "18": {
-                "class": "text",
+                "class": "isbn",
                 "x": 133,
                 "y": 625,
                 "height": 25,
@@ -264,7 +264,7 @@
                 "text": "Proiectul $coala paringilor conceput si implementat in Scoala fon Simionescu\nincepdnd cu anul scolar 2010 - 2011 vizeaz aplicarea unui program de interventie\n\nbazat pe activitati de sprijin socio-educativ, avand ca obiectiv principal consilierea\n\n      \n\npirintilor in vederea imbunatatirii relatiei parinte-copil, a relatiei scoali-familie,\n\n \n\nprecum si prevenirea situatiilor de eriz\u00e9 educationala.\nPentru ca societatea si fie umand si eficienti, are nevoie de grupuri sociale,\n\ncolectiviti\n\n \n\n \n\n \n\ncoopereaz, promovnd coeziunea si solidaritatea, in care\n\u2018membrii grupurilor si fie personalititi autonome, cu initiativa, care isi asuma\nresponsabilitati pentru ei insisi si pentru ceilali\n\nPrin infiintarea Scolii paringilor dorim si atragem atentia asupra beneficiilor\n\n \n\naduse de implicarea familiei in viaja scolard si extrascolard, asupra necesitigii\n\n \n\ninformatri, colaborarii_ si promovarii_strategiilor educative in paralel cu dezvoltarea\nunui sistem de atitudini reatiste ale pirintilor si ale elevilor fai de propriile\nposibilititi. Profesia de parinte este cea mai importantd din cdte avem in viata gi\ntotusi, foarte putini dintre noi suntem cu adevarat instruiti pentru ea. Avem impresia\ncA stim din nastere cum se crese copiii, cum si ne descuredm cu ei cdnd nu sunt\ncooperanti, cum s armonizim nevoile lor cu ale noastre, cum si-i ajutdim si creased\nfericit si implinit.\n\nPrima scoali a copilului este familia. Aceasta exercita o influenta atat de adanea,\nincat urmele ei rman, uneori, intiparite pentru toata viata in profilul moral-spiritual\nal acestuia,\n\nScoala gi familia sunt cei doi poli de rezistenta ai educatiei, care contribuie prin\n\nmijloace specifice la formarea tineretului. Desi, intr-o anumiti etapa a viet\n\n \n\ncopilului, rolul primordial il define scoala, este necesar ins ca familia si sprijine in\n\nisurilor\n\n   \n\ntivitatea educativa a scolii, Trebuie si existe \u00a9 unitate a"
             },
             "20": {
-                "class": "text",
+                "class": "titlu",
                 "x": 257,
                 "y": 67,
                 "height": 24,
@@ -287,7 +287,7 @@
         "pageHeight": "776",
         "sections": {
             "21": {
-                "class": "text",
+                "class": "autor",
                 "x": 231,
                 "y": 564,
                 "height": 26,
@@ -383,7 +383,7 @@
             "26": {},
             "27": {},
             "28": {
-                "class": "text",
+                "class": "autor",
                 "x": 64,
                 "y": 107,
                 "height": 125,
@@ -399,7 +399,7 @@
                 "text": "1, James Y. Shah, dr., Catedra de Psihologie, Universitatea Duke, SUA si Wendi Gardner,\ndoctor, Catedra de Psihologie, Universitatea de nond-vest, SUA, Guilford Press, Handbock of\n\n\u2018motivation science, 2012;\n\n2. Robert Pritchard, Elissa Ashwood, A Manager's Guide to Diagnosing and Improving\n\nMotivation , Routledge / Psyehpres, 14 mai 2008;\n3. Victor. HL Vroom, Work and Motivation, John Wiley & Sons, New York, 1984"
             },
             "29": {
-                "class": "text",
+                "class": "titlu",
                 "x": 91,
                 "y": 66,
                 "height": 25,
@@ -486,7 +486,7 @@
                 "text": "49"
             },
             "34": {
-                "class": "text",
+                "class": "titlu",
                 "x": 56,
                 "y": 567,
                 "height": 33,
@@ -568,7 +568,7 @@
                 "text": "25"
             },
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 74,
                 "y": 391,
                 "height": 26,
@@ -601,7 +601,7 @@
                 "text": "2., indrumarea si autoritatea parentala"
             },
             "44": {
-                "class": "text",
+                "class": "autor",
                 "x": 32,
                 "y": 175,
                 "height": 531,
@@ -665,7 +665,7 @@
                 "text": "\u2018Autorul/autorii"
             },
             "48": {
-                "class": "text",
+                "class": "titlu",
                 "x": 267,
                 "y": 67,
                 "height": 24,
@@ -721,7 +721,7 @@
                 "text": "19 Rolul parintilor in educarea copiilor"
             },
             "52": {
-                "class": "text",
+                "class": "autor",
                 "x": 279,
                 "y": 624,
                 "height": 70,
@@ -902,7 +902,7 @@
             },
             "67": {},
             "68": {
-                "class": "text",
+                "class": "autor",
                 "x": 32,
                 "y": 67,
                 "height": 559,
@@ -957,7 +957,7 @@
                 "text": "a"
             },
             "71": {
-                "class": "text",
+                "class": "autor",
                 "x": 279,
                 "y": 118,
                 "height": 66,

@@ -6,7 +6,7 @@
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 261,
                 "y": 619,
                 "height": 40,
@@ -22,7 +22,7 @@
                 "text": "Editura PIM\nasi, 2009"
             },
             "2": {
-                "class": "text",
+                "class": "titlu",
                 "x": 231,
                 "y": 307,
                 "height": 30,
@@ -38,7 +38,7 @@
                 "text": "PAS CU PAS"
             },
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 114,
                 "y": 274,
                 "height": 30,
@@ -54,7 +54,7 @@
                 "text": "UTILIZAREA CALCULATORULUI"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 180,
                 "y": 79,
                 "height": 93,
@@ -78,7 +78,7 @@
         "sections": {
             "5": {},
             "6": {
-                "class": "text",
+                "class": "autor",
                 "x": 97,
                 "y": 433,
                 "height": 61,
@@ -94,7 +94,7 @@
                 "text": "|. Hlinca, Mircea\nI. Chiriae, Gabriel\n\nML, Dumitru, Tiberius\nTV. Morar, Claudit"
             },
             "7": {
-                "class": "text",
+                "class": "isbn",
                 "x": 91,
                 "y": 325,
                 "height": 103,
@@ -166,7 +166,7 @@
                 "text": "Manualul constituie suportul teoretic pentru cursul de initiere in\nccupatia de \u201cOperator introducere,validare si prelucrare date\u201d.\n\nContinutul manvaluui a fost weaizat in conformitate cu standardul\nccupayional pentru aceast\u00e9 meserie. Sunt prezentate urmitoarele pachete\nsoftware: sistemul de operare Windows XP, MS Office (produsele sofware\nWord, Excel. Power Point) precum si modul de uilizare al eelei Internet.\n\nMaterialul cursului este organizat pe leci, iar suecesiunea acestora\nurmareste, pe eat posibil, modalititile in care pot fi rezolvate problemele\nconcrete cafe se intalnese in utlizarea unui PC. Fiecae lect confine un set\nde intrebari si, in Funete de posiblititi, exerci rezolvate sau propuse spre\nrezolvare care permit o autocvaluare individual, Cursul cuprinde 7 part,\n17 eet, 5 anexe 3 ibliografia,\n\nfn aledtuirea cusulu, autor au insistat asupra necesita infelegeri\nrmodiuluiefectiv de realizareu comenzilor sa efectclor acestora\n\nPartea L-a: Structura si functionarea unui sistem de calcul are rolul\nde a acomoda vitorul uilizator cu un sistem de caleul. Sunt prezentate\nclementele principale ale unui sistem de calculthardware si software) si\n\u2018modil in care informatie sunt organizate in memoria caleulatoruli.\n\nPartea a Il-a: Sistem! de operare Windows XP are. lecit si\nrealizeazi 0 prezentare generala a structurii acestia, modalititilor de\nintroducere \u00ab comenzilor precum sia aplicailoraferente Windows XP. O\natentie deosebiti se acord operailor de creare si uilizare a figierelor.\n\nPartea a Hla: Aplicatia Microsoft Word contine 7 leet in\ncuprinsulcarora sunt parcurseprincipalele probleme de procesare a textelor\ncate pot Fi solutionate eu acesta, De excmplu: crearea si salvarca unui\ndocument nov, \u201cdeschiderea\" unui document existent in memoria extern,\nformatarea.textului, inseriri_ in cuprinsul unor documente(caractere\nspeciale, marcare i numerotare, antet si subsolur..)crearea si formatarea\ntabelelor, faciltii de editare, graficd'in Word, conversia documentelor\nrealizate eu procesoat diferite,tipirirea documentelor\n\nPartea a IV-a: Cuprinde aplicajia Power Point utlizata. pentra\nefectuarea unor prezentiri grafice 51 multimedia, Se expan princpii ale\nrealizar diaportivelor(slde-uri), modaliti de animatie side inserare de\nsunete gi obiecte grafice in prezentiri si modul de derulare a prezentirilor.\n\nPartea a V-a: Aplicojia Excel contine 2 lect st permite insusirea\nmodului de utilizare a calcului tabelar: crearea unui tabel faciltii de\neditar, introducerea unor formule de caleul, realizarea unor diagram."
             },
             "12": {
-                "class": "text",
+                "class": "titlu",
                 "x": 265,
                 "y": 54,
                 "height": 27,
@@ -189,7 +189,7 @@
         "pageHeight": "848",
         "sections": {
             "13": {
-                "class": "text",
+                "class": "titlu",
                 "x": 348,
                 "y": 616,
                 "height": 23,
@@ -309,7 +309,7 @@
                 "text": "1. Realizati urmitoarea structura de directoare folosind aplicatia My Computer"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 251,
                 "y": 85,
                 "height": 23,

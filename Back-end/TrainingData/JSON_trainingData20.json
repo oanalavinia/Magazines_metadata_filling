@@ -39,7 +39,7 @@
                 "text": "Nr."
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 196,
                 "y": 429,
                 "height": 24,
@@ -273,7 +273,7 @@
                 "text": "EDUCATIA INCLUZIVA - PROCES DE IMBUNATATIRE IN ACTIVITATEA DIDACTICA..\nlnv Apetei Simona, Scoala cu clasele | Vil, Sie, judo\n\nVEVERITA RITA $1 RILA -IEPURILA. 10\n\na: Naf\u2019 Cosmin Mara, caso aka A, Scoaac clsee Vl Sef, Locata Sebo, ud\nlas, Coordonator, prot. inv. primar, Viorica Matti. 10"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 252,
                 "y": 68,
                 "height": 28,
@@ -296,7 +296,7 @@
         "pageHeight": "848",
         "sections": {
             "22": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 778,
                 "height": 41,
@@ -529,7 +529,7 @@
                 "text": "\u2018COPIII SE JOACA PRETUTINDENI,\n\n \n\nGradina cu program normal Humosu, judas"
             },
             "38": {
-                "class": "text",
+                "class": "editura",
                 "x": 64,
                 "y": 323,
                 "height": 41,
@@ -545,7 +545,7 @@
                 "text": "Ed. Nemfanu Anigoara, Gradinta nr. 1 Cristesti Grup Scolar Cristo"
             },
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 278,
                 "height": 44,
