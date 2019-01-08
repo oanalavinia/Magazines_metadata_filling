@@ -6,7 +6,7 @@
         "pageHeight": "888",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "titlu",
                 "x": 139,
                 "y": 254,
                 "height": 81,
@@ -22,7 +22,7 @@
                 "text": "Reflexii de lumina,\ninocenta si magie"
             },
             "2": {
-                "class": "text",
+                "class": "autor",
                 "x": 167,
                 "y": 104,
                 "height": 79,
@@ -84,7 +84,7 @@
         "pageHeight": "888",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "editura",
                 "x": 208,
                 "y": 754,
                 "height": 30,
@@ -116,7 +116,7 @@
                 "text": "Moto:\n\u201cLumina nu trebuie ascunsa,\n\n \n\niar talentul trebuie inmultit...\u201d"
             },
             "7": {
-                "class": "text",
+                "class": "titlu",
                 "x": 139,
                 "y": 320,
                 "height": 81,
@@ -132,7 +132,7 @@
                 "text": "Reflexii de lumina,\ninocenta si magie"
             },
             "8": {
-                "class": "text",
+                "class": "autor",
                 "x": 167,
                 "y": 127,
                 "height": 79,
@@ -187,7 +187,7 @@
                 "text": "I. Rotariu, Maria Nicoleta\n\n \n\njeorgiana Alexandra"
             },
             "11": {
-                "class": "text",
+                "class": "isbn",
                 "x": 64,
                 "y": 591,
                 "height": 91,
@@ -203,7 +203,7 @@
                 "text": "Deserierea male a Romaniei\nANGHELUTA, PETRONELA\n\nReflexii de lumina, inocenta si magie / Petronela Angheluti\nNicoleta Rotariu, Georgiana Alexandra Vasile. - lagi : PIM, 2014\nISBN 978-606-13-1846-9"
             },
             "12": {
-                "class": "text",
+                "class": "editura",
                 "x": 82,
                 "y": 435,
                 "height": 76,
@@ -638,7 +638,7 @@
         "pageHeight": "888",
         "sections": {
             "46": {
-                "class": "text",
+                "class": "editura",
                 "x": 147,
                 "y": 647,
                 "height": 111,

@@ -6,7 +6,7 @@
         "pageHeight": "848",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 259,
                 "y": 741,
                 "height": 43,
@@ -54,7 +54,7 @@
                 "text": "EDITIA A IV-A."
             },
             "4": {
-                "class": "text",
+                "class": "titlu",
                 "x": 159,
                 "y": 366,
                 "height": 40,
@@ -70,7 +70,7 @@
                 "text": "IN $COALA ROMANEASCA"
             },
             "5": {
-                "class": "text",
+                "class": "titlu",
                 "x": 118,
                 "y": 330,
                 "height": 36,
@@ -87,7 +87,7 @@
             },
             "6": {},
             "7": {
-                "class": "text",
+                "class": "autor",
                 "x": 152,
                 "y": 53,
                 "height": 27,
@@ -126,7 +126,7 @@
                 "text": "Responsabilitatea pentru cor\nautoriloi\n\njutul materialelor apartine"
             },
             "9": {
-                "class": "text",
+                "class": "isbn",
                 "x": 235,
                 "y": 573,
                 "height": 25,
@@ -165,7 +165,7 @@
                 "text": "1. STIMULAREA CREATIVITATH ELEVILOR IN\nPROCESUL EDUCATIONAL IN SP NR. 9.\n\nProfesor Valentina CEBAN\n\nScoala Profesionali nr. 9, Chisindu\nRepublica Moldova\n\n2. COPILUL $I CREATIVITATEA..\nAurora Maria GAINESCU\n\nFlorentina GENERALU\n\nGradinita nr. 185 Bucuresti\n\n3, IMPORTANTA CREATIVITATH IN PREDAREA LIMBI ENGLEZE.\nClaudia INOAN\n\nScoala Nr. 190 \"Marcela Penes\u201d Bucuresti\n\n4. ANALIZ.A COMPARATIVA A DOUA AUXILIARE EDUCATIVE,\nPUBLICATE IN DOUA SISTEME DE INVATAMANT CONTEMPORANE\nDIFERITE- CEL ROMANESC SI CEL BRITANI\nProfesor Simona Maria DORNEANU\n\nGrup Scolar \"Anzhe! Saligny\u201d lasi\n\n5. IETODE ACTIVE DE PREDARE IN SCOPUL PERFORMARI\n$1 DEZVOLTARII PROPRIULUI STIL DE MUNCA IN CADRUL TEME]\n\u2018TRADITH SI OBICEIURI DE IARNA.\nProf. pt Inv. prescolar Aurica TOMA\nGradinita nz. 185 ,Garofifa\u201d Bucuresti\n\n6. MOTIVAREA INVATARII PENTRU ORA DE RELIGH\n\nProf. Claudia BOTA\n\nScoala cu clasele I-VI, nr 130 \u201cLuceafirul\u201d Bucuresti\n\n7. ASPECTE DE CREATIVITATE $1 MODERNITATE IN GRADINIT/\n\u2018Camelia DUMITRU\n\nGradinita Ne. 185 ,Garofita\u201d Bucuresti\n\n8p STIMULAREA CREATIVITATH PRESCOLARILOR PRIN ACTIVITATILE\nDESFASURATE IN GRADINITA..\nProf. inv. prescolar Laura POPESCU\nGradinita Nr. 185 ,Garofita\u201d Bucuresti\n9, LUMEA NOASTRA INTRE REALITATE $1 POSIBILITATE..\nProf, Manuela CHISLARU\n\nScoala Nr. 130 \u201cLuceafirul\u201d Bucuresti\n\n10, TOPONIMIA IN VIATA CURENTA\n\nProf, Alina-Maria GROSU\n\nProf. Diana-Elena NASTURAS\nGrup Scolar, Anghe! Saligny\u201d lai\nII,\u201d ENHANCING ENGLISH\nProf. Oana-Raluca HUTANU\nGrup Scolar ,,Anghel Saligny\u201d Iasi\n12, METODA MOZAICULUI IN PREDAREA LECTILOR DE GEOGRAFIE.\nProfesor Nicolae IRIMIA\n\nScoala de Arte si Meserii Cochirleanca, judetul Buzaiu\n\n \n\n \n\n \n\n \n\n  \n \n\n \n\n \n\n \n\n \n\n \n\n \n\nANGUAGE LEARNING THROUGH DRAMA."
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 98,
                 "height": 26,
@@ -220,7 +220,7 @@
                 "text": "18. OSCILOSCOPUL DIGITAL UTLIZAT CA INSTRUMENT DE\nMASURARE A TENSIUNII ELECTRIC\n\nGreta COSTIN\n\nColegiul Tehnic de\"Transporturi Piatra Neamt\n\n19, CATEGORIL MULTIMEDIA.\n\nAlexandra BARBU ~ Colegiel Tehnic \u201clon Mincu\u2122 Craiova\n\nGheorghe BARBU ~ Palatul Copilor Craiova\n\n20. SOFT-URILE EDUCATIONALE IN SPRIJINUL ACTULUI EDUCATIV.\nProf, Mihaela BADEA\n\nGrup Scolar Industrial Transportui Cai Ferate Buzia\n\n21,\" STRUCTURA GENERALA A UNUI SISTEM DE MONITORIZARE A\nMEDIULU\n\nProfesor Mihaela URSACHI\n\nColegiul Tebnie de Electronica si Telecomunicatii kasi\n\n22. TEHNOLOGIA E-INK.\n\nIng. Dana-Anigoara PUNEL\n\nColegiul Tehnic de Electroncd i Telecomunicatii layi\n\n23. NANOTEHNOLOGIA - DE LA IMPOSIBIL LA POSIBIL.\n\nProf fizicd Georgeta HORELU\n\nIng. constructor Daniela PATUSAN\n\nColegiul Tebnic de Vest Timisoara\n\n24. ATENUAREA ACTIUNIL SEISMICE ASUPRA CONSTRUCTHLOR.\nDir. adj. Mihaela GORGAN\n\nProf, Raruca CHIRIAC\n\nGrup Scolar Anghe! Saligny\u201d lai"
             },
             "14": {
-                "class": "text",
+                "class": "titlu",
                 "x": 50,
                 "y": 400,
                 "height": 25,
@@ -252,7 +252,7 @@
                 "text": "16. DESPRE \u201cNUMARUL DE AUR\u201d $I 0 PROBLEMA DE FIZICA..\nProf. Daniela FECHET\nColegiul Tehnic ,Gheorghe Asachi\u201d Onesti\n\n17. APTITUDINEA MATEMATICA..\nProfesor Mariana TOTH\nColegiul Tebnie \"AL, DOMSA\u201d, Alba Iulia"
             },
             "16": {
-                "class": "text",
+                "class": "titlu",
                 "x": 50,
                 "y": 247,
                 "height": 25,
@@ -387,7 +387,7 @@
                 "text": "1, Autocunoastere si comunicarea\n1) Cine sunt eu?\n\nbb) Lucruri care mi deseriu\n\u00a9) Fiecare este unic\n4) Cum comunicam"
             },
             "24": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 69,
                 "height": 22,
@@ -442,7 +442,7 @@
                 "text": "Pana la debutul crizei economico-financiare, Rom\u00e9nia se confrunta cu un deficit al forjei de\nmuned eauzat de migratia populate\u2019 active in {ari ale UE, categoria cea mai numeroasa de persoane\n\u2018migrante find reprezentati de barbati care Iucrau cu preponderenti in domeniul constructilor.\n\nJn contextul economic actual insi, se constati incetinirea acestei migratii sau chiar\ninversarea sensului, Astfel, ca urmare a recesiunii, persoancle care Iuereazi in strinatate se\ncconfrunti cu dilema situafiei de @ reveni in Rom\u00e9nia, Aceasti situate pune o presiune si mai mare\nsupra piefei muneii, in contextul in care deja rata siracieiinregistreaza cote alarmante,\n\nDesi reprezinti 0 fort de munc& competenti, capabili de performante inalte, multe dintre\n\nPersoanele care au lucrat in domeniul constructiilor pe piafa externa a forjei de muned nu au\ncalificare pentru activitatea desfisurata. in plus, angajatoriirecunose c& experienta si competentele\n\u2018imbunitatite dobndite in contexte informale/non-formale ale persoanelor repatriate pot contribu\nsemnificativ la eresterea economica a far, prin ransferul de know-how si standarde profesionale\ninalte,\n\n\u2018Toate aceste realititi - contextul economic si financiar actual, earacteristcile Regiunii Nord\nExt, potentialul mare de dezvoltare al sectorului constructilor si domeniilor aferente implicit, lipsa"
             },
             "27": {
-                "class": "text",
+                "class": "autor",
                 "x": 351,
                 "y": 475,
                 "height": 39,
@@ -475,7 +475,7 @@
                 "text": "Diseminarea rezultatelor proiectului se va face in cadrul sedinfelor cu parinfii, la sedinjele\ndin cadrul Tribunalului elevilor, in Consiliul elevilor si la intnirile consilierilor educativi si\n\n \n\nresponsabililor cu proiecte si programe europene."
             },
             "30": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 245,
                 "height": 22,
@@ -507,7 +507,7 @@
                 "text": "Se va face la inceputul proiectului, pe parcurs si la incheierea acestuia prin aplicarea de\n\u2018chestionare si pe baza jurmalului realizat de ele ursul deruldei proiectul"
             },
             "32": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 165,
                 "height": 22,
@@ -539,7 +539,7 @@
                 "text": "Elevii igi vor imbundtiti cunostinjele legate de comunicarea interpersonal\u2019, luarea deciziilor,\nboli cu transmitere sexual, metode contraceptive si sarcind. Ei vor manifesta 0 atitudine\n\n \n\nresponsabil\u00e9 in ceea ce priveste viafa sexual si luarea decizilor cu privire la rlafiile sexuale."
             },
             "34": {
-                "class": "text",
+                "class": "titlu",
                 "x": 51,
                 "y": 69,
                 "height": 22,
@@ -649,7 +649,7 @@
                 "text": "Elevii au diferite motivatii educationale si opinii in ceea ce priveste educatia oricirui tind.\nRenultatele esantioanclor chestionate sunt urmatoarele in ordine descreseatoare:\n\n~ fi motiveaza perspectivele de viitor, notele bune, bursele de merit sau studiu, fi\ndetermina s4 invete respect celorlalt, notele proaste, imaginea lor in colectiv.\n\nMajoritatea elevilor sunt de parere cd profesoral motiveazi elevii s invete prin metoda sa de\npredare. Anturajul nu are un efect considerabil asupra motivafiei elevilor.\n\nAvaind in vedere opinia elevilor despre esecuri, am remarcat c& 80% cred c& lipsa motivate\n\u2018determina aparitia in timp a acestora,\n\nCei mai multi considera ca procesul de inviare este obligatoriu pentru a deveni un om cult,\n\nin concluzie, pe ling motivele amintite anterior despre ce anume fi face pe elevi si invete,\n7,8% dintre cei chestionafi au afirmat ed sunt motivati de pirin i 13,1%% de propria constings"
             },
             "40": {
-                "class": "text",
+                "class": "autor",
                 "x": 140,
                 "y": 211,
                 "height": 94,
@@ -665,7 +665,7 @@
                 "text": "Marta Lozano SEGARRA,\nI-ST YEAR, 2-ND SEMESTER, SPANISH CITIZENSHIP\nTIETGEN BUSINESS COLLEGE,\n\nLILEBAELT ACADEMY OF HIGHER EDUCATION, ODENSE, DANMARK\n\n\u2018Prof. Mihaela VARODI\nGrup Scolar \u201cAnghel Saligny\u201d Iasi"
             },
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 196,
                 "y": 155,
                 "height": 24,
@@ -743,7 +743,7 @@
         "pageHeight": "848",
         "sections": {
             "45": {
-                "class": "text",
+                "class": "editura",
                 "x": 183,
                 "y": 640,
                 "height": 147,

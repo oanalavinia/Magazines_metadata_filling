@@ -134,7 +134,7 @@
             },
             "9": {},
             "10": {
-                "class": "text",
+                "class": "titlu",
                 "x": 75,
                 "y": 358,
                 "height": 44,
@@ -150,7 +150,7 @@
                 "text": "Romania si Uniunea Europeana"
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 158,
                 "y": 321,
                 "height": 43,
@@ -166,7 +166,7 @@
                 "text": "Republica Moldova,"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 99,
                 "y": 113,
                 "height": 31,
@@ -182,7 +182,7 @@
                 "text": "STEFAN PLUGARU"
             },
             "13": {
-                "class": "text",
+                "class": "autor",
                 "x": 316,
                 "y": 109,
                 "height": 32,
@@ -198,7 +198,7 @@
                 "text": "VIOREL MATASARU"
             },
             "14": {
-                "class": "text",
+                "class": "autor",
                 "x": 150,
                 "y": 63,
                 "height": 35,
@@ -221,7 +221,7 @@
         "pageHeight": "852",
         "sections": {
             "15": {
-                "class": "text",
+                "class": "isbn",
                 "x": 92,
                 "y": 214,
                 "height": 26,
@@ -237,7 +237,7 @@
                 "text": "ISBN 978-606-13-0049-5"
             },
             "16": {
-                "class": "text",
+                "class": "editura",
                 "x": 92,
                 "y": 89,
                 "height": 118,
@@ -250,7 +250,7 @@
                     447,
                     207
                 ],
-                "text": "Editura OM\nEditura acreditatai CNCSIS \u2014 66/01.05.2006\n\nSoseauia Stefan cel Mare si Sfiint nr. 4, lasi~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimcopy.ro"
+                "text": "Editura pim\nEditura acreditatai CNCSIS \u2014 66/01.05.2006\n\nSoseauia Stefan cel Mare si Sfiint nr. 4, lasi~ 700497\nTel.: 0730.086.676; Fax: 0332.440.730\nwww.pimcopy.ro"
             }
         }
     },
