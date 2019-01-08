@@ -1,5 +1,6 @@
 {
     "numberOfPages": 84,
+    "title":"Profesorul, un ilustru ratat?",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -19,7 +20,7 @@
                     393,
                     820
                 ],
-                "text": "| ALECART"
+                "titlu": "| ALECART"
             },
             "2": {
                 "class": "text",
@@ -35,7 +36,7 @@
                     432,
                     676
                 ],
-                "text": "Prof, Emil Munteanu"
+                "autor": "Prof, Emil Munteanu"
             },
             "3": {
                 "class": "text",
@@ -131,7 +132,7 @@
                     435,
                     178
                 ],
-                "text": "Profesorul, un ilustru ratat? (Il)"
+                "titlu": "Profesorul, un ilustru ratat? (Il)"
             }
         }
     },
@@ -154,7 +155,7 @@
                     253,
                     820
                 ],
-                "text": "|ALECART"
+                "titlu": "|ALECART"
             },
             "10": {
                 "class": "text",
@@ -170,7 +171,7 @@
                     562,
                     809
                 ],
-                "text": "\u2018Nexandra HOLBEA,\u201cNecsandti\u201d"
+                "autor": "\u2018Nexandra HOLBEA,\u201cNecsandti\u201d"
             },
             "11": {},
             "12": {},
@@ -221,7 +222,7 @@
                     262,
                     121
                 ],
-                "text": "RECENZII"
+                "titlu": "RECENZII"
             }
         }
     },
@@ -256,7 +257,7 @@
                     433,
                     610
                 ],
-                "text": "\u2018Neandra ADAM, \"Bandi\""
+                "autor": "\u2018Neandra ADAM, \"Bandi\""
             },
             "30": {
                 "class": "text",
@@ -305,7 +306,7 @@
                     434,
                     166
                 ],
-                "text": "He Dan Lungu"
+                "text": "de Dan Lungu"
             },
             "34": {
                 "class": "text",
@@ -353,7 +354,7 @@
                     411,
                     64
                 ],
-                "text": "RECENZII"
+                "titlu": "RECENZII"
             },
             "37": {},
             "38": {},
@@ -396,7 +397,7 @@
                     562,
                     763
                 ],
-                "text": "ana rsenoi\u2019Bincla\u201d"
+                "autor": "Oana Arsenoi\u2019Bincila\u201d"
             },
             "43": {},
             "44": {
@@ -452,7 +453,7 @@
                     393,
                     820
                 ],
-                "text": "| ALECART"
+                "titlu": "| ALECART"
             },
             "47": {
                 "class": "text",
@@ -492,7 +493,7 @@
                     253,
                     820
                 ],
-                "text": "ALECART"
+                "titlu": "ALECART"
             },
             "50": {},
             "51": {
@@ -509,7 +510,7 @@
                     562,
                     537
                 ],
-                "text": "\u2018GEORGIANA TODERAS, \u201cPetru Rares\" Suceava"
+                "autor": "\u2018GEORGIANA TODERAS, \u201cPetru Rares\" Suceava"
             },
             "52": {
                 "class": "text",
@@ -573,7 +574,7 @@
                     426,
                     128
                 ],
-                "text": "Un fel de a spune"
+                "titlu": "Un fel de a spune"
             }
         }
     },
@@ -612,7 +613,7 @@
                     350,
                     616
                 ],
-                "text": "\u2018Aida Hance,\n\u201cpet Raes?\nSuceava"
+                "autor": "\u2018Aida Hance,\n\u201cpet Raes?\nSuceava"
             },
             "58": {},
             "59": {},
@@ -776,7 +777,7 @@
                     232,
                     144
                 ],
-                "text": "matematici"
+                "titlu": "matematici"
             },
             "72": {
                 "class": "text",
@@ -792,7 +793,7 @@
                     437,
                     143
                 ],
-                "text": "Dumnezeu"
+                "titlu": "Dumnezeu"
             }
         }
     },
@@ -815,7 +816,7 @@
                     253,
                     820
                 ],
-                "text": "ALECART"
+                "titlu": "ALECART"
             },
             "74": {},
             "75": {
@@ -848,7 +849,7 @@
                     474,
                     164
                 ],
-                "text": "La marginea timpului"
+                "titlu": "La marginea timpului"
             }
         }
     },
@@ -871,7 +872,7 @@
                     393,
                     820
                 ],
-                "text": "| ALECART"
+                "titlu": "| ALECART"
             },
             "78": {},
             "79": {},
@@ -1034,7 +1035,7 @@
                     159,
                     154
                 ],
-                "text": "Scena"
+                "titlu": "Scena"
             },
             "91": {
                 "class": "text",
@@ -1050,7 +1051,7 @@
                     435,
                     144
                 ],
-                "text": "Un fel de noapte"
+                "titlu": "Un fel de noapte"
             }
         }
     },

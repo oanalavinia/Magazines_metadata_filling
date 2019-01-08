@@ -1,12 +1,13 @@
 {
     "numberOfPages": 103,
+    "title":"Ad-Studium nr.3",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "776",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "editura",
                 "x": 230,
                 "y": 650,
                 "height": 45,
@@ -23,7 +24,7 @@
             },
             "2": {},
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 183,
                 "y": 319,
                 "height": 39,
@@ -62,7 +63,7 @@
         "pageHeight": "776",
         "sections": {
             "5": {
-                "class": "text",
+                "class": "isbn",
                 "x": 75,
                 "y": 644,
                 "height": 23,

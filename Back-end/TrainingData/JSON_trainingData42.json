@@ -1,5 +1,6 @@
 {
     "numberOfPages": 58,
+    "title":"Rezolvarea conflictelor dintre scolarii mici",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
@@ -20,7 +21,7 @@
                     506,
                     352
                 ],
-                "text": "Rezolvarea conflictelor dintre\nscolarii m"
+                "titlu": "Rezolvarea conflictelor dintre\nscolarii mici"
             },
             "3": {
                 "class": "text",
@@ -36,7 +37,7 @@
                     413,
                     107
                 ],
-                "text": "MARIA COVASNEANU"
+                "autor": "MARIA COVASNEANU"
             }
         }
     },
@@ -124,7 +125,7 @@
                     265,
                     368
                 ],
-                "text": "EDITURA PM\n\u00b0 fc\n\nf 0232-212740\ni i pi pi cop\npi cop o"
+                "editura": "EDITURA PIM\n\u00b0 fc\n\nf 0232-212740\ni i pi pi cop\npi cop o"
             },
             "10": {
                 "class": "text",

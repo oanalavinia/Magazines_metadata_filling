@@ -1,12 +1,13 @@
 {
     "numberOfPages": 53,
+    "title":"Colectiv de redactie",
     "img_01": {
         "page": "1",
         "pageWidth": "600",
         "pageHeight": "851",
         "sections": {
             "1": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 610,
                 "height": 131,
@@ -22,7 +23,7 @@
                 "text": "COLABORATORI din randul elevilor:\nBurduja Ovidiu, clasa a VI-a B,\nCenusa Maria, clasa a X-a E,\n\nBejan Elena, clasa a X-a C,\nFocsa Maria, clasa a XI-a D,\nIgnat Bianca Gabriela, clasa IX-C."
             },
             "2": {
-                "class": "text",
+                "class": "autor",
                 "x": 75,
                 "y": 433,
                 "height": 147,
@@ -158,7 +159,7 @@
                 "text": "Dragi cititori,"
             },
             "11": {
-                "class": "text",
+                "class": "titlu",
                 "x": 215,
                 "y": 78,
                 "height": 33,
@@ -182,7 +183,7 @@
         "sections": {
             "12": {},
             "13": {
-                "class": "text",
+                "class": "autor",
                 "x": 385,
                 "y": 736,
                 "height": 28,
@@ -246,7 +247,7 @@
                 "text": "DIN SFANTA SCRIPTURA:"
             },
             "17": {
-                "class": "text",
+                "class": "titlu",
                 "x": 183,
                 "y": 157,
                 "height": 36,
@@ -270,7 +271,7 @@
         "sections": {
             "18": {},
             "19": {
-                "class": "text",
+                "class": "autor",
                 "x": 311,
                 "y": 595,
                 "height": 29,
@@ -302,7 +303,7 @@
                 "text": "Jubirea este un mare invatator si poate sd-i\nintoarca pe oameni de la riticire, si le schimbe felul de\n\nviati, si-i indrume spre filozofie. Ea poate si faca din\npietre oameni.\u201d"
             },
             "21": {
-                "class": "text",
+                "class": "titlu",
                 "x": 125,
                 "y": 477,
                 "height": 26,
@@ -350,7 +351,7 @@
                 "text": "\u00bbAceasta este prietenia: cand cel care iubeste si cel care\neste iubit nu sunt dou _persoane deosebite, ci un\n\nsingur om, ceea ce nu implineste in alti parte decat\nnumai in dragoste.\u201d"
             },
             "24": {
-                "class": "text",
+                "class": "titlu",
                 "x": 126,
                 "y": 316,
                 "height": 26,
@@ -366,7 +367,7 @@
                 "text": "PRIETENIE"
             },
             "25": {
-                "class": "text",
+                "class": "autor",
                 "x": 311,
                 "y": 281,
                 "height": 30,
@@ -414,7 +415,7 @@
                 "text": "SFANTA SCRIPTURA"
             },
             "28": {
-                "class": "text",
+                "class": "titlu",
                 "x": 164,
                 "y": 75,
                 "height": 35,
@@ -533,7 +534,7 @@
                 "text": "Lata patru proverbe biblice! Am scris, insa,\ndoar consoanele. Pentru a le putea citi, voi trebuie sa\n\n \n\ncompletati vocalele care lipsesc."
             },
             "43": {
-                "class": "text",
+                "class": "titlu",
                 "x": 169,
                 "y": 384,
                 "height": 34,
@@ -765,7 +766,7 @@
                 "text": "1. Cine e mereu chemat,\nCand este de botezat,\n\nCand este de cununat\nSau chiar de inmorm\u00e9antat?"
             },
             "66": {
-                "class": "text",
+                "class": "titlu",
                 "x": 101,
                 "y": 476,
                 "height": 28,
@@ -985,7 +986,7 @@
             },
             "83": {},
             "84": {
-                "class": "text",
+                "class": "titlu",
                 "x": 151,
                 "y": 616,
                 "height": 33,

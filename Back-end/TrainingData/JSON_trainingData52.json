@@ -1,5 +1,6 @@
 {
     "numberOfPages": 130,
+    "title":"Tratamentul conservator in boala paradontala",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -35,7 +36,7 @@
                     370,
                     600
                 ],
-                "text": "Editura ,,Tehnica-Info\u201d"
+                "editura": "Editura ,,Tehnica-Info\u201d"
             },
             "3": {},
             "4": {
@@ -68,7 +69,7 @@
                     469,
                     302
                 ],
-                "text": "TRATAMENTUL CONSERVATOR"
+                "titlu": "TRATAMENTUL CONSERVATOR /n IN BOALA PARODONTALA"
             },
             "6": {}
         }
@@ -108,7 +109,7 @@
                     455,
                     447
                 ],
-                "text": "Vascu, Bogdan\n\u201catamentul constr in bola pardon Bogan Vascu, Ana\nMaria Fat,\" Gh\" Teton If 2008 \"98\n\u2018tog: 196- 2000\n\ns163140758)\nVor"
+                "autor": "Vascu, Bogdan\n\u201catamentul constr in bola pardon Bogan Vascu, Ana\nMaria Fat,\" Gh\" Teton If 2008 \"98\n\u2018tog: 196- 2000\n\ns163140758)\nVor"
             },
             "9": {
                 "class": "text",

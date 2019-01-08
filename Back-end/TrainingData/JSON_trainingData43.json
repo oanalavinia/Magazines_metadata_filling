@@ -1,5 +1,6 @@
 {
     "numberOfPages": 107,
+    "title":"Rolul comunicarii interne",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -19,7 +20,7 @@
                     359,
                     746
                 ],
-                "text": "EDITURA PIM\nIASI, 2011"
+                "editura": "EDITURA PIM\nIASI, 2011"
             },
             "2": {
                 "class": "text",
@@ -51,7 +52,7 @@
                     184,
                     278
                 ],
-                "text": "Rolul"
+                "titlu": "Rolul comunicarii interne"
             },
             "4": {
                 "class": "text",
@@ -67,7 +68,7 @@
                     407,
                     123
                 ],
-                "text": "LOREDANA VASILIU"
+                "autor": "LOREDANA VASILIU"
             }
         }
     },
@@ -106,7 +107,7 @@
                     493,
                     542
                 ],
-                "text": "Descrierea CIP a Bibliotecii Nationale a Rom\u00e9niei\nVASILIU, LOREDANA.\n\nRolul comunicarii interne / Loredana Vasiliu. - lagi : PIM, 2011\nBibliogr,\nISBN 978-606-13-0322-9"
+                "isbn": "Descrierea CIP a Bibliotecii Nationale a Rom\u00e9niei\nVASILIU, LOREDANA.\n\nRolul comunicarii interne / Loredana Vasiliu. - lagi : PIM, 2011\nBibliogr,\nISBN 978-606-13-0322-9"
             },
             "7": {
                 "class": "text",
@@ -138,7 +139,7 @@
                     237,
                     233
                 ],
-                "text": "EDITURA PIM"
+                "editura": "EDITURA PIM"
             }
         }
     },
@@ -2226,7 +2227,7 @@
                     453,
                     744
                 ],
-                "text": "EDITURA SI TIPOGRAFIA PIM.\nSoscaua $tefan cel Mare gi Sfant nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimcopy.r0\nsews: pimcopy.r0"
+                "editura": "EDITURA SI TIPOGRAFIA PIM.\nSoscaua $tefan cel Mare gi Sfant nr. 4, Tasi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimcopy.r0\nsews: pimcopy.r0"
             },
             "167": {
                 "class": "text",

@@ -1,5 +1,6 @@
 {
     "numberOfPages": 116,
+    "title":"Ticuta Reporterul Un reportaj cu poveste",
     "img_001": {
         "page": "1",
         "pageWidth": "600",
@@ -54,7 +55,7 @@
                     442,
                     267
                 ],
-                "text": "Reporterul"
+                "titlu": "Ticuta Reporterul"
             },
             "7": {
                 "class": "text",
@@ -70,7 +71,7 @@
                     421,
                     106
                 ],
-                "text": "Eugenia Grosu Popescu"
+                "autor": "Eugenia Grosu Popescu"
             }
         }
     },
@@ -109,7 +110,7 @@
                     527,
                     569
                 ],
-                "text": "Descrierea CIP a Bibliotecii Nationale a Romani\nGROSU POPESCU, EUGENIA\n\nTicut Reporterul : un reportaj cu poveste : (experiment interactiv\npentru copii de toate varstele) / Eugenia Grosu Popescu. - lagi : PIM, 2011\nISBN 978-606-13-0640-4"
+                "isbn": "Descrierea CIP a Bibliotecii Nationale a Romani\nGROSU POPESCU, EUGENIA\n\nTicut Reporterul : un reportaj cu poveste : (experiment interactiv\npentru copii de toate varstele) / Eugenia Grosu Popescu. - lagi : PIM, 2011\nISBN 978-606-13-0640-4"
             },
             "10": {
                 "class": "text",
@@ -141,7 +142,7 @@
                     365,
                     475
                 ],
-                "text": "itura OM\nditur acreditats CNCSIS - 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, Lagi\nTel.: 0730.086,676; Fax: 0332.440.730\nwww.pimeopy.ro"
+                "editura": "Editura PIM\nditur acreditats CNCSIS - 66/2010\n\nSoseaua Stefan cel Mare si Sfant nr. 4, Lagi\nTel.: 0730.086,676; Fax: 0332.440.730\nwww.pimeopy.ro"
             }
         }
     },
@@ -661,7 +662,7 @@
                     452,
                     767
                 ],
-                "text": "EDITURA $I TIPOGRAFIA PIM\nSoseaua $tefan cel Mare gi Sfant nr. 4, Tagi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimeopy.t0\nwwwpimeopy.10"
+                "editura": "EDITURA $I TIPOGRAFIA PIM\nSoseaua $tefan cel Mare gi Sfant nr. 4, Tagi ~ 700497\n\u2018Tel.:0730.086.676; Fax: 0332.440.730\n\nE-mail: editura@pimeopy.t0\nwwwpimeopy.10"
             },
             "42": {
                 "class": "text",
