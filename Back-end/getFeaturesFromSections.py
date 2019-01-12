@@ -4,7 +4,7 @@ import os
 
 MAX_PAGES = 5
 delim = "|2*7|"
-file = open("output.txt", "w")
+file = open("normalizedInstances.txt", "w")
 head = ['title', 'rawText', 'pageId', 'sectionId', 'x', 'y', 'page_h', 'page_w', 'page_cov', 'rawRows', 'rawWords',
         'hasISBN', 'hasEditura', 'normRows', 'normWords', 'trainLabel']
 
