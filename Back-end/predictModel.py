@@ -13,6 +13,14 @@ labelMapping = {0: 'text',
                 3: 'autor',
                 4: 'isbn'}
 
+with open('outputPredictions.csv', 'w') as myfile:
+    wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+    wr.writerow(["rawText", "predictedLabel"])
+    for index, row in readData.iterrows():
+        modelFeatures = ['pageId', 'x', 'y', 'page_h', 'page_w', 'page_cov', 'hasISBN', 'hasEditura', 'normRows', 'normWords']
+        rawText = row['rawText']
+        predictedValue = loaded_model.predict([row[modelFeatures]])
+        wr.writerow([rawText.encode('utf-8'), labelMapping[int(predictedValue)]])
 # Dan's code
 
 root = ET.Element("labelListing")
