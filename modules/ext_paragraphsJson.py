@@ -9,29 +9,19 @@ import json
 
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe'
-inputPath = r'C:\Users\TudorIacobuta\Desktop\PDFImages\trainingData1'
-outPutPath = r'C:\Users\TudorIacobuta\Desktop\outputImages'
 
-pdfFolderPath = r'C:\Users\TudorIacobuta\Desktop\PDFImages'
-
-bookNumber = 1
-
-for book in os.listdir(pdfFolderPath):
-
-    inputPath = os.path.join(pdfFolderPath,book)
+def createJson():
+    inputPath = f'{os.getcwd()}\\PDFImages'
     ### Initialization ###
     count = 0
     pageCount = 1
     sectionCount = 1
     numberOfPages = len(os.listdir(inputPath))
     ####
-
     ### JSON ###
     book = {}
     book['numberOfPages'] = numberOfPages
     ####
-
-
     for img in os.listdir(inputPath):
 
         if pageCount >= 5 and pageCount < numberOfPages - 5:
@@ -69,14 +59,14 @@ for book in os.listdir(pdfFolderPath):
             if h < 20 or w < 20:
                 continue
             cv2.rectangle(image, (x, y), (x+w, y+h), (255, 0, 255), 2)
-        
+
             ### Get text from section ###
             crop = image[y:y+h+2, x:x+w+2]
             crop = cv2.cvtColor(crop, cv2.COLOR_BGR2RGB)
             pillowImage = Image.fromarray(crop)
             text = pytesseract.image_to_string(pillowImage)
             ####
-        
+
             if len(text) == 0:
                 sectionCount += 1
                 continue
@@ -104,11 +94,10 @@ for book in os.listdir(pdfFolderPath):
 
     ### Write JSON ###
     json_data = json.dumps(book, indent=4)
-    output = open(f'C:\\Users\\TudorIacobuta\\Desktop\\JSONData\\JSON_trainingData{bookNumber}.json', "w+")
+    output = open(f'{os.getcwd()}\\JSON\\JSON.json', "w+")
     output.write(json_data)
     ####
-    bookNumber += 1
 
-# cv2.imshow("Show",dilated)
-# cv2.waitKey()
-# cv2.destroyAllWindows()
+if __name__ == "__main__":
+    pass
+

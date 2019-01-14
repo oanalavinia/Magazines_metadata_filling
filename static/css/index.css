@@ -80,7 +80,7 @@ header{
 }
 
 .upload-btn-wrapper {
-    background-image: url("background.png");
+    background-image: url("/static/images/background.png");
     position: relative;
     width: 100%;
 }
