@@ -29,7 +29,7 @@ def upload():
 
 @app.route('/return-file/')
 def deturn_file():
-    return send_file("C:\\Users\\Ionut\\Desktop\\integration\\Magazines_metadata_filling\\userEndResult.xml")
+    return send_file(f'{os.getcwd()}\\userEndResult.xml')
 
 @app.route('/file-downloads/')
 def file_downloads():

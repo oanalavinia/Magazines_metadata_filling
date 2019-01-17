@@ -1,1406 +1,232 @@
 {
-    "numberOfPages": 53,
+    "numberOfPages": 21,
     "img_01": {
         "page": "1",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
             "1": {
                 "class": "text",
-                "x": 75,
-                "y": 610,
-                "height": 131,
-                "width": 301,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    75,
-                    610
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    376,
-                    741
+                    600,
+                    450
                 ],
-                "text": "COLABORATORI din rindul clevilor:\nBurduja Ovidiu, clasa a Vi-a B,\nMarin, clasa a X-n E,\n\nBejan Elena, clasa a X-a C,\nFocya Maria, clasa a Xl-a D,\nIgnat Bianca Gabriela, clasa IX-C."
-            },
-            "2": {
-                "class": "text",
-                "x": 75,
-                "y": 433,
-                "height": 147,
-                "width": 313,
-                "leftCorner": [
-                    75,
-                    433
-                ],
-                "rightCorner": [
-                    388,
-                    580
-                ],
-                "text": "DIRECTOR: PROF, Dobre Viorica\nDIRECTOR Adjunct: Vulpoi Genovica\nREDACTOR \u00a7EF:prof. Vacariu Claudia\nREDACTORI COORDONATORE:\n\nProf. Agache Luminita,\nProf. Boroeanu lonels,\nProf. Dardari Bogdan"
-            },
-            "3": {
-                "class": "text",
-                "x": 171,
-                "y": 393,
-                "height": 29,
-                "width": 256,
-                "leftCorner": [
-                    171,
-                    393
-                ],
-                "rightCorner": [
-                    427,
-                    422
-                ],
-                "text": "COLECTIVUL DE REDACTIE:"
-            },
-            "4": {
-                "class": "text",
-                "x": 100,
-                "y": 171,
-                "height": 168,
-                "width": 303,
-                "leftCorner": [
-                    100,
-                    171
-                ],
-                "rightCorner": [
-                    403,
-                    339
-                ],
-                "text": "1. Cuvint inainte,\n\n2. Picituri de infelepciune.\n. Din creatiile noastr\n\n4. Colf de suflet\n\n5. Sinaxar... mmm\n6. Pelerina] In ...Locuri Sfinte.........\n7. ABC erestin-ortodox,\n\n8. Jocuri yi ghicitori crestine."
-            },
-            "5": {
-                "class": "text",
-                "x": 252,
-                "y": 115,
-                "height": 26,
-                "width": 94,
-                "leftCorner": [
-                    252,
-                    115
-                ],
-                "rightCorner": [
-                    346,
-                    141
-                ],
-                "text": "CUPRINS:"
+                "text": "Unit 1: Overview of Operating Systems\n\n1.1. Windows Operating System Internals Course Overview"
             }
         }
     },
     "img_02": {
         "page": "2",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "6": {},
-            "7": {
+            "2": {
                 "class": "text",
-                "x": 453,
-                "y": 735,
-                "height": 29,
-                "width": 72,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    453,
-                    735
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    525,
-                    764
+                    600,
+                    450
                 ],
-                "text": "Redactia"
-            },
-            "8": {
-                "class": "text",
-                "x": 126,
-                "y": 495,
-                "height": 210,
-                "width": 399,
-                "leftCorner": [
-                    126,
-                    495
-                ],
-                "rightCorner": [
-                    525,
-                    705
-                ],
-                "text": "incheiem acest cuvint cu frumoasele ginduri\nspuse candva de pirintele Dumitru Stiniloae: ,, Orice\ncopil apare pe lume este un dar al lui Dumnezcu 5i, ca\natare, 0 minune...Ficare copil vine la existenfa ca un\nmod propriu al umanitati, spre imbogitirea ci. Fiecare\n\n\u00a9 chemat si se incadreze in unitatea. umanitifii gi\nniciodat\u00e9 nu e perfect in ceea ce reprezinta gi aduce el.\nFiecare e adus 1a existent\u00e9 cu pomnirea smeriti de a\ninvlta de la alti gi cu pornirea de mai tirziu\nde a invita pe ali...\""
-            },
-            "9": {
-                "class": "text",
-                "x": 126,
-                "y": 163,
-                "height": 342,
-                "width": 399,
-                "leftCorner": [
-                    126,
-                    163
-                ],
-                "rightCorner": [
-                    525,
-                    505
-                ],
-                "text": "Revista CUVINTE PENTRU SUFLET a apirut\nca o urmare fireascd a frumoasclor dezbateri, discutii yi\ncreatii din cadrul orelor de Religie. In paginile ci\nrevista cuprinde gindurile 5i frumoasele voostre triiri\nreligioase materializate in poezii, compuneri 5i eseuri\nInceream si subliniem gi noi, dack mai era\nnevoie, rolul credinfei, al educatiei religioase in viata\nomului, de la virsta copilarici gi pina la maturitate\nInvititura sfinth se dezvaluie mere yi capdth noi\nsensuri, si, de accea, incercim sa aducem in paginile\nnoastre cuvinte cu adevarat folositoare i ziditoare,\ncuvinte spuse 5i explicate yi de oameni mari, de cameni\nsfingi. Aducem in fata dragi copi, pring\ni profesori, . personalititi care s-au impus in cultura\nlaicd si religioast. Dar vrem si vi prezentim . gi\nereatile celor care sunt acum micii ralentafi ai seolii"
-            },
-            "10": {
-                "class": "text",
-                "x": 178,
-                "y": 124,
-                "height": 29,
-                "width": 112,
-                "leftCorner": [
-                    178,
-                    124
-                ],
-                "rightCorner": [
-                    290,
-                    153
-                ],
-                "text": "Dragi cititori,"
-            },
-            "11": {
-                "class": "text",
-                "x": 215,
-                "y": 78,
-                "height": 33,
-                "width": 170,
-                "leftCorner": [
-                    215,
-                    78
-                ],
-                "rightCorner": [
-                    385,
-                    111
-                ],
-                "text": "CUVANT INAINTE"
+                "text": "Copyright Notice\n\n\u00a92000-2005 David A. Solomon and Mark Russinovich\n\n* These materials are part of the CRK (aka Windows\nOperating System Internals Curriculum Resource Kit),\ndeveloped by David A. Solomon and Mark E.\nRussinovich with Andreas Polze\n\n* Microsoft has licensed these materials from David\nSolomon Expert Seminars, Inc. for distribution to\nacademic organizations solely for use in academic\nenvironments (and not for commercial use)"
             }
         }
     },
     "img_03": {
         "page": "3",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "12": {},
-            "13": {
+            "3": {
                 "class": "text",
-                "x": 385,
-                "y": 736,
-                "height": 28,
-                "width": 140,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    385,
-                    736
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    525,
-                    764
+                    600,
+                    450
                 ],
-                "text": "(MATEL 28, 1-10)"
-            },
-            "14": {
-                "class": "text",
-                "x": 71,
-                "y": 360,
-                "height": 365,
-                "width": 454,
-                "leftCorner": [
-                    71,
-                    360
-                ],
-                "rightCorner": [
-                    525,
-                    725
-                ],
-                "text": "5i infitisarea lui era ca fulgerul, 5i imbricamintea lui,\nalba ca z3pada\n\nSi de frica lui s-au cutremurat cei ce pdzeau gi s-au\nfacut morti\n\nlar ingerul, rispunziind, a zis femeilor: Nu va remefi, ca\nstiu ci pe lisus Cel rastignit II cautafi\n\nNu este aici; cici S-a sculat precum a zis; venifi de\nvedeti locul unde a\n\n9i degraba. mergind, spunei ucenicilor Lui ci S-a\nsculat din morfi 5i iath va merge inaintea voustri in Galileen;\nacolo II veti vedea. Tat, v-am spus voud.\n\nfar plecand ele in graba de la mormint, cu fried si cu\nbucurie mare au alergat sa vesteased ucenicilor Lui.\n\nDar cand mergeau ele si vesteasc ucenicilor, iath lisus\nle-a intimpinat, zicand: Bucura-va! lar ele, apropiindu-se, au\ncuprins picioarele Lui gi I s-au inchinat.\n\nAtunci lisus le-a zis: Nu vi remefi. Ducefi\nfratilor Mei, ca sa mearga in Galileea, yi acolo Ma"
-            },
-            "15": {
-                "class": "text",
-                "x": 74,
-                "y": 242,
-                "height": 125,
-                "width": 451,
-                "leftCorner": [
-                    74,
-                    242
-                ],
-                "rightCorner": [
-                    525,
-                    367
-                ],
-                "text": ",, Dupi ce a trecut simbita, cand se lumina de ziua nti\na siptimdnii (Duminica), au venit Maria Magdalena 5i cealalti\nMarie, ca si vada mormintul.\n\n91 int, s-a ficut cutremur mare, ingerul Domnulul,\ncoborind din cer gi venind, a privalit piatra 5i sedea deasupra"
-            },
-            "16": {
-                "class": "text",
-                "x": 75,
-                "y": 200,
-                "height": 29,
-                "width": 226,
-                "leftCorner": [
-                    75,
-                    200
-                ],
-                "rightCorner": [
-                    301,
-                    229
-                ],
-                "text": "DIN SFANTA SCRIPTURA:"
-            },
-            "17": {
-                "class": "text",
-                "x": 183,
-                "y": 157,
-                "height": 36,
-                "width": 286,
-                "leftCorner": [
-                    183,
-                    157
-                ],
-                "rightCorner": [
-                    469,
-                    193
-                ],
-                "text": "2.PICATURL DE INTELEPCIUNE"
+                "text": "Basic Information\n\n# Windows Operating Systems Internals is a pool of material and\nresources that explains operating systems (O8) concepts based on\nthe Microsoft Windows NT operating system family,\n\nstructured following the ACM/IEEE Operating System Body of\nKnowledge ('BOK\u00ae) as defined in Computing Curriculum 2001\nproject by the Joint IEEE and ACM Task Force ('CC2001)\n\n* This curriculum is based on the book \"Windows Internals\u00ae, by Mark\nRussinovich and David Solomon."
             }
         }
     },
     "img_04": {
         "page": "4",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "18": {},
-            "19": {
+            "4": {
                 "class": "text",
-                "x": 311,
-                "y": 595,
-                "height": 29,
-                "width": 214,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    311,
-                    595
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    525,
-                    624
+                    600,
+                    450
                 ],
-                "text": "(Sfintul Ioan Guri de Aur)"
-            },
-            "20": {
-                "class": "text",
-                "x": 126,
-                "y": 516,
-                "height": 89,
-                "width": 399,
-                "leftCorner": [
-                    126,
-                    516
-                ],
-                "rightCorner": [
-                    525,
-                    605
-                ],
-                "text": "lubirea este un mare invafitor gi poste si-i\nintoared pe oameni de la raticire, si le schimbe felul de\n\nsi-i indrume spre filozofic. Ea poate sa facd din\npictre oamen'.\""
-            },
-            "21": {
-                "class": "text",
-                "x": 125,
-                "y": 477,
-                "height": 26,
-                "width": 105,
-                "leftCorner": [
-                    125,
-                    477
-                ],
-                "rightCorner": [
-                    230,
-                    503
-                ],
-                "text": "DRAGOSTE"
-            },
-            "22": {
-                "class": "text",
-                "x": 311,
-                "y": 437,
-                "height": 29,
-                "width": 214,
-                "leftCorner": [
-                    311,
-                    437
-                ],
-                "rightCorner": [
-                    525,
-                    466
-                ],
-                "text": "(Sfintul Ioan Guri de Aur)"
-            },
-            "23": {
-                "class": "text",
-                "x": 126,
-                "y": 358,
-                "height": 89,
-                "width": 399,
-                "leftCorner": [
-                    126,
-                    358
-                ],
-                "rightCorner": [
-                    525,
-                    447
-                ],
-                "text": ". Aceasta este prietenia: cind cel care ubeste 5i cel care\neste iubit nu sunt .... doud . persoane deoscbite, ci un\n\nsingur om, ceea ce nu implineste in alt parte decit\nnumai in dragoste.\""
-            },
-            "24": {
-                "class": "text",
-                "x": 126,
-                "y": 316,
-                "height": 26,
-                "width": 106,
-                "leftCorner": [
-                    126,
-                    316
-                ],
-                "rightCorner": [
-                    232,
-                    342
-                ],
-                "text": "PRIETENIE"
-            },
-            "25": {
-                "class": "text",
-                "x": 311,
-                "y": 281,
-                "height": 30,
-                "width": 214,
-                "leftCorner": [
-                    311,
-                    281
-                ],
-                "rightCorner": [
-                    525,
-                    311
-                ],
-                "text": "(Sfintul Ioan Guri de Aur)"
-            },
-            "26": {
-                "class": "text",
-                "x": 152,
-                "y": 163,
-                "height": 128,
-                "width": 373,
-                "leftCorner": [
-                    152,
-                    163
-                ],
-                "rightCorner": [
-                    525,
-                    291
-                ],
-                "text": "..Cuvintele dumnezciesti sunt ca o comonra de\ndiferite . leacuri: daca cineva are. nevoie si\nstingideznidejdea, sa 0 poftd, sa calce in\n\npicioare dragostea de bani, sa disprefuiasca durerea,\nsi-i revind veselia, si-gi rabdarea, va gsi\nmare sprijin in ele.\""
-            },
-            "27": {
-                "class": "text",
-                "x": 124,
-                "y": 120,
-                "height": 30,
-                "width": 181,
-                "leftCorner": [
-                    124,
-                    120
-                ],
-                "rightCorner": [
-                    305,
-                    150
-                ],
-                "text": "SFANTA SCRIPTURA"
-            },
-            "28": {
-                "class": "text",
-                "x": 164,
-                "y": 75,
-                "height": 35,
-                "width": 270,
-                "leftCorner": [
-                    164,
-                    75
-                ],
-                "rightCorner": [
-                    434,
-                    110
-                ],
-                "text": "SFINTII PARINTI DESPRE :"
+                "text": "Roadmap for Section 1.1.\n\n* ACM/IEEE Operating Systems Body of\nKnowledge - Core units\n\n* ACM/IEEE Operating Systems Body of\nKnowledge - Elective units\n\n* Supplementary units"
             }
         }
     },
-    "img_48": {
-        "page": "48",
+    "img_16": {
+        "page": "16",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "29": {
+            "5": {
                 "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 30,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    289,
-                    757
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    319,
-                    783
+                    600,
+                    450
                 ],
-                "text": "48"
-            },
-            "30": {
-                "class": "text",
-                "x": 124,
-                "y": 241,
-                "height": 483,
-                "width": 402,
-                "leftCorner": [
-                    124,
-                    241
-                ],
-                "rightCorner": [
-                    526,
-                    724
-                ],
-                "text": "APOSTOL (trims): cu acest nume sunt indicate in Noul\nTestament uncle persoanc alse 5i trimise in misiune cu\nimputerniciri si daruri deoscbite.\n\nCel dinti care poarth acest titlu este Fiul lui\nDumnezcu intrupat, lisus Hristos, . pe Care Tatil L-a\nsfinfit si L-a trimis in lume\"(loan 10,36) ,5i Caruia Fa\ndat toata puterea in cer gi pe pamant\"(Matei 28,18). E1\neste Apostolul ceresc, este ,,Ce/ (rimis\" sa faca voin\nTatalui, adicd. s. realizeze mintuirea lumii, prin\ninvaf\u00e9tura 5i jertfa Sa. Intru aceasta El nu este numai\n.. Imparanul gi Imvagatorul\", ci si., Apostolul gi Arhiereut\nmarturisirii noastre\"(Evrei 3.1)\n\nDin aceasti intreiti a Lui puterea El a impartigit\nsi celor douisprezece persoane , chemate mai. intii\nindividual gi alese, apoi, pe care le-a numit apostoli, Pe\nacestia ia format treptat in , gcoala Sa\" 5i le-a dat, de la\ninceput, 5i unele harisme, sau puteri spirituale , cu care\nst lucreze gi care au sporit Ia Cincizecime. Pe acestia i-a\nsfintit yi i-n hirotonit in ziua Invierii, prin suflarea\nDuhului Sint asupra lor, dandu-le gi puterea de a ierta\npicatele din apostolia 5i preotia Lui. Cu aceste puter i-a\ntrimis  apoi propovduiased 5i. si. boteze. toate\nneamurile. El find cu ci nevizut purured, le-a dat 5i\nporunci si oficieze Sfintele Taine."
-            },
-            "31": {
-                "class": "text",
-                "x": 125,
-                "y": 80,
-                "height": 128,
-                "width": 400,
-                "leftCorner": [
-                    125,
-                    80
-                ],
-                "rightCorner": [
-                    525,
-                    208
-                ],
-                "text": "AMIN : cuvint adesca folosit de Domnul Hristos in\nvorbirea Sa, pentru a intri cele afirmate: .. Amin, amin,\nzic voua\"!(loan 5, 19.24, 25) in sensul de ,, adevarat ,\n\nadevirat zic you...!\n\nAlteori, prin amin se exprimd 0 doring\u00e9 in sens\noptativ,..asa sa fle!\""
+                "text": "Unit 12: Scripting\n\n* 12. Scripting (Elective)\n\n* 12.1. Windows Management Instrumentation\n* 12.2. The Registry\n\nw"
             }
         }
     },
-    "img_49": {
-        "page": "49",
+    "img_17": {
+        "page": "17",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "32": {
+            "6": {
                 "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 30,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    289,
-                    757
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    319,
-                    783
+                    600,
+                    450
                 ],
-                "text": "49"
-            },
-            "33": {},
-            "34": {
-                "class": "text",
-                "x": 460,
-                "y": 659,
-                "height": 29,
-                "width": 65,
-                "leftCorner": [
-                    460,
-                    659
-                ],
-                "rightCorner": [
-                    525,
-                    688
-                ],
-                "text": "a"
-            },
-            "35": {
-                "class": "text",
-                "x": 358,
-                "y": 659,
-                "height": 29,
-                "width": 102,
-                "leftCorner": [
-                    358,
-                    659
-                ],
-                "rightCorner": [
-                    460,
-                    688
-                ],
-                "text": "|_It_"
-            },
-            "36": {},
-            "37": {
-                "class": "text",
-                "x": 247,
-                "y": 600,
-                "height": 29,
-                "width": 105,
-                "leftCorner": [
-                    247,
-                    600
-                ],
-                "rightCorner": [
-                    352,
-                    629
-                ],
-                "text": "(Pilde XV,3)"
-            },
-            "38": {
-                "class": "text",
-                "x": 473,
-                "y": 561,
-                "height": 29,
-                "width": 52,
-                "leftCorner": [
-                    473,
-                    561
-                ],
-                "rightCorner": [
-                    525,
-                    590
-                ],
-                "text": "nt"
-            },
-            "39": {},
-            "40": {},
-            "41": {},
-            "42": {
-                "class": "text",
-                "x": 74,
-                "y": 432,
-                "height": 79,
-                "width": 450,
-                "leftCorner": [
-                    74,
-                    432
-                ],
-                "rightCorner": [
-                    524,
-                    511
-                ],
-                "text": "Lata patru proverbe biblice! Am scris, insd,\ndoar consoanele. Pentru a le putea citi, voi trebuie sa\n\n \n\ncompletati vocalele care lipsesc."
-            },
-            "43": {
-                "class": "text",
-                "x": 169,
-                "y": 384,
-                "height": 34,
-                "width": 313,
-                "leftCorner": [
-                    169,
-                    384
-                ],
-                "rightCorner": [
-                    482,
-                    418
-                ],
-                "text": "8.JOCURI SI GHICTTORI CRESTINE"
-            },
-            "44": {
-                "class": "text",
-                "x": 125,
-                "y": 201,
-                "height": 126,
-                "width": 400,
-                "leftCorner": [
-                    125,
-                    201
-                ],
-                "rightCorner": [
-                    525,
-                    327
-                ],
-                "text": "ARHIEREU: mare preot sau mai mare peste preoti. La\nevrei arhiereul era , supremul preot\" ales dintre fii\nndscuti ai familici lui Aaron din neamul lui. Levi.\n\nPreofia, athicria sau harul arhicresc reprezinta o\n\ndemnitate, o chemare gi 0 sfintire speciald, ea se da de\nsus, ne se ia de la sine."
-            },
-            "45": {
-                "class": "text",
-                "x": 124,
-                "y": 100,
-                "height": 69,
-                "width": 401,
-                "leftCorner": [
-                    124,
-                    100
-                ],
-                "rightCorner": [
-                    525,
-                    169
-                ],
-                "text": "APOSTOLIE: apostolat, slujirea pe care 0 da Hristos si\npe care 0 indeplineste un apostol, sau trimis al lui\n\n \n\nHristos sau al Biserici, in numele gi sub ascultarea ci."
+                "text": "Supplementary Unit A:\nWindows Networking\n\n* A.1. Networking Components in Windows OS\n(Supplementary/Advanced)\n\n* A.2. Windows Socket Programming\n(Supplementary/Advanced)\n\n* A.3. Microsoft-specific extensions to Sockets\nand other Networking APIs\n(Supplementary/Advanced)\n\ni"
             }
         }
     },
-    "img_50": {
-        "page": "50",
+    "img_18": {
+        "page": "18",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "46": {
+            "7": {
                 "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 30,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    289,
-                    757
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    319,
-                    783
+                    600,
+                    450
                 ],
-                "text": "so"
-            },
-            "47": {},
-            "48": {
-                "class": "text",
-                "x": 302,
-                "y": 617,
-                "height": 28,
-                "width": 45,
-                "leftCorner": [
-                    302,
-                    617
-                ],
-                "rightCorner": [
-                    347,
-                    645
-                ],
-                "text": "alt\u00e9"
-            },
-            "49": {},
-            "50": {
-                "class": "text",
-                "x": 470,
-                "y": 520,
-                "height": 32,
-                "width": 53,
-                "leftCorner": [
-                    470,
-                    520
-                ],
-                "rightCorner": [
-                    523,
-                    552
-                ],
-                "text": "Sfint."
-            },
-            "51": {
-                "class": "text",
-                "x": 427,
-                "y": 449,
-                "height": 27,
-                "width": 96,
-                "leftCorner": [
-                    427,
-                    449
-                ],
-                "rightCorner": [
-                    523,
-                    476
-                ],
-                "text": "Hirotoniel."
-            },
-            "52": {
-                "class": "text",
-                "x": 366,
-                "y": 449,
-                "height": 27,
-                "width": 57,
-                "leftCorner": [
-                    366,
-                    449
-                ],
-                "rightCorner": [
-                    423,
-                    476
-                ],
-                "text": "Taina"
-            },
-            "53": {
-                "class": "text",
-                "x": 269,
-                "y": 448,
-                "height": 32,
-                "width": 92,
-                "leftCorner": [
-                    269,
-                    448
-                ],
-                "rightCorner": [
-                    361,
-                    480
-                ],
-                "text": "stivargese"
-            },
-            "54": {
-                "class": "text",
-                "x": 100,
-                "y": 401,
-                "height": 343,
-                "width": 425,
-                "leftCorner": [
-                    100,
-                    401
-                ],
-                "rightCorner": [
-                    525,
-                    744
-                ],
-                "text": "1. Preotii siv\u00e9rgesc toate cele sapte Sfinte Taine.\nA F\n\n2. Doar episcopii Hirotoniel.\nA F\n\n3. Taina Mirungerii se mai numeste 5i\nPecetea Harului Duhului\nA F\n\nn Taina Mirungerii se savargeste seprat de Taina\nBotezului\nIn\nA F\n\n5. Sfnta Imp\u00e9irtsanie se cu pdine si\ncu apd. A F\n\n6. Sfonta Imp\u00e9irtsanie se mai numeste"
-            },
-            "55": {},
-            "56": {},
-            "57": {
-                "class": "text",
-                "x": 196,
-                "y": 216,
-                "height": 68,
-                "width": 329,
-                "leftCorner": [
-                    196,
-                    216
-                ],
-                "rightCorner": [
-                    525,
-                    284
-                ],
-                "text": "(Eecleziastul V,10) -"
-            },
-            "58": {},
-            "59": {
-                "class": "text",
-                "x": 238,
-                "y": 156,
-                "height": 29,
-                "width": 123,
-                "leftCorner": [
-                    238,
-                    156
-                ],
-                "rightCorner": [
-                    361,
-                    185
-                ],
-                "text": "( Pilde XXIV,)"
-            },
-            "60": {},
-            "61": {}
-        }
-    },
-    "img_51": {
-        "page": "51",
-        "pageWidth": "600",
-        "pageHeight": "851",
-        "sections": {
-            "62": {
-                "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 28,
-                "leftCorner": [
-                    289,
-                    757
-                ],
-                "rightCorner": [
-                    317,
-                    783
-                ],
-                "text": "51"
-            },
-            "63": {
-                "class": "text",
-                "x": 151,
-                "y": 647,
-                "height": 80,
-                "width": 228,
-                "leftCorner": [
-                    151,
-                    647
-                ],
-                "rightCorner": [
-                    379,
-                    727
-                ],
-                "text": "Telefonul crestinese\nAre numdrul ceresc:\n\nOm si Dumnezeu vorbesc."
-            },
-            "64": {},
-            "65": {
-                "class": "text",
-                "x": 127,
-                "y": 525,
-                "height": 101,
-                "width": 263,
-                "leftCorner": [
-                    127,
-                    525
-                ],
-                "rightCorner": [
-                    390,
-                    626
-                ],
-                "text": "1. Cine e mereu chemat,\nCand este de botezat,\n\nCand este de cununat\nSau chiar de inmormantat?"
-            },
-            "66": {
-                "class": "text",
-                "x": 101,
-                "y": 476,
-                "height": 28,
-                "width": 126,
-                "leftCorner": [
-                    101,
-                    476
-                ],
-                "rightCorner": [
-                    227,
-                    504
-                ],
-                "text": "II Ghici"
-            },
-            "67": {},
-            "68": {
-                "class": "text",
-                "x": 399,
-                "y": 320,
-                "height": 50,
-                "width": 49,
-                "leftCorner": [
-                    399,
-                    320
-                ],
-                "rightCorner": [
-                    448,
-                    370
-                ],
-                "text": "sunt"
-            },
-            "69": {
-                "class": "text",
-                "x": 452,
-                "y": 319,
-                "height": 30,
-                "width": 73,
-                "leftCorner": [
-                    452,
-                    319
-                ],
-                "rightCorner": [
-                    525,
-                    349
-                ],
-                "text": "urmasii"
-            },
-            "70": {
-                "class": "text",
-                "x": 288,
-                "y": 319,
-                "height": 30,
-                "width": 27,
-                "leftCorner": [
-                    288,
-                    319
-                ],
-                "rightCorner": [
-                    315,
-                    349
-                ],
-                "text": "si"
-            },
-            "71": {
-                "class": "text",
-                "x": 318,
-                "y": 318,
-                "height": 28,
-                "width": 78,
-                "leftCorner": [
-                    318,
-                    318
-                ],
-                "rightCorner": [
-                    396,
-                    346
-                ],
-                "text": "diaconii"
-            },
-            "72": {
-                "class": "text",
-                "x": 102,
-                "y": 295,
-                "height": 78,
-                "width": 128,
-                "leftCorner": [
-                    102,
-                    295
-                ],
-                "rightCorner": [
-                    230,
-                    373
-                ],
-                "text": "A\n10.piscopil,\n\n \n\nApostolilor."
-            },
-            "73": {
-                "class": "text",
-                "x": 218,
-                "y": 294,
-                "height": 55,
-                "width": 67,
-                "leftCorner": [
-                    218,
-                    294
-                ],
-                "rightCorner": [
-                    285,
-                    349
-                ],
-                "text": "F\npreotii"
-            },
-            "74": {
-                "class": "text",
-                "x": 421,
-                "y": 271,
-                "height": 27,
-                "width": 102,
-                "leftCorner": [
-                    421,
-                    271
-                ],
-                "rightCorner": [
-                    523,
-                    298
-                ],
-                "text": "Dumnezeu."
-            },
-            "75": {},
-            "76": {
-                "class": "text",
-                "x": 100,
-                "y": 175,
-                "height": 123,
-                "width": 423,
-                "leftCorner": [
-                    100,
-                    175
-                ],
-                "rightCorner": [
-                    523,
-                    298
-                ],
-                "text": "8. Spovedania inseamn\u00e9 m\u00e9rturisirea pacatelor.\nA F\n\n9. Sfintele Taine impdrtasesc oamenilor\n\nHarul Tui Dumnezeu."
-            },
-            "77": {
-                "class": "text",
-                "x": 284,
-                "y": 155,
-                "height": 24,
-                "width": 32,
-                "leftCorner": [
-                    284,
-                    155
-                ],
-                "rightCorner": [
-                    316,
-                    179
-                ],
-                "text": "cu"
-            },
-            "78": {
-                "class": "text",
-                "x": 100,
-                "y": 104,
-                "height": 78,
-                "width": 423,
-                "leftCorner": [
-                    100,
-                    104
-                ],
-                "rightCorner": [
-                    523,
-                    182
-                ],
-                "text": "A F\n7. Taina Poctintei este acelagi lucru\n\n \n\nTaina Sfontului Maslu."
-            },
-            "79": {
-                "class": "text",
-                "x": 306,
-                "y": 79,
-                "height": 31,
-                "width": 218,
-                "leftCorner": [
-                    306,
-                    79
-                ],
-                "rightCorner": [
-                    524,
-                    110
-                ],
-                "text": "si Taina Sfintei Euharistil"
+                "text": "Supplementary Units B:\n\nComparing the Linux and Windows\nKernels\n\n* B. Comparing the Linux and Windows Kernels\n(Supplementary/Advanced)\n\n* B.1. Linux and Windows Comparison\n(Supplementary/Advanced)\n\n \n\nw"
             }
         }
     },
-    "img_52": {
-        "page": "52",
+    "img_19": {
+        "page": "19",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "80": {
+            "8": {
                 "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 30,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    289,
-                    757
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    319,
-                    783
+                    600,
+                    450
                 ],
-                "text": "52"
-            },
-            "81": {
-                "class": "text",
-                "x": 476,
-                "y": 697,
-                "height": 25,
-                "width": 49,
-                "leftCorner": [
-                    476,
-                    697
-                ],
-                "rightCorner": [
-                    525,
-                    722
-                ],
-                "text": "sunt"
-            },
-            "82": {
-                "class": "text",
-                "x": 203,
-                "y": 673,
-                "height": 77,
-                "width": 227,
-                "leftCorner": [
-                    203,
-                    673
-                ],
-                "rightCorner": [
-                    430,
-                    750
-                ],
-                "text": "PROVERBELE BIBLIBE:\n1. Ochii Domnului\n\n \n\npretutindeni."
-            },
-            "83": {},
-            "84": {
-                "class": "text",
-                "x": 151,
-                "y": 616,
-                "height": 33,
-                "width": 140,
-                "leftCorner": [
-                    151,
-                    616
-                ],
-                "rightCorner": [
-                    291,
-                    649
-                ],
-                "text": "RASPUNSURL:"
-            },
-            "85": {
-                "class": "text",
-                "x": 126,
-                "y": 421,
-                "height": 105,
-                "width": 243,
-                "leftCorner": [
-                    126,
-                    421
-                ],
-                "rightCorner": [
-                    369,
-                    526
-                ],
-                "text": "6. Raiul cu ea se descuie,\nDumnezeu pe ea se sue,\n\nLemnul ef, El il sfinteste\n$i pe noi ne mantuieste."
-            },
-            "86": {
-                "class": "text",
-                "x": 126,
-                "y": 323,
-                "height": 81,
-                "width": 283,
-                "leftCorner": [
-                    126,
-                    323
-                ],
-                "rightCorner": [
-                    409,
-                    404
-                ],
-                "text": "5. El este al nostru Domn,\nCare S-a ficut 5i Om,\n\n \n\nPentru c-am muscat din pom."
-            },
-            "87": {
-                "class": "text",
-                "x": 126,
-                "y": 202,
-                "height": 104,
-                "width": 234,
-                "leftCorner": [
-                    126,
-                    202
-                ],
-                "rightCorner": [
-                    360,
-                    306
-                ],
-                "text": "4. E palat sau ce e oare?\nC\u00e9 o vezi din depirtare,\n\nTe cheami la inchinare,\nFara ea nu ai scpare."
-            },
-            "88": {
-                "class": "text",
-                "x": 126,
-                "y": 79,
-                "height": 105,
-                "width": 257,
-                "leftCorner": [
-                    126,
-                    79
-                ],
-                "rightCorner": [
-                    383,
-                    184
-                ],
-                "text": "3. Cartea Cartilor se cheamd.\nUnii nu 0 fau in seama,\n\nAltii o rastlmdcese,\nnsa sfintii 0 cinstesc."
+                "text": "Supplementary Units C:\nWindows - Unix Interoperability\n\n* C. Windows - Unix Interoperability\n(Supplementary/Advanced)\n\n* C.1. File and Command Interoperability\n(Supplementary/Advanced)\n\n* C.2. Programming (Supplementary/Advanced)\n\nw"
             }
         }
     },
-    "img_53": {
-        "page": "53",
+    "img_20": {
+        "page": "20",
         "pageWidth": "600",
-        "pageHeight": "851",
+        "pageHeight": "450",
         "sections": {
-            "89": {
+            "9": {
                 "class": "text",
-                "x": 289,
-                "y": 757,
-                "height": 26,
-                "width": 29,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    289,
-                    757
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    318,
-                    783
+                    600,
+                    450
                 ],
-                "text": "s"
-            },
-            "90": {
+                "text": "Suggested Reading\n\n\u00ae Pavel Yosifovich, Alex lonescu, et al., \"Windows Internals\",\n7th Edition, Microsoft Press, 2017.\n\n* (This book is the course's direct companion - required reading).\n\n\u00ae Abraham Silberschatz, Peter B. Galvin, Operating System\nConcepts, John Wiley & Sons, 6th Ed., 2003;\n\n* (This book gives a platform-neutral overview on operating system\ndesign and implementation - suggested reaing)\n\n\u00ae Jeffrey Richter, Programming Applications for Microsoft\nWindows, 4th Edition, Microsoft Press, September 1999.\n\n* (This book provides a comprehensive discussion of the Windows\nAPI - suggested reading).\n\nw"
+            }
+        }
+    },
+    "img_21": {
+        "page": "21",
+        "pageWidth": "600",
+        "pageHeight": "450",
+        "sections": {
+            "10": {
                 "class": "text",
-                "x": 479,
-                "y": 401,
-                "height": 28,
-                "width": 46,
+                "x": 0,
+                "y": 0,
+                "height": 450,
+                "width": 600,
                 "leftCorner": [
-                    479,
-                    401
+                    0,
+                    0
                 ],
                 "rightCorner": [
-                    525,
-                    429
+                    600,
+                    450
                 ],
-                "text": "Fiul"
-            },
-            "91": {
-                "class": "text",
-                "x": 152,
-                "y": 309,
-                "height": 28,
-                "width": 40,
-                "leftCorner": [
-                    152,
-                    309
-                ],
-                "rightCorner": [
-                    192,
-                    337
-                ],
-                "text": "HHL."
-            },
-            "92": {
-                "class": "text",
-                "x": 480,
-                "y": 263,
-                "height": 30,
-                "width": 44,
-                "leftCorner": [
-                    480,
-                    263
-                ],
-                "rightCorner": [
-                    524,
-                    293
-                ],
-                "text": "TF;"
-            },
-            "93": {
-                "class": "text",
-                "x": 349,
-                "y": 263,
-                "height": 30,
-                "width": 83,
-                "leftCorner": [
-                    349,
-                    263
-                ],
-                "rightCorner": [
-                    432,
-                    293
-                ],
-                "text": "4.F; 5.F;"
-            },
-            "94": {
-                "class": "text",
-                "x": 152,
-                "y": 263,
-                "height": 27,
-                "width": 33,
-                "leftCorner": [
-                    152,
-                    263
-                ],
-                "rightCorner": [
-                    185,
-                    290
-                ],
-                "text": "IL."
-            },
-            "95": {
-                "class": "text",
-                "x": 433,
-                "y": 262,
-                "height": 31,
-                "width": 47,
-                "leftCorner": [
-                    433,
-                    262
-                ],
-                "rightCorner": [
-                    480,
-                    293
-                ],
-                "text": "6.A;"
-            },
-            "96": {
-                "class": "text",
-                "x": 296,
-                "y": 262,
-                "height": 51,
-                "width": 54,
-                "leftCorner": [
-                    296,
-                    262
-                ],
-                "rightCorner": [
-                    350,
-                    313
-                ],
-                "text": "3.A;\n10.A."
-            },
-            "97": {
-                "class": "text",
-                "x": 203,
-                "y": 262,
-                "height": 213,
-                "width": 275,
-                "leftCorner": [
-                    203,
-                    262
-                ],
-                "rightCorner": [
-                    478,
-                    475
-                ],
-                "text": "1.F; 2A\n8.A; 9.A;\n1. Preotul.\n2.Rugdciunea.\n\n3.Biblia sau Sfanta Scriptura\n4.Biserica\n\n5.Domnul nostru lisus Hristos,\nlui Dumnezeu.\n\n6.Crucea."
-            },
-            "98": {},
-            "99": {},
-            "100": {
-                "class": "text",
-                "x": 336,
-                "y": 83,
-                "height": 28,
-                "width": 72,
-                "leftCorner": [
-                    336,
-                    83
-                ],
-                "rightCorner": [
-                    408,
-                    111
-                ],
-                "text": "groapa"
-            },
-            "101": {},
-            "102": {
-                "class": "text",
-                "x": 473,
-                "y": 79,
-                "height": 27,
-                "width": 52,
-                "leftCorner": [
-                    473,
-                    79
-                ],
-                "rightCorner": [
-                    525,
-                    106
-                ],
-                "text": "cade"
-            },
-            "103": {
-                "class": "text",
-                "x": 410,
-                "y": 79,
-                "height": 27,
-                "width": 61,
-                "leftCorner": [
-                    410,
-                    79
-                ],
-                "rightCorner": [
-                    471,
-                    106
-                ],
-                "text": "altuia"
-            },
-            "104": {
-                "class": "text",
-                "x": 229,
-                "y": 79,
-                "height": 169,
-                "width": 296,
-                "leftCorner": [
-                    229,
-                    79
-                ],
-                "rightCorner": [
-                    525,
-                    248
-                ],
-                "text": "Cine. sapa\n\nsingur in ea.\nNu. dupa\nnebunia lui, ca si nu te asemeni\n\ncu el.\nCand - se - inmultese - averile\nsporese i cei ce le minanei."
+                "text": "Suggested Reading (contd.)\n\n* Johnson M. Hart, Win32 System Programming: A Windows\u00ae 2000\nApplication Developer's Guide, 2nd Edition, Addison-Wesley,\n2000.\n\n* (This book discusses select Windows programming problems and\naddresses the problem of portable programming by comparing\nWindows and Unix approaches)\n\n* Andrew S. Tanenbaum, Distributed Operating Systems, Prentice\nHall, 1995.\n\n* (This text accompanies the course's advanced modules and offers\nstudents an explanation of the concepts of distributed operating\nsystems).\n\n* hitps/www.sysinternals.com\n* (Tools useful for experiments wih Windows internals)\n* hitp:/imsdn.mierosoft.com\n* (Oni resource for information on APIs required during work on labs}\n\na"
             }
         }
     }

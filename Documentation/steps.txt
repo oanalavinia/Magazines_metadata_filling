@@ -1,0 +1,28 @@
+Those steps are all made in Pycharm Community edition.
+
+2. To clone the repository, go to VCS -> Checkout from Version Control -> Git, or on the opening screen, select "Checkout from Version Control".
+3. Insert the URL of the repository: https://github.com/oanalavinia/Magazines_metadata_filling.git
+4. Go to File -> Settings -> Project interpreter.
+5. Click on the + button, type in "Flask" and click Install Package.
+6. Click on the + button, type in "opencv-python" and click Install Package.
+7. Click on the + button, type in "imutils" and click Install Package.
+8. Click on the + button, type in "lxml" and click Install Package.
+9. Click on the + button, type in "pytesseract" and click Install Package.
+10. Click on the + button, type in "pandas" and click Install Package.
+11. Click on the + button, type in "requests" and click Install Package.
+12. Click on the + button, type in "sklearn" and click Install Package.
+
+Steps outside of Pycharm:
+
+1. Download: https://blog.alivate.com.au/poppler-windows/?fbclid=IwAR31UcLlNPT0QNsHcjfc8iTZcpHX_M046b9KmhURqHXBxpbujFMXRFizvIw
+2. Unzip
+3. Copy the unziped folder to example: C:\Program Files (x86)\Poppler\poppler-0.68.0
+4. Add C:\Program Files (x86)\Poppler\poppler-0.68.0\bin to the PATH in the system environment variables
+5. Restart.
+6. Install tesseract from the following URL: https://github.com/tesseract-ocr/tesseract/wiki/Downloads
+6. At the path where the project was cloned, create a new folder named "Uploads" and another named "PDFImages".
+
+Final steps, back in Pycharm:
+
+1. Run the "server.py" file from the project.
+2. You will see the text : "Running on http://127.0.0.1:5000/" after running. Follow the URL to open the project in the browser.
