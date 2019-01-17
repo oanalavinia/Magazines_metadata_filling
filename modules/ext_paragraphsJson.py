@@ -40,8 +40,8 @@ def createJson():
         _, thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY_INV)
         kernel = cv2.getStructuringElement(cv2.MORPH_CROSS, (3, 3))
         dilated = cv2.dilate(thresh, kernel, iterations=7)
-        _, contours, hierarchy = cv2.findContours(
-            dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+
+        contours, hierarchy = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
         ####
 
         ### JSON ###
